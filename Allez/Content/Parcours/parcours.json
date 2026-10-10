@@ -1,0 +1,14 @@
+{
+  "units": [
+    { "id": "a2-1", "title": "Premiers pas", "level": "A2", "icon": "star.fill",
+      "questionIds": ["sample-001", "sample-002", "sample-003", "sample-004", "sample-005", "sample-006", "sample-007", "sample-008", "sample-009", "sample-010"] },
+    { "id": "a2-2", "title": "Au quotidien", "level": "A2", "icon": "cart.fill", "questionIds": [] },
+    { "id": "a2-3", "title": "En ville", "level": "A2", "icon": "building.2.fill", "questionIds": [] },
+    { "id": "b1-1", "title": "Au travail", "level": "B1", "icon": "briefcase.fill", "questionIds": [] },
+    { "id": "b1-2", "title": "Les médias", "level": "B1", "icon": "newspaper.fill", "questionIds": [] },
+    { "id": "b1-3", "title": "Donner son avis", "level": "B1", "icon": "bubble.left.and.bubble.right.fill", "questionIds": [] },
+    { "id": "b2-1", "title": "Société", "level": "B2", "icon": "person.3.fill", "questionIds": [] },
+    { "id": "b2-2", "title": "Débats", "level": "B2", "icon": "scalemass.fill", "questionIds": [] },
+    { "id": "b2-3", "title": "Environnement", "level": "B2", "icon": "leaf.fill", "questionIds": [] }
+  ]
+}

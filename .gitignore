@@ -6,3 +6,6 @@ build/
 DerivedData/
 xcuserdata/
 *.xcuserstate
+
+# Source PDFs for content (kept on this Mac only)
+PDFs/

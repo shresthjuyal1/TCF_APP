@@ -11,7 +11,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		AA0000000000000000000002 /* Allez */ = {isa = PBXFileSystemSynchronizedRootGroup; path = Allez; sourceTree = "<group>"; };
+		AA0000000000000000000002 /* Allez */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Allez;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,8 +178,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6HZ33JDWRR;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6HZ33JDWRR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Allez!";
@@ -202,8 +206,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6HZ33JDWRR;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6HZ33JDWRR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Allez!";

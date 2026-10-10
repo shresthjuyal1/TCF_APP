@@ -1,0 +1,63 @@
+{
+  "id": "exemple-test-lecture",
+  "title": "Test d'exemple",
+  "description": "Un mini-test inventé pour essayer le mode examen.",
+  "kind": "test",
+  "timeLimitMinutes": 10,
+  "questions": [
+    {
+      "id": "test-ex-001", "skill": "reading", "level": "A1",
+      "passage": "Boulangerie Dupont — Ouvert du mardi au dimanche, de 7 h à 19 h. Fermé le lundi.",
+      "passageTranslation": "Dupont Bakery — Open Tuesday to Sunday, 7 am to 7 pm. Closed on Mondays.",
+      "question": "Quand la boulangerie est-elle fermée ?",
+      "options": ["Le lundi.", "Le mardi.", "Le dimanche.", "Tous les soirs à 17 h."],
+      "correctIndex": 0,
+      "explanation": "\"Fermé le lundi\" = closed on Mondays."
+    },
+    {
+      "id": "test-ex-002", "skill": "reading", "level": "A2",
+      "passage": "Cher Paul,\nMerci pour ton invitation ! Je serai ravie de venir à ta fête samedi. Est-ce que je peux venir avec ma sœur ? Elle arrive de Lyon vendredi.\nÀ bientôt,\nNadia",
+      "passageTranslation": "Dear Paul,\nThanks for your invitation! I'd be delighted to come to your party on Saturday. Can I bring my sister? She's arriving from Lyon on Friday.\nSee you soon,\nNadia",
+      "question": "Que demande Nadia ?",
+      "options": ["L'adresse de la fête.", "Si elle peut venir avec sa sœur.", "L'heure de la fête.", "Si Paul peut aller à Lyon."],
+      "correctIndex": 1,
+      "explanation": "Her only question is \"Est-ce que je peux venir avec ma sœur ?\" (Can I come with my sister?)."
+    },
+    {
+      "id": "test-ex-003", "skill": "reading", "level": "B1",
+      "passage": "Afin de réduire les déchets, la mairie distribuera gratuitement des composteurs aux habitants qui en feront la demande avant le 30 juin. Les composteurs seront à retirer au service technique, sur présentation d'un justificatif de domicile.",
+      "passageTranslation": "To reduce waste, the town hall will give out free compost bins to residents who request one before 30 June. The bins can be collected from the technical services office on presentation of proof of address.",
+      "question": "Que faut-il faire pour obtenir un composteur ?",
+      "options": ["Payer au service technique.", "Faire une demande avant le 30 juin.", "Habiter près de la mairie.", "Trier ses déchets pendant un mois."],
+      "correctIndex": 1,
+      "explanation": "The bins go to residents \"qui en feront la demande avant le 30 juin\" (who request one before 30 June). They are free (\"gratuitement\")."
+    },
+    {
+      "id": "test-ex-004", "skill": "reading", "level": "B1",
+      "passage": "Le télétravail séduit de plus en plus de salariés : selon une enquête récente, 60 % d'entre eux souhaiteraient travailler au moins deux jours par semaine depuis chez eux. Ils citent surtout la réduction du temps de transport. Toutefois, certains regrettent le manque de contacts avec leurs collègues.",
+      "passageTranslation": "Remote work appeals to more and more employees: according to a recent survey, 60% of them would like to work from home at least two days a week. They mainly mention less commuting time. However, some miss contact with their colleagues.",
+      "question": "Quel inconvénient du télétravail est mentionné ?",
+      "options": ["Le temps de transport.", "Le manque de relations avec les collègues.", "Un salaire plus bas.", "Le manque d'équipement."],
+      "correctIndex": 1,
+      "explanation": "\"Toutefois\" (however) introduces the downside: \"le manque de contacts avec leurs collègues\". Less commuting is an advantage."
+    },
+    {
+      "id": "test-ex-005", "skill": "reading", "level": "B2",
+      "passage": "Si la lecture sur écran progresse, le livre papier résiste mieux qu'on ne l'avait prédit. Les lecteurs invoquent le plaisir de l'objet, mais aussi une meilleure concentration : plusieurs études suggèrent que l'on retient davantage une information lue sur papier.",
+      "passageTranslation": "Although reading on screens is growing, the paper book is holding up better than predicted. Readers mention the pleasure of the object, but also better concentration: several studies suggest we remember information read on paper better.",
+      "question": "Selon le texte, pourquoi le livre papier résiste-t-il ?",
+      "options": ["Il est moins cher que le livre numérique.", "Les écrans sont interdits dans les écoles.", "Les lecteurs se concentrent mieux sur papier.", "Les éditeurs ont arrêté le numérique."],
+      "correctIndex": 2,
+      "explanation": "The text names \"une meilleure concentration\" as one reason. Price, schools and publishers are not mentioned."
+    },
+    {
+      "id": "test-ex-006", "skill": "reading", "level": "C1",
+      "passage": "Loin de constituer une simple mode, l'essor des circuits courts traduit une défiance croissante envers une industrie agroalimentaire jugée opaque. Encore faut-il que cette démarche ne demeure pas l'apanage des ménages les plus aisés, faute de quoi elle risquerait d'accentuer les inégalités qu'elle prétend combattre.",
+      "passageTranslation": "Far from being a mere fad, the rise of short supply chains reflects growing distrust of a food industry seen as opaque. Still, this approach must not remain the preserve of the wealthiest households, or it could worsen the inequalities it claims to fight.",
+      "question": "Quelle réserve l'auteur exprime-t-il ?",
+      "options": ["Les circuits courts sont une mode passagère.", "Les circuits courts pourraient rester réservés aux plus riches.", "L'industrie agroalimentaire est transparente.", "Les circuits courts coûtent moins cher."],
+      "correctIndex": 1,
+      "explanation": "\"Encore faut-il que…\" introduces a condition/reservation: it must not remain \"l'apanage des ménages les plus aisés\" (the preserve of the wealthiest)."
+    }
+  ]
+}

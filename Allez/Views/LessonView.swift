@@ -2,7 +2,7 @@ import SwiftUI
 
 /// Runs one lesson: shows each question, checks the answer, and shows feedback.
 struct LessonView: View {
-    let unit: LessonUnit
+    let questions: [Question]
     let onComplete: () -> Void
 
     @Environment(\.dismiss) private var dismiss
@@ -13,15 +13,15 @@ struct LessonView: View {
     @State private var isFinished = false
     @State private var showQuitAlert = false
 
-    private var question: Question { unit.questions[currentIndex] }
+    private var question: Question { questions[currentIndex] }
     private var isCorrect: Bool { selectedIndex == question.correctIndex }
     private var progress: Double {
-        Double(currentIndex + (isChecked ? 1 : 0)) / Double(unit.questions.count)
+        Double(currentIndex + (isChecked ? 1 : 0)) / Double(questions.count)
     }
 
     var body: some View {
         if isFinished {
-            LessonCompleteView(correct: correctCount, total: unit.questions.count) {
+            LessonCompleteView(correct: correctCount, total: questions.count) {
                 onComplete()
                 dismiss()
             }
@@ -93,7 +93,7 @@ struct LessonView: View {
     }
 
     private func next() {
-        if currentIndex + 1 < unit.questions.count {
+        if currentIndex + 1 < questions.count {
             withAnimation(.easeInOut(duration: 0.3)) {
                 currentIndex += 1
                 selectedIndex = nil
@@ -105,7 +105,7 @@ struct LessonView: View {
     }
 }
 
-private struct LessonProgressBar: View {
+struct LessonProgressBar: View {
     let progress: Double
 
     var body: some View {
@@ -183,6 +183,6 @@ private struct FeedbackBar: View {
 }
 
 #Preview {
-    LessonView(unit: SampleData.units[0]) {}
+    LessonView(questions: ContentLibrary.loadFromBundle().units[0].questions) {}
         .fontDesign(.rounded)
 }

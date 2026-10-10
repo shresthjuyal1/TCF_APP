@@ -1,0 +1,49 @@
+{
+  "id": "exemple-grammaire",
+  "title": "Grammaire — exemples",
+  "kind": "practice",
+  "questions": [
+    {
+      "id": "sample-011", "skill": "grammar", "level": "A2",
+      "question": "Elle ___ trois enfants.",
+      "options": ["a", "est", "as", "ont"],
+      "correctIndex": 0,
+      "explanation": "\"Avoir\" with \"elle\" is \"elle a\". \"As\" goes with \"tu\", \"ont\" with \"ils/elles\"."
+    },
+    {
+      "id": "sample-012", "skill": "grammar", "level": "A2",
+      "question": "Nous habitons ___ Canada.",
+      "options": ["en", "au", "à", "aux"],
+      "correctIndex": 1,
+      "explanation": "Masculine countries take \"au\" (au Canada, au Japon). Feminine ones take \"en\" (en France)."
+    },
+    {
+      "id": "sample-013", "skill": "grammar", "level": "B1",
+      "question": "Quand j'étais petit, je ___ souvent chez mes grands-parents.",
+      "options": ["suis allé", "allais", "irai", "vais"],
+      "correctIndex": 1,
+      "explanation": "A repeated habit in the past (\"souvent\", \"quand j'étais petit\") uses the imparfait: j'allais."
+    },
+    {
+      "id": "sample-014", "skill": "grammar", "level": "B1",
+      "question": "Je cherche un appartement ___ soit lumineux.",
+      "options": ["qui", "que", "dont", "où"],
+      "correctIndex": 0,
+      "explanation": "The apartment is the subject of \"soit\", so we use \"qui\"."
+    },
+    {
+      "id": "sample-015", "skill": "grammar", "level": "B2",
+      "question": "Bien qu'il ___ tard, elle continue de travailler.",
+      "options": ["est", "soit", "sera", "était"],
+      "correctIndex": 1,
+      "explanation": "\"Bien que\" (although) is always followed by the subjunctive: bien qu'il soit."
+    },
+    {
+      "id": "sample-016", "skill": "grammar", "level": "B2",
+      "question": "Il m'a dit qu'il ___ le lendemain.",
+      "options": ["viendra", "viendrait", "vient", "venait"],
+      "correctIndex": 1,
+      "explanation": "In reported speech after a past verb (\"il m'a dit\"), the future becomes the conditionnel: il viendrait."
+    }
+  ]
+}

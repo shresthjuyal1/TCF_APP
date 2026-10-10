@@ -11,7 +11,11 @@ struct HomeView: View {
         NavigationStack {
             ScrollView {
                 VStack(spacing: 0) {
-                    ForEach(Level.allCases) { level in
+                    if !appState.library.problems.isEmpty {
+                        ContentProblemsCard(problems: appState.library.problems)
+                            .padding(.top, 8)
+                    }
+                    ForEach(levelsOnPath) { level in
                         LevelBanner(level: level)
                             .padding(.top, 24)
                             .padding(.bottom, 12)
@@ -32,7 +36,7 @@ struct HomeView: View {
             .navigationTitle("Allez!")
         }
         .fullScreenCover(item: $activeUnit) { unit in
-            LessonView(unit: unit) {
+            LessonView(questions: unit.questions) {
                 appState.complete(unit)
             }
         }
@@ -45,6 +49,10 @@ struct HomeView: View {
             Text("Les questions de « \(comingSoonUnit?.title ?? "") » arrivent bientôt.")
         }
         .sensoryFeedback(.warning, trigger: lockedTapCount)
+    }
+
+    private var levelsOnPath: [Level] {
+        Level.allCases.filter { level in appState.units.contains { $0.level == level } }
     }
 
     private func open(_ unit: LessonUnit) {
@@ -63,6 +71,27 @@ struct HomeView: View {
     /// Sways the circles left and right to make a winding path.
     private func pathOffset(for index: Int) -> CGFloat {
         sin(Double(index) * 0.9) * 70
+    }
+}
+
+/// Lists content files that couldn't be read, so typos in the JSON are easy to find.
+private struct ContentProblemsCard: View {
+    let problems: [String]
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 8) {
+            Label("Some content couldn't be loaded", systemImage: "exclamationmark.triangle.fill")
+                .font(.headline)
+                .foregroundStyle(Theme.wrong)
+            ForEach(problems, id: \.self) { problem in
+                Text("• " + problem)
+                    .font(.footnote)
+                    .fixedSize(horizontal: false, vertical: true)
+            }
+        }
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .padding()
+        .background(RoundedRectangle(cornerRadius: 16).fill(Theme.wrongBackground))
     }
 }
 

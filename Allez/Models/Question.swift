@@ -27,17 +27,21 @@ enum Skill: String, Codable, CaseIterable, Identifiable {
     }
 }
 
-/// CEFR levels covered by the app.
+/// CEFR levels. The TCF tests every level from A1 to C2.
 enum Level: String, Codable, CaseIterable, Identifiable, Comparable {
-    case a2 = "A2", b1 = "B1", b2 = "B2"
+    case a1 = "A1", a2 = "A2", b1 = "B1", b2 = "B2", c1 = "C1", c2 = "C2"
 
     var id: String { rawValue }
 
+    /// Official French names of the CEFR levels.
     var name: String {
         switch self {
-        case .a2: "Élémentaire"
-        case .b1: "Intermédiaire"
+        case .a1: "Découverte"
+        case .a2: "Survie"
+        case .b1: "Seuil"
         case .b2: "Avancé"
+        case .c1: "Autonome"
+        case .c2: "Maîtrise"
         }
     }
 

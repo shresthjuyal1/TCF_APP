@@ -5,13 +5,15 @@ struct QuestionView: View {
     let question: Question
     @Binding var selectedIndex: Int?
     let isChecked: Bool
+    /// Turned off during timed tests, like the real exam.
+    var showsTranslation = true
 
     var body: some View {
         VStack(alignment: .leading, spacing: 20) {
             SkillTag(skill: question.skill, level: question.level)
 
             if let passage = question.passage {
-                PassageCard(passage: passage, translation: question.passageTranslation)
+                PassageCard(passage: passage, translation: showsTranslation ? question.passageTranslation : nil)
             }
 
             questionText

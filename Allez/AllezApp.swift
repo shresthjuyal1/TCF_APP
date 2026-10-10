@@ -6,7 +6,7 @@ struct AllezApp: App {
 
     var body: some Scene {
         WindowGroup {
-            HomeView()
+            RootView()
                 .environment(appState)
                 .fontDesign(.rounded)
                 .tint(Theme.accent)
