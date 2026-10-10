@@ -48,11 +48,11 @@ struct RuleCardView: View {
                             .font(.title2.weight(.bold))
                             .foregroundStyle(.white)
                             .frame(width: 52, height: 52)
-                            .background(RoundedRectangle(cornerRadius: 14).fill(Theme.accent))
+                            .background(RoundedRectangle(cornerRadius: 14).fill(Theme.levelColor(unit.level).face.gradient))
                         VStack(alignment: .leading, spacing: 2) {
                             Text("Level \(unit.level.rawValue) · Grammar")
                                 .font(.footnote.weight(.bold))
-                                .foregroundStyle(Theme.accent)
+                                .foregroundStyle(Theme.levelColor(unit.level).face)
                             Text(unit.title)
                                 .font(.title2.weight(.heavy))
                                 .fixedSize(horizontal: false, vertical: true)
@@ -70,7 +70,7 @@ struct RuleCardView: View {
                         }
                         .padding()
                         .frame(maxWidth: .infinity, alignment: .leading)
-                        .background(RoundedRectangle(cornerRadius: 16).fill(Color(uiColor: .secondarySystemBackground)))
+                        .background(RoundedRectangle(cornerRadius: 16).fill(Theme.softFill))
 
                         VStack(alignment: .leading, spacing: 12) {
                             Text("Examples")
@@ -94,10 +94,14 @@ struct RuleCardView: View {
                 .padding()
             }
 
-            Button("Start lesson", action: onStart)
-                .buttonStyle(ChunkyButtonStyle())
-                .padding()
+            Button(action: onStart) {
+                Label("Start lesson", systemImage: "play.fill")
+            }
+            .buttonStyle(ChunkyButtonStyle(face: Theme.levelColor(unit.level).face, shadow: Theme.levelColor(unit.level).shadow))
+            .padding()
         }
+        .background(Theme.background)
+        .tracksPracticeTime()
     }
 }
 

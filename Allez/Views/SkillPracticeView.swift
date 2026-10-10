@@ -6,7 +6,7 @@ private struct PracticeSession: Identifiable {
     let questions: [Question]
 }
 
-/// The Lecture and Grammaire tabs: quick practice sets plus full timed tests.
+/// The Reading tab: quick practice sets plus full timed tests.
 struct SkillPracticeView: View {
     let skill: Skill
     static let questionsPerPractice = 10
@@ -32,6 +32,7 @@ struct SkillPracticeView: View {
                 }
                 .padding()
             }
+            .background(Theme.background)
             .navigationTitle(skill.title)
             .fullScreenCover(item: $activeTest) { test in
                 TestView(test: test)
@@ -44,43 +45,49 @@ struct SkillPracticeView: View {
 
     private var practiceSection: some View {
         VStack(alignment: .leading, spacing: 14) {
-            SectionTitle(title: "Practice", subtitle: "\(Self.questionsPerPractice) random questions with instant feedback.")
+            SectionTitle(title: "Practice", subtitle: "\(Self.questionsPerPractice) random questions with instant feedback.",
+                         icon: "bolt.fill", color: Theme.pink)
 
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(spacing: 8) {
-                    LevelChip(label: "All", isSelected: levelFilter == nil) { levelFilter = nil }
+                    LevelChip(label: "All", color: Theme.accent, isSelected: levelFilter == nil) { levelFilter = nil }
                     ForEach(availableLevels) { level in
-                        LevelChip(label: level.rawValue, isSelected: levelFilter == level) { levelFilter = level }
+                        LevelChip(label: level.rawValue, color: Theme.levelColor(level).face, isSelected: levelFilter == level) { levelFilter = level }
                     }
                 }
                 .padding(.vertical, 4)
             }
 
-            Button("Start") {
+            Button {
                 practice = PracticeSession(questions: Array(pool.shuffled().prefix(Self.questionsPerPractice)))
+            } label: {
+                Label("Start", systemImage: "play.fill")
             }
-            .buttonStyle(ChunkyButtonStyle())
+            .buttonStyle(ChunkyButtonStyle(face: Theme.pink, shadow: Theme.pinkShadow))
             .disabled(pool.isEmpty)
 
             Text(pool.count == 1 ? "1 question available" : "\(pool.count) questions available")
                 .font(.footnote)
                 .foregroundStyle(.secondary)
         }
+        .padding()
+        .card()
     }
 
     private var testsSection: some View {
         VStack(alignment: .leading, spacing: 14) {
-            SectionTitle(title: "Full tests", subtitle: "Like exam day: timed, results at the end.")
+            SectionTitle(title: "Full tests", subtitle: "Like exam day: timed, results at the end.",
+                         icon: "stopwatch.fill", color: Theme.purple)
 
             if tests.isEmpty {
                 Text("No tests yet.")
                     .foregroundStyle(.secondary)
             }
-            ForEach(tests) { test in
+            ForEach(Array(tests.enumerated()), id: \.element.id) { index, test in
                 Button {
                     activeTest = test
                 } label: {
-                    TestRow(test: test)
+                    TestRow(test: test, color: Theme.paletteColor(index).face, best: appState.bestScore(for: test.id))
                 }
                 .buttonStyle(.plain)
             }
@@ -91,20 +98,26 @@ struct SkillPracticeView: View {
 private struct SectionTitle: View {
     let title: String
     let subtitle: String
+    let icon: String
+    let color: Color
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 4) {
-            Text(title)
-                .font(.title2.weight(.heavy))
-            Text(subtitle)
-                .font(.subheadline)
-                .foregroundStyle(.secondary)
+        HStack(spacing: 12) {
+            IconTile(systemName: icon, color: color)
+            VStack(alignment: .leading, spacing: 2) {
+                Text(title)
+                    .font(.title2.weight(.heavy))
+                Text(subtitle)
+                    .font(.subheadline)
+                    .foregroundStyle(.secondary)
+            }
         }
     }
 }
 
 private struct LevelChip: View {
     let label: String
+    let color: Color
     let isSelected: Bool
     let action: () -> Void
 
@@ -114,8 +127,8 @@ private struct LevelChip: View {
                 .font(.subheadline.weight(.bold))
                 .padding(.horizontal, 16)
                 .padding(.vertical, 8)
-                .foregroundStyle(isSelected ? .white : .primary)
-                .background(Capsule().fill(isSelected ? Theme.accent : Theme.locked))
+                .foregroundStyle(isSelected ? .white : color)
+                .background(Capsule().fill(isSelected ? color : color.opacity(0.12)))
         }
         .buttonStyle(.plain)
         .sensoryFeedback(.selection, trigger: isSelected)
@@ -124,14 +137,12 @@ private struct LevelChip: View {
 
 private struct TestRow: View {
     let test: QuestionSet
+    let color: Color
+    let best: TestResult?
 
     var body: some View {
         HStack(spacing: 14) {
-            Image(systemName: "doc.text.fill")
-                .font(.title2)
-                .foregroundStyle(.white)
-                .frame(width: 52, height: 52)
-                .background(RoundedRectangle(cornerRadius: 14).fill(Theme.accent))
+            IconTile(systemName: best == nil ? "doc.text.fill" : "checkmark.seal.fill", color: best == nil ? color : Theme.gold, size: 52)
 
             VStack(alignment: .leading, spacing: 4) {
                 Text(test.title)
@@ -149,15 +160,26 @@ private struct TestRow: View {
                     }
                 }
                 .font(.caption.weight(.semibold))
-                .foregroundStyle(Theme.accent)
+                .foregroundStyle(color)
             }
             Spacer(minLength: 0)
-            Image(systemName: "chevron.right")
-                .foregroundStyle(.tertiary)
+            if let best {
+                VStack(spacing: 2) {
+                    Image(systemName: "trophy.fill")
+                        .foregroundStyle(Theme.gold)
+                    Text("\(Int((Double(best.correct) / Double(best.total) * 100).rounded()))%")
+                        .font(.caption.weight(.heavy))
+                    Text(best.level.rawValue)
+                        .font(.caption2.weight(.heavy))
+                        .foregroundStyle(Theme.levelColor(best.level).face)
+                }
+            } else {
+                Image(systemName: "chevron.right")
+                    .foregroundStyle(.tertiary)
+            }
         }
         .padding()
-        .background(RoundedRectangle(cornerRadius: 18).fill(Theme.card))
-        .overlay(RoundedRectangle(cornerRadius: 18).strokeBorder(Theme.cardBorder, lineWidth: 2))
+        .card()
         .contentShape(Rectangle())
     }
 }

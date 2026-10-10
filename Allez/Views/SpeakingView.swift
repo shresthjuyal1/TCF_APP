@@ -19,6 +19,8 @@ struct SpeakingView: View {
                     .padding(.horizontal, 32)
                 Spacer()
             }
+            .frame(maxWidth: .infinity)
+            .background(Theme.background)
             .navigationTitle(Skill.speaking.title)
         }
     }

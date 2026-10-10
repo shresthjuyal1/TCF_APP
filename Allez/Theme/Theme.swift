@@ -1,51 +1,80 @@
 import SwiftUI
 import UIKit
 
-/// All the app's colors in one place. Each color has a light-mode and a dark-mode version.
+/// All the app's colors in one place. The app always uses this bright, light look,
+/// whatever the phone's dark/light setting is.
 enum Theme {
-    static let accent = Color(light: 0x1F6FEB, dark: 0x4C8DF6)
-    static let accentShadow = Color(light: 0x1452B5, dark: 0x2D63C4)
-    static let accentBackground = Color(light: 0xE6F0FE, dark: 0x16294A)
+    // Surfaces
+    static let background = Color(hex: 0xFFF7EC)
+    static let card = Color.white
+    static let cardBorder = Color(hex: 0xEFE3D3)
+    static let softFill = Color(hex: 0xFBEFDF)
 
-    static let correct = Color(light: 0x2EB352, dark: 0x3DCC63)
-    static let correctShadow = Color(light: 0x1F8A3C, dark: 0x269447)
-    static let correctBackground = Color(light: 0xE3F7E8, dark: 0x173D22)
+    // Main blue
+    static let accent = Color(hex: 0x2B7BFF)
+    static let accentShadow = Color(hex: 0x1C5ED1)
+    static let accentBackground = Color(hex: 0xE4EEFF)
 
-    static let wrong = Color(light: 0xE5484D, dark: 0xF2555A)
-    static let wrongShadow = Color(light: 0xB3262B, dark: 0xB53035)
-    static let wrongBackground = Color(light: 0xFDE7E8, dark: 0x4A1C1E)
+    // Feedback
+    static let correct = Color(hex: 0x35C25C)
+    static let correctShadow = Color(hex: 0x249546)
+    static let correctBackground = Color(hex: 0xE2F8E7)
+    static let wrong = Color(hex: 0xFF5A5F)
+    static let wrongShadow = Color(hex: 0xD43C41)
+    static let wrongBackground = Color(hex: 0xFFE6E6)
 
-    static let gold = Color(light: 0xF5B400, dark: 0xF7C53B)
-    static let goldShadow = Color(light: 0xC28E00, dark: 0xB88F1F)
+    // Playful extras
+    static let gold = Color(hex: 0xFFC233)
+    static let goldShadow = Color(hex: 0xDE9C00)
+    static let orange = Color(hex: 0xFF9A1F)
+    static let orangeShadow = Color(hex: 0xDB7600)
+    static let pink = Color(hex: 0xFF6FAE)
+    static let pinkShadow = Color(hex: 0xD84C8A)
+    static let purple = Color(hex: 0x9B6BFF)
+    static let purpleShadow = Color(hex: 0x7447DB)
+    static let teal = Color(hex: 0x1CC5C9)
+    static let tealShadow = Color(hex: 0x10999C)
+    static let freeze = Color(hex: 0x5BC8FF)
 
-    static let locked = Color(light: 0xE1E4EA, dark: 0x3A3D44)
-    static let lockedShadow = Color(light: 0xC3C8D2, dark: 0x2A2C31)
-    static let lockedIcon = Color(light: 0xA3AAB8, dark: 0x6B707A)
+    // Locked things
+    static let locked = Color(hex: 0xE9E1D5)
+    static let lockedShadow = Color(hex: 0xD2C7B7)
+    static let lockedIcon = Color(hex: 0xADA191)
 
-    static let cardBorder = Color(light: 0xE1E4EA, dark: 0x3A3D44)
-    static let card = Color(uiColor: .systemBackground)
-}
+    /// Bright colors used in turn for lists of things (themes, tests…).
+    static let palette: [(face: Color, shadow: Color)] = [
+        (accent, accentShadow), (pink, pinkShadow), (teal, tealShadow),
+        (purple, purpleShadow), (orange, orangeShadow), (correct, correctShadow),
+    ]
 
-extension Color {
-    init(light: UInt32, dark: UInt32) {
-        self.init(uiColor: UIColor { traits in
-            UIColor(hex: traits.userInterfaceStyle == .dark ? dark : light)
-        })
+    static func paletteColor(_ index: Int) -> (face: Color, shadow: Color) {
+        palette[index % palette.count]
+    }
+
+    /// Every CEFR level has its own color on the path, chips and badges.
+    static func levelColor(_ level: Level) -> (face: Color, shadow: Color) {
+        switch level {
+        case .a1: (teal, tealShadow)
+        case .a2: (correct, correctShadow)
+        case .b1: (accent, accentShadow)
+        case .b2: (purple, purpleShadow)
+        case .c1: (pink, pinkShadow)
+        case .c2: (orange, orangeShadow)
+        }
     }
 }
 
-extension UIColor {
-    convenience init(hex: UInt32) {
+extension Color {
+    init(hex: UInt32) {
         self.init(
-            red: CGFloat((hex >> 16) & 0xFF) / 255,
-            green: CGFloat((hex >> 8) & 0xFF) / 255,
-            blue: CGFloat(hex & 0xFF) / 255,
-            alpha: 1
+            red: Double((hex >> 16) & 0xFF) / 255,
+            green: Double((hex >> 8) & 0xFF) / 255,
+            blue: Double(hex & 0xFF) / 255
         )
     }
 }
 
-/// The big "3D" button that sinks down when pressed (Vérifier, Continuer…).
+/// The big "3D" button that sinks down when pressed (Check, Continue…).
 struct ChunkyButtonStyle: ButtonStyle {
     var face: Color = Theme.accent
     var shadow: Color = Theme.accentShadow
@@ -68,5 +97,37 @@ struct ChunkyButtonStyle: ButtonStyle {
             )
             .offset(y: pressed ? 4 : 0)
             .animation(.spring(response: 0.2, dampingFraction: 0.6), value: pressed)
+    }
+}
+
+/// A white rounded card with a soft border, used across the app.
+struct CardBackground: ViewModifier {
+    var cornerRadius: CGFloat = 18
+
+    func body(content: Content) -> some View {
+        content
+            .background(RoundedRectangle(cornerRadius: cornerRadius).fill(Theme.card))
+            .overlay(RoundedRectangle(cornerRadius: cornerRadius).strokeBorder(Theme.cardBorder, lineWidth: 2))
+    }
+}
+
+/// A rounded square with a white icon, like an app icon. Used for themes, tests and lessons.
+struct IconTile: View {
+    let systemName: String
+    let color: Color
+    var size: CGFloat = 44
+
+    var body: some View {
+        Image(systemName: systemName)
+            .font(.system(size: size * 0.45, weight: .bold))
+            .foregroundStyle(.white)
+            .frame(width: size, height: size)
+            .background(RoundedRectangle(cornerRadius: size * 0.28).fill(color.gradient))
+    }
+}
+
+extension View {
+    func card(cornerRadius: CGFloat = 18) -> some View {
+        modifier(CardBackground(cornerRadius: cornerRadius))
     }
 }

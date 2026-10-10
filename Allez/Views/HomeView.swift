@@ -6,9 +6,12 @@ struct HomeView: View {
     @State private var activeUnit: LessonUnit?
     @State private var lockedUnit: LessonUnit?
     @State private var lockedTapCount = 0
+    @State private var showStreak = false
+    @State private var showSettings = false
 
     var body: some View {
-        NavigationStack {
+        VStack(spacing: 0) {
+            StatsBar(showStreak: $showStreak, showSettings: $showSettings)
             ScrollViewReader { proxy in
                 ScrollView {
                     VStack(spacing: 0) {
@@ -16,8 +19,10 @@ struct HomeView: View {
                             ContentProblemsCard(problems: appState.library.problems)
                                 .padding(.top, 8)
                         }
+                        GreetingCard()
+                            .padding(.top, 12)
                         OverallProgress(completed: appState.units.filter(appState.isCompleted).count, total: appState.units.count)
-                            .padding(.top, 8)
+                            .padding(.top, 12)
 
                         ForEach(levelsOnPath) { level in
                             levelSection(level)
@@ -32,7 +37,14 @@ struct HomeView: View {
                     }
                 }
             }
-            .navigationTitle("Grammar path")
+        }
+        .background(Theme.background)
+        .sheet(isPresented: $showStreak) {
+            StreakSheet()
+                .presentationDetents([.large])
+        }
+        .sheet(isPresented: $showSettings) {
+            SettingsView()
         }
         .fullScreenCover(item: $activeUnit) { unit in
             GrammarLessonFlow(unit: unit) {
@@ -64,7 +76,7 @@ struct HomeView: View {
             if position > 0 {
                 PathTrail(from: pathOffset(for: index - 1), to: pathOffset(for: index), isLit: appState.isCompleted(units[position - 1]))
             }
-            UnitNode(unit: unit, status: appState.status(of: unit), isNext: appState.nextUnit?.id == unit.id) {
+            UnitNode(unit: unit, status: appState.status(of: unit), isNext: appState.nextUnit?.id == unit.id, colors: Theme.levelColor(level)) {
                 open(unit)
             }
             .offset(x: pathOffset(for: index))
@@ -129,7 +141,7 @@ private struct OverallProgress: View {
                 .tint(Theme.gold)
         }
         .padding()
-        .background(RoundedRectangle(cornerRadius: 16).fill(Color(uiColor: .secondarySystemBackground)))
+        .card(cornerRadius: 16)
     }
 }
 
@@ -140,7 +152,19 @@ private struct LevelBanner: View {
 
     private var isDone: Bool { total > 0 && completed == total }
 
+    private var levelIcon: String {
+        switch level {
+        case .a1: "leaf.fill"
+        case .a2: "sun.max.fill"
+        case .b1: "paperplane.fill"
+        case .b2: "mountain.2.fill"
+        case .c1: "crown.fill"
+        case .c2: "trophy.fill"
+        }
+    }
+
     var body: some View {
+        let colors = Theme.levelColor(level)
         HStack {
             VStack(alignment: .leading, spacing: 2) {
                 Text("Level \(level.rawValue) · \(level.name)")
@@ -150,14 +174,14 @@ private struct LevelBanner: View {
                     .opacity(0.9)
             }
             Spacer()
-            Image(systemName: isDone ? "checkmark.seal.fill" : "flag.checkered")
-                .font(.title2.weight(.bold))
+            Image(systemName: isDone ? "checkmark.seal.fill" : levelIcon)
+                .font(.title.weight(.bold))
                 .symbolEffect(.bounce, value: isDone)
         }
         .foregroundStyle(.white)
         .padding()
-        .background(RoundedRectangle(cornerRadius: 18).fill(isDone ? Theme.gold : Theme.accent))
-        .background(RoundedRectangle(cornerRadius: 18).fill(isDone ? Theme.goldShadow : Theme.accentShadow).offset(y: 4))
+        .background(RoundedRectangle(cornerRadius: 18).fill(isDone ? Theme.gold : colors.face))
+        .background(RoundedRectangle(cornerRadius: 18).fill(isDone ? Theme.goldShadow : colors.shadow).offset(y: 4))
         .shadow(color: isDone ? Theme.gold.opacity(0.5) : .clear, radius: 12)
     }
 }
@@ -186,6 +210,7 @@ private struct UnitNode: View {
     let unit: LessonUnit
     let status: UnitStatus
     let isNext: Bool
+    let colors: (face: Color, shadow: Color)
     let action: () -> Void
 
     var body: some View {
@@ -197,7 +222,7 @@ private struct UnitNode: View {
                 Image(systemName: iconName)
                     .font(.system(size: 30, weight: .bold))
             }
-            .buttonStyle(NodeButtonStyle(status: status, isNext: isNext))
+            .buttonStyle(NodeButtonStyle(status: status, isNext: isNext, colors: colors))
             .background {
                 if status == .completed {
                     GoldGlow()
@@ -275,6 +300,7 @@ private struct StartBubble: View {
 private struct NodeButtonStyle: ButtonStyle {
     let status: UnitStatus
     let isNext: Bool
+    let colors: (face: Color, shadow: Color)
 
     func makeBody(configuration: Configuration) -> some View {
         let pressed = configuration.isPressed
@@ -282,12 +308,22 @@ private struct NodeButtonStyle: ButtonStyle {
             .foregroundStyle(status == .locked ? Theme.lockedIcon : .white)
             .frame(width: 76, height: 72)
             .background(Ellipse().fill(face))
+            .overlay(alignment: .topLeading) {
+                // Glossy shine, like a sweet.
+                if status != .locked {
+                    Capsule()
+                        .fill(.white.opacity(0.35))
+                        .frame(width: 24, height: 9)
+                        .rotationEffect(.degrees(-30))
+                        .offset(x: 14, y: 14)
+                }
+            }
             .background(Ellipse().fill(shadow).offset(y: pressed ? 0 : 7))
             .overlay {
                 if isNext {
                     Ellipse()
-                        .strokeBorder(Theme.accent.opacity(0.35), lineWidth: 5)
-                        .padding(-9)
+                        .strokeBorder(colors.face.opacity(0.35), lineWidth: 6)
+                        .padding(-10)
                 }
             }
             .offset(y: pressed ? 7 : 0)
@@ -297,7 +333,7 @@ private struct NodeButtonStyle: ButtonStyle {
     private var face: Color {
         switch status {
         case .completed: Theme.gold
-        case .available: Theme.accent
+        case .available: colors.face
         case .locked: Theme.locked
         }
     }
@@ -305,7 +341,7 @@ private struct NodeButtonStyle: ButtonStyle {
     private var shadow: Color {
         switch status {
         case .completed: Theme.goldShadow
-        case .available: Theme.accentShadow
+        case .available: colors.shadow
         case .locked: Theme.lockedShadow
         }
     }
@@ -315,4 +351,129 @@ private struct NodeButtonStyle: ButtonStyle {
     HomeView()
         .environment(AppState())
         .fontDesign(.rounded)
+}
+
+/// The bar at the top of the Path: goal, streak, today's minutes, exam countdown and settings.
+private struct StatsBar: View {
+    @Environment(AppState.self) private var appState
+    @Binding var showStreak: Bool
+    @Binding var showSettings: Bool
+
+    var body: some View {
+        let streak = appState.streak.count
+        HStack(spacing: 18) {
+            Button { showSettings = true } label: {
+                HStack(spacing: 6) {
+                    Text("🇫🇷").font(.title3)
+                    Text(appState.settings.goalLevel.rawValue)
+                        .foregroundStyle(Theme.levelColor(appState.settings.goalLevel).face)
+                }
+            }
+            .accessibilityLabel("Goal \(appState.settings.goalLevel.rawValue)")
+
+            Button { showStreak = true } label: {
+                HStack(spacing: 4) {
+                    StreakFlame(isLit: appState.goalMet(on: .now))
+                    Text("\(streak)")
+                        .foregroundStyle(appState.goalMet(on: .now) ? Theme.orange : Theme.lockedIcon)
+                        .contentTransition(.numericText())
+                }
+            }
+            .accessibilityLabel("\(streak)-day streak")
+
+            Button { showStreak = true } label: {
+                HStack(spacing: 6) {
+                    MinutesRing(seconds: appState.todaySeconds, size: 22)
+                    Text("\(min(Int(appState.todaySeconds / 60), 99))/10")
+                        .foregroundStyle(Theme.accent)
+                }
+            }
+            .accessibilityLabel("\(Int(appState.todaySeconds / 60)) of 10 minutes today")
+
+            if let days = appState.daysUntilExam {
+                HStack(spacing: 4) {
+                    Image(systemName: "calendar")
+                        .foregroundStyle(Theme.purple)
+                    Text(days > 0 ? "\(days)d" : "Today!")
+                        .foregroundStyle(Theme.purple)
+                }
+                .accessibilityLabel("\(days) days until your TCF")
+            }
+
+            Spacer(minLength: 0)
+
+            Button { showSettings = true } label: {
+                Image(systemName: "gearshape.fill")
+                    .foregroundStyle(Theme.lockedIcon)
+            }
+            .accessibilityLabel("Settings")
+        }
+        .font(.headline.weight(.heavy))
+        .buttonStyle(.plain)
+        .padding(.horizontal, 20)
+        .padding(.vertical, 12)
+        .background(Theme.background)
+        .overlay(alignment: .bottom) {
+            Rectangle().fill(Theme.cardBorder).frame(height: 2)
+        }
+    }
+}
+
+/// "Bonjour Shresth !" with your level, goal and exam countdown.
+private struct GreetingCard: View {
+    @Environment(AppState.self) private var appState
+
+    private var greeting: String {
+        Calendar.current.component(.hour, from: .now) >= 18 ? "Bonsoir" : "Bonjour"
+    }
+
+    var body: some View {
+        let settings = appState.settings
+        VStack(alignment: .leading, spacing: 12) {
+            Text("\(greeting) \(settings.name) ! 👋")
+                .font(.title.weight(.heavy))
+            HStack(spacing: 10) {
+                LevelPill(title: "Now", level: appState.currentLevel)
+                Image(systemName: "arrow.right")
+                    .font(.headline.weight(.heavy))
+                    .foregroundStyle(Theme.lockedIcon)
+                LevelPill(title: "Goal", level: settings.goalLevel)
+                Spacer(minLength: 0)
+            }
+            if let days = appState.daysUntilExam {
+                Label(days > 0 ? "\(days) day\(days == 1 ? "" : "s") until your TCF" : "Your TCF is today. Bonne chance !",
+                      systemImage: "calendar.badge.clock")
+                    .font(.subheadline.weight(.bold))
+                    .foregroundStyle(Theme.purple)
+            }
+            if appState.currentLevel == nil {
+                Text("Take a full Reading test to see your current level.")
+                    .font(.footnote)
+                    .foregroundStyle(.secondary)
+            }
+        }
+        .padding()
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .card()
+    }
+}
+
+private struct LevelPill: View {
+    let title: String
+    let level: Level?
+
+    var body: some View {
+        let color = level.map { Theme.levelColor($0).face } ?? Theme.lockedIcon
+        HStack(spacing: 6) {
+            Text(title)
+                .font(.caption.weight(.heavy))
+                .textCase(.uppercase)
+            Text(level?.rawValue ?? "?")
+                .font(.headline.weight(.heavy))
+        }
+        .foregroundStyle(.white)
+        .padding(.horizontal, 12)
+        .padding(.vertical, 6)
+        .background(Capsule().fill(color.gradient))
+    }
 }

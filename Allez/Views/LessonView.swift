@@ -20,12 +20,22 @@ struct LessonView: View {
     }
 
     var body: some View {
-        if isFinished {
-            LessonCompleteView(correct: correctCount, total: questions.count) {
-                onComplete()
-                dismiss()
+        Group {
+            if isFinished {
+                LessonCompleteView(correct: correctCount, total: questions.count) {
+                    onComplete()
+                    dismiss()
+                }
+            } else {
+                lesson
             }
-        } else {
+        }
+        .background(Theme.background)
+        .tracksPracticeTime()
+    }
+
+    private var lesson: some View {
+        Group {
             VStack(spacing: 0) {
                 header
                 ScrollView {

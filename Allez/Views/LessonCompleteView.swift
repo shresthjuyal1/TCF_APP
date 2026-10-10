@@ -54,6 +54,7 @@ struct LessonCompleteView: View {
                 .buttonStyle(ChunkyButtonStyle())
         }
         .padding()
+        .background(Theme.background)
         .onAppear {
             withAnimation(.spring(response: 0.6, dampingFraction: 0.55)) {
                 appeared = true

@@ -8,6 +8,7 @@ struct TestResultsView: View {
     let onDone: () -> Void
 
     @State private var appeared = false
+    @Environment(AppState.self) private var appState
 
     private var questions: [Question] { test.questions }
     private var correctCount: Int {
@@ -34,7 +35,13 @@ struct TestResultsView: View {
                 .buttonStyle(ChunkyButtonStyle())
                 .padding()
         }
-        .onAppear { appeared = true }
+        .background(Theme.background)
+        .onAppear {
+            guard !appeared else { return }
+            appeared = true
+            appState.record(TestResult(testID: test.id, date: .now, correct: correctCount,
+                                       total: questions.count, level: ContentLibrary.estimatedLevel(forScore: fraction)))
+        }
         .sensoryFeedback(.success, trigger: appeared)
     }
 
@@ -184,6 +191,6 @@ private struct AnswerReviewRow: View {
         .font(.subheadline)
         .padding()
         .frame(maxWidth: .infinity, alignment: .leading)
-        .background(RoundedRectangle(cornerRadius: 14).fill(Color(uiColor: .secondarySystemBackground)))
+        .background(RoundedRectangle(cornerRadius: 14).fill(Theme.softFill))
     }
 }

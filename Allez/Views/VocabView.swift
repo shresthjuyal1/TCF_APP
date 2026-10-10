@@ -35,9 +35,9 @@ struct VocabView: View {
                     .listRowBackground(Color.clear)
 
                     Section("Themes") {
-                        ForEach(themes) { theme in
+                        ForEach(Array(themes.enumerated()), id: \.element.id) { index, theme in
                             NavigationLink(value: theme) {
-                                ThemeRow(theme: theme)
+                                ThemeRow(theme: theme, color: Theme.paletteColor(index).face)
                             }
                         }
                     }
@@ -51,6 +51,8 @@ struct VocabView: View {
                     }
                 }
             }
+            .scrollContentBackground(.hidden)
+            .background(Theme.background)
             .navigationTitle("Vocabulary")
             .searchable(text: $searchText, prompt: "Search in French or English")
             .navigationDestination(for: VocabTheme.self) { theme in
@@ -67,11 +69,16 @@ struct VocabView: View {
 
     private var practiceCard: some View {
         VStack(alignment: .leading, spacing: 14) {
-            Text("Practice")
-                .font(.title2.weight(.heavy))
-            Text("\(Self.questionsPerQuiz) words, pick the right meaning.")
-                .font(.subheadline)
-                .foregroundStyle(.secondary)
+            HStack(spacing: 12) {
+                IconTile(systemName: "bolt.fill", color: Theme.pink)
+                VStack(alignment: .leading, spacing: 2) {
+                    Text("Practice")
+                        .font(.title2.weight(.heavy))
+                    Text("\(Self.questionsPerQuiz) words, pick the right meaning.")
+                        .font(.subheadline)
+                        .foregroundStyle(.secondary)
+                }
+            }
 
             Picker("Direction", selection: $direction) {
                 ForEach(VocabDirection.allCases) { direction in
@@ -89,31 +96,29 @@ struct VocabView: View {
             .pickerStyle(.menu)
             .tint(Theme.accent)
 
-            Button("Start") {
+            Button {
                 session = VocabSession(questions: appState.library.vocabQuestions(
                     themeID: quizThemeID, direction: direction, count: Self.questionsPerQuiz
                 ))
+            } label: {
+                Label("Start", systemImage: "play.fill")
             }
-            .buttonStyle(ChunkyButtonStyle())
+            .buttonStyle(ChunkyButtonStyle(face: Theme.pink, shadow: Theme.pinkShadow))
             .disabled(themes.isEmpty)
         }
         .padding()
-        .background(RoundedRectangle(cornerRadius: 18).fill(Theme.card))
-        .overlay(RoundedRectangle(cornerRadius: 18).strokeBorder(Theme.cardBorder, lineWidth: 2))
+        .card()
         .padding(.vertical, 4)
     }
 }
 
 private struct ThemeRow: View {
     let theme: VocabTheme
+    let color: Color
 
     var body: some View {
         HStack(spacing: 14) {
-            Image(systemName: theme.icon)
-                .font(.headline)
-                .foregroundStyle(.white)
-                .frame(width: 40, height: 40)
-                .background(RoundedRectangle(cornerRadius: 10).fill(Theme.accent))
+            IconTile(systemName: theme.icon, color: color, size: 42)
             VStack(alignment: .leading, spacing: 2) {
                 Text(theme.title)
                     .font(.headline)
@@ -145,6 +150,8 @@ private struct ThemeDetailView: View {
                 }
             }
         }
+        .scrollContentBackground(.hidden)
+        .background(Theme.background)
         .navigationTitle(theme.title)
     }
 }
@@ -173,10 +180,10 @@ private struct LevelBadge: View {
     var body: some View {
         Text(level.rawValue)
             .font(.caption.weight(.heavy))
-            .foregroundStyle(Theme.accent)
+            .foregroundStyle(.white)
             .padding(.horizontal, 8)
             .padding(.vertical, 4)
-            .background(Capsule().fill(Theme.accentBackground))
+            .background(Capsule().fill(Theme.levelColor(level).face))
     }
 }
 
@@ -221,11 +228,12 @@ private struct WordDetailView: View {
                     }
                     .padding()
                     .frame(maxWidth: .infinity, alignment: .leading)
-                    .background(RoundedRectangle(cornerRadius: 16).fill(Color(uiColor: .secondarySystemBackground)))
+                    .background(RoundedRectangle(cornerRadius: 16).fill(Theme.softFill))
                 }
             }
             .padding()
         }
+        .background(Theme.background)
         .navigationBarTitleDisplayMode(.inline)
         .onAppear { Speaker.shared.speak(word.spokenText) }
     }

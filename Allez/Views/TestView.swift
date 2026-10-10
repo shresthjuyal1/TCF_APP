@@ -21,6 +21,15 @@ struct TestView: View {
     private var isLastQuestion: Bool { index == test.questions.count - 1 }
 
     var body: some View {
+        Group {
+            content
+        }
+        .background(Theme.background)
+        .tracksPracticeTime()
+    }
+
+    @ViewBuilder
+    private var content: some View {
         if isFinished {
             TestResultsView(test: test, answers: answers, ranOutOfTime: ranOutOfTime) {
                 dismiss()
