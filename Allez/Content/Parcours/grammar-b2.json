@@ -1,0 +1,1407 @@
+{
+  "id": "grammar-b2",
+  "title": "Grammar B2",
+  "kind": "practice",
+  "questions": [
+    {
+      "id": "b2-subj-indicatif-01",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Je crois qu'il ___ la vérité.",
+      "options": [
+        "dises",
+        "ait dit",
+        "dise",
+        "dit"
+      ],
+      "correctIndex": 3,
+      "explanation": "A positive \"je crois que\" takes the indicative: il dit."
+    },
+    {
+      "id": "b2-subj-indicatif-02",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Je ne crois pas qu'il ___ la vérité.",
+      "options": [
+        "dit",
+        "dira",
+        "disait",
+        "dise"
+      ],
+      "correctIndex": 3,
+      "explanation": "A negative opinion takes the subjunctive: qu'il dise."
+    },
+    {
+      "id": "b2-subj-indicatif-03",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Je doute que ce projet ___.",
+      "options": [
+        "réussit",
+        "réussira",
+        "réussisse",
+        "réussirait"
+      ],
+      "correctIndex": 2,
+      "explanation": "Doubt takes the subjunctive: qu'il réussisse."
+    },
+    {
+      "id": "b2-subj-indicatif-04",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Il est évident que nous ___ raison.",
+      "options": [
+        "ayons",
+        "aies",
+        "ayez",
+        "avons"
+      ],
+      "correctIndex": 3,
+      "explanation": "Certainty (évident) takes the indicative: nous avons."
+    },
+    {
+      "id": "b2-subj-indicatif-05",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "J'espère que vous ___ bientôt.",
+      "options": [
+        "revienne",
+        "reviendrez",
+        "revenions",
+        "reveniez"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Espérer que\" takes the indicative, often the future: vous reviendrez."
+    },
+    {
+      "id": "b2-subj-indicatif-06",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Il est dommage que tu ne ___ pas venir.",
+      "options": [
+        "puisses",
+        "pourras",
+        "peux",
+        "pourrais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Regret (il est dommage que) takes the subjunctive: que tu puisses."
+    },
+    {
+      "id": "b2-subj-indicatif-07",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Je suis sûr qu'elle ___ à l'heure.",
+      "options": [
+        "sois",
+        "soit",
+        "sera",
+        "soient"
+      ],
+      "correctIndex": 2,
+      "explanation": "Certainty takes the indicative: elle sera."
+    },
+    {
+      "id": "b2-subj-indicatif-08",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Il est possible que le directeur ___ en retard.",
+      "options": [
+        "est",
+        "sera",
+        "soit",
+        "serait"
+      ],
+      "correctIndex": 2,
+      "explanation": "Possibility takes the subjunctive: qu'il soit."
+    },
+    {
+      "id": "b2-subj-indicatif-09",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Je crains que la situation ne ___ pire.",
+      "options": [
+        "deviendra",
+        "deviendrait",
+        "devienne",
+        "devient"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fear (craindre que) takes the subjunctive. The \"ne\" is formal and not a negation."
+    },
+    {
+      "id": "b2-subj-indicatif-10",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Il paraît que le restaurant ___ fermé.",
+      "options": [
+        "soit",
+        "soient",
+        "est",
+        "sois"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Il paraît que\" (apparently) takes the indicative: il est."
+    },
+    {
+      "id": "b2-conjonctions-01",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Bien qu'il ___ tard, elle continue de travailler.",
+      "options": [
+        "était",
+        "est",
+        "soit",
+        "sera"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bien que takes the subjunctive: qu'il soit."
+    },
+    {
+      "id": "b2-conjonctions-02",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Je parle lentement pour que tout le monde ___.",
+      "options": [
+        "comprendra",
+        "comprend",
+        "comprenait",
+        "comprenne"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pour que takes the subjunctive: que tout le monde comprenne."
+    },
+    {
+      "id": "b2-conjonctions-03",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Rentrons avant qu'il ___ à pleuvoir.",
+      "options": [
+        "commençait",
+        "a commencé",
+        "commencera",
+        "commence"
+      ],
+      "correctIndex": 3,
+      "explanation": "Avant que takes the subjunctive. Here the subjunctive form is the same as the present: qu'il commence."
+    },
+    {
+      "id": "b2-conjonctions-04",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Tu peux sortir à condition que tu ___ avant minuit.",
+      "options": [
+        "rentreras",
+        "rentrais",
+        "rentrerais",
+        "rentres"
+      ],
+      "correctIndex": 3,
+      "explanation": "À condition que takes the subjunctive: que tu rentres."
+    },
+    {
+      "id": "b2-conjonctions-05",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Il est parti sans que nous le ___.",
+      "options": [
+        "saurons",
+        "savions",
+        "sachions",
+        "savons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sans que takes the subjunctive of savoir: que nous sachions."
+    },
+    {
+      "id": "b2-conjonctions-06",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Même si tu ___ en retard, viens quand même.",
+      "options": [
+        "es",
+        "seras",
+        "sois",
+        "serais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Même si takes the indicative, like si: même si tu es."
+    },
+    {
+      "id": "b2-conjonctions-07",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Je resterai ici jusqu'à ce que tu ___.",
+      "options": [
+        "reviens",
+        "revenais",
+        "reviendras",
+        "reviennes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jusqu'à ce que takes the subjunctive: que tu reviennes."
+    },
+    {
+      "id": "b2-conjonctions-08",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Nous irons à la plage, à moins qu'il ne ___ mauvais.",
+      "options": [
+        "faisait",
+        "fait",
+        "fasse",
+        "fera"
+      ],
+      "correctIndex": 2,
+      "explanation": "À moins que takes the subjunctive, often with a formal \"ne\": qu'il ne fasse."
+    },
+    {
+      "id": "b2-conjonctions-09",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Alors que tout le monde ___, il travaillait encore.",
+      "options": [
+        "dorme",
+        "dormira",
+        "dormirait",
+        "dormait"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alors que (while/whereas) takes the indicative: tout le monde dormait."
+    },
+    {
+      "id": "b2-conjonctions-10",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Afin que vous ___ mieux, nous avons simplifié le formulaire.",
+      "options": [
+        "comprendrez",
+        "comprendriez",
+        "comprenez",
+        "compreniez"
+      ],
+      "correctIndex": 3,
+      "explanation": "Afin que takes the subjunctive: que vous compreniez."
+    },
+    {
+      "id": "b2-cond-passe-01",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Si j'avais su, je ___ plus tôt.",
+      "options": [
+        "étais venu",
+        "serais venu",
+        "serai venu",
+        "viendrais"
+      ],
+      "correctIndex": 1,
+      "explanation": "Si + plus-que-parfait, then conditionnel passé: je serais venu."
+    },
+    {
+      "id": "b2-cond-passe-02",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Si tu ___ ton réveil, tu serais arrivé à l'heure.",
+      "options": [
+        "mettrais",
+        "aurais mis",
+        "avais mis",
+        "as mis"
+      ],
+      "correctIndex": 2,
+      "explanation": "The main clause is conditionnel passé, so si + plus-que-parfait: si tu avais mis."
+    },
+    {
+      "id": "b2-cond-passe-03",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Tu ___ me dire la vérité !",
+      "options": [
+        "aurait dû",
+        "aurai dû",
+        "aurais dû",
+        "aies dû"
+      ],
+      "correctIndex": 2,
+      "explanation": "A reproach about the past: tu aurais dû (you should have)."
+    },
+    {
+      "id": "b2-cond-passe-04",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Nous ___ voyager davantage quand nous étions jeunes.",
+      "options": [
+        "aurons aimé",
+        "aurions aimé",
+        "serions aimés",
+        "aurions aimer"
+      ],
+      "correctIndex": 1,
+      "explanation": "A regret about the past: nous aurions aimé."
+    },
+    {
+      "id": "b2-cond-passe-05",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Sans ton aide, je n'___ jamais réussi.",
+      "options": [
+        "aurai",
+        "aurait",
+        "aurais",
+        "aies"
+      ],
+      "correctIndex": 2,
+      "explanation": "An unreal past (without your help): je n'aurais jamais réussi."
+    },
+    {
+      "id": "b2-cond-passe-06",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Selon la police, le voleur ___ par la fenêtre.",
+      "options": [
+        "serais entré",
+        "serai entré",
+        "sera entré",
+        "serait entré"
+      ],
+      "correctIndex": 3,
+      "explanation": "An unconfirmed past fact in the news: il serait entré."
+    },
+    {
+      "id": "b2-cond-passe-07",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Si elle avait étudié, elle ___ son examen.",
+      "options": [
+        "aurait réussi",
+        "avait réussi",
+        "réussira",
+        "aura réussi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si + plus-que-parfait, then conditionnel passé: elle aurait réussi."
+    },
+    {
+      "id": "b2-cond-passe-08",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "À ta place, j'___ accepté cette offre.",
+      "options": [
+        "aurait",
+        "aurai",
+        "avais",
+        "aurais"
+      ],
+      "correctIndex": 3,
+      "explanation": "Advice about the past (\"à ta place\"): j'aurais accepté."
+    },
+    {
+      "id": "b2-cond-passe-09",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Ils ___ partir plus tôt s'ils avaient eu une voiture.",
+      "options": [
+        "auraient pu",
+        "pourront",
+        "auront pu",
+        "avaient pu"
+      ],
+      "correctIndex": 0,
+      "explanation": "The si clause is plus-que-parfait, so the main clause is conditionnel passé: ils auraient pu."
+    },
+    {
+      "id": "b2-cond-passe-10",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Si vous ___ réservé, vous auriez eu une table.",
+      "options": [
+        "aurez",
+        "auriez",
+        "aviez",
+        "avez"
+      ],
+      "correctIndex": 2,
+      "explanation": "Si + plus-que-parfait: si vous aviez réservé."
+    },
+    {
+      "id": "b2-lequel-01",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "La raison pour ___ il est parti reste un mystère.",
+      "options": [
+        "laquelle",
+        "qui",
+        "quoi",
+        "lequel"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Raison\" is feminine: pour laquelle."
+    },
+    {
+      "id": "b2-lequel-02",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Le bureau dans ___ je travaille est très lumineux.",
+      "options": [
+        "laquelle",
+        "lesquels",
+        "lequel",
+        "quoi"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Bureau\" is masculine singular: dans lequel."
+    },
+    {
+      "id": "b2-lequel-03",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Les problèmes ___ nous pensons sont sérieux.",
+      "options": [
+        "desquels",
+        "auxquels",
+        "auxquelles",
+        "lesquels"
+      ],
+      "correctIndex": 1,
+      "explanation": "Penser à + masculine plural: auxquels."
+    },
+    {
+      "id": "b2-lequel-04",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "La conférence ___ j'ai assisté était passionnante.",
+      "options": [
+        "à laquelle",
+        "auquel",
+        "dont",
+        "laquelle"
+      ],
+      "correctIndex": 0,
+      "explanation": "Assister à + feminine: à laquelle."
+    },
+    {
+      "id": "b2-lequel-05",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Les amis avec ___ je pars en vacances sont drôles.",
+      "options": [
+        "où",
+        "que",
+        "dont",
+        "qui"
+      ],
+      "correctIndex": 3,
+      "explanation": "For people after a preposition, use qui: avec qui."
+    },
+    {
+      "id": "b2-lequel-06",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Le parc à côté ___ nous habitons est magnifique.",
+      "options": [
+        "dont",
+        "auquel",
+        "duquel",
+        "de lequel"
+      ],
+      "correctIndex": 2,
+      "explanation": "À côté de + masculine: duquel (de + lequel). Dont can't follow \"à côté\"."
+    },
+    {
+      "id": "b2-lequel-07",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Ce sont des questions ___ il est difficile de répondre.",
+      "options": [
+        "auxquelles",
+        "lesquelles",
+        "desquelles",
+        "auxquels"
+      ],
+      "correctIndex": 0,
+      "explanation": "Répondre à + feminine plural: auxquelles."
+    },
+    {
+      "id": "b2-lequel-08",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "L'entreprise pour ___ elle travaille recrute.",
+      "options": [
+        "quoi",
+        "lesquelles",
+        "lequel",
+        "laquelle"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Entreprise\" is feminine singular: pour laquelle."
+    },
+    {
+      "id": "b2-lequel-09",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Les raisons ___ il a démissionné ne sont pas claires.",
+      "options": [
+        "pour lesquelles",
+        "dont",
+        "pourquoi",
+        "pour lesquels"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Raisons\" is feminine plural: pour lesquelles."
+    },
+    {
+      "id": "b2-lequel-10",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Le sujet ___ nous avons discuté était difficile.",
+      "options": [
+        "que",
+        "auquel",
+        "lequel",
+        "dont"
+      ],
+      "correctIndex": 3,
+      "explanation": "Discuter de, with nothing in between: dont."
+    },
+    {
+      "id": "b2-passif-01",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Ce roman ___ par Victor Hugo.",
+      "options": [
+        "a été écrit",
+        "est écrivant",
+        "a écrit",
+        "a été écrite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Passive past: a été + past participle agreeing with \"roman\" (masculine): a été écrit."
+    },
+    {
+      "id": "b2-passif-02",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Les nouvelles règles ___ la semaine prochaine.",
+      "options": [
+        "ont appliqué",
+        "seront appliqués",
+        "seront appliquées",
+        "appliqueront"
+      ],
+      "correctIndex": 2,
+      "explanation": "Future passive; \"règles\" is feminine plural: seront appliquées."
+    },
+    {
+      "id": "b2-passif-03",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "La réunion ___ à cause de la grève.",
+      "options": [
+        "a annulé",
+        "est annulant",
+        "a été annulé",
+        "a été annulée"
+      ],
+      "correctIndex": 3,
+      "explanation": "Passive; \"réunion\" is feminine: a été annulée."
+    },
+    {
+      "id": "b2-passif-04",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Les voleurs ont été arrêtés ___ la police.",
+      "options": [
+        "avec",
+        "par",
+        "à",
+        "pour"
+      ],
+      "correctIndex": 1,
+      "explanation": "The one doing the action in a passive sentence is introduced by par."
+    },
+    {
+      "id": "b2-passif-05",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Chaque année, des milliers de livres ___ dans ce pays.",
+      "options": [
+        "sont publiées",
+        "sont publiés",
+        "ont publié",
+        "publient"
+      ],
+      "correctIndex": 1,
+      "explanation": "Present passive; \"livres\" is masculine plural: sont publiés."
+    },
+    {
+      "id": "b2-passif-06",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Le nouveau pont ___ l'année prochaine.",
+      "options": [
+        "sera construite",
+        "construira",
+        "sera construit",
+        "a construit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Future passive; \"pont\" is masculine: sera construit."
+    },
+    {
+      "id": "b2-passif-07",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Ce produit ___ très bien en France.",
+      "options": [
+        "est vendant",
+        "vend",
+        "se vend",
+        "se vendent"
+      ],
+      "correctIndex": 2,
+      "explanation": "French often uses a reflexive verb instead of the passive: il se vend bien (it sells well)."
+    },
+    {
+      "id": "b2-passif-08",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Les candidats ___ par un jury de cinq personnes.",
+      "options": [
+        "évaluent",
+        "ont évalué",
+        "sont évaluées",
+        "sont évalués"
+      ],
+      "correctIndex": 3,
+      "explanation": "Present passive; \"candidats\" is masculine plural: sont évalués."
+    },
+    {
+      "id": "b2-passif-09",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "La lettre ___ hier par le directeur.",
+      "options": [
+        "a signé",
+        "a été signée",
+        "a été signé",
+        "était signant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Past passive; \"lettre\" is feminine: a été signée."
+    },
+    {
+      "id": "b2-passif-10",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "On a volé ma voiture. → Ma voiture ___.",
+      "options": [
+        "a été volé",
+        "est volant",
+        "a été volée",
+        "a volé"
+      ],
+      "correctIndex": 2,
+      "explanation": "Active \"on a volé\" becomes passive \"a été volée\" (\"voiture\" is feminine)."
+    },
+    {
+      "id": "b2-gerondif-01",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Il s'est blessé ___ du sport.",
+      "options": [
+        "en faire",
+        "en faisons",
+        "en faisant",
+        "en fait"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gérondif = en + present participle (faisant): en faisant."
+    },
+    {
+      "id": "b2-gerondif-02",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "On apprend une langue ___ régulièrement.",
+      "options": [
+        "en pratique",
+        "en pratiquant",
+        "en pratiquer",
+        "pratiquer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Means (how?): en + -ant, en pratiquant."
+    },
+    {
+      "id": "b2-gerondif-03",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "___ fatigué, il est rentré tôt.",
+      "options": [
+        "Est",
+        "Été",
+        "Étant",
+        "Être"
+      ],
+      "correctIndex": 2,
+      "explanation": "A reason in formal style: the present participle étant (being)."
+    },
+    {
+      "id": "b2-gerondif-04",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Ne téléphone pas ___ !",
+      "options": [
+        "en conduire",
+        "en conduisant",
+        "en conduisons",
+        "en conduit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Two actions at the same time: en conduisant (while driving)."
+    },
+    {
+      "id": "b2-gerondif-05",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Les personnes ___ s'inscrire doivent remplir ce formulaire.",
+      "options": [
+        "en souhaitant",
+        "souhaitant",
+        "souhaitent",
+        "souhaité"
+      ],
+      "correctIndex": 1,
+      "explanation": "Present participle (= qui souhaitent), common in official notices."
+    },
+    {
+      "id": "b2-gerondif-06",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "___ que le magasin était fermé, je suis rentrée.",
+      "options": [
+        "Savoir",
+        "Savant",
+        "Sachez",
+        "Sachant"
+      ],
+      "correctIndex": 3,
+      "explanation": "Irregular present participle of savoir: sachant."
+    },
+    {
+      "id": "b2-gerondif-07",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Elle lit le journal ___ son café.",
+      "options": [
+        "en boire",
+        "en bu",
+        "en buvant",
+        "en boivant"
+      ],
+      "correctIndex": 2,
+      "explanation": "Boire → nous buvons → buvant: en buvant."
+    },
+    {
+      "id": "b2-gerondif-08",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Les élèves ___ réussi l'examen recevront un diplôme.",
+      "options": [
+        "avant",
+        "ont",
+        "en ayant",
+        "ayant"
+      ],
+      "correctIndex": 3,
+      "explanation": "Present participle of avoir (= qui ont): ayant réussi."
+    },
+    {
+      "id": "b2-gerondif-09",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Tu progresseras ___ chaque jour.",
+      "options": [
+        "en lire",
+        "en lisons",
+        "en lis",
+        "en lisant"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gérondif of lire: en lisant."
+    },
+    {
+      "id": "b2-gerondif-10",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Il est tombé ___ l'escalier.",
+      "options": [
+        "en descend",
+        "en descendre",
+        "en descendu",
+        "en descendant"
+      ],
+      "correctIndex": 3,
+      "explanation": "Two actions at the same time: en descendant."
+    },
+    {
+      "id": "b2-concordance-01",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "« Je suis malade. » → Elle a dit qu'elle ___ malade.",
+      "options": [
+        "était",
+        "sera",
+        "soit",
+        "serait"
+      ],
+      "correctIndex": 0,
+      "explanation": "Présent becomes imparfait after a past reporting verb: elle était."
+    },
+    {
+      "id": "b2-concordance-02",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "« Nous partirons à 8 h. » → Ils ont annoncé qu'ils ___ à 8 h.",
+      "options": [
+        "partirons",
+        "partent",
+        "partiraient",
+        "partiront"
+      ],
+      "correctIndex": 2,
+      "explanation": "Futur becomes conditionnel: ils partiraient."
+    },
+    {
+      "id": "b2-concordance-03",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "« J'ai perdu mes clés. » → Il m'a expliqué qu'il ___ ses clés.",
+      "options": [
+        "perdra",
+        "perdrait",
+        "avait perdu",
+        "perde"
+      ],
+      "correctIndex": 2,
+      "explanation": "Passé composé becomes plus-que-parfait: il avait perdu."
+    },
+    {
+      "id": "b2-concordance-04",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "« Je vais déménager. » → Elle m'a dit qu'elle ___ déménager.",
+      "options": [
+        "allait",
+        "allant",
+        "aille",
+        "ira"
+      ],
+      "correctIndex": 0,
+      "explanation": "Futur proche becomes aller in the imparfait + infinitive: elle allait déménager."
+    },
+    {
+      "id": "b2-concordance-05",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "« Je te téléphonerai demain. » → Il m'a promis qu'il me téléphonerait ___.",
+      "options": [
+        "aujourd'hui",
+        "hier",
+        "la veille",
+        "le lendemain"
+      ],
+      "correctIndex": 3,
+      "explanation": "In past reported speech, demain becomes le lendemain (the next day)."
+    },
+    {
+      "id": "b2-concordance-06",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "« Est-ce que vous aimez le jazz ? » → Il m'a demandé si j'___ le jazz.",
+      "options": [
+        "aimais",
+        "aimer",
+        "aimé",
+        "aimerai"
+      ],
+      "correctIndex": 0,
+      "explanation": "Présent becomes imparfait: si j'aimais."
+    },
+    {
+      "id": "b2-concordance-07",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "« Qu'est-ce que tu as fait hier ? » → Elle m'a demandé ce que j'avais fait ___.",
+      "options": [
+        "le lendemain",
+        "la veille",
+        "aujourd'hui",
+        "demain"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hier becomes la veille (the day before)."
+    },
+    {
+      "id": "b2-concordance-08",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "« Ne touchez pas à ça ! » → Il nous a dit ___ toucher à ça.",
+      "options": [
+        "de pas",
+        "ne pas",
+        "de ne pas",
+        "que ne pas"
+      ],
+      "correctIndex": 2,
+      "explanation": "A reported negative command: de ne pas + infinitive."
+    },
+    {
+      "id": "b2-concordance-09",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "« Le colis est arrivé. » → On m'a confirmé que le colis ___.",
+      "options": [
+        "arriverait",
+        "arrive",
+        "était arrivé",
+        "arrivera"
+      ],
+      "correctIndex": 2,
+      "explanation": "Passé composé becomes plus-que-parfait: était arrivé."
+    },
+    {
+      "id": "b2-concordance-10",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "« Je peux vous aider ? » → Le vendeur m'a demandé s'il ___ m'aider.",
+      "options": [
+        "pourra",
+        "puisse",
+        "pouvait",
+        "pourrons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Présent becomes imparfait: s'il pouvait."
+    },
+    {
+      "id": "b2-opposition-01",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "___ la pluie, le match a eu lieu.",
+      "options": [
+        "Pourtant",
+        "Bien que",
+        "Même si",
+        "Malgré"
+      ],
+      "correctIndex": 3,
+      "explanation": "Before a noun: malgré (despite)."
+    },
+    {
+      "id": "b2-opposition-02",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "___ il soit fatigué, il continue à travailler.",
+      "options": [
+        "Bien qu'",
+        "Même s'",
+        "Alors qu'",
+        "Malgré"
+      ],
+      "correctIndex": 0,
+      "explanation": "Followed by the subjunctive (soit): bien que."
+    },
+    {
+      "id": "b2-opposition-03",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "___ il pleut, je sortirai.",
+      "options": [
+        "Même s'",
+        "Pourtant",
+        "Malgré",
+        "Bien qu'"
+      ],
+      "correctIndex": 0,
+      "explanation": "Followed by the indicative (pleut), meaning \"even if\": même si."
+    },
+    {
+      "id": "b2-opposition-04",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Il a beaucoup étudié ; ___, il a échoué.",
+      "options": [
+        "malgré",
+        "même si",
+        "bien que",
+        "pourtant"
+      ],
+      "correctIndex": 3,
+      "explanation": "Linking two sentences with a contrast: pourtant (yet)."
+    },
+    {
+      "id": "b2-opposition-05",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Mon frère adore le sport, ___ moi je préfère lire.",
+      "options": [
+        "bien que",
+        "alors que",
+        "pourtant que",
+        "malgré"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contrasting two facts (whereas), with the indicative: alors que."
+    },
+    {
+      "id": "b2-opposition-06",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "J'ai ___ chercher, je ne trouve pas mes lunettes.",
+      "options": [
+        "bien",
+        "beau",
+        "malgré",
+        "même"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Avoir beau + infinitive\" = however hard I look…"
+    },
+    {
+      "id": "b2-opposition-07",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Le projet est intéressant. Il coûte ___ très cher.",
+      "options": [
+        "bien que",
+        "cependant",
+        "malgré",
+        "alors que"
+      ],
+      "correctIndex": 1,
+      "explanation": "Formal \"however\", which can go in the middle: il coûte cependant très cher."
+    },
+    {
+      "id": "b2-opposition-08",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "___ ses efforts, il n'a pas obtenu le poste.",
+      "options": [
+        "Bien que",
+        "Malgré",
+        "Même si",
+        "Cependant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Followed by a noun: malgré."
+    },
+    {
+      "id": "b2-opposition-09",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Certains élèves travaillent beaucoup, ___ d'autres ne font rien.",
+      "options": [
+        "même si",
+        "bien que",
+        "tandis que",
+        "malgré"
+      ],
+      "correctIndex": 2,
+      "explanation": "Contrast between two groups: tandis que (whereas)."
+    },
+    {
+      "id": "b2-opposition-10",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Elle a accepté le poste, ___ le salaire soit bas.",
+      "options": [
+        "même si",
+        "quoique",
+        "pourtant",
+        "malgré"
+      ],
+      "correctIndex": 1,
+      "explanation": "Followed by the subjunctive (soit): quoique (although)."
+    },
+    {
+      "id": "b2-doubles-pronoms-01",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Tu donnes le livre à Marie ? — Oui, je ___ donne.",
+      "options": [
+        "lui le",
+        "le leur",
+        "la lui",
+        "le lui"
+      ],
+      "correctIndex": 3,
+      "explanation": "Order: le before lui: je le lui donne."
+    },
+    {
+      "id": "b2-doubles-pronoms-02",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Il m'a envoyé la photo. → Il ___ a envoyée.",
+      "options": [
+        "me la",
+        "l'me",
+        "me l'",
+        "lui l'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Order me + la, and la becomes l' before a vowel: il me l'a envoyée."
+    },
+    {
+      "id": "b2-doubles-pronoms-03",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Vous parlez de ce problème à vos collègues ? — Oui, nous ___ parlons.",
+      "options": [
+        "en leur",
+        "leur y",
+        "leur en",
+        "les en"
+      ],
+      "correctIndex": 2,
+      "explanation": "Order: leur before en: nous leur en parlons."
+    },
+    {
+      "id": "b2-doubles-pronoms-04",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Il y a des œufs ? — Oui, il ___ a.",
+      "options": [
+        "les y",
+        "en y",
+        "y en",
+        "y les"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fixed order: il y en a."
+    },
+    {
+      "id": "b2-doubles-pronoms-05",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Tu peux me prêter ta voiture ? — Oui, je ___ prête.",
+      "options": [
+        "lui la",
+        "la te",
+        "te la",
+        "te le"
+      ],
+      "correctIndex": 2,
+      "explanation": "Order: te before la: je te la prête."
+    },
+    {
+      "id": "b2-doubles-pronoms-06",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Le stylo ? Donne-___ !",
+      "options": [
+        "le-moi",
+        "moi-le",
+        "le-me",
+        "me-le"
+      ],
+      "correctIndex": 0,
+      "explanation": "Positive command: verb-le-moi: donne-le-moi."
+    },
+    {
+      "id": "b2-doubles-pronoms-07",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "J'ai offert des fleurs à ma mère. → Je ___ ai offert.",
+      "options": [
+        "lui les",
+        "la lui",
+        "lui en",
+        "en lui"
+      ],
+      "correctIndex": 2,
+      "explanation": "Des fleurs → en; à ma mère → lui. Order: lui en."
+    },
+    {
+      "id": "b2-doubles-pronoms-08",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Ils nous ont expliqué les règles. → Ils ___ ont expliquées.",
+      "options": [
+        "les nous",
+        "nous les",
+        "nous leur",
+        "leur les"
+      ],
+      "correctIndex": 1,
+      "explanation": "Order: nous before les: ils nous les ont expliquées."
+    },
+    {
+      "id": "b2-doubles-pronoms-09",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "C'est un secret, Paul ne doit pas le savoir : ne ___ dis pas !",
+      "options": [
+        "lui-le",
+        "le lui",
+        "lui le",
+        "le-lui"
+      ],
+      "correctIndex": 1,
+      "explanation": "Negative command: normal order before the verb: ne le lui dis pas."
+    },
+    {
+      "id": "b2-doubles-pronoms-10",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Vous avez montré vos photos à vos parents ? — Oui, nous ___ avons montrées.",
+      "options": [
+        "les leurs",
+        "leurs les",
+        "les leur",
+        "leur les"
+      ],
+      "correctIndex": 2,
+      "explanation": "Order: le/la/les before lui/leur: nous les leur avons montrées."
+    },
+    {
+      "id": "b2-futur-anterieur-01",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Quand tu ___ tes devoirs, tu pourras jouer.",
+      "options": [
+        "aurais fini",
+        "avais fini",
+        "aies fini",
+        "auras fini"
+      ],
+      "correctIndex": 3,
+      "explanation": "An action completed before another future action: futur antérieur, tu auras fini."
+    },
+    {
+      "id": "b2-futur-anterieur-02",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Dès que nous ___, nous vous téléphonerons.",
+      "options": [
+        "aurons arrivé",
+        "soyons arrivés",
+        "serions arrivés",
+        "serons arrivés"
+      ],
+      "correctIndex": 3,
+      "explanation": "Arriver uses être: nous serons arrivés."
+    },
+    {
+      "id": "b2-futur-anterieur-03",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "D'ici 2030, la ville ___ un nouveau stade.",
+      "options": [
+        "construisait",
+        "aura construit",
+        "avait construit",
+        "aurait construit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Completed by a future date: futur antérieur."
+    },
+    {
+      "id": "b2-futur-anterieur-04",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Je te rendrai ton livre une fois que je l'___.",
+      "options": [
+        "lirais",
+        "aurai lu",
+        "aurais lu",
+        "avais lu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Une fois que + an action finished before the future one: je l'aurai lu."
+    },
+    {
+      "id": "b2-futur-anterieur-05",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Lorsqu'elle ___ son diplôme, elle cherchera un emploi.",
+      "options": [
+        "aura obtenu",
+        "aurait obtenu",
+        "avait obtenu",
+        "obtiendrait"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lorsque + an earlier future action: futur antérieur."
+    },
+    {
+      "id": "b2-futur-anterieur-06",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Il n'est pas encore là ? Il ___ son train.",
+      "options": [
+        "aura raté",
+        "avait raté",
+        "ratera",
+        "rate"
+      ],
+      "correctIndex": 0,
+      "explanation": "The futur antérieur can express a guess about the past: il aura raté son train (he must have missed it)."
+    },
+    {
+      "id": "b2-futur-anterieur-07",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Après que les invités ___, nous rangerons la salle.",
+      "options": [
+        "seront partis",
+        "partiraient",
+        "soient partis",
+        "auront partis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Après que takes the indicative (here the futur antérieur), not the subjunctive."
+    },
+    {
+      "id": "b2-futur-anterieur-08",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Vous ___ avant midi ? Le rendez-vous est à 14 h.",
+      "options": [
+        "aurez terminé",
+        "aurons terminé",
+        "auront terminé",
+        "avez terminez"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vous form of the futur antérieur: vous aurez terminé."
+    },
+    {
+      "id": "b2-futur-anterieur-09",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Demain à cette heure-ci, je ___ en vacances.",
+      "options": [
+        "serai parti",
+        "aurai parti",
+        "suis parti",
+        "serais parti"
+      ],
+      "correctIndex": 0,
+      "explanation": "Partir uses être; completed by a future moment: je serai parti."
+    },
+    {
+      "id": "b2-futur-anterieur-10",
+      "skill": "grammar",
+      "level": "B2",
+      "question": "Quand vous ___ le formulaire, envoyez-le-nous.",
+      "options": [
+        "aurez rempli",
+        "aviez rempli",
+        "auriez rempli",
+        "remplissiez"
+      ],
+      "correctIndex": 0,
+      "explanation": "An action finished before the command is carried out: futur antérieur, vous aurez rempli."
+    }
+  ]
+}

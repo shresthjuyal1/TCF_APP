@@ -1,0 +1,301 @@
+{
+  "id": "society",
+  "title": "Society & citizenship",
+  "icon": "person.3.fill",
+  "words": [
+    {
+      "french": "la société",
+      "english": "society; company",
+      "level": "B2",
+      "example": "L'histoire des sociétés humaines tourne autour de la recherche d'un monde plus juste.",
+      "exampleTranslation": "The history of human societies revolves around the search for a fairer world."
+    },
+    {
+      "french": "le citoyen",
+      "english": "citizen",
+      "level": "B2",
+      "example": "La plupart sont créées et pilotées par des groupes de citoyens.",
+      "exampleTranslation": "Most are created and run by groups of citizens."
+    },
+    {
+      "french": "la population",
+      "english": "population",
+      "level": "B2",
+      "example": "Ils touchent désormais toutes les couches de la population : jeunes, retraités, urbains et ruraux.",
+      "exampleTranslation": "They now reach every part of the population: young people, retirees, city and country dwellers."
+    },
+    {
+      "french": "l'habitant (m.)",
+      "english": "inhabitant, resident",
+      "level": "B1",
+      "example": "« Le roquefort était simplement un moyen de faire connaissance avec les habitants.",
+      "exampleTranslation": "\"Roquefort was simply a way to get to know the locals."
+    },
+    {
+      "french": "la génération",
+      "english": "generation",
+      "level": "B2",
+      "example": "La génération Y, ce sont les 20-30 ans qui ont grandi avec les nouvelles technologies.",
+      "exampleTranslation": "Generation Y are the 20-30-year-olds who grew up with new technology."
+    },
+    {
+      "french": "les jeunes (m.)",
+      "english": "young people",
+      "level": "B2",
+      "example": "Le Forum de Paris s'adresse aux jeunes de moins de trente ans, avec ou sans diplôme.",
+      "exampleTranslation": "The Paris Forum is for young people under thirty, with or without a degree."
+    },
+    {
+      "french": "la jeunesse",
+      "english": "youth",
+      "level": "B2",
+      "example": "Lundi prochain, en France, les librairies organisent une soirée du livre de jeunesse.",
+      "exampleTranslation": "Next Monday in France, bookshops are holding a children's book evening."
+    },
+    {
+      "french": "l'adolescent (m.)",
+      "english": "teenager",
+      "level": "B2",
+      "example": "Les adolescents peuvent se confier sur des sites spécialisés où leur parole sera prise en compte.",
+      "exampleTranslation": "Teenagers can open up on specialised websites where what they say will be taken seriously."
+    },
+    {
+      "french": "la famille",
+      "english": "family",
+      "level": "B2",
+      "example": "Nous sommes heureux de vous annoncer l'arrivée d'un nouveau membre dans notre famille.",
+      "exampleTranslation": "We are happy to announce the arrival of a new member of our family."
+    },
+    {
+      "french": "le couple",
+      "english": "couple",
+      "level": "B2",
+      "example": "L'auteur met en scène un couple de petites gens qui sont passées à côté de belles choses.",
+      "exampleTranslation": "The author portrays an ordinary couple who have missed out on beautiful things."
+    },
+    {
+      "french": "l'égalité (f.)",
+      "english": "equality",
+      "level": "B2",
+      "example": "Les idéologies religieuses et politiques ont toujours visé une certaine forme de justice et d'égalité.",
+      "exampleTranslation": "Religious and political ideologies have always aimed for some form of justice and equality."
+    },
+    {
+      "french": "l'inégalité (f.)",
+      "english": "inequality",
+      "level": "B2",
+      "example": "Les inégalités face aux soins s'aggravent.",
+      "exampleTranslation": "Inequalities in access to healthcare are getting worse."
+    },
+    {
+      "french": "la diversité",
+      "english": "diversity",
+      "level": "B2",
+      "example": "La rétrospective Mali Twist montre comment, par sa diversité et son éclat, l'œuvre de Malick Sidibé s'inscrit dans le champ contemporain de la photographie.",
+      "exampleTranslation": "The Mali Twist retrospective shows how, through its diversity and brilliance, Malick Sidibé's work belongs to contemporary photography."
+    },
+    {
+      "french": "l'intégration (f.)",
+      "english": "integration",
+      "level": "B2",
+      "example": "Elles veulent avant tout vivre une expérience, ce qui les différencie de la population locale et ne facilite pas leur intégration.",
+      "exampleTranslation": "Above all they want to have an experience, which sets them apart from the locals and doesn't help them fit in."
+    },
+    {
+      "french": "l'identité (f.)",
+      "english": "identity",
+      "level": "B2",
+      "example": "Ainsi, une modeste éponge s'est-elle vu attribuer 56 identités différentes !",
+      "exampleTranslation": "So a humble sponge was given 56 different identities!"
+    },
+    {
+      "french": "les valeurs (f.)",
+      "english": "values",
+      "level": "B2",
+      "example": "Il concerne des personnes jeunes, sans enfant, portant les valeurs contestataires de mai 68.",
+      "exampleTranslation": "It concerns young people without children who carry the protest values of May 1968."
+    },
+    {
+      "french": "le respect",
+      "english": "respect",
+      "level": "B2",
+      "example": "L'art de rue n'est pas ressenti comme une agression, en revanche il force l'écoute et le respect.",
+      "exampleTranslation": "Street art isn't felt to be aggressive; on the contrary, it commands attention and respect."
+    },
+    {
+      "french": "la solidarité",
+      "english": "solidarity",
+      "level": "B2",
+      "example": "Ils font preuve de solidarité économique avec les autres générations.",
+      "exampleTranslation": "They show economic solidarity with other generations."
+    },
+    {
+      "french": "le bénévole",
+      "english": "volunteer",
+      "level": "B2",
+      "example": "Nous recherchons des personnes bénévoles pour s'occuper de l'organisation des concerts et spectacles du 31 mai au 2 juin.",
+      "exampleTranslation": "We're looking for volunteers to help organise the concerts and shows from 31 May to 2 June."
+    },
+    {
+      "french": "l'engagement (m.)",
+      "english": "commitment, involvement",
+      "level": "C1",
+      "example": "D'autres, au contraire, affichent clairement leurs exigences et leurs engagements.",
+      "exampleTranslation": "Others, on the contrary, clearly state their demands and commitments."
+    },
+    {
+      "french": "le droit",
+      "english": "right; law",
+      "level": "B2",
+      "example": "Elles s'enracinent dans le refus d'un droit humain fondamental : le droit à l'éducation.",
+      "exampleTranslation": "They are rooted in the denial of a basic human right: the right to education."
+    },
+    {
+      "french": "la loi",
+      "english": "law",
+      "level": "B1",
+      "example": "La loi interdit de mettre à disposition des mineurs des appareils de bronzage.",
+      "exampleTranslation": "The law forbids making tanning beds available to minors."
+    },
+    {
+      "french": "le gouvernement",
+      "english": "government",
+      "level": "B2",
+      "example": "Or, le gouvernement a annoncé un gel des salaires dans la Fonction publique.",
+      "exampleTranslation": "However, the government has announced a pay freeze in the civil service."
+    },
+    {
+      "french": "le ministre",
+      "english": "minister",
+      "level": "B2",
+      "example": "Un accord est intervenu lors d'une réunion des ministres de la Culture de l'Union européenne.",
+      "exampleTranslation": "An agreement was reached at a meeting of EU culture ministers."
+    },
+    {
+      "french": "le député",
+      "english": "member of parliament",
+      "level": "C1",
+      "example": "Une page se tourne ou plutôt ne se tournera plus pour les députés.",
+      "exampleTranslation": "A page is turning, or rather will no longer turn, for members of parliament."
+    },
+    {
+      "french": "la politique",
+      "english": "politics; policy",
+      "level": "C1",
+      "example": "C'est peut-être l'une des raisons pour lesquelles l'écologie politique ne rallie pas tant que ça.",
+      "exampleTranslation": "That may be one of the reasons why green politics doesn't attract that many people."
+    },
+    {
+      "french": "la démocratie",
+      "english": "democracy",
+      "level": "C1",
+      "example": "La démocratie semble, dans son principe, une façon séduisante d'organiser le pouvoir dans une société.",
+      "exampleTranslation": "In principle, democracy seems an attractive way to organise power in a society."
+    },
+    {
+      "french": "la réforme",
+      "english": "reform",
+      "level": "B2",
+      "example": "Plancher sur la réforme des rythmes scolaires, comme le fera la « Conférence »",
+      "exampleTranslation": "Work on reforming the school timetable, as the \"Conference\" will do"
+    },
+    {
+      "french": "la crise",
+      "english": "crisis",
+      "level": "B2",
+      "example": "La crise économique a évidemment eu ses effets, en pesant sur le budget du consommateur.",
+      "exampleTranslation": "The economic crisis obviously had an effect, putting pressure on consumers' budgets."
+    },
+    {
+      "french": "la violence",
+      "english": "violence",
+      "level": "C1",
+      "example": "« Cette fiche dévoile une forme de violence symbolique qui persiste dans notre société et qui relève, selon moi, de la responsabilité collective.",
+      "exampleTranslation": "\"This form reveals a kind of symbolic violence that persists in our society and is, in my view, a collective responsibility."
+    },
+    {
+      "french": "l'individualisme (m.)",
+      "english": "individualism",
+      "level": "B2",
+      "example": "L'individualisme a souvent mauvaise presse dans les discours actuels.",
+      "exampleTranslation": "Individualism often has a bad reputation in today's debates."
+    },
+    {
+      "french": "la solitude",
+      "english": "loneliness",
+      "level": "C1",
+      "example": "Solitude, conflit avec les parents, difficultés scolaires.",
+      "exampleTranslation": "Loneliness, conflict with parents, problems at school."
+    },
+    {
+      "french": "le comportement",
+      "english": "behaviour",
+      "level": "B2",
+      "example": "Je vous demande de bien vouloir agir afin qu'ils changent de comportement au plus vite.",
+      "exampleTranslation": "Please take action so that they change their behaviour as soon as possible."
+    },
+    {
+      "french": "l'habitude (f.)",
+      "english": "habit",
+      "level": "B2",
+      "example": "Plus on vieillit, plus il est difficile de changer ses habitudes, d'où l'intérêt de commencer dès le plus jeune âge.",
+      "exampleTranslation": "The older you get, the harder it is to change your habits, which is why it's worth starting young."
+    },
+    {
+      "french": "la tendance",
+      "english": "trend",
+      "level": "B2",
+      "example": "Leurs tâches classiques ont tendance à diminuer au profit de nouvelles responsabilités.",
+      "exampleTranslation": "Their usual tasks tend to decrease in favour of new responsibilities."
+    },
+    {
+      "french": "le phénomène",
+      "english": "phenomenon",
+      "level": "B2",
+      "example": "L'acteur majeur de ce phénomène est l'agriculture, responsable à 80% des déboisements dans les zones tropicales.",
+      "exampleTranslation": "The main driver of this phenomenon is agriculture, responsible for 80% of deforestation in tropical areas."
+    },
+    {
+      "french": "la mondialisation",
+      "english": "globalisation",
+      "level": "C1",
+      "example": "La mondialisation va-t-elle le dissoudre, et nous renvoyer au triste rang de pays",
+      "exampleTranslation": "Will globalisation dissolve it and reduce us to the sad rank of a country"
+    },
+    {
+      "french": "la tradition",
+      "english": "tradition",
+      "level": "B1",
+      "example": "Or, les Basques n'aiment pas se faire voler leurs traditions.",
+      "exampleTranslation": "But the Basques don't like having their traditions stolen."
+    },
+    {
+      "french": "la ville",
+      "english": "city, town",
+      "level": "B1",
+      "example": "Pour la première fois, la ville de Paris recueille l'avis des usagers et des riverains.",
+      "exampleTranslation": "For the first time, the city of Paris is asking users and local residents for their opinion."
+    },
+    {
+      "french": "urbain",
+      "english": "urban",
+      "level": "B2",
+      "example": "La Ville de Paris lance un concours mondial de créations urbaines innovantes.",
+      "exampleTranslation": "The City of Paris is launching a worldwide competition for innovative urban designs."
+    },
+    {
+      "french": "rural",
+      "english": "rural",
+      "level": "C1",
+      "example": "Ils touchent désormais toutes les couches de la population : jeunes, retraités, urbains et ruraux.",
+      "exampleTranslation": "They now reach every part of the population: young people, retirees, city and country dwellers."
+    },
+    {
+      "french": "populaire",
+      "english": "popular; working-class",
+      "level": "B1",
+      "example": "L'occasion de ne rien manquer de ce rendez-vous populaire.",
+      "exampleTranslation": "A chance not to miss any of this popular event."
+    }
+  ]
+}

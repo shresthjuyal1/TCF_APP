@@ -1,0 +1,413 @@
+{
+  "id": "ideas",
+  "title": "Ideas & arguments",
+  "icon": "text.bubble.fill",
+  "words": [
+    {
+      "french": "affirmer",
+      "english": "to claim, to state",
+      "level": "B2",
+      "example": "« Personnellement, je suis très favorable à la cooptation, affirme ce responsable.",
+      "exampleTranslation": "\"Personally, I'm very much in favour of recruiting through referrals,\" says this manager."
+    },
+    {
+      "french": "souligner",
+      "english": "to emphasise, to stress",
+      "level": "C1",
+      "example": "Les lettres muettes, à l'occasion, soulignent les flexions ou les dérivations.",
+      "exampleTranslation": "Silent letters sometimes highlight inflections or word derivations."
+    },
+    {
+      "french": "dénoncer",
+      "english": "to denounce, to condemn",
+      "level": "B2",
+      "example": "Ce qui est agaçant, c'est que, pendant qu'ils jettent la pierre aux particuliers, les médias ne dénoncent pas l'absence d'efforts des milieux industriels !",
+      "exampleTranslation": "What's annoying is that while they blame individuals, the media don't denounce the lack of effort from industry!"
+    },
+    {
+      "french": "critiquer",
+      "english": "to criticise",
+      "level": "C1",
+      "example": "Cette tour est très critiquée, elle a déjà été qualifiée de « trombone géant » ou de « gigantesque gribouillis » par un journaliste du Times.",
+      "exampleTranslation": "This tower is heavily criticised; a Times journalist has already called it a \"giant paper clip\" or a \"gigantic scribble\"."
+    },
+    {
+      "french": "la critique",
+      "english": "criticism; review",
+      "level": "B2",
+      "example": "La plupart reconnaissent que la critique est légitime et que leurs modes d'exploitation sont perfectibles.",
+      "exampleTranslation": "Most admit that the criticism is fair and that their farming methods could be improved."
+    },
+    {
+      "french": "regretter",
+      "english": "to regret",
+      "level": "B2",
+      "example": "« On a beau demander les photos avant retouches, trop souvent on n'y pas accès », regrette-t-elle.",
+      "exampleTranslation": "\"Even when we ask for the photos before retouching, too often we don't get access,\" she regrets."
+    },
+    {
+      "french": "constater",
+      "english": "to note, to observe",
+      "level": "C1",
+      "example": "C'est même écœurant de le constater, ils ne subissent aucune restriction à ce jour !",
+      "exampleTranslation": "It's even sickening to see that they face no restrictions to this day!"
+    },
+    {
+      "french": "le constat",
+      "english": "finding, observation",
+      "level": "B2",
+      "example": "Ce constat ne tient même pas compte de la diminution des quantités d'eau qui seront disponibles.",
+      "exampleTranslation": "This finding doesn't even take into account the reduced amount of water that will be available."
+    },
+    {
+      "french": "estimer",
+      "english": "to consider, to estimate",
+      "level": "C1",
+      "example": "D'autres professeurs estiment que certains élèves se sentent plus encouragés et valorisés.",
+      "exampleTranslation": "Other teachers believe that some students feel more encouraged and valued."
+    },
+    {
+      "french": "défendre",
+      "english": "to defend",
+      "level": "C1",
+      "example": "La langue française n'a pas besoin de se défendre.",
+      "exampleTranslation": "The French language doesn't need to defend itself."
+    },
+    {
+      "french": "soutenir",
+      "english": "to support",
+      "level": "B2",
+      "example": "On se tourne aussi vers le local et le bio, pour connaître l'origine de ce que l'on mange et soutenir les petits producteurs.",
+      "exampleTranslation": "People are also turning to local and organic food, to know where what they eat comes from and to support small producers."
+    },
+    {
+      "french": "encourager",
+      "english": "to encourage",
+      "level": "B2",
+      "example": "La « Maison de la bicyclette » encourage ce type de transport.",
+      "exampleTranslation": "The \"Bicycle House\" encourages this kind of transport."
+    },
+    {
+      "french": "inciter",
+      "english": "to encourage, to urge",
+      "level": "B2",
+      "example": "Mon souci a toujours été d'inciter mes étudiants à ne pas s'enfermer dans une seule vision du monde.",
+      "exampleTranslation": "My aim has always been to encourage my students not to lock themselves into a single view of the world."
+    },
+    {
+      "french": "convaincre",
+      "english": "to convince",
+      "level": "B2",
+      "example": "Il lui fallut du temps pour se convaincre que monter sur scène pour y pousser la chansonnette était encore de son âge.",
+      "exampleTranslation": "It took him time to convince himself he wasn't too old to go on stage and sing."
+    },
+    {
+      "french": "proposer",
+      "english": "to suggest, to offer",
+      "level": "B1",
+      "example": "CuisineAZ.com vous propose de gagner des appareils de cuisine qui facilitent la vie !",
+      "exampleTranslation": "CuisineAZ.com gives you the chance to win kitchen appliances that make life easier!"
+    },
+    {
+      "french": "conseiller",
+      "english": "to advise",
+      "level": "B1",
+      "example": "La mairie conseille aux campeurs de passer la nuit dans le gymnase de la ville.",
+      "exampleTranslation": "The town hall advises campers to spend the night in the town gym."
+    },
+    {
+      "french": "s'inquiéter",
+      "english": "to worry",
+      "level": "B2",
+      "example": "À ce rythme, s'inquiètent les scientifiques, les insectes pourraient disparaître d'ici un siècle.",
+      "exampleTranslation": "At this rate, scientists worry, insects could disappear within a century."
+    },
+    {
+      "french": "la crainte",
+      "english": "fear",
+      "level": "C2",
+      "example": "« On a la crainte de ne pas être assez nombreux », reconnaît le co-secrétaire général du Syndicat national des enseignements du second degré.",
+      "exampleTranslation": "\"We're afraid there won't be enough of us,\" admits the co-general secretary of the national secondary teachers' union."
+    },
+    {
+      "french": "l'avis (m.)",
+      "english": "opinion",
+      "level": "B2",
+      "example": "Pour la première fois, la ville de Paris recueille l'avis des usagers et des riverains.",
+      "exampleTranslation": "For the first time, the city of Paris is asking users and local residents for their opinion."
+    },
+    {
+      "french": "l'opinion (f.)",
+      "english": "opinion",
+      "level": "B2",
+      "example": "Le triomphe d'une opinion émise par Apollinaire mais autrefois combattue.",
+      "exampleTranslation": "The triumph of an opinion put forward by Apollinaire but once opposed."
+    },
+    {
+      "french": "le débat",
+      "english": "debate",
+      "level": "C1",
+      "example": "Le débat a ouvert grand la porte aux envies de bousculer la formation de la jeunesse.",
+      "exampleTranslation": "The debate opened the door wide to the desire to shake up young people's education."
+    },
+    {
+      "french": "la réflexion",
+      "english": "reflection, thinking",
+      "level": "B2",
+      "example": "Souvent, il s'en sert aussi pour lancer une réflexion pendant un cours.",
+      "exampleTranslation": "He often also uses it to get students thinking during a class."
+    },
+    {
+      "french": "le doute",
+      "english": "doubt",
+      "level": "C1",
+      "example": "Elle est synonyme de fin puisque c'est le doute et l'insatisfaction qui font revenir à l'atelier et tout recommencer, tout améliorer.",
+      "exampleTranslation": "It means the end, since it's doubt and dissatisfaction that bring you back to the studio to start over and improve everything."
+    },
+    {
+      "french": "l'intérêt (m.)",
+      "english": "interest; benefit",
+      "level": "C1",
+      "example": "Et là, on comprend qu'au-delà de notre propre désir d'enfant, l'intérêt de l'enfant prime.",
+      "exampleTranslation": "And then we understand that, beyond our own wish for a child, the child's interest comes first."
+    },
+    {
+      "french": "l'avantage (m.)",
+      "english": "advantage",
+      "level": "B2",
+      "example": "Il s'approprie cette logique de rentabilité et d'efficacité en la retournant à son avantage.",
+      "exampleTranslation": "He takes on this logic of profit and efficiency and turns it to his advantage."
+    },
+    {
+      "french": "l'inconvénient (m.)",
+      "english": "drawback",
+      "level": "B1",
+      "example": "Seul inconvénient, le résultat est nettement moins esthétique.",
+      "exampleTranslation": "The only drawback: the result looks much less attractive."
+    },
+    {
+      "french": "l'atout (m.)",
+      "english": "asset, strength",
+      "level": "B2",
+      "example": "Votre sens de l'observation et vos qualités relationnelles sont vos meilleurs atouts pour réussir dans votre mission.",
+      "exampleTranslation": "Your powers of observation and people skills are your best assets for succeeding in your role."
+    },
+    {
+      "french": "le bénéfice",
+      "english": "benefit; profit",
+      "level": "B2",
+      "example": "Les bénéfices du bio pour la santé et pour l'environnement sont aujourd'hui prouvés.",
+      "exampleTranslation": "The benefits of organic food for health and the environment are now proven."
+    },
+    {
+      "french": "l'enjeu (m.)",
+      "english": "stake, issue",
+      "level": "B2",
+      "example": "L'un des grands enjeux de l'enseignement aujourd'hui est la question de la transmission.",
+      "exampleTranslation": "One of the big issues in education today is how knowledge is passed on."
+    },
+    {
+      "french": "le défi",
+      "english": "challenge",
+      "level": "B2",
+      "example": "Ensuite, le « nouveau sportif » pourra se lancer des défis pour améliorer ses performances.",
+      "exampleTranslation": "Then the \"new athlete\" can set themselves challenges to improve their performance."
+    },
+    {
+      "french": "la conséquence",
+      "english": "consequence",
+      "level": "C1",
+      "example": "Les conséquences de l'analphabétisme sont profondes, au point qu'elles peuvent mettre la vie en danger.",
+      "exampleTranslation": "The consequences of illiteracy are serious, to the point that they can put lives at risk."
+    },
+    {
+      "french": "l'impact (m.)",
+      "english": "impact",
+      "level": "B2",
+      "example": "Ils mettent en avant un impact négatif sur « le sommeil, l'alimentation ou l'humeur ».",
+      "exampleTranslation": "They highlight a negative impact on \"sleep, eating habits and mood\"."
+    },
+    {
+      "french": "l'influence (f.)",
+      "english": "influence",
+      "level": "C2",
+      "example": "Il n'y a pas « d'influence sur la concentration ou les résultats scolaires ».",
+      "exampleTranslation": "There is \"no effect on concentration or school results\"."
+    },
+    {
+      "french": "évoquer",
+      "english": "to mention, to evoke",
+      "level": "C1",
+      "example": "Dans l'imaginaire collectif, le sucre évoque douceur, gourmandise, réconfort.",
+      "exampleTranslation": "In people's minds, sugar evokes sweetness, indulgence and comfort."
+    },
+    {
+      "french": "décrire",
+      "english": "to describe",
+      "level": "B2",
+      "example": "Or, si nous voulons agir, il faut pouvoir les décrire précisément », affirme-t-il.",
+      "exampleTranslation": "\"Yet if we want to act, we need to be able to describe them precisely,\" he says."
+    },
+    {
+      "french": "révéler",
+      "english": "to reveal; se révéler = to turn out",
+      "level": "B2",
+      "example": "Et leur durée de vie peut se révéler bien plus courte que sur les chaînes traditionnelles.",
+      "exampleTranslation": "And their lifespan can turn out to be much shorter than on traditional channels."
+    },
+    {
+      "french": "prouver",
+      "english": "to prove",
+      "level": "B2",
+      "example": "Les bénéfices du bio pour la santé et pour l'environnement sont aujourd'hui prouvés.",
+      "exampleTranslation": "The benefits of organic food for health and the environment are now proven."
+    },
+    {
+      "french": "la preuve",
+      "english": "proof",
+      "level": "C1",
+      "example": "Preuve en est son nouvel album, une ode à la vie, à l'amour, aux femmes.",
+      "exampleTranslation": "Proof of this is his new album, an ode to life, love and women."
+    },
+    {
+      "french": "favoriser",
+      "english": "to favour, to promote",
+      "level": "B2",
+      "example": "Par exemple, les parkings-relais se multiplient pour favoriser le covoiturage.",
+      "exampleTranslation": "For example, park-and-ride car parks are multiplying to encourage car-sharing."
+    },
+    {
+      "french": "faciliter",
+      "english": "to make easier",
+      "level": "B2",
+      "example": "CuisineAZ.com vous propose de gagner des appareils de cuisine qui facilitent la vie !",
+      "exampleTranslation": "CuisineAZ.com gives you the chance to win kitchen appliances that make life easier!"
+    },
+    {
+      "french": "permettre",
+      "english": "to allow, to enable",
+      "level": "B2",
+      "example": "Le smartphone, qui permet de rester en lien avec ses copains, arrange donc les parents.",
+      "exampleTranslation": "The smartphone, which lets kids stay in touch with their friends, suits parents."
+    },
+    {
+      "french": "améliorer",
+      "english": "to improve",
+      "level": "B2",
+      "example": "Ensuite, le « nouveau sportif » pourra se lancer des défis pour améliorer ses performances.",
+      "exampleTranslation": "Then the \"new athlete\" can set themselves challenges to improve their performance."
+    },
+    {
+      "french": "l'amélioration (f.)",
+      "english": "improvement",
+      "level": "B2",
+      "example": "Elle est sous-estimée en tant que moyen d'amélioration.",
+      "exampleTranslation": "It is underestimated as a means of improvement."
+    },
+    {
+      "french": "augmenter",
+      "english": "to increase",
+      "level": "B2",
+      "example": "Fil Santé Jeunes a vu ses visites augmenter de 313 % ces dernières années.",
+      "exampleTranslation": "Fil Santé Jeunes has seen its visits increase by 313% in recent years."
+    },
+    {
+      "french": "l'augmentation (f.)",
+      "english": "increase",
+      "level": "B2",
+      "example": "Cette mesure fait suite à une augmentation du nombre d'accidents entre des véhicules et des piétons inattentifs.",
+      "exampleTranslation": "This measure follows an increase in accidents between vehicles and distracted pedestrians."
+    },
+    {
+      "french": "diminuer",
+      "english": "to decrease",
+      "level": "B2",
+      "example": "Peu d'endroits publics échappent aux vérifications, et les escroqueries ont diminué.",
+      "exampleTranslation": "Few public places escape checks, and scams have decreased."
+    },
+    {
+      "french": "la baisse",
+      "english": "fall, drop",
+      "level": "B2",
+      "example": "Ralentissement du traitement de l'information, baisse de l'attention et de notre mémorisation à court terme.",
+      "exampleTranslation": "Slower information processing, reduced attention and weaker short-term memory."
+    },
+    {
+      "french": "la hausse",
+      "english": "rise",
+      "level": "B1",
+      "example": "Mais si les accidents sont moins nombreux, les maladies professionnelles, elles, ne cessent de progresser avec une hausse de 5% en 2009.",
+      "exampleTranslation": "But while there are fewer accidents, work-related illnesses keep rising, up 5% in 2009."
+    },
+    {
+      "french": "développer",
+      "english": "to develop",
+      "level": "C1",
+      "example": "Olivier Pollet, co-fondateur d'Escursia, veut développer le tourisme scientifique.",
+      "exampleTranslation": "Olivier Pollet, co-founder of Escursia, wants to develop science tourism."
+    },
+    {
+      "french": "évoluer",
+      "english": "to evolve, to change",
+      "level": "C1",
+      "example": "Ils jugent avec les facultés cognitives qui sont les leurs, sans admettre que le cerveau évolue.",
+      "exampleTranslation": "They judge with their own mental abilities, without accepting that the brain evolves."
+    },
+    {
+      "french": "transformer",
+      "english": "to transform",
+      "level": "B2",
+      "example": "La démocratie surprend par sa capacité à se transformer tout en restant fidèle à son ambition première.",
+      "exampleTranslation": "Democracy is surprising in its ability to transform itself while staying true to its original aim."
+    },
+    {
+      "french": "lutter contre",
+      "english": "to fight (against)",
+      "level": "B2",
+      "example": "Les solutions pour lutter contre le gaspillage en grande distribution existent donc bel et bien.",
+      "exampleTranslation": "So solutions to fight waste in large supermarkets really do exist."
+    },
+    {
+      "french": "éviter",
+      "english": "to avoid",
+      "level": "B2",
+      "example": "Ils peuvent ainsi développer en classe un programme de prévention pour identifier et éviter les dangers.",
+      "exampleTranslation": "They can develop a prevention programme in class to identify and avoid dangers."
+    },
+    {
+      "french": "valoriser",
+      "english": "to value, to showcase",
+      "level": "B2",
+      "example": "À Grasse, l'association d'insertion Renouer a eu l'excellente idée de valoriser ces denrées pour s'auto-financer.",
+      "exampleTranslation": "In Grasse, the job-integration charity Renouer had the great idea of making use of this food to fund itself."
+    },
+    {
+      "french": "sensibiliser",
+      "english": "to raise awareness",
+      "level": "B2",
+      "example": "C'est la mission de l'école que de sensibiliser les élèves aux grands textes classiques.",
+      "exampleTranslation": "It is the school's mission to introduce students to the great classic texts."
+    },
+    {
+      "french": "susciter",
+      "english": "to arouse, to spark",
+      "level": "C1",
+      "example": "Il se félicite d'ailleurs, sur son site internet, de « susciter encore plus d'émotion ».",
+      "exampleTranslation": "On his website, he is also pleased to \"arouse even more emotion\"."
+    },
+    {
+      "french": "attirer",
+      "english": "to attract",
+      "level": "B2",
+      "example": "Le système éducatif finlandais et les formations en anglais attirent beaucoup.",
+      "exampleTranslation": "The Finnish education system and courses taught in English attract a lot of people."
+    },
+    {
+      "french": "séduire",
+      "english": "to appeal to, to win over",
+      "level": "B2",
+      "example": "Longtemps délaissées, les algues semblent peu à peu séduire les consommateurs.",
+      "exampleTranslation": "Long neglected, seaweed seems to be gradually winning over consumers."
+    }
+  ]
+}

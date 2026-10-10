@@ -1,0 +1,238 @@
+{
+  "id": "food",
+  "title": "Food & eating",
+  "icon": "fork.knife",
+  "words": [
+    {
+      "french": "l'alimentation (f.)",
+      "english": "diet, food",
+      "level": "B2",
+      "example": "Ils mettent en avant un impact négatif sur « le sommeil, l'alimentation ou l'humeur ».",
+      "exampleTranslation": "They highlight a negative impact on \"sleep, eating habits and mood\"."
+    },
+    {
+      "french": "la nourriture",
+      "english": "food",
+      "level": "B2",
+      "example": "Ils vont apporter 40 kg de matériel et 10 kg de nourriture à une école.",
+      "exampleTranslation": "They're going to bring 40 kg of supplies and 10 kg of food to a school."
+    },
+    {
+      "french": "l'aliment (m.)",
+      "english": "food (item)",
+      "level": "B2",
+      "example": "Le cerveau a besoin plus que jamais d'aliments et de nutriments variés pour être le plus efficace.",
+      "exampleTranslation": "The brain needs varied foods and nutrients more than ever to work at its best."
+    },
+    {
+      "french": "alimentaire",
+      "english": "food (adj.)",
+      "level": "B2",
+      "example": "Ces mesures ont permis de réduire les pertes alimentaires de 22 % en trois mois !",
+      "exampleTranslation": "These measures cut food waste by 22% in three months!"
+    },
+    {
+      "french": "le repas",
+      "english": "meal",
+      "level": "A2",
+      "example": "Il vous aidera dans vos déplacements, dans vos recherches, pour vos repas, etc.",
+      "exampleTranslation": "He'll help you get around, with your searches, with your meals, and so on."
+    },
+    {
+      "french": "le déjeuner",
+      "english": "lunch",
+      "level": "A1",
+      "example": "« Prendre une pause déjeuner prépare à une après-midi productive », poursuit-il.",
+      "exampleTranslation": "\"Taking a lunch break sets you up for a productive afternoon,\" he continues."
+    },
+    {
+      "french": "le dîner",
+      "english": "dinner",
+      "level": "A2",
+      "example": "Monsieur l'Ambassadeur de France a le plaisir de vous inviter au dîner qu'il donnera en sa résidence, le jeudi 14 juillet à 20 h.",
+      "exampleTranslation": "The French Ambassador is pleased to invite you to a dinner at his residence on Thursday 14 July at 8 pm."
+    },
+    {
+      "french": "la cuisine",
+      "english": "cooking; kitchen",
+      "level": "A2",
+      "example": "Sur la toile, la cuisine est devenue « l'univers le plus plébiscité avec le voyage ».",
+      "exampleTranslation": "Online, cooking has become \"the most popular topic along with travel\"."
+    },
+    {
+      "french": "cuisiner",
+      "english": "to cook",
+      "level": "A2",
+      "example": "Quand vous cuisinez, prévoyez de grandes quantités et préparez ainsi plusieurs repas en une fois, c'est plus économique.",
+      "exampleTranslation": "When you cook, make large amounts and prepare several meals at once; it's cheaper."
+    },
+    {
+      "french": "la recette",
+      "english": "recipe",
+      "level": "A2",
+      "example": "Le restaurant universitaire vous propose des recettes régionales variées au tarif normal.",
+      "exampleTranslation": "The university restaurant offers a variety of regional dishes at the standard price."
+    },
+    {
+      "french": "le plat",
+      "english": "dish",
+      "level": "B1",
+      "example": "Vous composerez votre menu et dégusterez nos petits plats sous le chapiteau de la buvette.",
+      "exampleTranslation": "You'll choose your menu and enjoy our dishes under the refreshment tent."
+    },
+    {
+      "french": "le dessert",
+      "english": "dessert",
+      "level": "A2",
+      "example": "Au programme, des activités pour enfants et des dégustations de desserts.",
+      "exampleTranslation": "On the programme: activities for children and dessert tastings."
+    },
+    {
+      "french": "la boisson",
+      "english": "drink",
+      "level": "A2",
+      "example": "Au programme : salsa, tango, danse moderne et un goûter (boissons et gâteaux) !",
+      "exampleTranslation": "On the programme: salsa, tango, modern dance and an afternoon snack (drinks and cakes)!"
+    },
+    {
+      "french": "boire",
+      "english": "to drink",
+      "level": "A2",
+      "example": "Tu veux passer à la maison ce soir pour boire un verre ?",
+      "exampleTranslation": "Do you want to come over tonight for a drink?"
+    },
+    {
+      "french": "goûter",
+      "english": "to taste; afternoon snack",
+      "level": "B1",
+      "example": "Au programme : salsa, tango, danse moderne et un goûter (boissons et gâteaux) !",
+      "exampleTranslation": "On the programme: salsa, tango, modern dance and an afternoon snack (drinks and cakes)!"
+    },
+    {
+      "french": "le goût",
+      "english": "taste",
+      "level": "B1",
+      "example": "Bref partout où on aime ce goût piquant et peu piquant qui fait sa légitime réputation.",
+      "exampleTranslation": "In short, wherever people love this spicy-but-not-too-spicy taste that has earned its reputation."
+    },
+    {
+      "french": "la saveur",
+      "english": "flavour",
+      "level": "B1",
+      "example": "Le Marché des saveurs est ouvert : venez y découvrir le savoir-faire de notre région : Poulets rôtis.",
+      "exampleTranslation": "The Flavour Market is open: come and discover our region's know-how: roast chickens."
+    },
+    {
+      "french": "les légumes (m.)",
+      "english": "vegetables",
+      "level": "B1",
+      "example": "Ton repas est dans le réfrigérateur, je t'ai fait du poulet avec des légumes.",
+      "exampleTranslation": "Your meal is in the fridge; I made you chicken with vegetables."
+    },
+    {
+      "french": "les fruits (m.)",
+      "english": "fruit",
+      "level": "B1",
+      "example": "Sur la bouteille de sa boisson de jus de fruits bio, un fabricant utilise une belle image d'ananas et de noix de coco.",
+      "exampleTranslation": "On the bottle of its organic fruit juice, a manufacturer uses a nice picture of a pineapple and coconut."
+    },
+    {
+      "french": "la viande",
+      "english": "meat",
+      "level": "B1",
+      "example": "Il s'agit de la consommation d'une viande qui n'a plus aucune référence à l'animal.",
+      "exampleTranslation": "It's about eating meat that no longer has any link to the animal."
+    },
+    {
+      "french": "le poisson",
+      "english": "fish",
+      "level": "B2",
+      "example": "Aujourd'hui, on achète du poisson, mais on ne veut pas voir les yeux et les arêtes.",
+      "exampleTranslation": "Today people buy fish but don't want to see the eyes and bones."
+    },
+    {
+      "french": "le fromage",
+      "english": "cheese",
+      "level": "B1",
+      "example": "Dimanche, Youenn, 4 ans, mange une portion individuelle de fromage dans la maison familiale.",
+      "exampleTranslation": "On Sunday, 4-year-old Youenn eats a single portion of cheese at the family home."
+    },
+    {
+      "french": "le pain",
+      "english": "bread",
+      "level": "B1",
+      "example": "Peux-tu acheter du pain et du fromage pour le dîner ?",
+      "exampleTranslation": "Can you buy some bread and cheese for dinner?"
+    },
+    {
+      "french": "le chocolat",
+      "english": "chocolate",
+      "level": "A2",
+      "example": "Vous y trouverez des idées cadeaux : biscuits, chocolat, jouets et plein d'autres articles.",
+      "exampleTranslation": "You'll find gift ideas there: biscuits, chocolate, toys and lots of other items."
+    },
+    {
+      "french": "le sucre",
+      "english": "sugar",
+      "level": "A1",
+      "example": "Par exemple, elles exploitent notre préférence innée pour le sucre, à tous les âges.",
+      "exampleTranslation": "For example, they exploit our natural preference for sugar, at every age."
+    },
+    {
+      "french": "le restaurant",
+      "english": "restaurant",
+      "level": "B1",
+      "example": "Il faut décorer la salle du restaurant et je sais que tu as toujours de bonnes idées !",
+      "exampleTranslation": "The restaurant dining room needs decorating, and I know you always have good ideas!"
+    },
+    {
+      "french": "le menu",
+      "english": "menu",
+      "level": "B1",
+      "example": "Vous composerez votre menu et dégusterez nos petits plats sous le chapiteau de la buvette.",
+      "exampleTranslation": "You'll choose your menu and enjoy our dishes under the refreshment tent."
+    },
+    {
+      "french": "la gastronomie",
+      "english": "gastronomy, fine food",
+      "level": "B1",
+      "example": "La clientèle rajeunit et l'univers de la gastronomie se renouvelle.",
+      "exampleTranslation": "Customers are getting younger and the world of fine dining is renewing itself."
+    },
+    {
+      "french": "le producteur",
+      "english": "producer",
+      "level": "B2",
+      "example": "Venez à la rencontre des agriculteurs, producteurs et chefs de votre région !",
+      "exampleTranslation": "Come and meet the farmers, producers and chefs of your region!"
+    },
+    {
+      "french": "local",
+      "english": "local",
+      "level": "C1",
+      "example": "On se tourne aussi vers le local et le bio, pour connaître l'origine de ce que l'on mange et soutenir les petits producteurs.",
+      "exampleTranslation": "People are also turning to local and organic food, to know where what they eat comes from and to support small producers."
+    },
+    {
+      "french": "l'appétit (m.)",
+      "english": "appetite",
+      "level": "B1",
+      "example": "L'insecte pourrait devenir une solution économique à notre appétit de protéines.",
+      "exampleTranslation": "Insects could become a cheap answer to our appetite for protein."
+    },
+    {
+      "french": "la spécialité",
+      "english": "speciality; field of study",
+      "level": "A2",
+      "example": "Présentation des études et des métiers d'ingénieur par les responsables des spécialités sur chaque site.",
+      "exampleTranslation": "Presentation of engineering courses and careers by the heads of each field at every site."
+    },
+    {
+      "french": "la bouteille",
+      "english": "bottle",
+      "level": "B1",
+      "example": "On choisit même sa bouteille de vin à la cave, comme à la maison !",
+      "exampleTranslation": "You even choose your bottle of wine from the cellar, just like at home!"
+    }
+  ]
+}

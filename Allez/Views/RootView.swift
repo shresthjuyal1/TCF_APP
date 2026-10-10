@@ -8,8 +8,8 @@ struct RootView: View {
                 .tabItem { Label("Path", systemImage: "map.fill") }
             SkillPracticeView(skill: .reading)
                 .tabItem { Label("Reading", systemImage: "book.fill") }
-            SkillPracticeView(skill: .grammar)
-                .tabItem { Label("Grammar", systemImage: "textformat.abc") }
+            VocabView()
+                .tabItem { Label("Vocab", systemImage: "character.book.closed.fill") }
             SpeakingView()
                 .tabItem { Label("Speaking", systemImage: "mic.fill") }
         }

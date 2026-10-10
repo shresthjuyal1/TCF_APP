@@ -1,0 +1,259 @@
+{
+  "id": "admin",
+  "title": "Admin & public services",
+  "icon": "building.columns.fill",
+  "words": [
+    {
+      "french": "l'administration (f.)",
+      "english": "administration, civil service",
+      "level": "C2",
+      "example": "Dans le monde de la finance, dans la haute administration, la cravate reste quelque chose de statutaire, estime Serge Carreira.",
+      "exampleTranslation": "In finance and the senior civil service, the tie is still a status symbol, says Serge Carreira."
+    },
+    {
+      "french": "la mairie",
+      "english": "town hall",
+      "level": "B1",
+      "example": "La mairie conseille aux campeurs de passer la nuit dans le gymnase de la ville.",
+      "exampleTranslation": "The town hall advises campers to spend the night in the town gym."
+    },
+    {
+      "french": "le maire",
+      "english": "mayor",
+      "level": "B2",
+      "example": "Cette perspective inquiète le maire de la ville de Rotselaar, où le festival se tient depuis 1975.",
+      "exampleTranslation": "This prospect worries the mayor of Rotselaar, where the festival has been held since 1975."
+    },
+    {
+      "french": "municipal",
+      "english": "municipal, town (adj.)",
+      "level": "B2",
+      "example": "En raison de travaux rue Paul Vaillant, l'accès à la piscine municipale se fera côté boulevard Camélines, du 15 au 25 mars inclus.",
+      "exampleTranslation": "Because of works on rue Paul Vaillant, access to the municipal pool will be from boulevard Camélines, from 15 to 25 March inclusive."
+    },
+    {
+      "french": "le service",
+      "english": "service; department",
+      "level": "B1",
+      "example": "Notre prochaine réunion de service aura lieu mercredi 12 octobre à 13 h en salle 3.",
+      "exampleTranslation": "Our next department meeting will be on Wednesday 12 October at 1 pm in room 3."
+    },
+    {
+      "french": "le guichet",
+      "english": "counter, ticket window",
+      "level": "B1",
+      "example": "Pour un remboursement en espèces, allez à un guichet dans une gare.",
+      "exampleTranslation": "For a cash refund, go to a ticket counter at a station."
+    },
+    {
+      "french": "le formulaire",
+      "english": "form",
+      "level": "A2",
+      "example": "Nous vous remercions de nous confirmer votre présence en remplissant le formulaire ci-joint.",
+      "exampleTranslation": "Please confirm your attendance by filling in the attached form."
+    },
+    {
+      "french": "le dossier",
+      "english": "file, application",
+      "level": "B1",
+      "example": "Les fins de mois sont difficiles, mais mon dossier d'allocation logement vient d'être accepté.",
+      "exampleTranslation": "The end of the month is hard, but my housing benefit application has just been accepted."
+    },
+    {
+      "french": "le document",
+      "english": "document",
+      "level": "B1",
+      "example": "Il prépare ses visites en recherchant des documents pour actualiser ses connaissances.",
+      "exampleTranslation": "He prepares his tours by looking for documents to update his knowledge."
+    },
+    {
+      "french": "remplir",
+      "english": "to fill in; to fill",
+      "level": "B1",
+      "example": "Nous vous remercions de nous confirmer votre présence en remplissant le formulaire ci-joint.",
+      "exampleTranslation": "Please confirm your attendance by filling in the attached form."
+    },
+    {
+      "french": "la demande",
+      "english": "request, application; demand",
+      "level": "B1",
+      "example": "La demande mondiale de protéines va doubler et les insectes, c'est riche en protéines.",
+      "exampleTranslation": "Global demand for protein is going to double, and insects are rich in protein."
+    },
+    {
+      "french": "la démarche",
+      "english": "step, procedure; approach",
+      "level": "B1",
+      "example": "De cet incident naît une démarche patiente, exigeante et iconoclaste.",
+      "exampleTranslation": "This incident gives rise to a patient, demanding and unconventional approach."
+    },
+    {
+      "french": "l'horaire (m.)",
+      "english": "timetable; opening hours",
+      "level": "B2",
+      "example": "Départ de la jetée Thiers tous les jours en juillet et août, en fonction des horaires de la marée.",
+      "exampleTranslation": "Departures from Thiers pier every day in July and August, depending on the tide times."
+    },
+    {
+      "french": "ouvert",
+      "english": "open",
+      "level": "B1",
+      "example": "Le débat a ouvert grand la porte aux envies de bousculer la formation de la jeunesse.",
+      "exampleTranslation": "The debate opened the door wide to the desire to shake up young people's education."
+    },
+    {
+      "french": "fermé",
+      "english": "closed",
+      "level": "B2",
+      "example": "Attention : la bibliothèque sera fermée l'après-midi pour un mois pendant les travaux.",
+      "exampleTranslation": "Note: the library will be closed in the afternoons for a month during the works."
+    },
+    {
+      "french": "la fermeture",
+      "english": "closure; closing time",
+      "level": "B1",
+      "example": "Cette baisse de prix était due à un problème informatique survenu au moment de la fermeture, lorsque les pompes sont devenues automatisées.",
+      "exampleTranslation": "This price drop was caused by a computer problem at closing time, when the pumps switched to automatic."
+    },
+    {
+      "french": "l'ouverture (f.)",
+      "english": "opening",
+      "level": "B1",
+      "example": "La famille propriétaire de ce monument n'a pas changé depuis son ouverture en 1911.",
+      "exampleTranslation": "The family that owns this monument hasn't changed since it opened in 1911."
+    },
+    {
+      "french": "l'adresse (f.)",
+      "english": "address",
+      "level": "B1",
+      "example": "N'oubliez pas d'indiquer une adresse électronique : la réponse vous sera communiquée uniquement par courriel.",
+      "exampleTranslation": "Don't forget to give an email address: the answer will only be sent by email."
+    },
+    {
+      "french": "le numéro",
+      "english": "number",
+      "level": "B1",
+      "example": "Un conseiller prendra contact avec vous très prochainement au numéro de téléphone que vous nous avez communiqué.",
+      "exampleTranslation": "An adviser will contact you very soon at the phone number you gave us."
+    },
+    {
+      "french": "l'accueil (m.)",
+      "english": "reception, welcome",
+      "level": "B1",
+      "example": "Elle a été complètement réaménagée et ses capacités d'accueil augmentées.",
+      "exampleTranslation": "It has been completely refurbished and can now take in more people."
+    },
+    {
+      "french": "l'usager (m.)",
+      "english": "user (of a public service)",
+      "level": "C1",
+      "example": "Pour la première fois, la ville de Paris recueille l'avis des usagers et des riverains.",
+      "exampleTranslation": "For the first time, the city of Paris is asking users and local residents for their opinion."
+    },
+    {
+      "french": "la règle",
+      "english": "rule",
+      "level": "B2",
+      "example": "Pour que celle-ci reste toujours agréable, une règle de base : se préparer.",
+      "exampleTranslation": "To keep it enjoyable, one basic rule: be prepared."
+    },
+    {
+      "french": "le règlement",
+      "english": "regulations; payment",
+      "level": "C1",
+      "example": "S'il s'agit d'un simple oubli, adressez-nous votre règlement à l'aide du coupon- réponse.",
+      "exampleTranslation": "If you simply forgot, send us your payment using the reply slip."
+    },
+    {
+      "french": "obligatoire",
+      "english": "compulsory",
+      "level": "B1",
+      "example": "La rencontre avec les professeurs est obligatoire avant les vacances d'hiver.",
+      "exampleTranslation": "The meeting with the teachers is compulsory before the winter holidays."
+    },
+    {
+      "french": "interdit",
+      "english": "forbidden",
+      "level": "B1",
+      "example": "Pendant les travaux, il est interdit de stationner devant l'entrée du supermarché.",
+      "exampleTranslation": "During the works, parking in front of the supermarket entrance is forbidden."
+    },
+    {
+      "french": "l'autorisation (f.)",
+      "english": "permission, authorisation",
+      "level": "B1",
+      "example": "Il s'adresse aux responsables du site pour organiser la sortie et obtenir les autorisations.",
+      "exampleTranslation": "He contacts the site managers to organise the outing and get the necessary permissions."
+    },
+    {
+      "french": "la carte d'identité",
+      "english": "identity card",
+      "level": "B1",
+      "example": "Il faudra apporter une photocopie de votre carte d'identité et de vos diplômes.",
+      "exampleTranslation": "You'll need to bring a photocopy of your identity card and your diplomas."
+    },
+    {
+      "french": "la réclamation",
+      "english": "complaint",
+      "level": "B1",
+      "example": "Or nous sommes le 5 novembre et, malgré mes nombreuses réclamations, je ne l'ai toujours pas reçue.",
+      "exampleTranslation": "Yet it's now 5 November and, despite my many complaints, I still haven't received it."
+    },
+    {
+      "french": "signaler",
+      "english": "to report, to point out",
+      "level": "B2",
+      "example": "Les chutes d'attention et le relâchement musculaire signalent un besoin des plus naturels : dormir.",
+      "exampleTranslation": "Drops in attention and relaxed muscles signal a very natural need: sleep."
+    },
+    {
+      "french": "confirmer",
+      "english": "to confirm",
+      "level": "B1",
+      "example": "Nous vous remercions de nous confirmer votre présence en remplissant le formulaire ci-joint.",
+      "exampleTranslation": "Please confirm your attendance by filling in the attached form."
+    },
+    {
+      "french": "informer",
+      "english": "to inform",
+      "level": "B1",
+      "example": "Les personnels concernés seront informés individuellement par courrier recommandé.",
+      "exampleTranslation": "The staff concerned will be informed individually by registered letter."
+    },
+    {
+      "french": "prévenir",
+      "english": "to warn, to notify; to prevent",
+      "level": "B2",
+      "example": "C'est une réaction à la fois physique et mentale, une paralysie qui nous saisit sans nous prévenir.",
+      "exampleTranslation": "It's both a physical and mental reaction, a paralysis that grips us without warning."
+    },
+    {
+      "french": "le délai",
+      "english": "time limit, deadline; delay",
+      "level": "A2",
+      "example": "Les faire parvenir à Mme Létourneau, bureau du personnel, 2e étage, avant le 20 avril, dernier délai.",
+      "exampleTranslation": "Send them to Ms Létourneau, HR office, 2nd floor, by 20 April at the latest."
+    },
+    {
+      "french": "envoyer",
+      "english": "to send",
+      "level": "B1",
+      "example": "Suite à votre courrier du 17 juin dernier, je vous envoie le catalogue de nos produits.",
+      "exampleTranslation": "Following your letter of 17 June, I'm sending you our product catalogue."
+    },
+    {
+      "french": "recevoir",
+      "english": "to receive",
+      "level": "B1",
+      "example": "Cette solution toute simple réduira le nombre de messages que vous recevrez chaque jour.",
+      "exampleTranslation": "This very simple solution will reduce the number of messages you receive every day."
+    },
+    {
+      "french": "la sécurité",
+      "english": "safety, security",
+      "level": "B1",
+      "example": "Les champs de mise en œuvre des robots sont légion : production, services, gestion des données, vie urbaine, sécurité, loisirs, domotique.",
+      "exampleTranslation": "Robots can be used in countless fields: production, services, data management, city life, security, leisure, home automation."
+    }
+  ]
+}

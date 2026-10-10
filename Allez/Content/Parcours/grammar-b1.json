@@ -1,0 +1,1687 @@
+{
+  "id": "grammar-b1",
+  "title": "Grammar B1",
+  "kind": "practice",
+  "questions": [
+    {
+      "id": "b1-pc-imparfait-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je ___ la télé quand Paul est arrivé.",
+      "options": [
+        "regarderai",
+        "regarderais",
+        "regardais",
+        "regarde"
+      ],
+      "correctIndex": 2,
+      "explanation": "An ongoing action interrupted by an event: imparfait, je regardais."
+    },
+    {
+      "id": "b1-pc-imparfait-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Quand j'étais petit, je ___ au parc tous les dimanches.",
+      "options": [
+        "vais",
+        "irai",
+        "irais",
+        "allais"
+      ],
+      "correctIndex": 3,
+      "explanation": "A repeated habit in the past: imparfait."
+    },
+    {
+      "id": "b1-pc-imparfait-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Soudain, le téléphone ___.",
+      "options": [
+        "sonnera",
+        "a sonné",
+        "sonnerait",
+        "sonnait"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Soudain\" signals a sudden, single event: passé composé."
+    },
+    {
+      "id": "b1-pc-imparfait-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il ___ beau, alors nous avons fait une promenade.",
+      "options": [
+        "faisait",
+        "ferait",
+        "fera",
+        "fait"
+      ],
+      "correctIndex": 0,
+      "explanation": "The weather is background: imparfait."
+    },
+    {
+      "id": "b1-pc-imparfait-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Hier, j'___ trois heures à la bibliothèque.",
+      "options": [
+        "ai passé",
+        "passe",
+        "passais",
+        "passerai"
+      ],
+      "correctIndex": 0,
+      "explanation": "A completed action with a fixed duration (hier, trois heures): passé composé."
+    },
+    {
+      "id": "b1-pc-imparfait-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Pendant que tu ___, j'ai préparé le dîner.",
+      "options": [
+        "dormais",
+        "dormiras",
+        "dormirais",
+        "dors"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Pendant que\" introduces an ongoing background action: imparfait."
+    },
+    {
+      "id": "b1-pc-imparfait-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "L'an dernier, nous ___ en Grèce pour la première fois.",
+      "options": [
+        "irions",
+        "sommes allés",
+        "allons",
+        "irons"
+      ],
+      "correctIndex": 1,
+      "explanation": "One specific, completed trip: passé composé."
+    },
+    {
+      "id": "b1-pc-imparfait-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "La maison ___ grande et il y avait un beau jardin.",
+      "options": [
+        "est",
+        "était",
+        "serait",
+        "sera"
+      ],
+      "correctIndex": 1,
+      "explanation": "A description in the past: imparfait."
+    },
+    {
+      "id": "b1-pc-imparfait-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Elle ___ son diplôme en 2019.",
+      "options": [
+        "obtiendra",
+        "obtient",
+        "a obtenu",
+        "obtiendrait"
+      ],
+      "correctIndex": 2,
+      "explanation": "A single completed event at a past date: passé composé."
+    },
+    {
+      "id": "b1-pc-imparfait-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "À cette époque, mon père ___ dans une usine.",
+      "options": [
+        "travaillera",
+        "travaillerait",
+        "travaillait",
+        "travaille"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"À cette époque\" (back then) describes a past situation: imparfait."
+    },
+    {
+      "id": "b1-futur-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "L'année prochaine, je ___ en France.",
+      "options": [
+        "serai",
+        "suis",
+        "serais",
+        "sera"
+      ],
+      "correctIndex": 0,
+      "explanation": "Future of être: je serai. (Serais is the conditional.)"
+    },
+    {
+      "id": "b1-futur-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Demain, nous ___ au musée.",
+      "options": [
+        "irions",
+        "allerons",
+        "irons",
+        "iront"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aller has an irregular future stem, ir-: nous irons."
+    },
+    {
+      "id": "b1-futur-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Vous ___ le temps de m'aider ce soir ?",
+      "options": [
+        "auront",
+        "aurons",
+        "aurez",
+        "avrez"
+      ],
+      "correctIndex": 2,
+      "explanation": "Future of avoir: vous aurez."
+    },
+    {
+      "id": "b1-futur-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il ___ beau tout le week-end.",
+      "options": [
+        "fairait",
+        "ferons",
+        "faira",
+        "fera"
+      ],
+      "correctIndex": 3,
+      "explanation": "Faire → fer-: il fera."
+    },
+    {
+      "id": "b1-futur-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Quand tu ___ à Paris, tu m'appelleras ?",
+      "options": [
+        "arriveras",
+        "arrive",
+        "arrives",
+        "arriverais"
+      ],
+      "correctIndex": 0,
+      "explanation": "After quand about the future, French uses the future: quand tu arriveras. (Unlike English \"when you arrive\".)"
+    },
+    {
+      "id": "b1-futur-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Ils ___ venir à la fête.",
+      "options": [
+        "pouveront",
+        "pourrons",
+        "pourront",
+        "pourrait"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pouvoir → pourr-: ils pourront."
+    },
+    {
+      "id": "b1-futur-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je ___ ma réponse avant vendredi.",
+      "options": [
+        "envoierai",
+        "enverrai",
+        "enverrais",
+        "envoyerai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Envoyer has an irregular future stem: j'enverrai."
+    },
+    {
+      "id": "b1-futur-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Nous ___ les résultats dans deux semaines.",
+      "options": [
+        "sauront",
+        "savrons",
+        "saurions",
+        "saurons"
+      ],
+      "correctIndex": 3,
+      "explanation": "Savoir → saur-: nous saurons."
+    },
+    {
+      "id": "b1-futur-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Demain, il ___ partir tôt pour éviter les bouchons.",
+      "options": [
+        "faudrat",
+        "faudra",
+        "fallera",
+        "fallira"
+      ],
+      "correctIndex": 1,
+      "explanation": "Falloir → il faudra (it will be necessary)."
+    },
+    {
+      "id": "b1-futur-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Elle ___ médecin dans trois ans.",
+      "options": [
+        "devendra",
+        "devenira",
+        "deviendrait",
+        "deviendra"
+      ],
+      "correctIndex": 3,
+      "explanation": "Devenir → deviendr-: elle deviendra."
+    },
+    {
+      "id": "b1-y-en-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Tu vas souvent à la piscine ? — Oui, j'___ vais deux fois par semaine.",
+      "options": [
+        "lui",
+        "la",
+        "en",
+        "y"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"À la piscine\" is a place: j'y vais."
+    },
+    {
+      "id": "b1-y-en-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Vous voulez du café ? — Oui, j'___ veux bien.",
+      "options": [
+        "lui",
+        "le",
+        "y",
+        "en"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Du café\" (de + noun): j'en veux bien."
+    },
+    {
+      "id": "b1-y-en-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Combien de frères as-tu ? — J'___ ai deux.",
+      "options": [
+        "les",
+        "y",
+        "en",
+        "leur"
+      ],
+      "correctIndex": 2,
+      "explanation": "With a number, keep the number and replace the noun with en: j'en ai deux."
+    },
+    {
+      "id": "b1-y-en-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il habite à Québec depuis 2010 ? — Oui, il ___ habite depuis 2010.",
+      "options": [
+        "là",
+        "en",
+        "y",
+        "le"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"À Québec\" is a place: il y habite."
+    },
+    {
+      "id": "b1-y-en-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Tu as pensé à ton rendez-vous ? — Oui, j'___ ai pensé.",
+      "options": [
+        "lui",
+        "y",
+        "le",
+        "en"
+      ],
+      "correctIndex": 1,
+      "explanation": "Penser à + a thing: y. J'y ai pensé."
+    },
+    {
+      "id": "b1-y-en-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Elle revient de Montréal ? — Oui, elle ___ revient.",
+      "options": [
+        "de",
+        "là",
+        "y",
+        "en"
+      ],
+      "correctIndex": 3,
+      "explanation": "Revenir de + place: elle en revient."
+    },
+    {
+      "id": "b1-y-en-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Vous parlez de vos projets ? — Oui, nous ___ parlons souvent.",
+      "options": [
+        "les",
+        "leur",
+        "en",
+        "y"
+      ],
+      "correctIndex": 2,
+      "explanation": "Parler de + thing: nous en parlons."
+    },
+    {
+      "id": "b1-y-en-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il reste du pain ? — Non, il n'___ reste plus.",
+      "options": [
+        "en",
+        "le",
+        "lui",
+        "y"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Du pain\": il n'en reste plus."
+    },
+    {
+      "id": "b1-y-en-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Tu t'intéresses à la politique ? — Oui, je m'___ intéresse beaucoup.",
+      "options": [
+        "lui",
+        "y",
+        "la",
+        "en"
+      ],
+      "correctIndex": 1,
+      "explanation": "S'intéresser à + thing: je m'y intéresse."
+    },
+    {
+      "id": "b1-y-en-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Tu as acheté des pommes ? — Oui, j'___ ai acheté un kilo.",
+      "options": [
+        "y",
+        "en",
+        "leur",
+        "les"
+      ],
+      "correctIndex": 1,
+      "explanation": "A quantity (un kilo) of \"des pommes\": j'en ai acheté un kilo."
+    },
+    {
+      "id": "b1-relatifs-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "J'ai un ami ___ habite à Lyon.",
+      "options": [
+        "qui",
+        "où",
+        "que",
+        "dont"
+      ],
+      "correctIndex": 0,
+      "explanation": "The friend is the subject of \"habite\": qui."
+    },
+    {
+      "id": "b1-relatifs-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Le film ___ nous avons vu hier était excellent.",
+      "options": [
+        "où",
+        "que",
+        "qui",
+        "dont"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Nous\" is the subject; the film is the direct object of \"avons vu\": que."
+    },
+    {
+      "id": "b1-relatifs-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "C'est la ville ___ je suis né.",
+      "options": [
+        "que",
+        "dont",
+        "qui",
+        "où"
+      ],
+      "correctIndex": 3,
+      "explanation": "For a place, use où."
+    },
+    {
+      "id": "b1-relatifs-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Voici le dictionnaire ___ j'ai besoin.",
+      "options": [
+        "que",
+        "dont",
+        "qui",
+        "où"
+      ],
+      "correctIndex": 1,
+      "explanation": "Avoir besoin de → dont."
+    },
+    {
+      "id": "b1-relatifs-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "La dame ___ tu parles est ma voisine.",
+      "options": [
+        "qui",
+        "où",
+        "dont",
+        "que"
+      ],
+      "correctIndex": 2,
+      "explanation": "Parler de quelqu'un → dont."
+    },
+    {
+      "id": "b1-relatifs-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je me souviens du jour ___ nous nous sommes rencontrés.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "correctIndex": 3,
+      "explanation": "For a moment in time (le jour), use où."
+    },
+    {
+      "id": "b1-relatifs-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Les gâteaux ___ elle prépare sont délicieux.",
+      "options": [
+        "qu'",
+        "qui",
+        "dont",
+        "que"
+      ],
+      "correctIndex": 0,
+      "explanation": "Direct object before a vowel: qu'."
+    },
+    {
+      "id": "b1-relatifs-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "C'est un écrivain ___ les livres sont traduits en 30 langues.",
+      "options": [
+        "qui",
+        "dont",
+        "que",
+        "où"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Les livres de cet écrivain\" (whose books): dont."
+    },
+    {
+      "id": "b1-relatifs-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "La personne ___ a appelé n'a pas laissé de message.",
+      "options": [
+        "dont",
+        "qui",
+        "qu'",
+        "que"
+      ],
+      "correctIndex": 1,
+      "explanation": "The person is the subject of \"a appelé\": qui."
+    },
+    {
+      "id": "b1-relatifs-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Montréal est une ville ___ j'aime beaucoup.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "correctIndex": 0,
+      "explanation": "J'aime la ville (direct object): que. Not où, because aimer takes a direct object."
+    },
+    {
+      "id": "b1-imperatif-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "___ tes devoirs avant de jouer !",
+      "options": [
+        "Fais-tu",
+        "Fais",
+        "Fait",
+        "Faire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Imperative of faire (tu): fais."
+    },
+    {
+      "id": "b1-imperatif-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il fait froid, ___ la fenêtre !",
+      "options": [
+        "fermes",
+        "ferme",
+        "fermer",
+        "fermé"
+      ],
+      "correctIndex": 1,
+      "explanation": "-er verbs drop the -s in the tu imperative: ferme."
+    },
+    {
+      "id": "b1-imperatif-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "___ patients, le spectacle va commencer.",
+      "options": [
+        "Être",
+        "Soyez",
+        "Êtes",
+        "Soyiez"
+      ],
+      "correctIndex": 1,
+      "explanation": "Être is irregular in the imperative: soyez."
+    },
+    {
+      "id": "b1-imperatif-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "N'___ pas peur, ce chien est gentil.",
+      "options": [
+        "avoir",
+        "ai",
+        "aie",
+        "as"
+      ],
+      "correctIndex": 2,
+      "explanation": "Avoir is irregular in the imperative: n'aie pas peur."
+    },
+    {
+      "id": "b1-imperatif-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Ce gâteau est délicieux, ___ !",
+      "options": [
+        "goûte-lui",
+        "goûtes-le",
+        "goûte-le",
+        "le goûte"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a positive command, the pronoun goes after the verb with a hyphen: goûte-le."
+    },
+    {
+      "id": "b1-imperatif-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Ne ___ pas, je vais t'aider.",
+      "options": [
+        "t'inquiètes",
+        "inquiète-toi",
+        "inquiète-te",
+        "t'inquiète"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a negative command, the pronoun stays before the verb: ne t'inquiète pas."
+    },
+    {
+      "id": "b1-imperatif-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il fait beau : ___ ensemble ce soir !",
+      "options": [
+        "sortions",
+        "sortons",
+        "sortir",
+        "sortez-nous"
+      ],
+      "correctIndex": 1,
+      "explanation": "The nous imperative suggests doing something together: sortons !"
+    },
+    {
+      "id": "b1-imperatif-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Donne-___ ton numéro de téléphone.",
+      "options": [
+        "moi",
+        "m'",
+        "je",
+        "me"
+      ],
+      "correctIndex": 0,
+      "explanation": "After the verb, me becomes moi: donne-moi."
+    },
+    {
+      "id": "b1-imperatif-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "___ attention aux enfants, s'il vous plaît.",
+      "options": [
+        "Faisez",
+        "Fait",
+        "Faire",
+        "Faites"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vous form of faire: faites."
+    },
+    {
+      "id": "b1-imperatif-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Tu veux des fraises ? ___ !",
+      "options": [
+        "Prends-en",
+        "Prend-en",
+        "Prends-y",
+        "En prends"
+      ],
+      "correctIndex": 0,
+      "explanation": "Positive command + en: prends-en (prendre keeps its -s)."
+    },
+    {
+      "id": "b1-conditionnel-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je ___ réserver une table pour deux, s'il vous plaît.",
+      "options": [
+        "voudrais",
+        "voudrai",
+        "voudrait",
+        "voudraient"
+      ],
+      "correctIndex": 0,
+      "explanation": "A polite request uses the conditional: je voudrais. (Voudrai, without -s, is the future.)"
+    },
+    {
+      "id": "b1-conditionnel-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "___-vous m'indiquer la gare, s'il vous plaît ?",
+      "options": [
+        "Pourriiez",
+        "Pourrions",
+        "Pourriez",
+        "Pourraient"
+      ],
+      "correctIndex": 2,
+      "explanation": "A polite question uses the conditional of pouvoir: pourriez-vous."
+    },
+    {
+      "id": "b1-conditionnel-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Tu es fatigué : tu ___ dormir un peu.",
+      "options": [
+        "devrait",
+        "devrai",
+        "devraient",
+        "devrais"
+      ],
+      "correctIndex": 3,
+      "explanation": "Advice uses the conditional of devoir: tu devrais (you should)."
+    },
+    {
+      "id": "b1-conditionnel-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Avec plus d'argent, nous ___ une maison à la campagne.",
+      "options": [
+        "achèteraient",
+        "achèteriez",
+        "achèterions",
+        "achèterais"
+      ],
+      "correctIndex": 2,
+      "explanation": "Imaginary situation, nous form: nous achèterions."
+    },
+    {
+      "id": "b1-conditionnel-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il ___ mieux partir maintenant.",
+      "options": [
+        "vaudrions",
+        "valerait",
+        "vaudrait",
+        "vaudrais"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Il vaudrait mieux\" = it would be better (conditional of valoir)."
+    },
+    {
+      "id": "b1-conditionnel-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Selon les médias, l'accident ___ dû à la pluie.",
+      "options": [
+        "serai",
+        "serais",
+        "serait",
+        "seraient"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the news, the conditional presents unconfirmed information: serait (reportedly)."
+    },
+    {
+      "id": "b1-conditionnel-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "J'___ bien partir en vacances, mais je dois travailler.",
+      "options": [
+        "aimerait",
+        "aimerais",
+        "aimeraient",
+        "aimerai"
+      ],
+      "correctIndex": 1,
+      "explanation": "A wish uses the conditional: j'aimerais bien."
+    },
+    {
+      "id": "b1-conditionnel-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Vous ___ venir dîner samedi ?",
+      "options": [
+        "voudraient",
+        "voudrais",
+        "voudriez",
+        "voudrions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vous takes -iez: vous voudriez."
+    },
+    {
+      "id": "b1-conditionnel-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "À ta place, je ___ à ce poste.",
+      "options": [
+        "postulerais",
+        "postuleraient",
+        "postulerait",
+        "postulerai"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"À ta place\" (if I were you) introduces advice: je postulerais."
+    },
+    {
+      "id": "b1-conditionnel-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Ce ___ génial de se revoir !",
+      "options": [
+        "seraient",
+        "serait",
+        "serions",
+        "serais"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ce takes the third person: ce serait."
+    },
+    {
+      "id": "b1-si-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "S'il ___ demain, nous resterons à la maison.",
+      "options": [
+        "pleuvra",
+        "pleuvait",
+        "pleuvrait",
+        "pleut"
+      ],
+      "correctIndex": 3,
+      "explanation": "Si + présent, then futur: s'il pleut. Never the future after si."
+    },
+    {
+      "id": "b1-si-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Si j'avais plus de temps, j'___ le piano.",
+      "options": [
+        "apprenais",
+        "apprendrais",
+        "apprends",
+        "apprendrai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Si + imparfait, then conditionnel: j'apprendrais."
+    },
+    {
+      "id": "b1-si-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Si tu ___ fatigué, repose-toi.",
+      "options": [
+        "étais",
+        "es",
+        "seras",
+        "serais"
+      ],
+      "correctIndex": 1,
+      "explanation": "Si + présent, then impératif: si tu es fatigué."
+    },
+    {
+      "id": "b1-si-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Si nous ___ riches, nous voyagerions partout.",
+      "options": [
+        "sommes",
+        "serions",
+        "serons",
+        "étions"
+      ],
+      "correctIndex": 3,
+      "explanation": "The main clause is conditional, so si + imparfait: si nous étions."
+    },
+    {
+      "id": "b1-si-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Si vous arrivez avant 18 h, vous ___ visiter le musée.",
+      "options": [
+        "pouvaient",
+        "pouviez",
+        "pourrez",
+        "pourrons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Si + présent, then futur: vous pourrez."
+    },
+    {
+      "id": "b1-si-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Qu'est-ce que tu ferais si tu ___ ton travail ?",
+      "options": [
+        "perdais",
+        "perdras",
+        "perds",
+        "perdrais"
+      ],
+      "correctIndex": 0,
+      "explanation": "The main clause is conditional (ferais), so si + imparfait: si tu perdais."
+    },
+    {
+      "id": "b1-si-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Si elle ___ le temps, elle viendrait avec nous.",
+      "options": [
+        "aura",
+        "avait",
+        "a",
+        "aurait"
+      ],
+      "correctIndex": 1,
+      "explanation": "Si + imparfait, then conditionnel: si elle avait."
+    },
+    {
+      "id": "b1-si-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Si on ___ au cinéma ce soir ?",
+      "options": [
+        "allait",
+        "ira",
+        "aille",
+        "irait"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Si on + imparfait ?\" makes a suggestion: si on allait au cinéma ? (How about going…?)"
+    },
+    {
+      "id": "b1-si-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je t'appellerai si j'___ un problème.",
+      "options": [
+        "ai",
+        "avais",
+        "aurai",
+        "aurais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Real condition with a future in the main clause: si + présent."
+    },
+    {
+      "id": "b1-si-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Si j'étais toi, je ___ ce travail.",
+      "options": [
+        "n'accepte pas",
+        "n'acceptais pas",
+        "n'accepterai pas",
+        "n'accepterais pas"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Si j'étais toi\" (if I were you), then conditionnel: je n'accepterais pas."
+    },
+    {
+      "id": "b1-pqp-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Quand nous sommes arrivés à la gare, le train ___.",
+      "options": [
+        "était déjà parti",
+        "partirait déjà",
+        "partira déjà",
+        "part déjà"
+      ],
+      "correctIndex": 0,
+      "explanation": "The train left before we arrived: plus-que-parfait, était déjà parti."
+    },
+    {
+      "id": "b1-pqp-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "J'ai réussi l'examen parce que j'___ beaucoup.",
+      "options": [
+        "avais travaillé",
+        "travaillerai",
+        "aurai travaillé",
+        "travaillerais"
+      ],
+      "correctIndex": 0,
+      "explanation": "The work came before the past result: plus-que-parfait."
+    },
+    {
+      "id": "b1-pqp-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Elle ne savait pas que tu ___ en France.",
+      "options": [
+        "viendras",
+        "viens",
+        "étais venu",
+        "seras venu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Your coming happened before her not knowing: plus-que-parfait."
+    },
+    {
+      "id": "b1-pqp-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il a perdu le livre que je lui ___.",
+      "options": [
+        "prête",
+        "avais prêté",
+        "prêterais",
+        "prêterai"
+      ],
+      "correctIndex": 1,
+      "explanation": "The lending came before the losing: plus-que-parfait."
+    },
+    {
+      "id": "b1-pqp-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Le directeur était en colère : personne n'___ le rapport.",
+      "options": [
+        "lira",
+        "avait lu",
+        "lit",
+        "lirait"
+      ],
+      "correctIndex": 1,
+      "explanation": "Before the past moment (he was angry): plus-que-parfait, personne n'avait lu."
+    },
+    {
+      "id": "b1-pqp-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Elles étaient tristes parce que leur chat ___.",
+      "options": [
+        "disparaîtrait",
+        "avait disparu",
+        "disparaît",
+        "disparaîtra"
+      ],
+      "correctIndex": 1,
+      "explanation": "The earlier past action: plus-que-parfait."
+    },
+    {
+      "id": "b1-pqp-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il m'a dit qu'il ___ son permis la semaine précédente.",
+      "options": [
+        "obtiendrait",
+        "obtient",
+        "avait obtenu",
+        "obtiendra"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reported past action that came earlier: plus-que-parfait."
+    },
+    {
+      "id": "b1-pqp-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je n'avais jamais ___ un si beau paysage.",
+      "options": [
+        "vu",
+        "voir",
+        "verrai",
+        "vois"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plus-que-parfait = avoir in the imparfait + past participle: avais vu."
+    },
+    {
+      "id": "b1-pqp-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Quand je suis rentré, mes enfants s'___ déjà couchés.",
+      "options": [
+        "seront",
+        "avaient",
+        "étaient",
+        "sont"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reflexive verbs use être: ils s'étaient couchés."
+    },
+    {
+      "id": "b1-pqp-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Tu ___ déjà visité Paris avant ce voyage ?",
+      "options": [
+        "avait",
+        "auras",
+        "étais",
+        "avais"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Avant ce voyage\" (before another past event): plus-que-parfait, tu avais visité."
+    },
+    {
+      "id": "b1-subjonctif-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il faut que tu ___ tes devoirs.",
+      "options": [
+        "fais",
+        "feras",
+        "fasses",
+        "ferais"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Il faut que\" takes the subjunctive: que tu fasses."
+    },
+    {
+      "id": "b1-subjonctif-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je veux que vous ___ à l'heure demain.",
+      "options": [
+        "êtes",
+        "serez",
+        "soyez",
+        "étiez"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Vouloir que\" takes the subjunctive of être: que vous soyez."
+    },
+    {
+      "id": "b1-subjonctif-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il est important que nous ___ ensemble.",
+      "options": [
+        "parlions",
+        "parlons",
+        "parlerions",
+        "parlerons"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Il est important que\" takes the subjunctive: que nous parlions."
+    },
+    {
+      "id": "b1-subjonctif-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Ma mère souhaite que j'___ un bon travail.",
+      "options": [
+        "avais",
+        "aie",
+        "ai",
+        "aurai"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Souhaiter que\" takes the subjunctive of avoir: que j'aie."
+    },
+    {
+      "id": "b1-subjonctif-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je suis heureux que tu ___ venir.",
+      "options": [
+        "pourrais",
+        "puisses",
+        "peux",
+        "pourras"
+      ],
+      "correctIndex": 1,
+      "explanation": "Emotion + que takes the subjunctive: que tu puisses."
+    },
+    {
+      "id": "b1-subjonctif-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il faut qu'elle ___ chez le médecin.",
+      "options": [
+        "aille",
+        "allait",
+        "ira",
+        "va"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subjunctive of aller: qu'elle aille."
+    },
+    {
+      "id": "b1-subjonctif-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Le professeur veut que les élèves ___ le texte.",
+      "options": [
+        "liront",
+        "lisent",
+        "lise",
+        "lisaient"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Vouloir que\" takes the subjunctive: qu'ils lisent. (Lise is singular.)"
+    },
+    {
+      "id": "b1-subjonctif-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il est possible qu'il ___ demain.",
+      "options": [
+        "pleuvait",
+        "pleut",
+        "pleuve",
+        "pleuvra"
+      ],
+      "correctIndex": 2,
+      "explanation": "Possibility (uncertainty) takes the subjunctive: qu'il pleuve."
+    },
+    {
+      "id": "b1-subjonctif-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je préfère que tu ___ la vérité.",
+      "options": [
+        "saches",
+        "savais",
+        "sauras",
+        "sais"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Préférer que\" takes the subjunctive of savoir: que tu saches."
+    },
+    {
+      "id": "b1-subjonctif-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il faut que je ___ avant 18 h.",
+      "options": [
+        "partirai",
+        "parte",
+        "partais",
+        "pars"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Il faut que\" takes the subjunctive of partir: que je parte."
+    },
+    {
+      "id": "b1-discours-indirect-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "« J'ai faim. » → Il dit ___ il a faim.",
+      "options": [
+        "de",
+        "ce qu'",
+        "qu'",
+        "si"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reported statements use que (qu'): il dit qu'il a faim."
+    },
+    {
+      "id": "b1-discours-indirect-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "« Tu viens ce soir ? » → Elle me demande ___ je viens ce soir.",
+      "options": [
+        "si",
+        "que",
+        "quoi",
+        "ce que"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yes/no questions are reported with si."
+    },
+    {
+      "id": "b1-discours-indirect-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "« Qu'est-ce que tu fais ? » → Il me demande ___ je fais.",
+      "options": [
+        "qu'est-ce que",
+        "que",
+        "quoi",
+        "ce que"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Qu'est-ce que\" becomes \"ce que\" in reported speech."
+    },
+    {
+      "id": "b1-discours-indirect-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "« Ferme la porte ! » → Elle me dit ___ fermer la porte.",
+      "options": [
+        "que",
+        "à",
+        "de",
+        "si"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reported commands: dire de + infinitive."
+    },
+    {
+      "id": "b1-discours-indirect-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "« Où habitez-vous ? » → Il demande ___ nous habitons.",
+      "options": [
+        "si",
+        "ce que",
+        "qu'",
+        "où"
+      ],
+      "correctIndex": 3,
+      "explanation": "Question words (où, quand, comment…) stay the same."
+    },
+    {
+      "id": "b1-discours-indirect-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "« Qu'est-ce qui se passe ? » → Je me demande ___ se passe.",
+      "options": [
+        "qui",
+        "ce que",
+        "ce qui",
+        "qu'est-ce qui"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Qu'est-ce qui\" becomes \"ce qui\"."
+    },
+    {
+      "id": "b1-discours-indirect-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "« Nous sommes contents de notre voyage. » → Ils disent qu'___ contents de leur voyage.",
+      "options": [
+        "nous sommes",
+        "ils sont",
+        "vous êtes",
+        "ils étaient"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reporting verb is in the present, so the tense doesn't change; nous becomes ils."
+    },
+    {
+      "id": "b1-discours-indirect-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "« Je vous appellerai demain. » → Elle dit qu'elle nous ___ demain.",
+      "options": [
+        "appellerai",
+        "appellera",
+        "appelais",
+        "appellerait"
+      ],
+      "correctIndex": 1,
+      "explanation": "With \"dit\" in the present, the tense stays the same: elle nous appellera. (Appellerai is the je form.)"
+    },
+    {
+      "id": "b1-discours-indirect-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "« Est-ce que le musée est ouvert ? » → Le touriste demande ___ le musée est ouvert.",
+      "options": [
+        "est-ce que",
+        "que",
+        "si",
+        "ce que"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yes/no question: si."
+    },
+    {
+      "id": "b1-discours-indirect-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "« Pourquoi pars-tu ? » → Il me demande pourquoi ___.",
+      "options": [
+        "je pars",
+        "tu pars",
+        "pars-je",
+        "est-ce que je pars"
+      ],
+      "correctIndex": 0,
+      "explanation": "Indirect questions have no inversion, and tu becomes je when the question is about me."
+    },
+    {
+      "id": "b1-cause-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Le vol a été annulé ___ la tempête.",
+      "options": [
+        "car",
+        "à cause de",
+        "grâce à",
+        "parce que"
+      ],
+      "correctIndex": 1,
+      "explanation": "A negative cause + noun: à cause de la tempête."
+    },
+    {
+      "id": "b1-cause-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "___ à ses efforts, il a obtenu son diplôme.",
+      "options": [
+        "Car",
+        "À cause",
+        "Parce",
+        "Grâce"
+      ],
+      "correctIndex": 3,
+      "explanation": "A positive cause + noun: grâce à."
+    },
+    {
+      "id": "b1-cause-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "___ il faisait beau, nous avons mangé dehors.",
+      "options": [
+        "Comme",
+        "Grâce à",
+        "Car",
+        "Donc"
+      ],
+      "correctIndex": 0,
+      "explanation": "At the start of a sentence, \"as/because\" is comme. (Car can't start a sentence.)"
+    },
+    {
+      "id": "b1-cause-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je suis fatigué, ___ je vais me coucher.",
+      "options": [
+        "parce que",
+        "puisque",
+        "donc",
+        "car"
+      ],
+      "correctIndex": 2,
+      "explanation": "Consequence: donc."
+    },
+    {
+      "id": "b1-cause-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Pourquoi tu ne viens pas ? — ___ je dois travailler.",
+      "options": [
+        "Car",
+        "Parce que",
+        "Grâce à",
+        "Donc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Answering pourquoi: parce que."
+    },
+    {
+      "id": "b1-cause-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "___ tu es si intelligent, résous ce problème !",
+      "options": [
+        "Grâce à",
+        "Puisque",
+        "Donc",
+        "Car"
+      ],
+      "correctIndex": 1,
+      "explanation": "Puisque = since (the reason is obvious or already known)."
+    },
+    {
+      "id": "b1-cause-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Le magasin est fermé ___ travaux.",
+      "options": [
+        "car",
+        "parce que",
+        "en raison de",
+        "donc"
+      ],
+      "correctIndex": 2,
+      "explanation": "A formal cause + noun, typical in notices: en raison de travaux."
+    },
+    {
+      "id": "b1-cause-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Les prix ont augmenté ; ___, les clients achètent moins.",
+      "options": [
+        "grâce à",
+        "car",
+        "parce que",
+        "par conséquent"
+      ],
+      "correctIndex": 3,
+      "explanation": "Formal consequence: par conséquent (consequently)."
+    },
+    {
+      "id": "b1-cause-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il n'a pas étudié, ___ il a raté l'examen.",
+      "options": [
+        "car",
+        "puisqu'",
+        "parce qu'",
+        "c'est pourquoi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Consequence: c'est pourquoi (that's why)."
+    },
+    {
+      "id": "b1-cause-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Nous partons tôt ___ nous voulons éviter les bouchons.",
+      "options": [
+        "donc",
+        "à cause de",
+        "car",
+        "grâce à"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cause in the middle of the sentence, written style: car."
+    },
+    {
+      "id": "b1-temps-01",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "J'habite à Montréal ___ 2018.",
+      "options": [
+        "il y a",
+        "pendant",
+        "dans",
+        "depuis"
+      ],
+      "correctIndex": 3,
+      "explanation": "Still true now, from a starting date: depuis 2018."
+    },
+    {
+      "id": "b1-temps-02",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je l'ai rencontré ___ deux ans.",
+      "options": [
+        "dans",
+        "il y a",
+        "pour",
+        "depuis"
+      ],
+      "correctIndex": 1,
+      "explanation": "A finished event in the past + duration = ago: il y a deux ans."
+    },
+    {
+      "id": "b1-temps-03",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Le train part ___ dix minutes.",
+      "options": [
+        "dans",
+        "en",
+        "depuis",
+        "il y a"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the future, from now: dans dix minutes."
+    },
+    {
+      "id": "b1-temps-04",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Nous avons attendu ___ une heure.",
+      "options": [
+        "pour",
+        "pendant",
+        "dans",
+        "depuis"
+      ],
+      "correctIndex": 1,
+      "explanation": "A completed duration in the past: pendant une heure."
+    },
+    {
+      "id": "b1-temps-05",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Elle part en Italie ___ trois semaines.",
+      "options": [
+        "pour",
+        "il y a",
+        "en",
+        "depuis"
+      ],
+      "correctIndex": 0,
+      "explanation": "A planned duration with partir: pour trois semaines."
+    },
+    {
+      "id": "b1-temps-06",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "J'ai écrit ce rapport ___ deux jours.",
+      "options": [
+        "depuis",
+        "pour",
+        "dans",
+        "en"
+      ],
+      "correctIndex": 3,
+      "explanation": "The time needed to finish something: en deux jours."
+    },
+    {
+      "id": "b1-temps-07",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Il pleut ___ ce matin.",
+      "options": [
+        "depuis",
+        "pendant",
+        "dans",
+        "il y a"
+      ],
+      "correctIndex": 0,
+      "explanation": "Still raining now, since this morning: depuis."
+    },
+    {
+      "id": "b1-temps-08",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "___ combien de temps apprenez-vous le français ?",
+      "options": [
+        "Depuis",
+        "Dans",
+        "En",
+        "Il y a"
+      ],
+      "correctIndex": 0,
+      "explanation": "Asking about an ongoing situation: depuis combien de temps."
+    },
+    {
+      "id": "b1-temps-09",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "___ les vacances, j'ai beaucoup lu.",
+      "options": [
+        "Il y a",
+        "Pendant",
+        "En",
+        "Dans"
+      ],
+      "correctIndex": 1,
+      "explanation": "During a period: pendant les vacances."
+    },
+    {
+      "id": "b1-temps-10",
+      "skill": "grammar",
+      "level": "B1",
+      "question": "Je reviens ___ un instant.",
+      "options": [
+        "dans",
+        "pendant",
+        "depuis",
+        "il y a"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the future, from now: dans un instant (in a moment)."
+    }
+  ]
+}

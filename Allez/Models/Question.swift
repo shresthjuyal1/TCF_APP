@@ -1,8 +1,8 @@
 import Foundation
 
-/// The five TCF sections.
+/// The five TCF sections, plus vocabulary practice.
 enum Skill: String, Codable, CaseIterable, Identifiable {
-    case reading, listening, grammar, writing, speaking
+    case reading, listening, grammar, writing, speaking, vocabulary
 
     var id: String { rawValue }
 
@@ -13,6 +13,7 @@ enum Skill: String, Codable, CaseIterable, Identifiable {
         case .grammar: "Grammar"
         case .writing: "Writing"
         case .speaking: "Speaking"
+        case .vocabulary: "Vocabulary"
         }
     }
 
@@ -23,6 +24,7 @@ enum Skill: String, Codable, CaseIterable, Identifiable {
         case .grammar: "textformat.abc"
         case .writing: "pencil"
         case .speaking: "mic.fill"
+        case .vocabulary: "character.book.closed.fill"
         }
     }
 }
@@ -95,11 +97,54 @@ struct Question: Identifiable, Codable, Hashable {
     }
 }
 
-/// One circle on the home path.
+/// The rule card shown before a grammar lesson.
+struct Guide: Codable, Hashable {
+    struct Example: Codable, Hashable {
+        let french: String
+        let english: String
+    }
+
+    let summary: String
+    let examples: [Example]
+}
+
+/// One circle on the grammar path.
 struct LessonUnit: Identifiable, Hashable {
     let id: String
     let title: String
     let level: Level
     let icon: String
+    var guide: Guide?
     let questions: [Question]
+}
+
+/// A word in the Vocab tab. `french` includes the article (and gender for l'), e.g. "l'emploi (m.)".
+struct VocabWord: Codable, Identifiable, Hashable {
+    let french: String
+    let english: String
+    let level: Level
+    var example: String?
+    var exampleTranslation: String?
+
+    var id: String { french }
+
+    /// The separate English meanings, e.g. "yet, however" → ["yet", "however"].
+    var meanings: Set<String> {
+        Set(english.lowercased().split(whereSeparator: { ",;".contains($0) }).map { $0.trimmingCharacters(in: .whitespaces) })
+    }
+
+    /// What the French voice should read: no "(m.)" notes, and "le/la collègue" becomes "collègue".
+    var spokenText: String {
+        french
+            .replacingOccurrences(of: #"\s*\([^)]*\)"#, with: "", options: .regularExpression)
+            .replacingOccurrences(of: "le/la ", with: "")
+    }
+}
+
+/// A group of words on one topic, e.g. Work & careers.
+struct VocabTheme: Codable, Identifiable, Hashable {
+    let id: String
+    let title: String
+    let icon: String
+    let words: [VocabWord]
 }

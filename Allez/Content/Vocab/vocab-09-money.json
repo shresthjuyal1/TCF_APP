@@ -1,0 +1,322 @@
+{
+  "id": "money",
+  "title": "Shopping & money",
+  "icon": "cart.fill",
+  "words": [
+    {
+      "french": "l'argent (m.)",
+      "english": "money",
+      "level": "B1",
+      "example": "Attention, vous ne pouvez pas l'échanger contre de l'argent ou la donner à une autre personne.",
+      "exampleTranslation": "Note: you can't exchange it for money or give it to someone else."
+    },
+    {
+      "french": "le prix",
+      "english": "price; prize",
+      "level": "B1",
+      "example": "Nous vous proposons de très bons prix pour mettre une annonce sur notre site Internet.",
+      "exampleTranslation": "We offer very good prices for placing an ad on our website."
+    },
+    {
+      "french": "coûter",
+      "english": "to cost",
+      "level": "B1",
+      "example": "Logement, études ou téléphone portable, tout coûte cher pour les jeunes à l'université.",
+      "exampleTranslation": "Housing, studies, mobile phone: everything is expensive for young people at university."
+    },
+    {
+      "french": "le coût",
+      "english": "cost",
+      "level": "B2",
+      "example": "Parmi les explications avancées, le coût, mais surtout une préférence marquée pour les stages en entreprise.",
+      "exampleTranslation": "Among the reasons given: the cost, but above all a strong preference for company internships."
+    },
+    {
+      "french": "cher",
+      "english": "expensive; dear",
+      "level": "A2",
+      "example": "Logement, études ou téléphone portable, tout coûte cher pour les jeunes à l'université.",
+      "exampleTranslation": "Housing, studies, mobile phone: everything is expensive for young people at university."
+    },
+    {
+      "french": "payer",
+      "english": "to pay",
+      "level": "B1",
+      "example": "Les deux amis recherchent des solutions pour payer leur voyage.",
+      "exampleTranslation": "The two friends are looking for ways to pay for their trip."
+    },
+    {
+      "french": "le paiement",
+      "english": "payment",
+      "level": "B2",
+      "example": "Il vous renseignera sur votre facture ainsi que sur les moyens de paiement.",
+      "exampleTranslation": "He'll give you information about your bill and the payment methods."
+    },
+    {
+      "french": "la facture",
+      "english": "bill, invoice",
+      "level": "B1",
+      "example": "Le règlement de votre facture du mois dernier ne nous est pas encore parvenu.",
+      "exampleTranslation": "We have not yet received payment of last month's bill."
+    },
+    {
+      "french": "le chèque",
+      "english": "cheque",
+      "level": "B2",
+      "example": "Il n'y aura pas de remboursement par chèques ou par carte bancaire.",
+      "exampleTranslation": "There will be no refunds by cheque or bank card."
+    },
+    {
+      "french": "la carte bancaire",
+      "english": "bank card",
+      "level": "A1",
+      "example": "Il n'y aura pas de remboursement par chèques ou par carte bancaire.",
+      "exampleTranslation": "There will be no refunds by cheque or bank card."
+    },
+    {
+      "french": "le compte",
+      "english": "account; prendre en compte = to take into account",
+      "level": "B2",
+      "example": "Pour les psychologues, le critère à prendre en compte est celui de l'exclusivité.",
+      "exampleTranslation": "For psychologists, the criterion to take into account is exclusivity."
+    },
+    {
+      "french": "la somme",
+      "english": "sum, amount",
+      "level": "B2",
+      "example": "En échange, vous recevez la somme correspondante.",
+      "exampleTranslation": "In exchange, you receive the corresponding amount."
+    },
+    {
+      "french": "le montant",
+      "english": "amount",
+      "level": "B1",
+      "example": "L'idée serait de doubler le montant de cette aide en limitant sa durée à un an au lieu de trois.",
+      "exampleTranslation": "The idea would be to double the amount of this aid while limiting it to one year instead of three."
+    },
+    {
+      "french": "le budget",
+      "english": "budget",
+      "level": "B2",
+      "example": "La crise économique a évidemment eu ses effets, en pesant sur le budget du consommateur.",
+      "exampleTranslation": "The economic crisis obviously had an effect, putting pressure on consumers' budgets."
+    },
+    {
+      "french": "dépenser",
+      "english": "to spend (money)",
+      "level": "A2",
+      "example": "Nos parents voudraient bien aussi manger des glaces mais ils payent déjà cher pour la location et on ne peut plus dépenser beaucoup.",
+      "exampleTranslation": "Our parents would like ice cream too, but they're already paying a lot for the rental and we can't spend much more."
+    },
+    {
+      "french": "les dépenses (f.)",
+      "english": "expenses",
+      "level": "B2",
+      "example": "On en viendra à un eugénisme contrôlé qui améliorera l'espèce humaine et allègera les dépenses de santé publique.",
+      "exampleTranslation": "We'll end up with controlled eugenics that will improve the human species and reduce public health spending."
+    },
+    {
+      "french": "économiser",
+      "english": "to save (money)",
+      "level": "B2",
+      "example": "Ce changement est conçu pour économiser de l'énergie en profitant des périodes de jour plus longues l'été.",
+      "exampleTranslation": "This change is designed to save energy by making use of longer daylight hours in summer."
+    },
+    {
+      "french": "les revenus (m.)",
+      "english": "income",
+      "level": "C1",
+      "example": "La crise économique en est un accélérateur, car ces pratiques permettent de consommer mieux pour moins cher ou de générer des revenus complémentaires.",
+      "exampleTranslation": "The economic crisis speeds this up, because these practices let people consume better for less or earn extra income."
+    },
+    {
+      "french": "le magasin",
+      "english": "shop",
+      "level": "B1",
+      "example": "À partir de la semaine prochaine, le magasin Zoreilles n'ouvrira plus le samedi matin.",
+      "exampleTranslation": "From next week, the Zoreilles shop will no longer open on Saturday mornings."
+    },
+    {
+      "french": "la boutique",
+      "english": "(small) shop",
+      "level": "B1",
+      "example": "Dans le secteur de la téléphonie mobile, il est indispensable d'avoir des boutiques.",
+      "exampleTranslation": "In the mobile phone sector, having shops is essential."
+    },
+    {
+      "french": "le supermarché",
+      "english": "supermarket",
+      "level": "B1",
+      "example": "Pendant les travaux, il est interdit de stationner devant l'entrée du supermarché.",
+      "exampleTranslation": "During the works, parking in front of the supermarket entrance is forbidden."
+    },
+    {
+      "french": "le marché",
+      "english": "market",
+      "level": "B2",
+      "example": "Des études de marché récentes montrent que les frites signent leur grand retour.",
+      "exampleTranslation": "Recent market studies show that fries are making a big comeback."
+    },
+    {
+      "french": "les soldes (m.)",
+      "english": "sales",
+      "level": "B1",
+      "example": "Résultat : cette année, 25 % des ventes de Devigne se feront grâce à ces soldes.",
+      "exampleTranslation": "The result: this year, 25% of Devigne's sales will come from these sales."
+    },
+    {
+      "french": "la promotion",
+      "english": "special offer; promotion",
+      "level": "B2",
+      "example": "Important : lors de votre réservation, utilisez le code de promotion « DIRECT »",
+      "exampleTranslation": "Important: when you book, use the promo code \"DIRECT\""
+    },
+    {
+      "french": "la réduction",
+      "english": "discount; reduction",
+      "level": "B1",
+      "example": "Réduction pour les étudiants et les détenteurs de carte « Famille nombreuse ».",
+      "exampleTranslation": "Discount for students and holders of the \"Large Family\" card."
+    },
+    {
+      "french": "l'achat (m.)",
+      "english": "purchase",
+      "level": "B1",
+      "example": "Sinon, votre achat risque de vous coûter plus cher que vous ne le pensiez.",
+      "exampleTranslation": "Otherwise, your purchase may cost you more than you thought."
+    },
+    {
+      "french": "acheter",
+      "english": "to buy",
+      "level": "B1",
+      "example": "Aujourd'hui, on achète du poisson, mais on ne veut pas voir les yeux et les arêtes.",
+      "exampleTranslation": "Today people buy fish but don't want to see the eyes and bones."
+    },
+    {
+      "french": "vendre",
+      "english": "to sell",
+      "level": "B2",
+      "example": "L'album, déjà vendu à 130 000 exemplaires, est remarquable par son originalité.",
+      "exampleTranslation": "The album, which has already sold 130,000 copies, stands out for its originality."
+    },
+    {
+      "french": "la vente",
+      "english": "sale",
+      "level": "B1",
+      "example": "En effet, malgré le développement d'internet, 70 % des ventes se font dans les magasins.",
+      "exampleTranslation": "Indeed, despite the growth of the internet, 70% of sales happen in shops."
+    },
+    {
+      "french": "le consommateur",
+      "english": "consumer",
+      "level": "B2",
+      "example": "Des histoires comme celle-là circulent dans toutes les associations de consommateurs.",
+      "exampleTranslation": "Stories like that circulate in every consumer association."
+    },
+    {
+      "french": "consommer",
+      "english": "to consume",
+      "level": "B1",
+      "example": "On parle toujours plus du bio qu'on ne le consomme.",
+      "exampleTranslation": "People always talk about organic food more than they actually eat it."
+    },
+    {
+      "french": "la consommation",
+      "english": "consumption",
+      "level": "B2",
+      "example": "Il s'agit de la consommation d'une viande qui n'a plus aucune référence à l'animal.",
+      "exampleTranslation": "It's about eating meat that no longer has any link to the animal."
+    },
+    {
+      "french": "le produit",
+      "english": "product",
+      "level": "B2",
+      "example": "Le chantier nécessite l'utilisation de produits à risque et d'un appareillage bruyant.",
+      "exampleTranslation": "The work requires hazardous products and noisy equipment."
+    },
+    {
+      "french": "la marque",
+      "english": "brand",
+      "level": "B2",
+      "example": "Ce site « 100% made in France » collabore aujourd'hui avec une centaine de marques.",
+      "exampleTranslation": "This \"100% made in France\" website now works with about a hundred brands."
+    },
+    {
+      "french": "la commande",
+      "english": "order",
+      "level": "B1",
+      "example": "Vous pourrez aller dans un bureau de poste chercher votre commande dans deux à trois jours.",
+      "exampleTranslation": "You can pick up your order at a post office in two to three days."
+    },
+    {
+      "french": "commander",
+      "english": "to order",
+      "level": "B1",
+      "example": "Je l'ai commandée et je la portais 5 jours après.",
+      "exampleTranslation": "I ordered it and was wearing it 5 days later."
+    },
+    {
+      "french": "la livraison",
+      "english": "delivery",
+      "level": "B1",
+      "example": "Mieux encore, la livraison se fait directement du fabricant au client.",
+      "exampleTranslation": "Even better, delivery goes straight from the manufacturer to the customer."
+    },
+    {
+      "french": "le remboursement",
+      "english": "refund",
+      "level": "A2",
+      "example": "Nous avons bien reçu votre demande de remboursement pour un billet de train (voyage professionnel).",
+      "exampleTranslation": "We have received your refund request for a train ticket (business trip)."
+    },
+    {
+      "french": "rembourser",
+      "english": "to refund, to pay back",
+      "level": "B1",
+      "example": "Je vous demande de me rembourser le plus rapidement possible.",
+      "exampleTranslation": "I ask you to refund me as quickly as possible."
+    },
+    {
+      "french": "gratuit",
+      "english": "free (of charge)",
+      "level": "B1",
+      "example": "Ces courriers sont des publicités de supermarchés ou des journaux gratuits.",
+      "exampleTranslation": "This mail is supermarket advertising or free newspapers."
+    },
+    {
+      "french": "la gratuité",
+      "english": "being free of charge",
+      "level": "C1",
+      "example": "Les méfiances à l'égard de la gratuité des transports collectifs demeurent fortes.",
+      "exampleTranslation": "Distrust of free public transport remains strong."
+    },
+    {
+      "french": "la qualité",
+      "english": "quality",
+      "level": "B2",
+      "example": "Cette solution apporte confort et plaisir, et cela se ressent dans la qualité du travail.",
+      "exampleTranslation": "This solution brings comfort and enjoyment, and you can see it in the quality of the work."
+    },
+    {
+      "french": "la quantité",
+      "english": "quantity",
+      "level": "B1",
+      "example": "C'est la quantité de médicaments non utilisés qui dorment dans les armoires des Français.",
+      "exampleTranslation": "That's the amount of unused medicine sitting in French people's cupboards."
+    },
+    {
+      "french": "la banque",
+      "english": "bank",
+      "level": "C1",
+      "example": "Vous recevrez un virement sur votre compte en banque.",
+      "exampleTranslation": "You will receive a transfer to your bank account."
+    },
+    {
+      "french": "le crédit",
+      "english": "credit, loan",
+      "level": "C1",
+      "example": "Le crédit carbone est doté d'une valeur marchande et s'échange entre pays industrialisés.",
+      "exampleTranslation": "Carbon credits have a market value and are traded between industrialised countries."
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "id": "work",
+  "title": "Work & careers",
+  "icon": "briefcase.fill",
+  "words": [
+    {
+      "french": "le travail",
+      "english": "work, job",
+      "level": "B2",
+      "example": "Chaque année, un grand nombre de jeunes signent un contrat de travail lors du salon.",
+      "exampleTranslation": "Every year, many young people sign an employment contract at the fair."
+    },
+    {
+      "french": "l'emploi (m.)",
+      "english": "job, employment",
+      "level": "B2",
+      "example": "Si l'automatisation a fait disparaître des emplois, elle en a aussi créé d'autres.",
+      "exampleTranslation": "Although automation has wiped out some jobs, it has also created others."
+    },
+    {
+      "french": "le poste",
+      "english": "position, job",
+      "level": "B1",
+      "example": "Je t'annonce une bonne nouvelle : j'ai trouvé un poste de vendeur pour cet été !",
+      "exampleTranslation": "Good news: I've found a job as a salesperson for this summer!"
+    },
+    {
+      "french": "le métier",
+      "english": "trade, occupation",
+      "level": "B2",
+      "example": "En effet, tous les métiers et les personnalités ne sont pas adaptés au télétravail.",
+      "exampleTranslation": "Indeed, not all jobs and personalities are suited to remote work."
+    },
+    {
+      "french": "la profession",
+      "english": "profession",
+      "level": "B2",
+      "example": "Mais la liste des professions en voie de disparition ne cesse de s'allonger.",
+      "exampleTranslation": "But the list of professions that are disappearing keeps getting longer."
+    },
+    {
+      "french": "l'entreprise (f.)",
+      "english": "company, business",
+      "level": "B2",
+      "example": "Profitant de toutes les opportunités, il quittera une entreprise sans aucun remords.",
+      "exampleTranslation": "Taking every opportunity, he will leave a company without any regret."
+    },
+    {
+      "french": "le salarié",
+      "english": "employee",
+      "level": "B2",
+      "example": "Aujourd'hui, leur galerie compte 12 salariés et affiche un chiffre d'affaires en progression.",
+      "exampleTranslation": "Today their gallery has 12 employees and growing revenue."
+    },
+    {
+      "french": "l'employé (m.)",
+      "english": "employee",
+      "level": "B1",
+      "example": "Pour cette raison, les employeurs cherchent souvent comment faire pour stimuler le moral de leurs employés.",
+      "exampleTranslation": "For this reason, employers often look for ways to boost their employees' morale."
+    },
+    {
+      "french": "l'employeur (m.)",
+      "english": "employer",
+      "level": "B1",
+      "example": "Vous faites partie des heureux élus qui ont réussi à obtenir une entrevue avec un employeur.",
+      "exampleTranslation": "You are one of the lucky few who managed to get an interview with an employer."
+    },
+    {
+      "french": "le/la collègue",
+      "english": "colleague",
+      "level": "B1",
+      "example": "Ce matin, les collègues de Barbara auront peut-être la chance d'avoir des croissants en arrivant au bureau.",
+      "exampleTranslation": "This morning, Barbara's colleagues may be lucky enough to find croissants when they arrive at the office."
+    },
+    {
+      "french": "le chef",
+      "english": "boss, head; chef",
+      "level": "B1",
+      "example": "2 000 chefs préparent un dîner mettant à l'honneur les meilleures spécialités de la cuisine française.",
+      "exampleTranslation": "2,000 chefs are preparing a dinner showcasing the best specialities of French cooking."
+    },
+    {
+      "french": "le directeur",
+      "english": "director, manager",
+      "level": "B1",
+      "example": "C'est le cas d'Emmanuel Denner, 40 ans, directeur d'une ligne de produits dans une grande entreprise.",
+      "exampleTranslation": "That's the case of Emmanuel Denner, 40, who heads a product line at a large company."
+    },
+    {
+      "french": "le responsable",
+      "english": "person in charge, manager",
+      "level": "B2",
+      "example": "« Personnellement, je suis très favorable à la cooptation, affirme ce responsable.",
+      "exampleTranslation": "\"Personally, I'm very much in favour of recruiting through referrals,\" says this manager."
+    },
+    {
+      "french": "l'équipe (f.)",
+      "english": "team",
+      "level": "B2",
+      "example": "Après le spectacle, l'équipe artistique propose d'échanger sur la pièce avec les élèves.",
+      "exampleTranslation": "After the show, the artistic team offers to discuss the play with the students."
+    },
+    {
+      "french": "le bureau",
+      "english": "office; desk",
+      "level": "B1",
+      "example": "Vous pourrez aller dans un bureau de poste chercher votre commande dans deux à trois jours.",
+      "exampleTranslation": "You can pick up your order at a post office in two to three days."
+    },
+    {
+      "french": "la réunion",
+      "english": "meeting",
+      "level": "A2",
+      "example": "Nous vous rappelons que la réunion des parents d'élèves se tiendra vendredi prochain.",
+      "exampleTranslation": "We remind you that the parents' meeting will be held next Friday."
+    },
+    {
+      "french": "le rendez-vous",
+      "english": "appointment, meeting",
+      "level": "B1",
+      "example": "Pour avoir un rendez-vous, vous pourrez la contacter demain à partir de 14 heures.",
+      "exampleTranslation": "To get an appointment, you can contact her tomorrow from 2 pm."
+    },
+    {
+      "french": "le salaire",
+      "english": "salary",
+      "level": "B2",
+      "example": "Or, le gouvernement a annoncé un gel des salaires dans la Fonction publique.",
+      "exampleTranslation": "However, the government has announced a pay freeze in the civil service."
+    },
+    {
+      "french": "le contrat",
+      "english": "contract",
+      "level": "B2",
+      "example": "Chaque année, un grand nombre de jeunes signent un contrat de travail lors du salon.",
+      "exampleTranslation": "Every year, many young people sign an employment contract at the fair."
+    },
+    {
+      "french": "le stage",
+      "english": "internship",
+      "level": "B1",
+      "example": "Notre association sportive organise un stage « enfants » pendant les vacances de printemps.",
+      "exampleTranslation": "Our sports club is running a \"kids\" course during the spring holidays."
+    },
+    {
+      "french": "la candidature",
+      "english": "application (for a job)",
+      "level": "B1",
+      "example": "Je souhaiterais que vous me donniez les candidatures de vos élèves avant les vacances de Noël.",
+      "exampleTranslation": "I'd like you to give me your students' applications before the Christmas holidays."
+    },
+    {
+      "french": "le candidat",
+      "english": "candidate",
+      "level": "B1",
+      "example": "Cependant, l'usage de l'intelligence artificielle pour la sélection de candidats a rapidement montré ses limites.",
+      "exampleTranslation": "However, using artificial intelligence to select candidates quickly showed its limits."
+    },
+    {
+      "french": "l'entretien (m.)",
+      "english": "interview; upkeep",
+      "level": "B2",
+      "example": "Le rapport Obergo le prouve à travers soixante-quinze entretiens approfondis avec des télétravailleurs.",
+      "exampleTranslation": "The Obergo report proves it through seventy-five in-depth interviews with remote workers."
+    },
+    {
+      "french": "le recrutement",
+      "english": "recruitment",
+      "level": "B2",
+      "example": "Un cadre ayant testé ce système voit le recrutement différemment : « On se retrouve en position d'égal à égal ».",
+      "exampleTranslation": "A manager who tried this system sees recruitment differently: \"We find ourselves on an equal footing.\""
+    },
+    {
+      "french": "recruter",
+      "english": "to recruit",
+      "level": "B2",
+      "example": "La Compagnie des transports urbains recrute des héros comme vous et moi !",
+      "exampleTranslation": "The city transport company is recruiting heroes like you and me!"
+    },
+    {
+      "french": "embaucher",
+      "english": "to hire",
+      "level": "B2",
+      "example": "En effet, s'il a supprimé des milliers de postes ces dernières années, il peine cependant à embaucher des professeurs.",
+      "exampleTranslation": "Although it has cut thousands of jobs in recent years, it is struggling to hire teachers."
+    },
+    {
+      "french": "le chômage",
+      "english": "unemployment",
+      "level": "C1",
+      "example": "Une autre caractéristique les rassemble, la précarité au travail : 25 % des jeunes sont au chômage, d'autres ont des emplois temporaires.",
+      "exampleTranslation": "They share another feature, job insecurity: 25% of young people are unemployed, and others have temporary jobs."
+    },
+    {
+      "french": "la retraite",
+      "english": "retirement",
+      "level": "B1",
+      "example": "Cette réflexion s'appuie sur le fait que les baby-boomers n'ont pas assez épargné pour leur retraite.",
+      "exampleTranslation": "This thinking is based on the fact that baby boomers haven't saved enough for their retirement."
+    },
+    {
+      "french": "les congés (m.)",
+      "english": "leave, time off",
+      "level": "B1",
+      "example": "Date limite des demandes de congés pour les vacances d'été :",
+      "exampleTranslation": "Deadline for leave requests for the summer holidays:"
+    },
+    {
+      "french": "le télétravail",
+      "english": "remote work",
+      "level": "C1",
+      "example": "En effet, tous les métiers et les personnalités ne sont pas adaptés au télétravail.",
+      "exampleTranslation": "Indeed, not all jobs and personalities are suited to remote work."
+    },
+    {
+      "french": "la carrière",
+      "english": "career",
+      "level": "B2",
+      "example": "Désormais, il ne compte plus sur une entreprise pour mener sa carrière.",
+      "exampleTranslation": "From now on, he no longer relies on a company to build his career."
+    },
+    {
+      "french": "les compétences (f.)",
+      "english": "skills",
+      "level": "C1",
+      "example": "Les seniors y gagnent de nouvelles compétences, et les jeunes élargissent leur réseau.",
+      "exampleTranslation": "Older people gain new skills, and young people expand their network."
+    },
+    {
+      "french": "l'expérience (f.)",
+      "english": "experience",
+      "level": "B2",
+      "example": "J'ai déjà plusieurs expériences comme libraire dans mon pays d'origine, la Norvège.",
+      "exampleTranslation": "I already have experience as a bookseller in my home country, Norway."
+    },
+    {
+      "french": "la formation",
+      "english": "training",
+      "level": "B2",
+      "example": "Le débat a ouvert grand la porte aux envies de bousculer la formation de la jeunesse.",
+      "exampleTranslation": "The debate opened the door wide to the desire to shake up young people's education."
+    },
+    {
+      "french": "le secteur",
+      "english": "sector",
+      "level": "B2",
+      "example": "Dans le secteur de la téléphonie mobile, il est indispensable d'avoir des boutiques.",
+      "exampleTranslation": "In the mobile phone sector, having shops is essential."
+    },
+    {
+      "french": "la tâche",
+      "english": "task",
+      "level": "B2",
+      "example": "Leurs tâches classiques ont tendance à diminuer au profit de nouvelles responsabilités.",
+      "exampleTranslation": "Their usual tasks tend to decrease in favour of new responsibilities."
+    },
+    {
+      "french": "la mission",
+      "english": "assignment, mission",
+      "level": "C1",
+      "example": "C'est la mission de l'école que de sensibiliser les élèves aux grands textes classiques.",
+      "exampleTranslation": "It is the school's mission to introduce students to the great classic texts."
+    },
+    {
+      "french": "le projet",
+      "english": "project",
+      "level": "B2",
+      "example": "Que vos projets immobiliers voient enfin le jour avec cette année qui débute !",
+      "exampleTranslation": "May your property plans finally come true this new year!"
+    },
+    {
+      "french": "l'objectif (m.)",
+      "english": "goal, objective",
+      "level": "B2",
+      "example": "L'objectif, non avoué, est de prouver que la culture est à sa place partout.",
+      "exampleTranslation": "The unstated goal is to prove that culture belongs everywhere."
+    },
+    {
+      "french": "la productivité",
+      "english": "productivity",
+      "level": "C1",
+      "example": "Or, notre créativité et notre productivité sont dépendantes des rencontres que nous faisons.",
+      "exampleTranslation": "Yet our creativity and productivity depend on the people we meet."
+    },
+    {
+      "french": "la concurrence",
+      "english": "competition (business)",
+      "level": "C1",
+      "example": "Les bons vieux bancs verts sur les trottoirs parisiens ont de la concurrence.",
+      "exampleTranslation": "The good old green benches on Paris pavements have some competition."
+    },
+    {
+      "french": "le commerce",
+      "english": "trade, business; shop",
+      "level": "B1",
+      "example": "Situé au deuxième étage d'un bel immeuble avec ascenseur, dans un quartier calme, proche des commerces.",
+      "exampleTranslation": "On the second floor of a nice building with a lift, in a quiet area, close to the shops."
+    },
+    {
+      "french": "le commerçant",
+      "english": "shopkeeper",
+      "level": "B2",
+      "example": "On peut même connaître l'heure de collecte fixée par le commerçant de son choix.",
+      "exampleTranslation": "You can even find out the pick-up time set by the shopkeeper of your choice."
+    },
+    {
+      "french": "l'artisan (m.)",
+      "english": "craftsman, artisan",
+      "level": "B2",
+      "example": "Hajera Mohammad, qui les a rencontrés pour France Inter, interroge ces artisans.",
+      "exampleTranslation": "Hajera Mohammad, who met them for France Inter, interviews these craftspeople."
+    },
+    {
+      "french": "l'agriculteur (m.)",
+      "english": "farmer",
+      "level": "B2",
+      "example": "Venez à la rencontre des agriculteurs, producteurs et chefs de votre région !",
+      "exampleTranslation": "Come and meet the farmers, producers and chefs of your region!"
+    },
+    {
+      "french": "le savoir-faire",
+      "english": "know-how",
+      "level": "B2",
+      "example": "Pour qu'enfin, on regarde le savoir-faire et l'expérience avant le handicap.",
+      "exampleTranslation": "So that people finally look at skills and experience before the disability."
+    },
+    {
+      "french": "la grève",
+      "english": "strike",
+      "level": "A1",
+      "example": "Au sein du groupe des 16 — un rassemblement regroupant syndicats enseignants et représentants de parents d'élèves — l'idée d'une journée de grève n'a pas fait l'unanimité.",
+      "exampleTranslation": "Within the group of 16, a coalition of teachers' unions and parents' representatives, the idea of a day of strike action did not win everyone's support."
+    },
+    {
+      "french": "gérer",
+      "english": "to manage",
+      "level": "B2",
+      "example": "Il n'y a que des personnes qui ne savent pas gérer les équilibres de leurs territoires.",
+      "exampleTranslation": "There are only people who don't know how to manage the balance of their territories."
+    },
+    {
+      "french": "diriger",
+      "english": "to run, to manage",
+      "level": "B2",
+      "example": "Faire le point sur vos compétences vous permettra de déterminer vers quels secteurs vous pouvez vous diriger.",
+      "exampleTranslation": "Reviewing your skills will help you decide which sectors you can move towards."
+    }
+  ]
+}

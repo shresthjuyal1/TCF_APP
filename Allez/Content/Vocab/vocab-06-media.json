@@ -1,0 +1,336 @@
+{
+  "id": "media",
+  "title": "Media & technology",
+  "icon": "newspaper.fill",
+  "words": [
+    {
+      "french": "les médias (m.)",
+      "english": "the media",
+      "level": "B2",
+      "example": "Cette réalité pose des questions de plus en plus importantes en termes d'éducation à l'image et plus généralement aux médias.",
+      "exampleTranslation": "This raises more and more important questions about visual literacy and, more generally, media literacy."
+    },
+    {
+      "french": "la presse",
+      "english": "the press",
+      "level": "C1",
+      "example": "Dans une éducation qui prône l'épanouissement de l'enfant, l'obéissance a mauvaise presse.",
+      "exampleTranslation": "In an education that values the child's personal growth, obedience has a bad reputation."
+    },
+    {
+      "french": "le journal",
+      "english": "newspaper",
+      "level": "B2",
+      "example": "Ces courriers sont des publicités de supermarchés ou des journaux gratuits.",
+      "exampleTranslation": "This mail is supermarket advertising or free newspapers."
+    },
+    {
+      "french": "le journaliste",
+      "english": "journalist",
+      "level": "C1",
+      "example": "Les deux journalistes ont longtemps exploré le monde avant d'écrire un livre ensemble.",
+      "exampleTranslation": "The two journalists spent a long time exploring the world before writing a book together."
+    },
+    {
+      "french": "l'article (m.)",
+      "english": "article; item",
+      "level": "B2",
+      "example": "Vous y trouverez des idées cadeaux : biscuits, chocolat, jouets et plein d'autres articles.",
+      "exampleTranslation": "You'll find gift ideas there: biscuits, chocolate, toys and lots of other items."
+    },
+    {
+      "french": "le magazine",
+      "english": "magazine",
+      "level": "B2",
+      "example": "Après 34 ans au service de l'éducation, votre magazine va vivre sa mue la plus importante.",
+      "exampleTranslation": "After 34 years serving education, your magazine is about to undergo its biggest change."
+    },
+    {
+      "french": "la revue",
+      "english": "review, journal",
+      "level": "B2",
+      "example": "La revue Durable, chantre du développement durable, s'insurge contre cette facilité.",
+      "exampleTranslation": "The magazine Durable, a champion of sustainable development, protests against this easy option."
+    },
+    {
+      "french": "l'émission (f.)",
+      "english": "(TV or radio) programme",
+      "level": "B2",
+      "example": "Ce débat est construit en amont grâce à des récits d'internautes sur le site de l'émission.",
+      "exampleTranslation": "This debate is prepared beforehand using stories from internet users on the programme's website."
+    },
+    {
+      "french": "la télévision",
+      "english": "television",
+      "level": "B2",
+      "example": "Première émission de l'été, avec un coureur automobile, un pilote moto, un animateur de télévision.",
+      "exampleTranslation": "First programme of the summer, with a racing driver, a motorcyclist and a TV presenter."
+    },
+    {
+      "french": "la radio",
+      "english": "radio",
+      "level": "B1",
+      "example": "Et voilà, j'ai trouvé la radio comme vecteur et j'aime ça, mais je ne suis qu'un simple musicien-animateur.",
+      "exampleTranslation": "So I found radio as my medium and I love it, but I'm just a musician who presents shows."
+    },
+    {
+      "french": "l'écran (m.)",
+      "english": "screen",
+      "level": "B2",
+      "example": "Elle était en quête de l'absolu, ce qui se traduisait à l'écran par un don de soi total.",
+      "exampleTranslation": "She was searching for the absolute, which showed on screen as total self-giving."
+    },
+    {
+      "french": "le reportage",
+      "english": "report (TV, press)",
+      "level": "B2",
+      "example": "Dans son reportage, Federico Romano dévoile son ambivalence.",
+      "exampleTranslation": "In his report, Federico Romano reveals his mixed feelings."
+    },
+    {
+      "french": "le documentaire",
+      "english": "documentary",
+      "level": "B1",
+      "example": "« La passion de Gauguin », voici le titre d'un documentaire sur le peintre français.",
+      "exampleTranslation": "\"Gauguin's Passion\" is the title of a documentary about the French painter."
+    },
+    {
+      "french": "l'enquête (f.)",
+      "english": "survey; investigation",
+      "level": "B2",
+      "example": "C'est ce que révèle la dernière enquête du Consortium international des journalistes d'investigation.",
+      "exampleTranslation": "That's what the latest investigation by the International Consortium of Investigative Journalists reveals."
+    },
+    {
+      "french": "l'actualité (f.)",
+      "english": "news, current affairs",
+      "level": "B1",
+      "example": "Comme tout bon auteur culte, ses thématiques sont percutantes, grinçantes, toujours d'actualité.",
+      "exampleTranslation": "Like any good cult author, his themes are hard-hitting, biting and always relevant."
+    },
+    {
+      "french": "la publicité",
+      "english": "advertising, advert",
+      "level": "B1",
+      "example": "Ces courriers sont des publicités de supermarchés ou des journaux gratuits.",
+      "exampleTranslation": "This mail is supermarket advertising or free newspapers."
+    },
+    {
+      "french": "publicitaire",
+      "english": "advertising (adj.)",
+      "level": "B2",
+      "example": "En découvrant l'écran publicitaire géant installé à la station Bellecour, j'ai été sidéré.",
+      "exampleTranslation": "When I saw the giant advertising screen at Bellecour station, I was stunned."
+    },
+    {
+      "french": "le site",
+      "english": "website; site",
+      "level": "B1",
+      "example": "Nous vous proposons de très bons prix pour mettre une annonce sur notre site Internet.",
+      "exampleTranslation": "We offer very good prices for placing an ad on our website."
+    },
+    {
+      "french": "l'internaute (m./f.)",
+      "english": "internet user",
+      "level": "B2",
+      "example": "Ce débat est construit en amont grâce à des récits d'internautes sur le site de l'émission.",
+      "exampleTranslation": "This debate is prepared beforehand using stories from internet users on the programme's website."
+    },
+    {
+      "french": "les réseaux sociaux (m.)",
+      "english": "social media",
+      "level": "B2",
+      "example": "Plus d'essence à la station-service : un exemple de ce que peuvent créer les réseaux sociaux.",
+      "exampleTranslation": "No more petrol at the station: an example of what social media can cause."
+    },
+    {
+      "french": "le réseau",
+      "english": "network",
+      "level": "B2",
+      "example": "Les seniors y gagnent de nouvelles compétences, et les jeunes élargissent leur réseau.",
+      "exampleTranslation": "Older people gain new skills, and young people expand their network."
+    },
+    {
+      "french": "numérique",
+      "english": "digital",
+      "level": "B2",
+      "example": "Excellent moyen de stimuler la curiosité, le numérique pousse à chercher, à creuser encore.",
+      "exampleTranslation": "A great way to spark curiosity, digital technology pushes you to search and dig deeper."
+    },
+    {
+      "french": "la technologie",
+      "english": "technology",
+      "level": "B2",
+      "example": "Avec la technologie actuelle, il faut six à neuf mois pour un vol de la Terre à Mars.",
+      "exampleTranslation": "With current technology, a flight from Earth to Mars takes six to nine months."
+    },
+    {
+      "french": "l'ordinateur (m.)",
+      "english": "computer",
+      "level": "B2",
+      "example": "La télévision, les jeux vidéo, les ordinateurs ont envahi les foyers.",
+      "exampleTranslation": "Television, video games and computers have taken over homes."
+    },
+    {
+      "french": "le smartphone",
+      "english": "smartphone",
+      "level": "B2",
+      "example": "Le smartphone, qui permet de rester en lien avec ses copains, arrange donc les parents.",
+      "exampleTranslation": "The smartphone, which lets kids stay in touch with their friends, suits parents."
+    },
+    {
+      "french": "le portable",
+      "english": "mobile phone; laptop",
+      "level": "B1",
+      "example": "Logement, études ou téléphone portable, tout coûte cher pour les jeunes à l'université.",
+      "exampleTranslation": "Housing, studies, mobile phone: everything is expensive for young people at university."
+    },
+    {
+      "french": "la tablette",
+      "english": "tablet",
+      "level": "B1",
+      "example": "Des tablettes numériques remplacent désormais les épaisses liasses de papier.",
+      "exampleTranslation": "Tablets now replace thick stacks of paper."
+    },
+    {
+      "french": "l'application (f.)",
+      "english": "app; application",
+      "level": "B2",
+      "example": "Vous pouvez aussi télécharger gratuitement l'application sur votre téléphone et avoir une consultation vidéo de chez vous.",
+      "exampleTranslation": "You can also download the app for free on your phone and have a video consultation from home."
+    },
+    {
+      "french": "le logiciel",
+      "english": "software",
+      "level": "B2",
+      "example": "L'entreprise Amazon, par exemple, a dû renoncer à son logiciel de recrutement, car celui-ci avait tendance à privilégier les hommes.",
+      "exampleTranslation": "Amazon, for example, had to drop its recruitment software because it tended to favour men."
+    },
+    {
+      "french": "les données (f.)",
+      "english": "data",
+      "level": "B2",
+      "example": "« Pendant des millénaires, les chercheurs du monde entier ont jalousement gardé leurs données.",
+      "exampleTranslation": "\"For thousands of years, researchers around the world have jealously guarded their data."
+    },
+    {
+      "french": "l'intelligence artificielle (f.)",
+      "english": "artificial intelligence",
+      "level": "B1",
+      "example": "Les termes « intelligence artificielle » entraînent généralement des inquiétudes.",
+      "exampleTranslation": "The words \"artificial intelligence\" generally cause concern."
+    },
+    {
+      "french": "le robot",
+      "english": "robot",
+      "level": "C2",
+      "example": "Lancé par Berchet, ce robot est bourré d'électronique et de capteurs pour interagir avec l'enfant.",
+      "exampleTranslation": "Launched by Berchet, this robot is packed with electronics and sensors to interact with the child."
+    },
+    {
+      "french": "l'outil (m.)",
+      "english": "tool",
+      "level": "B2",
+      "example": "Les professeurs choisissent ainsi l'outil le mieux adapté à leurs besoins.",
+      "exampleTranslation": "Teachers choose the tool best suited to their needs."
+    },
+    {
+      "french": "l'appareil (m.)",
+      "english": "device, appliance",
+      "level": "B1",
+      "example": "CuisineAZ.com vous propose de gagner des appareils de cuisine qui facilitent la vie !",
+      "exampleTranslation": "CuisineAZ.com gives you the chance to win kitchen appliances that make life easier!"
+    },
+    {
+      "french": "en ligne",
+      "english": "online",
+      "level": "B1",
+      "example": "Réglez votre commande en ligne et cumulez des points sur tous vos achats.",
+      "exampleTranslation": "Pay for your order online and collect points on all your purchases."
+    },
+    {
+      "french": "télécharger",
+      "english": "to download",
+      "level": "A1",
+      "example": "Vous pouvez aussi télécharger gratuitement l'application sur votre téléphone et avoir une consultation vidéo de chez vous.",
+      "exampleTranslation": "You can also download the app for free on your phone and have a video consultation from home."
+    },
+    {
+      "french": "le blog",
+      "english": "blog",
+      "level": "C1",
+      "example": "Animé depuis Bordeaux où ils étudient, le blog est étoffé à chacune de leurs vacances.",
+      "exampleTranslation": "Run from Bordeaux, where they study, the blog grows every holiday."
+    },
+    {
+      "french": "le forum",
+      "english": "forum",
+      "level": "A2",
+      "example": "Je ne connaissais pas www.lamode.com, mais sur un forum, j'ai lu des avis positifs.",
+      "exampleTranslation": "I didn't know www.lamode.com, but I read positive reviews on a forum."
+    },
+    {
+      "french": "la vidéo",
+      "english": "video",
+      "level": "B2",
+      "example": "La télévision, les jeux vidéo, les ordinateurs ont envahi les foyers.",
+      "exampleTranslation": "Television, video games and computers have taken over homes."
+    },
+    {
+      "french": "le courriel",
+      "english": "email",
+      "level": "A2",
+      "example": "Prenez contact par courriel avec notre service clientèle pour avoir toutes les informations.",
+      "exampleTranslation": "Contact our customer service by email for full information."
+    },
+    {
+      "french": "communiquer",
+      "english": "to communicate",
+      "level": "B1",
+      "example": "Un conseiller prendra contact avec vous très prochainement au numéro de téléphone que vous nous avez communiqué.",
+      "exampleTranslation": "An adviser will contact you very soon at the phone number you gave us."
+    },
+    {
+      "french": "la communication",
+      "english": "communication",
+      "level": "B2",
+      "example": "Le monde de la communication par textos, lui, est celui d'une communication homogène.",
+      "exampleTranslation": "The world of texting, on the other hand, is one of uniform communication."
+    },
+    {
+      "french": "l'invention (f.)",
+      "english": "invention",
+      "level": "C2",
+      "example": "Cette démarche permet d'éviter qu'une invention qui répond à un problème technique donné soit commercialisée par d'autres.",
+      "exampleTranslation": "This process prevents an invention that solves a given technical problem from being sold by others."
+    },
+    {
+      "french": "l'innovation (f.)",
+      "english": "innovation",
+      "level": "B2",
+      "example": "L'avenir est dans la formation de la jeunesse, dans l'innovation, dans la recherche.",
+      "exampleTranslation": "The future lies in educating young people, in innovation and in research."
+    },
+    {
+      "french": "le lecteur",
+      "english": "reader",
+      "level": "C1",
+      "example": "Tarif exceptionnel réservé aux lecteurs du direct Montpellier Week-end du goût !",
+      "exampleTranslation": "Special price for readers of Direct Montpellier for the Taste Weekend!"
+    },
+    {
+      "french": "le public",
+      "english": "audience, public",
+      "level": "B2",
+      "example": "L'école de danse « Studio Céline » ouvre ses portes au public le 16 septembre.",
+      "exampleTranslation": "The \"Studio Céline\" dance school opens to the public on 16 September."
+    },
+    {
+      "french": "publier",
+      "english": "to publish",
+      "level": "B2",
+      "example": "Dora Bruder, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano.",
+      "exampleTranslation": "Dora Bruder, published in 1997, is considered one of Patrick Modiano's best novels."
+    }
+  ]
+}

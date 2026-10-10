@@ -1,0 +1,567 @@
+{
+  "id": "grammar-c1",
+  "title": "Grammar C1",
+  "kind": "practice",
+  "questions": [
+    {
+      "id": "c1-subj-passe-01",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Je suis heureux que vous ___ à ma fête hier.",
+      "options": [
+        "seriez venus",
+        "étiez venus",
+        "soyez venus",
+        "êtes venus"
+      ],
+      "correctIndex": 2,
+      "explanation": "A completed past action after an emotion: subjonctif passé, que vous soyez venus."
+    },
+    {
+      "id": "c1-subj-passe-02",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Bien qu'il ___ toute la nuit, il est en forme.",
+      "options": [
+        "ait travaillé",
+        "a travaillé",
+        "aurait travaillé",
+        "avait travaillé"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bien que + a completed action: subjonctif passé, qu'il ait travaillé."
+    },
+    {
+      "id": "c1-subj-passe-03",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Il faut que tu ___ ce travail avant lundi.",
+      "options": [
+        "avais terminé",
+        "auras terminé",
+        "aies terminé",
+        "as terminé"
+      ],
+      "correctIndex": 2,
+      "explanation": "Completed before a future moment, after il faut que: subjonctif passé."
+    },
+    {
+      "id": "c1-subj-passe-04",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Je doute qu'elle ___ la lettre.",
+      "options": [
+        "a reçu",
+        "avait reçu",
+        "aura reçu",
+        "ait reçu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Doubt about a past action: subjonctif passé, qu'elle ait reçu."
+    },
+    {
+      "id": "c1-subj-passe-05",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "C'est dommage que nous ___ le début du film.",
+      "options": [
+        "aurions raté",
+        "avions raté",
+        "avons raté",
+        "ayons raté"
+      ],
+      "correctIndex": 3,
+      "explanation": "Regret about a past action: subjonctif passé, que nous ayons raté."
+    },
+    {
+      "id": "c1-subj-passe-06",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Je ne pense pas qu'ils ___ hier soir.",
+      "options": [
+        "seront sortis",
+        "soient sortis",
+        "sont sortis",
+        "étaient sortis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Negative opinion about a past action: subjonctif passé; sortir uses être."
+    },
+    {
+      "id": "c1-subj-passe-07",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Elle est partie sans que personne ne l'___.",
+      "options": [
+        "ait remarqué",
+        "avait remarqué",
+        "a remarqué",
+        "aurait remarqué"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sans que takes the subjunctive: sans que personne ne l'ait remarqué."
+    },
+    {
+      "id": "c1-subj-passe-08",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Nous attendrons jusqu'à ce que tout le monde ___.",
+      "options": [
+        "était arrivé",
+        "est arrivé",
+        "sera arrivé",
+        "soit arrivé"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jusqu'à ce que + completed action: subjonctif passé, soit arrivé."
+    },
+    {
+      "id": "c1-subj-passe-09",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Je regrette que tu n'___ pas pu venir.",
+      "options": [
+        "avais",
+        "auras",
+        "as",
+        "aies"
+      ],
+      "correctIndex": 3,
+      "explanation": "Regret about the past: subjonctif passé, que tu n'aies pas pu."
+    },
+    {
+      "id": "c1-subj-passe-10",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Il est possible qu'il ___ son téléphone au bureau.",
+      "options": [
+        "aura oublié",
+        "a oublié",
+        "ait oublié",
+        "avait oublié"
+      ],
+      "correctIndex": 2,
+      "explanation": "Possibility about a past action: subjonctif passé, qu'il ait oublié."
+    },
+    {
+      "id": "c1-mise-en-relief-01",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "C'est mon frère ___ a organisé la fête.",
+      "options": [
+        "que",
+        "ce qui",
+        "dont",
+        "qui"
+      ],
+      "correctIndex": 3,
+      "explanation": "The highlighted element is the subject of \"a organisé\": c'est … qui."
+    },
+    {
+      "id": "c1-mise-en-relief-02",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "C'est à Paris ___ nous nous sommes rencontrés.",
+      "options": [
+        "que",
+        "où",
+        "dont",
+        "qui"
+      ],
+      "correctIndex": 0,
+      "explanation": "After \"c'est + place\", use que, not où: c'est à Paris que…"
+    },
+    {
+      "id": "c1-mise-en-relief-03",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "___ me plaît, c'est l'ambiance.",
+      "options": [
+        "Qui",
+        "Ce qui",
+        "Ce dont",
+        "Ce que"
+      ],
+      "correctIndex": 1,
+      "explanation": "The highlighted idea is the subject of \"plaît\": ce qui."
+    },
+    {
+      "id": "c1-mise-en-relief-04",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "___ je préfère, c'est la randonnée.",
+      "options": [
+        "Ce qui",
+        "Que",
+        "Ce dont",
+        "Ce que"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Je préfère quelque chose\" (direct object): ce que."
+    },
+    {
+      "id": "c1-mise-en-relief-05",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "___ nous avons besoin, c'est de temps.",
+      "options": [
+        "Ce dont",
+        "Ce que",
+        "Dont",
+        "Ce qui"
+      ],
+      "correctIndex": 0,
+      "explanation": "Avoir besoin de: ce dont."
+    },
+    {
+      "id": "c1-mise-en-relief-06",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "C'est moi qui ___ raison.",
+      "options": [
+        "as",
+        "avons",
+        "ai",
+        "a"
+      ],
+      "correctIndex": 2,
+      "explanation": "After \"c'est moi qui\", the verb agrees with moi (je): c'est moi qui ai raison."
+    },
+    {
+      "id": "c1-mise-en-relief-07",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "C'est nous qui ___ le repas.",
+      "options": [
+        "prépare",
+        "préparez",
+        "préparent",
+        "préparons"
+      ],
+      "correctIndex": 3,
+      "explanation": "After \"c'est nous qui\", the verb is in the nous form."
+    },
+    {
+      "id": "c1-mise-en-relief-08",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "___ m'étonne, c'est son calme.",
+      "options": [
+        "Qu'est-ce qui",
+        "Ce que",
+        "Ce dont",
+        "Ce qui"
+      ],
+      "correctIndex": 3,
+      "explanation": "Subject of \"étonne\": ce qui."
+    },
+    {
+      "id": "c1-mise-en-relief-09",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "C'est de ce problème ___ je voulais vous parler.",
+      "options": [
+        "dont",
+        "où",
+        "que",
+        "qui"
+      ],
+      "correctIndex": 2,
+      "explanation": "The \"de\" is already in front, so use que: c'est de ce problème que… (\"de ce problème dont\" is a common mistake.)"
+    },
+    {
+      "id": "c1-mise-en-relief-10",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "___ il se souvient, c'est de son premier voyage.",
+      "options": [
+        "Ce à quoi",
+        "Ce dont",
+        "Ce qu'",
+        "Ce qui"
+      ],
+      "correctIndex": 1,
+      "explanation": "Se souvenir de: ce dont."
+    },
+    {
+      "id": "c1-accord-pp-01",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Les fleurs que tu m'as ___ sont magnifiques.",
+      "options": [
+        "offerte",
+        "offert",
+        "offerts",
+        "offertes"
+      ],
+      "correctIndex": 3,
+      "explanation": "The direct object \"que\" (= les fleurs, f. pl.) comes before avoir, so it agrees: offertes."
+    },
+    {
+      "id": "c1-accord-pp-02",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Elle a ___ une voiture rouge.",
+      "options": [
+        "achetée",
+        "achetés",
+        "achetées",
+        "acheté"
+      ],
+      "correctIndex": 3,
+      "explanation": "The direct object comes after the verb, so there is no agreement."
+    },
+    {
+      "id": "c1-accord-pp-03",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Ces films, je les ai tous ___.",
+      "options": [
+        "vus",
+        "vues",
+        "vue",
+        "vu"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Les\" (= ces films, m. pl.) comes before, so it agrees: vus."
+    },
+    {
+      "id": "c1-accord-pp-04",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Quelle chanson as-tu ___ ?",
+      "options": [
+        "choisi",
+        "choisie",
+        "choisis",
+        "choisies"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Quelle chanson\" (f. sg.) comes before the verb: choisie."
+    },
+    {
+      "id": "c1-accord-pp-05",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Des gâteaux ? J'en ai ___ trois.",
+      "options": [
+        "mangés",
+        "mangée",
+        "mangé",
+        "mangées"
+      ],
+      "correctIndex": 2,
+      "explanation": "There is never agreement with en."
+    },
+    {
+      "id": "c1-accord-pp-06",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "La lettre ? Je l'ai ___ hier.",
+      "options": [
+        "envoyé",
+        "envoyées",
+        "envoyée",
+        "envoyés"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"L'\" = la lettre (f. sg.) comes before avoir: envoyée."
+    },
+    {
+      "id": "c1-accord-pp-07",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Les étudiantes sont ___ à l'heure.",
+      "options": [
+        "arrivé",
+        "arrivées",
+        "arrivée",
+        "arrivés"
+      ],
+      "correctIndex": 1,
+      "explanation": "With être, agree with the subject (f. pl.): arrivées."
+    },
+    {
+      "id": "c1-accord-pp-08",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Les efforts qu'il a ___ ont payé.",
+      "options": [
+        "faits",
+        "faites",
+        "faite",
+        "fait"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Qu'\" = les efforts (m. pl.) comes before avoir: faits."
+    },
+    {
+      "id": "c1-accord-pp-09",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Elles se sont ___ les mains.",
+      "options": [
+        "lavé",
+        "lavées",
+        "lavés",
+        "lavée"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Les mains\" is the direct object and comes after the verb, so there is no agreement: elles se sont lavé les mains."
+    },
+    {
+      "id": "c1-accord-pp-10",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "Combien de pays avez-vous ___ ?",
+      "options": [
+        "visitées",
+        "visité",
+        "visités",
+        "visitée"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Combien de pays\" (m. pl.) is the direct object and comes before the verb: visités."
+    },
+    {
+      "id": "c1-passe-simple-01",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "« Il fut ministre. » → Il ___ ministre.",
+      "options": [
+        "a fait",
+        "a eu",
+        "est allé",
+        "a été"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Fut\" is the passé simple of être: il a été."
+    },
+    {
+      "id": "c1-passe-simple-02",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "« Elle eut peur. » → Elle ___ peur.",
+      "options": [
+        "a été",
+        "a eu",
+        "a fait",
+        "est allée"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Eut\" is the passé simple of avoir: elle a eu."
+    },
+    {
+      "id": "c1-passe-simple-03",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "« Ils vinrent nous voir. » → Ils ___ nous voir.",
+      "options": [
+        "ont vendu",
+        "ont vu",
+        "ont voulu",
+        "sont venus"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Vinrent\" is the passé simple of venir: ils sont venus."
+    },
+    {
+      "id": "c1-passe-simple-04",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "« Il fit beau toute la journée. » → Il ___ beau toute la journée.",
+      "options": [
+        "a fini",
+        "a fallu",
+        "a été",
+        "a fait"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Fit\" is the passé simple of faire: il a fait."
+    },
+    {
+      "id": "c1-passe-simple-05",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "« Nous prîmes le train. » → Nous ___ le train.",
+      "options": [
+        "avons prié",
+        "avons pris",
+        "avons perdu",
+        "avons pu"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Prîmes\" is the passé simple of prendre: nous avons pris."
+    },
+    {
+      "id": "c1-passe-simple-06",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "« Elle vit son frère. » → Elle ___ son frère.",
+      "options": [
+        "a vendu",
+        "a vécu",
+        "a vu",
+        "a voulu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Here \"vit\" is the passé simple of voir: elle a vu. (It can also be the present of vivre: context decides.)"
+    },
+    {
+      "id": "c1-passe-simple-07",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "« Ils parlèrent longtemps. » → Ils ___ longtemps.",
+      "options": [
+        "ont parlé",
+        "parleront",
+        "parleraient",
+        "parlent"
+      ],
+      "correctIndex": 0,
+      "explanation": "-er verbs: ils parlèrent = ils ont parlé."
+    },
+    {
+      "id": "c1-passe-simple-08",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "« Le roi dut quitter le pays. » → Le roi ___ quitter le pays.",
+      "options": [
+        "a dit",
+        "a donné",
+        "a pu",
+        "a dû"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Dut\" is the passé simple of devoir: il a dû."
+    },
+    {
+      "id": "c1-passe-simple-09",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "« Victor Hugo naquit en 1802. » → Victor Hugo ___ en 1802.",
+      "options": [
+        "a écrit",
+        "a nagé",
+        "est né",
+        "est mort"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Naquit\" is the passé simple of naître: il est né."
+    },
+    {
+      "id": "c1-passe-simple-10",
+      "skill": "grammar",
+      "level": "C1",
+      "question": "« Ils ne purent pas venir. » → Ils ___ venir.",
+      "options": [
+        "n'ont pas plu",
+        "n'ont pas pu",
+        "n'ont pas pris",
+        "n'ont pas pensé"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Purent\" is the passé simple of pouvoir: ils n'ont pas pu."
+    }
+  ]
+}

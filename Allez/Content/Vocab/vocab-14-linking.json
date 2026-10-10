@@ -1,0 +1,287 @@
+{
+  "id": "linking",
+  "title": "Linking words",
+  "icon": "link",
+  "words": [
+    {
+      "french": "cependant",
+      "english": "however",
+      "level": "C1",
+      "example": "L'écriture de l'auteur reste cependant toujours aussi piquante et agréable à lire.",
+      "exampleTranslation": "The author's writing, however, is as sharp and enjoyable to read as ever."
+    },
+    {
+      "french": "pourtant",
+      "english": "yet, however",
+      "level": "B2",
+      "example": "Pourtant, j'ai beaucoup aimé et pas mal pratiqué la photographie dans mon adolescence.",
+      "exampleTranslation": "Yet I really loved photography and did quite a lot of it as a teenager."
+    },
+    {
+      "french": "toutefois",
+      "english": "however",
+      "level": "B2",
+      "example": "Si toutefois vous nous l'avez déjà adressée, merci de ne pas tenir compte de ce courrier.",
+      "exampleTranslation": "If, however, you have already sent it to us, please disregard this letter."
+    },
+    {
+      "french": "néanmoins",
+      "english": "nevertheless",
+      "level": "B2",
+      "example": "Néanmoins, il est également nécessaire de concilier mesures environnementales et activités économiques.",
+      "exampleTranslation": "Nevertheless, it is also necessary to reconcile environmental measures with economic activity."
+    },
+    {
+      "french": "en revanche",
+      "english": "on the other hand",
+      "level": "B2",
+      "example": "En revanche, nous allons devoir abandonner certaines de nos postures traditionnelles.",
+      "exampleTranslation": "On the other hand, we'll have to give up some of our traditional positions."
+    },
+    {
+      "french": "malgré",
+      "english": "despite",
+      "level": "B1",
+      "example": "En effet, malgré le développement d'internet, 70 % des ventes se font dans les magasins.",
+      "exampleTranslation": "Indeed, despite the growth of the internet, 70% of sales happen in shops."
+    },
+    {
+      "french": "alors que",
+      "english": "whereas, while",
+      "level": "B2",
+      "example": "C'est le retour à la terre alors que la désertification des campagnes se poursuit.",
+      "exampleTranslation": "It's a return to the land, even as people keep leaving the countryside."
+    },
+    {
+      "french": "tandis que",
+      "english": "whereas",
+      "level": "B1",
+      "example": "Les « plus à gauche » seraient ainsi plus logiques et analytiques, tandis que les « plus à droite » seraient créatifs et intuitifs.",
+      "exampleTranslation": "The \"more left-brained\" would be more logical and analytical, whereas the \"more right-brained\" would be creative and intuitive."
+    },
+    {
+      "french": "grâce à",
+      "english": "thanks to",
+      "level": "B2",
+      "example": "Ils approfondissaient et élargissaient ma vision du monde, grâce à leur apport culturel.",
+      "exampleTranslation": "They deepened and broadened my view of the world through what they brought culturally."
+    },
+    {
+      "french": "à cause de",
+      "english": "because of",
+      "level": "B1",
+      "example": "Les bus de la ligne 25 ne circulent pas cette semaine à cause de réparations sur les routes.",
+      "exampleTranslation": "Line 25 buses aren't running this week because of road repairs."
+    },
+    {
+      "french": "en raison de",
+      "english": "due to",
+      "level": "B2",
+      "example": "En raison de leur confusion avec les algues vertes qui polluent le littoral, ces légumes de mer sont parfois mal considérés.",
+      "exampleTranslation": "Because they are confused with the green algae that pollute the coast, these sea vegetables are sometimes looked down on."
+    },
+    {
+      "french": "afin de",
+      "english": "in order to",
+      "level": "B2",
+      "example": "La librairie des Orques à Paris a récolté 9000 euros de ses clients afin de financer son déménagement.",
+      "exampleTranslation": "The Orques bookshop in Paris raised 9,000 euros from its customers to pay for its move."
+    },
+    {
+      "french": "puisque",
+      "english": "since (because)",
+      "level": "C1",
+      "example": "Inutile d'aller bien loin pour une promenade puisque le parc Étienne est à proximité de la résidence.",
+      "exampleTranslation": "No need to go far for a walk, since Étienne Park is close to the residence."
+    },
+    {
+      "french": "lorsque",
+      "english": "when",
+      "level": "B2",
+      "example": "Les chiens, comme les humains, n'aiment pas lorsqu'il fait très chaud.",
+      "exampleTranslation": "Dogs, like humans, don't like it when it's very hot."
+    },
+    {
+      "french": "désormais",
+      "english": "from now on",
+      "level": "B2",
+      "example": "Désormais, c'est soi, son plaisir et les relations avec son environnement qui comptent.",
+      "exampleTranslation": "From now on, what counts is yourself, your enjoyment and your relationships with those around you."
+    },
+    {
+      "french": "d'ailleurs",
+      "english": "besides, moreover",
+      "level": "C1",
+      "example": "Il se félicite d'ailleurs, sur son site internet, de « susciter encore plus d'émotion ».",
+      "exampleTranslation": "On his website, he is also pleased to \"arouse even more emotion\"."
+    },
+    {
+      "french": "notamment",
+      "english": "in particular, notably",
+      "level": "C1",
+      "example": "C'est pourquoi \"voyages SNCF\" vend aussi \"de l'avion et des séjours\", à New York notamment.",
+      "exampleTranslation": "That's why \"Voyages SNCF\" also sells \"flights and holidays\", to New York in particular."
+    },
+    {
+      "french": "surtout",
+      "english": "above all, especially",
+      "level": "B2",
+      "example": "Insatiables capteurs de CO2, ils sont surtout de puissants climatiseurs.",
+      "exampleTranslation": "Insatiable absorbers of CO2, they are above all powerful air conditioners."
+    },
+    {
+      "french": "également",
+      "english": "also; equally",
+      "level": "B2",
+      "example": "C'est également l'occasion pour les enfants de découvrir et d'accepter leurs propres limites.",
+      "exampleTranslation": "It's also a chance for children to discover and accept their own limits."
+    },
+    {
+      "french": "davantage",
+      "english": "more",
+      "level": "C1",
+      "example": "Aussi la langue va-t-elle nécessairement s'ouvrir davantage.",
+      "exampleTranslation": "So the language will necessarily open up more."
+    },
+    {
+      "french": "voire",
+      "english": "or even",
+      "level": "B2",
+      "example": "Les parents les plus au fait s'informaient sur le monde une, voire deux fois par jour.",
+      "exampleTranslation": "The best-informed parents caught up on world news once or even twice a day."
+    },
+    {
+      "french": "ainsi",
+      "english": "thus, this way",
+      "level": "B2",
+      "example": "Ainsi des stations proposent des zones tranquilles, où la vitesse est interdite.",
+      "exampleTranslation": "So some resorts offer quiet zones where speeding is forbidden."
+    },
+    {
+      "french": "par conséquent",
+      "english": "consequently",
+      "level": "B1",
+      "example": "Par conséquent, les apprentissages, l'assimilation des informations et la capacité d'enchaîner les tâches s'en trouvent ralentis.",
+      "exampleTranslation": "As a result, learning, absorbing information and the ability to move from task to task are all slowed down."
+    },
+    {
+      "french": "finalement",
+      "english": "in the end",
+      "level": "B2",
+      "example": "D'après les psychologues, ce charmant défaut n'en est finalement pas un.",
+      "exampleTranslation": "According to psychologists, this charming flaw isn't really a flaw after all."
+    },
+    {
+      "french": "actuellement",
+      "english": "currently (not \"actually\")",
+      "level": "B2",
+      "example": "L'hôtel participe à une opération actuellement en vogue en France.",
+      "exampleTranslation": "The hotel is taking part in a scheme that is currently popular in France."
+    },
+    {
+      "french": "autrefois",
+      "english": "in the past, formerly",
+      "level": "C2",
+      "example": "Un disque comme autrefois, avec un son soigné et de l'émotion.",
+      "exampleTranslation": "A record like in the old days, with a polished sound and real emotion."
+    },
+    {
+      "french": "quant à",
+      "english": "as for",
+      "level": "B2",
+      "example": "Le héros principal, quant à lui, est dépeint avec une certaine profondeur.",
+      "exampleTranslation": "The main hero, for his part, is portrayed with some depth."
+    },
+    {
+      "french": "selon",
+      "english": "according to",
+      "level": "C1",
+      "example": "Selon la conception de Descartes, le corps est perçu comme séparé de l'esprit à éduquer.",
+      "exampleTranslation": "In Descartes' view, the body is seen as separate from the mind, which is what needs educating."
+    },
+    {
+      "french": "lors de",
+      "english": "during, at the time of",
+      "level": "B2",
+      "example": "Chaque année, un grand nombre de jeunes signent un contrat de travail lors du salon.",
+      "exampleTranslation": "Every year, many young people sign an employment contract at the fair."
+    },
+    {
+      "french": "parmi",
+      "english": "among",
+      "level": "B2",
+      "example": "Faites votre choix parmi les 5000 références proposées sur le site du magasin.",
+      "exampleTranslation": "Choose from the 5,000 products available on the shop's website."
+    },
+    {
+      "french": "environ",
+      "english": "about, approximately",
+      "level": "B1",
+      "example": "Environ 4 000 exemplaires vendus pour plus d'un million cent mille lecteurs !",
+      "exampleTranslation": "About 4,000 copies sold for more than 1.1 million readers!"
+    },
+    {
+      "french": "plutôt",
+      "english": "rather",
+      "level": "C1",
+      "example": "La consommation collaborative, basée sur l'échange, le partage, la location plutôt que la possession, n'est plus l'apanage de pionniers engagés.",
+      "exampleTranslation": "Collaborative consumption, based on swapping, sharing and renting rather than owning, is no longer just for committed pioneers."
+    },
+    {
+      "french": "en effet",
+      "english": "indeed",
+      "level": "B2",
+      "example": "En effet, tous les métiers et les personnalités ne sont pas adaptés au télétravail.",
+      "exampleTranslation": "Indeed, not all jobs and personalities are suited to remote work."
+    },
+    {
+      "french": "au contraire",
+      "english": "on the contrary",
+      "level": "C1",
+      "example": "D'autres, au contraire, affichent clairement leurs exigences et leurs engagements.",
+      "exampleTranslation": "Others, on the contrary, clearly state their demands and commitments."
+    },
+    {
+      "french": "d'abord",
+      "english": "first (of all)",
+      "level": "B2",
+      "example": "Si l'on n'est pas d'abord ému en tant qu'adulte, les enfants ne le seront pas non plus.",
+      "exampleTranslation": "If you aren't moved first as an adult, the children won't be either."
+    },
+    {
+      "french": "ensuite",
+      "english": "then, next",
+      "level": "B2",
+      "example": "Ensuite, le « nouveau sportif » pourra se lancer des défis pour améliorer ses performances.",
+      "exampleTranslation": "Then the \"new athlete\" can set themselves challenges to improve their performance."
+    },
+    {
+      "french": "bref",
+      "english": "in short",
+      "level": "B2",
+      "example": "Bref partout où on aime ce goût piquant et peu piquant qui fait sa légitime réputation.",
+      "exampleTranslation": "In short, wherever people love this spicy-but-not-too-spicy taste that has earned its reputation."
+    },
+    {
+      "french": "au lieu de",
+      "english": "instead of",
+      "level": "B2",
+      "example": "L'idée serait de doubler le montant de cette aide en limitant sa durée à un an au lieu de trois.",
+      "exampleTranslation": "The idea would be to double the amount of this aid while limiting it to one year instead of three."
+    },
+    {
+      "french": "à la fois",
+      "english": "at the same time; both",
+      "level": "B2",
+      "example": "Ce récit est à la fois un manuel de pédagogie et un recueil de souvenirs.",
+      "exampleTranslation": "This story is both a teaching manual and a collection of memories."
+    },
+    {
+      "french": "peu à peu",
+      "english": "little by little",
+      "level": "B2",
+      "example": "Longtemps délaissées, les algues semblent peu à peu séduire les consommateurs.",
+      "exampleTranslation": "Long neglected, seaweed seems to be gradually winning over consumers."
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "id": "home",
+  "title": "Home & daily life",
+  "icon": "house.fill",
+  "words": [
+    {
+      "french": "le logement",
+      "english": "housing, accommodation",
+      "level": "B1",
+      "example": "Logement, études ou téléphone portable, tout coûte cher pour les jeunes à l'université.",
+      "exampleTranslation": "Housing, studies, mobile phone: everything is expensive for young people at university."
+    },
+    {
+      "french": "l'appartement (m.)",
+      "english": "apartment",
+      "level": "A2",
+      "example": "Claude, votre professeur, vous accueille dans son confortable appartement à Montmartre.",
+      "exampleTranslation": "Claude, your teacher, welcomes you into his comfortable apartment in Montmartre."
+    },
+    {
+      "french": "l'immeuble (m.)",
+      "english": "apartment building",
+      "level": "A2",
+      "example": "Rendez-vous samedi pour un repas de quartier devant notre immeuble.",
+      "exampleTranslation": "See you on Saturday for a neighbourhood meal in front of our building."
+    },
+    {
+      "french": "le bâtiment",
+      "english": "building",
+      "level": "B2",
+      "example": "Promis à la destruction et à la rénovation, le bâtiment a été investi par des artistes.",
+      "exampleTranslation": "Due to be demolished and renovated, the building was taken over by artists."
+    },
+    {
+      "french": "l'étage (m.)",
+      "english": "floor, storey",
+      "level": "A2",
+      "example": "C'est le temps qu'il a fallu pour bâtir un hôtel de 16 étages et 50 mètres de haut.",
+      "exampleTranslation": "That's how long it took to build a 16-storey, 50-metre-high hotel."
+    },
+    {
+      "french": "la pièce",
+      "english": "room; coin; play",
+      "level": "B1",
+      "example": "Après le spectacle, l'équipe artistique propose d'échanger sur la pièce avec les élèves.",
+      "exampleTranslation": "After the show, the artistic team offers to discuss the play with the students."
+    },
+    {
+      "french": "la chambre",
+      "english": "bedroom",
+      "level": "B1",
+      "example": "Prière de n'emporter ni les draps de bain, ni les objets appartenant au bar de la chambre.",
+      "exampleTranslation": "Please do not take the bath towels or any items from the room's minibar."
+    },
+    {
+      "french": "le loyer",
+      "english": "rent",
+      "level": "B1",
+      "example": "Avec ce dispositif, c'est l'État qui se porte garant du versement des loyers des étudiants en cas de non-paiement.",
+      "exampleTranslation": "Under this scheme, the State guarantees students' rent if they don't pay."
+    },
+    {
+      "french": "le locataire",
+      "english": "tenant",
+      "level": "B1",
+      "example": "Je vous écris pour vous faire part des nuisances sonores provoquées par les locataires du 7ème étage.",
+      "exampleTranslation": "I'm writing to tell you about the noise caused by the tenants on the 7th floor."
+    },
+    {
+      "french": "le propriétaire",
+      "english": "owner, landlord",
+      "level": "B1",
+      "example": "La famille propriétaire de ce monument n'a pas changé depuis son ouverture en 1911.",
+      "exampleTranslation": "The family that owns this monument hasn't changed since it opened in 1911."
+    },
+    {
+      "french": "louer",
+      "english": "to rent",
+      "level": "A2",
+      "example": "Vous quittez l'appartement que vous louez dans notre résidence universitaire samedi prochain.",
+      "exampleTranslation": "You are leaving the apartment you rent in our student residence next Saturday."
+    },
+    {
+      "french": "la location",
+      "english": "rental",
+      "level": "B1",
+      "example": "Nos parents voudraient bien aussi manger des glaces mais ils payent déjà cher pour la location et on ne peut plus dépenser beaucoup.",
+      "exampleTranslation": "Our parents would like ice cream too, but they're already paying a lot for the rental and we can't spend much more."
+    },
+    {
+      "french": "la colocation",
+      "english": "flat-sharing",
+      "level": "B1",
+      "example": "Je propose un 3 pièces en colocation à partir du septembre.",
+      "exampleTranslation": "I'm offering a 3-room flat-share from September."
+    },
+    {
+      "french": "déménager",
+      "english": "to move (house)",
+      "level": "B2",
+      "example": "Moi-même, je ne vois pas pourquoi le festival devrait déménager, cela se passe très bien ici.",
+      "exampleTranslation": "Personally, I don't see why the festival should move; it's going very well here."
+    },
+    {
+      "french": "le déménagement",
+      "english": "move (house)",
+      "level": "B1",
+      "example": "La librairie des Orques à Paris a récolté 9000 euros de ses clients afin de financer son déménagement.",
+      "exampleTranslation": "The Orques bookshop in Paris raised 9,000 euros from its customers to pay for its move."
+    },
+    {
+      "french": "le voisin",
+      "english": "neighbour",
+      "level": "B2",
+      "example": "Désormais, on connaît bien nos voisins, on veut donc voir autre chose.",
+      "exampleTranslation": "Now we know our neighbours well, so we want to see something different."
+    },
+    {
+      "french": "le quartier",
+      "english": "neighbourhood",
+      "level": "B1",
+      "example": "Musique jazz et brésilienne durant tout l'été dans le quartier du Musée d'Art Moderne !",
+      "exampleTranslation": "Jazz and Brazilian music all summer long in the Museum of Modern Art neighbourhood!"
+    },
+    {
+      "french": "le centre-ville",
+      "english": "town centre",
+      "level": "B1",
+      "example": "De centre-ville à centre-ville, vous arrivez plus tôt, vos fins de semaine durent plus longtemps.",
+      "exampleTranslation": "From city centre to city centre, you arrive earlier and your weekends last longer."
+    },
+    {
+      "french": "le domicile",
+      "english": "home, place of residence",
+      "level": "A2",
+      "example": "Nous prenons vos paquets à domicile ou dans les bureaux de poste et nous les envoyons dans le monde entier.",
+      "exampleTranslation": "We collect your parcels from your home or from post offices and send them worldwide."
+    },
+    {
+      "french": "les travaux (m.)",
+      "english": "works, renovations",
+      "level": "B1",
+      "example": "Attention : la bibliothèque sera fermée l'après-midi pour un mois pendant les travaux.",
+      "exampleTranslation": "Note: the library will be closed in the afternoons for a month during the works."
+    },
+    {
+      "french": "la rénovation",
+      "english": "renovation",
+      "level": "C1",
+      "example": "Promis à la destruction et à la rénovation, le bâtiment a été investi par des artistes.",
+      "exampleTranslation": "Due to be demolished and renovated, the building was taken over by artists."
+    },
+    {
+      "french": "le chauffage",
+      "english": "heating",
+      "level": "B1",
+      "example": "Proche de la gare Montparnasse, chauffage au gaz, un salon et 2 chambres.",
+      "exampleTranslation": "Near Montparnasse station, gas heating, a living room and 2 bedrooms."
+    },
+    {
+      "french": "l'électricité (f.)",
+      "english": "electricity",
+      "level": "B2",
+      "example": "Votre facture d'électricité du mois de novembre est disponible sur Internet.",
+      "exampleTranslation": "Your November electricity bill is available online."
+    },
+    {
+      "french": "le bruit",
+      "english": "noise",
+      "level": "B1",
+      "example": "Heureusement, le bruit, dès qu'on le coupe, n'a plus aucun effet.",
+      "exampleTranslation": "Fortunately, once you stop the noise, it no longer has any effect."
+    },
+    {
+      "french": "le calme",
+      "english": "calm, quiet",
+      "level": "B1",
+      "example": "Situé au deuxième étage d'un bel immeuble avec ascenseur, dans un quartier calme, proche des commerces.",
+      "exampleTranslation": "On the second floor of a nice building with a lift, in a quiet area, close to the shops."
+    },
+    {
+      "french": "le jardin",
+      "english": "garden",
+      "level": "B2",
+      "example": "Une bonne nouvelle pour les nombreuses personnes âgées qui fréquentent le jardin.",
+      "exampleTranslation": "Good news for the many elderly people who visit the garden."
+    },
+    {
+      "french": "les courses (f.)",
+      "english": "grocery shopping",
+      "level": "A1",
+      "example": "Pour le repas, j'ai fait les courses et un gâteau.",
+      "exampleTranslation": "For the meal, I did the shopping and made a cake."
+    },
+    {
+      "french": "le quotidien",
+      "english": "daily life",
+      "level": "B2",
+      "example": "Ces bavardages nous permettent de nous évader du quotidien et d'établir le contact avec les autres.",
+      "exampleTranslation": "These chats let us escape everyday life and connect with others."
+    },
+    {
+      "french": "les poubelles (f.)",
+      "english": "bins, rubbish",
+      "level": "B1",
+      "example": "Il faut séparer le plastique et le carton et les mettre dans les poubelles jaunes.",
+      "exampleTranslation": "You must separate plastic and cardboard and put them in the yellow bins."
+    },
+    {
+      "french": "le colis",
+      "english": "parcel",
+      "level": "A2",
+      "example": "Pour que vos colis arrivent avant les fêtes,nous vous proposons de les transporter en mode express.",
+      "exampleTranslation": "So that your parcels arrive before the holidays, we offer express delivery."
+    },
+    {
+      "french": "le courrier",
+      "english": "mail, post",
+      "level": "B1",
+      "example": "Suite à votre courrier du 17 juin dernier, je vous envoie le catalogue de nos produits.",
+      "exampleTranslation": "Following your letter of 17 June, I'm sending you our product catalogue."
+    },
+    {
+      "french": "l'animal (m.)",
+      "english": "animal, pet",
+      "level": "B2",
+      "example": "Il s'agit de la consommation d'une viande qui n'a plus aucune référence à l'animal.",
+      "exampleTranslation": "It's about eating meat that no longer has any link to the animal."
+    },
+    {
+      "french": "le chien",
+      "english": "dog",
+      "level": "A2",
+      "example": "Avant de te coucher, n'oublie pas de sortir le chien et de lui donner à manger !",
+      "exampleTranslation": "Before you go to bed, don't forget to take the dog out and feed it!"
+    },
+    {
+      "french": "le confort",
+      "english": "comfort",
+      "level": "B1",
+      "example": "Issues de toutes les classes sociales, elles ne recherchent pas spécialement le confort.",
+      "exampleTranslation": "Coming from all social classes, they aren't especially looking for comfort."
+    },
+    {
+      "french": "le mobilier",
+      "english": "furniture",
+      "level": "B1",
+      "example": "Depuis le mois de décembre, sur certains boulevards, un nouveau mobilier urbain a fait son apparition, avec 12 modèles de banquettes, chaises et tabourets.",
+      "exampleTranslation": "Since December, new street furniture has appeared on some boulevards, with 12 models of benches, chairs and stools."
+    },
+    {
+      "french": "la clé",
+      "english": "key",
+      "level": "B2",
+      "example": "Pouvez-vous passer samedi après-midi à mon bureau pour rendre votre clé et signer un document.",
+      "exampleTranslation": "Could you come by my office on Saturday afternoon to return your key and sign a document."
+    }
+  ]
+}

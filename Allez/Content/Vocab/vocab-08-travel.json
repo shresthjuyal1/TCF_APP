@@ -1,0 +1,287 @@
+{
+  "id": "travel",
+  "title": "Travel & transport",
+  "icon": "airplane",
+  "words": [
+    {
+      "french": "le voyage",
+      "english": "trip, journey",
+      "level": "B2",
+      "example": "Sur la toile, la cuisine est devenue « l'univers le plus plébiscité avec le voyage ».",
+      "exampleTranslation": "Online, cooking has become \"the most popular topic along with travel\"."
+    },
+    {
+      "french": "voyager",
+      "english": "to travel",
+      "level": "A2",
+      "example": "Les consommateurs séduits par ce concept commercial qui permet de voyager presque gratuitement sur une partie du réseau ont formé une longue file d'attente.",
+      "exampleTranslation": "Consumers attracted by this offer, which lets you travel almost free on part of the network, formed a long queue."
+    },
+    {
+      "french": "le séjour",
+      "english": "stay",
+      "level": "B1",
+      "example": "Je pensais t'écrire de Fès, mais notre séjour ne s'est pas déroulé comme nous l'espérions.",
+      "exampleTranslation": "I meant to write to you from Fez, but our stay didn't go as we had hoped."
+    },
+    {
+      "french": "les vacances (f.)",
+      "english": "holidays",
+      "level": "B1",
+      "example": "Les Français partent moins longtemps, mais plus souvent en vacances qu'il y a 20 ans.",
+      "exampleTranslation": "French people go on holiday for shorter periods but more often than 20 years ago."
+    },
+    {
+      "french": "le tourisme",
+      "english": "tourism",
+      "level": "B2",
+      "example": "Olivier Pollet, co-fondateur d'Escursia, veut développer le tourisme scientifique.",
+      "exampleTranslation": "Olivier Pollet, co-founder of Escursia, wants to develop science tourism."
+    },
+    {
+      "french": "le touriste",
+      "english": "tourist",
+      "level": "B2",
+      "example": "Les touristes n'ont pas l'impression de changer d'air s'ils ne quittent pas l'Union.",
+      "exampleTranslation": "Tourists don't feel they've had a change of scene unless they leave the EU."
+    },
+    {
+      "french": "touristique",
+      "english": "tourist (adj.)",
+      "level": "B1",
+      "example": "Globalement, la fréquentation touristique a légèrement progressé, selon des données statistiques recueillies.",
+      "exampleTranslation": "Overall, tourist numbers have risen slightly, according to the statistics collected."
+    },
+    {
+      "french": "l'hôtel (m.)",
+      "english": "hotel",
+      "level": "B1",
+      "example": "C'est le temps qu'il a fallu pour bâtir un hôtel de 16 étages et 50 mètres de haut.",
+      "exampleTranslation": "That's how long it took to build a 16-storey, 50-metre-high hotel."
+    },
+    {
+      "french": "l'hébergement (m.)",
+      "english": "accommodation",
+      "level": "B1",
+      "example": "En quelques années, le camping est devenu le premier mode d'hébergement touristique, devant les hôtels, les résidences et les villages de vacances.",
+      "exampleTranslation": "In a few years, camping has become the most popular type of holiday accommodation, ahead of hotels, holiday apartments and resorts."
+    },
+    {
+      "french": "le camping",
+      "english": "campsite; camping",
+      "level": "B1",
+      "example": "Il y a quelques années, certains avaient honte de dire : « Je suis allé au camping.",
+      "exampleTranslation": "A few years ago, some people were ashamed to say, \"I went camping.\""
+    },
+    {
+      "french": "la réservation",
+      "english": "booking",
+      "level": "B1",
+      "example": "Je vous rappelle que les réservations se font uniquement par Internet.",
+      "exampleTranslation": "Remember that bookings can only be made online."
+    },
+    {
+      "french": "réserver",
+      "english": "to book",
+      "level": "B2",
+      "example": "Aussi faut-il réserver une table à l'avance pour éviter la file d'attente à l'entrée de l'établissement.",
+      "exampleTranslation": "So you need to book a table in advance to avoid the queue at the entrance."
+    },
+    {
+      "french": "annuler",
+      "english": "to cancel",
+      "level": "B1",
+      "example": "La compagnie aérienne a annulé le vol en Grèce.",
+      "exampleTranslation": "The airline cancelled the flight to Greece."
+    },
+    {
+      "french": "le départ",
+      "english": "departure",
+      "level": "B1",
+      "example": "Je le vois ailleurs, je prépare activement mon départ pour l'Angleterre.",
+      "exampleTranslation": "I see my future elsewhere; I'm busy preparing my move to England."
+    },
+    {
+      "french": "l'arrivée (f.)",
+      "english": "arrival",
+      "level": "A2",
+      "example": "Nous sommes heureux de vous annoncer l'arrivée d'un nouveau membre dans notre famille.",
+      "exampleTranslation": "We are happy to announce the arrival of a new member of our family."
+    },
+    {
+      "french": "le retard",
+      "english": "delay",
+      "level": "B2",
+      "example": "Rendez-vous avec un ami : un SMS pour prévenir qu'on arrive dans cinq minutes, un autre dès qu'on est arrivé, un autre si on est en retard.",
+      "exampleTranslation": "Meeting a friend: one text to say you'll be there in five minutes, another once you've arrived, another if you're late."
+    },
+    {
+      "french": "les transports en commun (m.)",
+      "english": "public transport",
+      "level": "C1",
+      "example": "Certains économistes spécialisés dans la politique en matière de mobilité estiment que la gratuité des transports en commun n'est pas souhaitable.",
+      "exampleTranslation": "Some economists who specialise in transport policy think free public transport isn't a good idea."
+    },
+    {
+      "french": "le train",
+      "english": "train",
+      "level": "B1",
+      "example": "Nous avons bien reçu votre demande de remboursement pour un billet de train (voyage professionnel).",
+      "exampleTranslation": "We have received your refund request for a train ticket (business trip)."
+    },
+    {
+      "french": "la gare",
+      "english": "(train) station",
+      "level": "A2",
+      "example": "La commune de Saint-Brieuc participe au concours Europan sur le thème « De la gare à la mer ».",
+      "exampleTranslation": "The town of Saint-Brieuc is taking part in the Europan competition on the theme \"From the station to the sea\"."
+    },
+    {
+      "french": "le métro",
+      "english": "metro, subway",
+      "level": "B1",
+      "example": "Du 10 avril au 15 septembre, les ascenseurs de votre station de métro sont en réparation.",
+      "exampleTranslation": "From 10 April to 15 September, the lifts at your metro station are being repaired."
+    },
+    {
+      "french": "l'avion (m.)",
+      "english": "plane",
+      "level": "B1",
+      "example": "C'est pourquoi \"voyages SNCF\" vend aussi \"de l'avion et des séjours\", à New York notamment.",
+      "exampleTranslation": "That's why \"Voyages SNCF\" also sells \"flights and holidays\", to New York for example."
+    },
+    {
+      "french": "l'aéroport (m.)",
+      "english": "airport",
+      "level": "A2",
+      "example": "Selon l'aéroport, une dizaine de touristes vivent ce type d'aventure chaque année.",
+      "exampleTranslation": "According to the airport, about ten tourists go through this kind of adventure every year."
+    },
+    {
+      "french": "le vol",
+      "english": "flight; theft",
+      "level": "A2",
+      "example": "Avec la technologie actuelle, il faut six à neuf mois pour un vol de la Terre à Mars.",
+      "exampleTranslation": "With current technology, a flight from Earth to Mars takes six to nine months."
+    },
+    {
+      "french": "le billet",
+      "english": "ticket",
+      "level": "B1",
+      "example": "Billet unique, 2,5 €, utilisable sans limite du 21 juin à 20 heures au 22 juin à 7 heures.",
+      "exampleTranslation": "Single ticket, €2.50, unlimited use from 8 pm on 21 June to 7 am on 22 June."
+    },
+    {
+      "french": "le voyageur",
+      "english": "traveller",
+      "level": "B2",
+      "example": "Les voyageurs la paieront 2 euros et la rechargeront aux guichets et aux machines automatiques des gares.",
+      "exampleTranslation": "Travellers will pay 2 euros for it and top it up at station ticket counters and machines."
+    },
+    {
+      "french": "la voiture",
+      "english": "car",
+      "level": "B1",
+      "example": "Ainsi, 80% des 18-25 ans préféreraient vivre sans voiture que sans smartphone.",
+      "exampleTranslation": "So 80% of 18-25-year-olds would rather live without a car than without a smartphone."
+    },
+    {
+      "french": "le véhicule",
+      "english": "vehicle",
+      "level": "B1",
+      "example": "Vous ne devez en aucun cas laisser vos véhicules devant l'entrée de la résidence.",
+      "exampleTranslation": "You must never leave your vehicles in front of the residence entrance."
+    },
+    {
+      "french": "la route",
+      "english": "road",
+      "level": "B2",
+      "example": "Les bus de la ligne 25 ne circulent pas cette semaine à cause de réparations sur les routes.",
+      "exampleTranslation": "Line 25 buses aren't running this week because of road repairs."
+    },
+    {
+      "french": "la circulation",
+      "english": "traffic",
+      "level": "B2",
+      "example": "C'est encore recueillir l'avis des experts de la circulation routière et entendre les préoccupations des professionnels du tourisme.",
+      "exampleTranslation": "It also means gathering the views of road traffic experts and hearing the concerns of tourism professionals."
+    },
+    {
+      "french": "le vélo",
+      "english": "bike",
+      "level": "B1",
+      "example": "On connaissait les vélos en acier, en alliage d'aluminium, en carbone ou même en titane.",
+      "exampleTranslation": "We already knew bikes made of steel, aluminium alloy, carbon or even titanium."
+    },
+    {
+      "french": "la bicyclette",
+      "english": "bicycle",
+      "level": "B1",
+      "example": "Traversée du parc interdite aux voitures, aux vélomoteurs et aux bicyclettes.",
+      "exampleTranslation": "Cars, mopeds and bicycles are not allowed to cross the park."
+    },
+    {
+      "french": "le piéton",
+      "english": "pedestrian",
+      "level": "B1",
+      "example": "En Sardaigne (Italie), les piétons qui traversent tout en regardant leur téléphone peuvent recevoir une amende.",
+      "exampleTranslation": "In Sardinia (Italy), pedestrians who cross while looking at their phone can be fined."
+    },
+    {
+      "french": "le déplacement",
+      "english": "journey, getting around",
+      "level": "B2",
+      "example": "Il vous aidera dans vos déplacements, dans vos recherches, pour vos repas, etc.",
+      "exampleTranslation": "He'll help you get around, with your searches, with your meals, and so on."
+    },
+    {
+      "french": "se déplacer",
+      "english": "to get around",
+      "level": "B1",
+      "example": "Les organisateurs du festival Rock Werchter envisagent de le déplacer dans la région de Limbourg.",
+      "exampleTranslation": "The organisers of the Rock Werchter festival are thinking of moving it to the Limburg region."
+    },
+    {
+      "french": "la mobilité",
+      "english": "mobility",
+      "level": "C1",
+      "example": "Toutes les études traduisent une absence de désir de mobilité chez les jeunes.",
+      "exampleTranslation": "All the studies show that young people have no desire to move around."
+    },
+    {
+      "french": "le trajet",
+      "english": "journey, commute",
+      "level": "B2",
+      "example": "J'économise 70 kilomètres de trajets par jour.",
+      "exampleTranslation": "I save 70 kilometres of travel a day."
+    },
+    {
+      "french": "la distance",
+      "english": "distance",
+      "level": "B2",
+      "example": "On assiste à un développement du tourisme de longue distance, par exemple vers L'Afrique du Sud.",
+      "exampleTranslation": "Long-distance tourism is growing, for example to South Africa."
+    },
+    {
+      "french": "le guide",
+      "english": "guide; guidebook",
+      "level": "B1",
+      "example": "Le guide-interprète travaille dans les musées, châteaux et parcs.",
+      "exampleTranslation": "Tour guides work in museums, castles and parks."
+    },
+    {
+      "french": "la plage",
+      "english": "beach",
+      "level": "A2",
+      "example": "Avec mon ami Tom, nous avons trouvé un hôtel pas cher à côté de la plage.",
+      "exampleTranslation": "My friend Tom and I found a cheap hotel next to the beach."
+    },
+    {
+      "french": "l'étranger (m.)",
+      "english": "abroad; foreigner",
+      "level": "B2",
+      "example": "Les diplômes ne suffisent plus à assurer une situation stable en France et beaucoup de jeunes décident de partir à l'étranger pour obtenir un emploi.",
+      "exampleTranslation": "Degrees no longer guarantee a stable situation in France, and many young people decide to go abroad to get a job."
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+# Vocabulary source for the Vocab tab.
+# "## id | Title | SF Symbol" starts a theme. Each word line is: French | English [| search pattern]
+# The build script finds an example sentence for each word in the reading tests and works out its level. A search pattern ending in $ matches whole words only.
+
+## work | Work & careers | briefcase.fill
+le travail | work, job
+l'emploi (m.) | job, employment
+le poste | position, job
+le métier | trade, occupation
+la profession | profession
+l'entreprise (f.) | company, business
+le salarié | employee | salarié
+l'employé (m.) | employee | employé
+l'employeur (m.) | employer
+le/la collègue | colleague
+le chef | boss, head; chef | chefs?$
+le directeur | director, manager | directeur|directrice
+le responsable | person in charge, manager
+l'équipe (f.) | team
+le bureau | office; desk
+la réunion | meeting
+le rendez-vous | appointment, meeting
+le salaire | salary
+le contrat | contract
+le stage | internship
+la candidature | application (for a job)
+le candidat | candidate
+l'entretien (m.) | interview; upkeep
+le recrutement | recruitment
+recruter | to recruit | recrut(?:er|e|ent|é|ée|és|ons|ez)$
+embaucher | to hire | embauch
+le chômage | unemployment
+la retraite | retirement
+les congés (m.) | leave, time off | congés?
+le télétravail | remote work
+la carrière | career
+les compétences (f.) | skills | compétences?
+l'expérience (f.) | experience
+la formation | training
+le secteur | sector
+la tâche | task
+la mission | assignment, mission
+le projet | project
+l'objectif (m.) | goal, objective
+la productivité | productivity
+la concurrence | competition (business)
+le commerce | trade, business; shop
+le commerçant | shopkeeper | commerçants?
+l'artisan (m.) | craftsman, artisan
+l'agriculteur (m.) | farmer
+le savoir-faire | know-how
+la grève | strike
+gérer | to manage | gér(?:er|é|ée|ez|ons)|gère|gèrent$
+diriger | to run, to manage | dirig(?:er|e|ent|é|ée|eait|eant)$
+
+## education | Education & learning | graduationcap.fill
+l'école (f.) | school
+le collège | middle school
+le lycée | high school
+l'université (f.) | university
+l'élève (m./f.) | pupil, school student
+l'étudiant (m.) | (university) student | étudiants?|étudiante
+l'enseignant (m.) | teacher | enseignants?|enseignante
+le professeur | teacher, professor
+l'enseignement (m.) | teaching, education
+l'éducation (f.) | education
+l'apprentissage (m.) | learning; apprenticeship
+apprendre | to learn | apprend|apprenn|appris
+enseigner | to teach | enseign(?:er|ent|é|ons|ez|ait|aient)$
+le cours | class, course
+la leçon | lesson
+la matière | (school) subject
+les devoirs (m.) | homework
+l'examen (m.) | exam
+l'épreuve (f.) | test, exam paper
+la note | grade, mark | notes?
+réussir | to succeed, to pass | réussi(?:r|s|t|ssent|ssez|ssons)?$
+l'échec (m.) | failure
+la réussite | success
+le diplôme | diploma, degree
+l'orientation (f.) | (study/career) guidance
+l'inscription (f.) | registration, enrolment
+s'inscrire | to register, to sign up | inscri(?:re|t|te|ts|vez|vent|s)$
+la rentrée | start of the school year
+la cantine | school cafeteria
+la maternelle | nursery school
+la crèche | daycare
+le niveau | level
+la connaissance | knowledge
+le savoir | knowledge | savoirs?
+la compréhension | understanding
+la mémoire | memory
+la concentration | concentration
+l'orthographe (f.) | spelling
+la lecture | reading
+l'écriture (f.) | writing
+la pédagogie | teaching method
+pédagogique | educational
+le chercheur | researcher | chercheurs?|chercheuse
+la recherche | research; search
+l'étude (f.) | study
+le parcours | path, background (studies or career)
+scolaire | school (adj.)
+universitaire | university (adj.)
+l'atelier (m.) | workshop
+
+## home | Home & daily life | house.fill
+le logement | housing, accommodation
+l'appartement (m.) | apartment
+l'immeuble (m.) | apartment building
+le bâtiment | building
+l'étage (m.) | floor, storey
+la pièce | room; coin; play
+la chambre | bedroom
+le loyer | rent
+le locataire | tenant
+le propriétaire | owner, landlord
+louer | to rent | lou(?:er|é|ée|és|e|ent|ez)$
+la location | rental
+la colocation | flat-sharing
+déménager | to move (house) | déménag(?:er|e|ent|é|és|ez|eons)$
+le déménagement | move (house)
+le voisin | neighbour | voisins?|voisine
+le quartier | neighbourhood
+le centre-ville | town centre
+le domicile | home, place of residence
+les travaux (m.) | works, renovations
+la rénovation | renovation
+le chauffage | heating
+l'électricité (f.) | electricity
+le bruit | noise
+le calme | calm, quiet
+le jardin | garden
+les courses (f.) | grocery shopping
+le quotidien | daily life
+les poubelles (f.) | bins, rubbish
+le colis | parcel
+le courrier | mail, post
+l'animal (m.) | animal, pet | animal|animaux
+le chien | dog
+le confort | comfort
+le mobilier | furniture
+la clé | key | clés?|clefs?$
+
+## health | Health & well-being | heart.fill
+la santé | health
+le médecin | doctor
+l'hôpital (m.) | hospital
+le patient | patient
+la maladie | illness, disease
+malade | ill, sick
+le médicament | medicine, drug
+le traitement | treatment; processing
+les soins (m.) | care, treatment | soins?
+la douleur | pain
+le stress | stress
+la fatigue | tiredness
+l'épuisement (m.) | exhaustion
+le sommeil | sleep
+le bien-être | well-being
+le corps | body
+le cerveau | brain
+le cœur | heart
+la peau | skin
+l'hygiène (f.) | hygiene
+le sang | blood
+le handicap | disability
+handicapé | disabled
+le trouble | disorder
+la pathologie | disease, pathology
+la prévention | prevention
+soigner | to treat, to care for | soign(?:er|é|e|ent)$
+l'urgence (f.) | emergency
+l'assurance (f.) | insurance
+le risque | risk
+le danger | danger
+la mort | death
+la naissance | birth
+les personnes âgées | elderly people | âgé
+l'activité physique (f.) | physical activity | activités? physiques?
+le sport | sport
+
+## environment | Environment & nature | leaf.fill
+l'environnement (m.) | environment
+la nature | nature
+la planète | planet
+le climat | climate
+climatique | climate (adj.)
+le réchauffement | warming | réchauffement
+la pollution | pollution
+polluer | to pollute | pollu(?:er|é|ée|ent)$
+les déchets (m.) | waste, rubbish
+recycler | to recycle | recycl(?:er|é|ée|és|able|ables)$
+le tri | sorting (of waste)
+le gaspillage | waste, wasting
+l'énergie (f.) | energy
+le nucléaire | nuclear power
+le carbone | carbon
+le plastique | plastic
+l'écologie (f.) | ecology
+écologique | ecological, green
+durable | sustainable, lasting
+protéger | to protect | protég(?:er|é|ée|és|eons|ez)|protège|protègent$
+la protection | protection
+préserver | to preserve | préserv(?:er|é|ée|ent)$
+l'espèce (f.) | species
+la faune | wildlife
+la biodiversité | biodiversity
+les insectes (m.) | insects
+l'écosystème (m.) | ecosystem
+les pesticides (m.) | pesticides
+biologique | organic (food); biological
+l'agriculture (f.) | agriculture, farming
+agricole | agricultural
+la terre | earth, land, soil
+le sol | soil, ground | sols?$
+l'océan (m.) | ocean
+la forêt | forest
+l'arbre (m.) | tree
+la plante | plant
+la ressource | resource
+réduire | to reduce | rédui(?:re|t|ts|te|sent|sez|sons)$
+la disparition | disappearance, extinction
+disparaître | to disappear | dispar
+la menace | threat
+menacer | to threaten | menac(?:er|é|ée|és|ent)$
+les espaces verts (m.) | green spaces | espaces verts
+la campagne | countryside; campaign
+le paysage | landscape
+la montagne | mountains
+
+## media | Media & technology | newspaper.fill
+les médias (m.) | the media
+la presse | the press
+le journal | newspaper | journal|journaux$
+le journaliste | journalist
+l'article (m.) | article; item
+le magazine | magazine
+la revue | review, journal
+l'émission (f.) | (TV or radio) programme
+la télévision | television
+la radio | radio
+l'écran (m.) | screen
+le reportage | report (TV, press)
+le documentaire | documentary
+l'enquête (f.) | survey; investigation
+l'actualité (f.) | news, current affairs
+la publicité | advertising, advert
+publicitaire | advertising (adj.)
+le site | website; site
+l'internaute (m./f.) | internet user
+les réseaux sociaux (m.) | social media | réseaux sociaux
+le réseau | network
+numérique | digital
+la technologie | technology
+l'ordinateur (m.) | computer
+le smartphone | smartphone
+le portable | mobile phone; laptop
+la tablette | tablet
+l'application (f.) | app; application
+le logiciel | software
+les données (f.) | data
+l'intelligence artificielle (f.) | artificial intelligence | intelligence artificielle
+le robot | robot
+l'outil (m.) | tool
+l'appareil (m.) | device, appliance
+en ligne | online
+télécharger | to download | télécharg
+le blog | blog
+le forum | forum
+la vidéo | video
+le courriel | email
+communiquer | to communicate | communiqu(?:er|é|ent|ons|ez)$
+la communication | communication
+l'invention (f.) | invention
+l'innovation (f.) | innovation
+le lecteur | reader | lecteurs?|lectrice
+le public | audience, public
+publier | to publish | publi(?:er|é|ée|és|ées|ent)$
+
+## culture | Culture & leisure | theatermasks.fill
+la culture | culture
+culturel | cultural
+les loisirs (m.) | leisure, hobbies
+le spectacle | show
+le concert | concert
+le festival | festival
+le théâtre | theatre
+la scène | stage; scene
+le comédien | actor | comédiens?|comédienne
+l'acteur (m.) | actor; key player | acteurs?|actrice
+le spectateur | spectator | spectateurs?
+le cinéma | cinema
+le roman | novel
+l'écrivain (m.) | writer
+l'auteur (m.) | author | auteurs?|autrice
+le personnage | character (in a story)
+le héros | hero
+l'intrigue (f.) | plot
+la littérature | literature
+la bande dessinée | comic book | bande dessinée|bandes dessinées
+l'œuvre (f.) | work (of art) | œuvres?
+l'artiste (m./f.) | artist
+le peintre | painter
+la peinture | painting (art)
+le tableau | painting; board; chart | tableaux?
+la sculpture | sculpture
+l'exposition (f.) | exhibition
+le musée | museum
+le patrimoine | heritage
+le monument | monument
+le château | castle
+la musique | music
+le musicien | musician
+la chanson | song
+la danse | dance
+la photographie | photography
+le photographe | photographer
+la fête | party, celebration
+l'anniversaire (m.) | birthday; anniversary
+le jeu | game | jeu|jeux$
+le jouet | toy
+la randonnée | hike, hiking
+la promenade | walk
+se promener | to go for a walk | promen(?:er|é|ée|ait|ez|ons)|promène|promènent$
+la visite | visit; tour
+l'entrée (f.) | entrance; admission; starter
+le tarif | price, rate
+la séance | session, screening
+l'abonnement (m.) | subscription
+la bibliothèque | library
+l'association (f.) | association, club
+la créativité | creativity
+l'imagination (f.) | imagination
+
+## travel | Travel & transport | airplane
+le voyage | trip, journey
+voyager | to travel | voyag(?:er|ent|ez|eons|é|eait|eaient|eant)$
+le séjour | stay
+les vacances (f.) | holidays
+le tourisme | tourism
+le touriste | tourist
+touristique | tourist (adj.)
+l'hôtel (m.) | hotel
+l'hébergement (m.) | accommodation
+le camping | campsite; camping
+la réservation | booking
+réserver | to book | réserv(?:er|é|ée|és|ez|ons|ent)$
+annuler | to cancel | annul(?:er|é|ée|ez|ons|ent)$
+le départ | departure
+l'arrivée (f.) | arrival
+le retard | delay
+les transports en commun (m.) | public transport | transports? en commun
+le train | train
+la gare | (train) station
+le métro | metro, subway
+l'avion (m.) | plane
+l'aéroport (m.) | airport
+le vol | flight; theft
+le billet | ticket
+le voyageur | traveller | voyageurs?|voyageuse
+la voiture | car
+le véhicule | vehicle
+la route | road
+la circulation | traffic
+le vélo | bike
+la bicyclette | bicycle
+le piéton | pedestrian
+le déplacement | journey, getting around
+se déplacer | to get around | déplac(?:er|e|ent|é|és|ez)$
+la mobilité | mobility
+le trajet | journey, commute
+la distance | distance
+le guide | guide; guidebook
+la plage | beach
+l'étranger (m.) | abroad; foreigner
+
+## money | Shopping & money | cart.fill
+l'argent (m.) | money
+le prix | price; prize
+coûter | to cost | coût[ea]
+le coût | cost
+cher | expensive; dear
+payer | to pay | pay(?:er|é|ée|és|ez|ons|ent|ant)|paie|paient|paies$
+le paiement | payment
+la facture | bill, invoice
+le chèque | cheque
+la carte bancaire | bank card | carte bancaire|cartes bancaires
+le compte | account; prendre en compte = to take into account
+la somme | sum, amount | somme$
+le montant | amount
+le budget | budget
+dépenser | to spend (money) | dépens(?:er|é|ez|ons|ent)$
+les dépenses (f.) | expenses
+économiser | to save (money) | économis(?:er|e|é|ez)$
+les revenus (m.) | income
+le magasin | shop
+la boutique | (small) shop
+le supermarché | supermarket
+le marché | market
+les soldes (m.) | sales
+la promotion | special offer; promotion
+la réduction | discount; reduction
+l'achat (m.) | purchase
+acheter | to buy | achet|achèt
+vendre | to sell | vend(?:re|u|ue|us|ons|ez|ent|ait|ant|s)$
+la vente | sale
+le consommateur | consumer | consommateurs?|consommatrice
+consommer | to consume | consomm(?:er|e|ent|é|ons|ez)$
+la consommation | consumption
+le produit | product
+la marque | brand
+la commande | order
+commander | to order | command(?:er|é|ée|ez|ons)$
+la livraison | delivery
+le remboursement | refund
+rembourser | to refund, to pay back | rembours(?:er|é|ée|és|ons|ez)$
+gratuit | free (of charge)
+la gratuité | being free of charge
+la qualité | quality
+la quantité | quantity
+la banque | bank
+le crédit | credit, loan
+
+## admin | Admin & public services | building.columns.fill
+l'administration (f.) | administration, civil service
+la mairie | town hall
+le maire | mayor
+municipal | municipal, town (adj.) | municipa
+le service | service; department
+le guichet | counter, ticket window
+le formulaire | form
+le dossier | file, application
+le document | document
+remplir | to fill in; to fill | rempli
+la demande | request, application; demand
+la démarche | step, procedure; approach
+l'horaire (m.) | timetable; opening hours | horaires?
+ouvert | open
+fermé | closed
+la fermeture | closure; closing time
+l'ouverture (f.) | opening
+l'adresse (f.) | address
+le numéro | number
+l'accueil (m.) | reception, welcome
+l'usager (m.) | user (of a public service)
+la règle | rule
+le règlement | regulations; payment
+obligatoire | compulsory
+interdit | forbidden
+l'autorisation (f.) | permission, authorisation | autorisations?$
+la carte d'identité | identity card | carte d'identité
+la réclamation | complaint
+signaler | to report, to point out | signal(?:er|é|ez|e|ent)$
+confirmer | to confirm | confirm(?:er|e|é|ée|ez)$
+informer | to inform | inform(?:er|é|ée|és|e|ent|ez|ons)$
+prévenir | to warn, to notify; to prevent | préven|prévien
+le délai | time limit, deadline; delay
+envoyer | to send | envo[yi]|enverr
+recevoir | to receive | recev|reç|reçoi
+la sécurité | safety, security
+
+## society | Society & citizenship | person.3.fill
+la société | society; company
+le citoyen | citizen | citoyens?|citoyenne
+la population | population
+l'habitant (m.) | inhabitant, resident | habitants?
+la génération | generation
+les jeunes (m.) | young people
+la jeunesse | youth
+l'adolescent (m.) | teenager | adolescents?|adolescente
+la famille | family
+le couple | couple
+l'égalité (f.) | equality
+l'inégalité (f.) | inequality
+la diversité | diversity
+l'intégration (f.) | integration
+l'identité (f.) | identity
+les valeurs (f.) | values
+le respect | respect
+la solidarité | solidarity
+le bénévole | volunteer | bénévoles?
+l'engagement (m.) | commitment, involvement
+le droit | right; law
+la loi | law
+le gouvernement | government
+le ministre | minister
+le député | member of parliament
+la politique | politics; policy
+la démocratie | democracy
+la réforme | reform
+la crise | crisis
+la violence | violence
+l'individualisme (m.) | individualism
+la solitude | loneliness
+le comportement | behaviour
+l'habitude (f.) | habit | habitudes?
+la tendance | trend
+le phénomène | phenomenon
+la mondialisation | globalisation
+la tradition | tradition
+la ville | city, town
+urbain | urban
+rural | rural | rural|rurale|ruraux|rurales$
+populaire | popular; working-class | populaires?$
+
+## food | Food & eating | fork.knife
+l'alimentation (f.) | diet, food
+la nourriture | food
+l'aliment (m.) | food (item)
+alimentaire | food (adj.)
+le repas | meal
+le déjeuner | lunch
+le dîner | dinner
+la cuisine | cooking; kitchen
+cuisiner | to cook | cuisin(?:er|é|ent|ez)$
+la recette | recipe
+le plat | dish
+le dessert | dessert
+la boisson | drink
+boire | to drink | boire|boivent|boit|buvez|buvons|bu$
+goûter | to taste; afternoon snack | goût(?:er|é|ez|ons)$
+le goût | taste
+la saveur | flavour
+les légumes (m.) | vegetables
+les fruits (m.) | fruit
+la viande | meat
+le poisson | fish
+le fromage | cheese
+le pain | bread
+le chocolat | chocolate
+le sucre | sugar
+le restaurant | restaurant
+le menu | menu
+la gastronomie | gastronomy, fine food
+le producteur | producer | producteurs?|productrice
+local | local | local|locale|locaux|locales$
+l'appétit (m.) | appetite
+la spécialité | speciality; field of study
+la bouteille | bottle
+
+## ideas | Ideas & arguments | text.bubble.fill
+affirmer | to claim, to state | affirm
+souligner | to emphasise, to stress | soulign
+dénoncer | to denounce, to condemn | dénon(?:cer|ce|cent|cé)$
+critiquer | to criticise | critiqu(?:er|é|ée|ent)$
+la critique | criticism; review
+regretter | to regret | regrett
+constater | to note, to observe | constat(?:er|é|ée|ent|ons)$
+le constat | finding, observation
+estimer | to consider, to estimate | estim(?:er|e|ent|é|ée)$
+défendre | to defend | défend
+soutenir | to support | souten|soutien
+encourager | to encourage | encourag(?:er|e|ent|é|eant)$
+inciter | to encourage, to urge | incit(?:er|e|ent|é)$
+convaincre | to convince | convain
+proposer | to suggest, to offer | propos(?:er|e|es|ent|é|ée|és|ées|ez|ons|ait)$
+conseiller | to advise | conseill(?:er|e|ent|é|ez)$
+s'inquiéter | to worry | inquièt|inquiét
+la crainte | fear
+l'avis (m.) | opinion
+l'opinion (f.) | opinion
+le débat | debate
+la réflexion | reflection, thinking
+le doute | doubt
+l'intérêt (m.) | interest; benefit
+l'avantage (m.) | advantage
+l'inconvénient (m.) | drawback
+l'atout (m.) | asset, strength
+le bénéfice | benefit; profit
+l'enjeu (m.) | stake, issue | enjeux?
+le défi | challenge
+la conséquence | consequence
+l'impact (m.) | impact
+l'influence (f.) | influence
+évoquer | to mention, to evoke | évoqu
+décrire | to describe | décri
+révéler | to reveal; se révéler = to turn out | révél|révèl
+prouver | to prove | prouv
+la preuve | proof
+favoriser | to favour, to promote | favoris(?:er|e|ent|é)$
+faciliter | to make easier | facilit(?:er|e|ent|é)$
+permettre | to allow, to enable | perm(?:et|ettent|ettre|ettra|ettrait|ettant)$
+améliorer | to improve | amélior(?:er|e|ent|é|ée)$
+l'amélioration (f.) | improvement
+augmenter | to increase | augment(?:er|e|ent|é|ée)$
+l'augmentation (f.) | increase
+diminuer | to decrease | diminu(?:er|e|ent|é|ée)$
+la baisse | fall, drop
+la hausse | rise
+développer | to develop | développ(?:er|e|ent|é|ée|és)$
+évoluer | to evolve, to change | évolu(?:er|e|ent|é)$
+transformer | to transform | transform(?:er|e|ent|é|ée)$
+lutter contre | to fight (against) | lutt(?:er|e|ent) contre$
+éviter | to avoid | évit(?:er|e|ent|é|ez)$
+valoriser | to value, to showcase | valoris(?:er|e|ent|é)$
+sensibiliser | to raise awareness | sensibilis(?:er|e|ent|é|és)$
+susciter | to arouse, to spark | suscit(?:er|e|ent|é)$
+attirer | to attract | attir(?:er|e|ent|é|és)$
+séduire | to appeal to, to win over | sédui
+
+## linking | Linking words | link
+cependant | however
+pourtant | yet, however
+toutefois | however
+néanmoins | nevertheless
+en revanche | on the other hand
+malgré | despite
+alors que | whereas, while
+tandis que | whereas
+grâce à | thanks to
+à cause de | because of
+en raison de | due to
+afin de | in order to
+puisque | since (because)
+lorsque | when | lorsqu
+désormais | from now on
+d'ailleurs | besides, moreover | d'ailleurs
+notamment | in particular, notably
+surtout | above all, especially
+également | also; equally
+davantage | more
+voire | or even
+ainsi | thus, this way
+par conséquent | consequently
+finalement | in the end
+actuellement | currently (not "actually")
+autrefois | in the past, formerly
+quant à | as for | quant [àa]u?x?
+selon | according to
+lors de | during, at the time of | lors d
+parmi | among
+environ | about, approximately
+plutôt | rather
+en effet | indeed
+au contraire | on the contrary
+d'abord | first (of all)
+ensuite | then, next
+bref | in short
+au lieu de | instead of
+à la fois | at the same time; both
+peu à peu | little by little

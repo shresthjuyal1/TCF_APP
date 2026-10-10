@@ -1,0 +1,350 @@
+{
+  "id": "education",
+  "title": "Education & learning",
+  "icon": "graduationcap.fill",
+  "words": [
+    {
+      "french": "l'école (f.)",
+      "english": "school",
+      "level": "B2",
+      "example": "C'est la mission de l'école que de sensibiliser les élèves aux grands textes classiques.",
+      "exampleTranslation": "It is the school's mission to introduce students to the great classic texts."
+    },
+    {
+      "french": "le collège",
+      "english": "middle school",
+      "level": "B2",
+      "example": "L'argent des entrées financera une visite de l'opéra pour les classes du collège.",
+      "exampleTranslation": "The ticket money will pay for an opera visit for the middle-school classes."
+    },
+    {
+      "french": "le lycée",
+      "english": "high school",
+      "level": "B1",
+      "example": "Les jeunes du lycée professionnel hôtelier Paul-Valéry ont des idées.",
+      "exampleTranslation": "The young people at the Paul-Valéry vocational hotel school have ideas."
+    },
+    {
+      "french": "l'université (f.)",
+      "english": "university",
+      "level": "B1",
+      "example": "Logement, études ou téléphone portable, tout coûte cher pour les jeunes à l'université.",
+      "exampleTranslation": "Housing, studies, mobile phone: everything is expensive for young people at university."
+    },
+    {
+      "french": "l'élève (m./f.)",
+      "english": "pupil, school student",
+      "level": "B2",
+      "example": "Nous vous rappelons que la réunion des parents d'élèves se tiendra vendredi prochain.",
+      "exampleTranslation": "We remind you that the parents' meeting will be held next Friday."
+    },
+    {
+      "french": "l'étudiant (m.)",
+      "english": "(university) student",
+      "level": "B1",
+      "example": "Chers professeurs, chers étudiants, Venez rencontrer les nouveaux étudiants de la semaine !",
+      "exampleTranslation": "Dear teachers and students, come and meet this week's new students!"
+    },
+    {
+      "french": "l'enseignant (m.)",
+      "english": "teacher",
+      "level": "B2",
+      "example": "Trop souvent, les enseignants ont tendance à penser qu'ils sont réservés à l'élite.",
+      "exampleTranslation": "Too often, teachers tend to think they are only for the elite."
+    },
+    {
+      "french": "le professeur",
+      "english": "teacher, professor",
+      "level": "B1",
+      "example": "Claude, votre professeur, vous accueille dans son confortable appartement à Montmartre.",
+      "exampleTranslation": "Claude, your teacher, welcomes you into his comfortable apartment in Montmartre."
+    },
+    {
+      "french": "l'enseignement (m.)",
+      "english": "teaching, education",
+      "level": "B2",
+      "example": "L'un des grands enjeux de l'enseignement aujourd'hui est la question de la transmission.",
+      "exampleTranslation": "One of the big issues in education today is how knowledge is passed on."
+    },
+    {
+      "french": "l'éducation (f.)",
+      "english": "education",
+      "level": "B2",
+      "example": "Elles s'enracinent dans le refus d'un droit humain fondamental : le droit à l'éducation.",
+      "exampleTranslation": "They are rooted in the denial of a basic human right: the right to education."
+    },
+    {
+      "french": "l'apprentissage (m.)",
+      "english": "learning; apprenticeship",
+      "level": "B2",
+      "example": "L'orthographe, dans ses fondements, peut faire l'objet d'un apprentissage raisonné.",
+      "exampleTranslation": "The basics of spelling can be learned in a logical way."
+    },
+    {
+      "french": "apprendre",
+      "english": "to learn",
+      "level": "B2",
+      "example": "Pour instaurer ce nouveau geste, les enfants ont appris ce qu'étaient les biodéchets.",
+      "exampleTranslation": "To introduce this new habit, the children learned what organic waste is."
+    },
+    {
+      "french": "enseigner",
+      "english": "to teach",
+      "level": "B2",
+      "example": "Ils pourraient servir à enseigner certaines disciplines.",
+      "exampleTranslation": "They could be used to teach certain subjects."
+    },
+    {
+      "french": "le cours",
+      "english": "class, course",
+      "level": "B1",
+      "example": "Aujourd'hui, de nombreux enfants cumulent les activités en dehors des cours.",
+      "exampleTranslation": "Today, many children pile up activities outside of class."
+    },
+    {
+      "french": "la leçon",
+      "english": "lesson",
+      "level": "A1",
+      "example": "Je puisais en eux des leçons de grandeur, de courage et de persévérance.",
+      "exampleTranslation": "I drew from them lessons in greatness, courage and perseverance."
+    },
+    {
+      "french": "la matière",
+      "english": "(school) subject",
+      "level": "C1",
+      "example": "Cette confiance peut varier d'un domaine à l'autre ainsi que d'une matière scolaire à l'autre.",
+      "exampleTranslation": "This confidence can vary from one area to another and from one school subject to another."
+    },
+    {
+      "french": "les devoirs (m.)",
+      "english": "homework",
+      "level": "A2",
+      "example": "Le directeur relève un autre avantage : les devoirs sont bien faits.",
+      "exampleTranslation": "The head teacher points out another advantage: the homework is done properly."
+    },
+    {
+      "french": "l'examen (m.)",
+      "english": "exam",
+      "level": "B1",
+      "example": "Je recherche une personne sérieuse, de préférence en école de commerce pour préparer les examens ensemble.",
+      "exampleTranslation": "I'm looking for a serious person, ideally at business school, to prepare for exams together."
+    },
+    {
+      "french": "l'épreuve (f.)",
+      "english": "test, exam paper",
+      "level": "B1",
+      "example": "Merci de vous munir de cette convocation et d'une pièce d'identité qui vous seront demandées au début de l'épreuve.",
+      "exampleTranslation": "Please bring this notice and an ID document, which will be requested at the start of the exam."
+    },
+    {
+      "french": "la note",
+      "english": "grade, mark",
+      "level": "C1",
+      "example": "Ils progressent, car ils savent après chaque évaluation quelle est la compétence à retravailler, car cela est plus précis qu'une note.",
+      "exampleTranslation": "They improve because after each assessment they know which skill to work on, which is more precise than a grade."
+    },
+    {
+      "french": "réussir",
+      "english": "to succeed, to pass",
+      "level": "B2",
+      "example": "Vous faites partie des heureux élus qui ont réussi à obtenir une entrevue avec un employeur.",
+      "exampleTranslation": "You are one of the lucky few who managed to get an interview with an employer."
+    },
+    {
+      "french": "l'échec (m.)",
+      "english": "failure",
+      "level": "B2",
+      "example": "Un tel apprentissage n'a pas été facile : il a fallu beaucoup d'approximations et d'échecs avant de parvenir aux démocraties actuelles.",
+      "exampleTranslation": "Such learning wasn't easy: it took a lot of trial and error and failures to reach today's democracies."
+    },
+    {
+      "french": "la réussite",
+      "english": "success",
+      "level": "C1",
+      "example": "En changeant l'apparence, on suscitera l'intérêt et la réussite sera assurée.",
+      "exampleTranslation": "By changing the look, we'll spark interest and success will be guaranteed."
+    },
+    {
+      "french": "le diplôme",
+      "english": "diploma, degree",
+      "level": "B1",
+      "example": "Le Forum de Paris s'adresse aux jeunes de moins de trente ans, avec ou sans diplôme.",
+      "exampleTranslation": "The Paris Forum is for young people under thirty, with or without a degree."
+    },
+    {
+      "french": "l'orientation (f.)",
+      "english": "(study/career) guidance",
+      "level": "B2",
+      "example": "La question de l'orientation est fondamentale et se pose inévitablement au moment de commencer des études universitaires.",
+      "exampleTranslation": "The question of choosing a path is fundamental and always comes up when starting university."
+    },
+    {
+      "french": "l'inscription (f.)",
+      "english": "registration, enrolment",
+      "level": "B1",
+      "example": "Nous invitons les personnes intéressées à aller au centre culturel pour les inscriptions.",
+      "exampleTranslation": "We invite anyone interested to go to the cultural centre to register."
+    },
+    {
+      "french": "s'inscrire",
+      "english": "to register, to sign up",
+      "level": "B1",
+      "example": "Elles représentent désormais près de 70 % des inscrits en première année.",
+      "exampleTranslation": "They now make up nearly 70% of first-year students enrolled."
+    },
+    {
+      "french": "la rentrée",
+      "english": "start of the school year",
+      "level": "B2",
+      "example": "Les inscriptions à l'école et au centre de loisirs pour la rentrée prochaine sont ouvertes.",
+      "exampleTranslation": "Registration for school and the after-school centre for next school year is open."
+    },
+    {
+      "french": "la cantine",
+      "english": "school cafeteria",
+      "level": "A2",
+      "example": "Le pique-nique de midi (sandwichs et boisson) sera fourni par la cantine.",
+      "exampleTranslation": "The packed lunch (sandwiches and a drink) will be provided by the cafeteria."
+    },
+    {
+      "french": "la maternelle",
+      "english": "nursery school",
+      "level": "B2",
+      "example": "Depuis quelques années, leurs établissements, de la maternelle au lycée, ont de nouvelles chaises aux formes arrondies et colorées.",
+      "exampleTranslation": "For a few years now, their schools, from nursery to high school, have had new rounded, colourful chairs."
+    },
+    {
+      "french": "la crèche",
+      "english": "daycare",
+      "level": "B2",
+      "example": "Elle bénéficie alors, dans les locaux de la crèche, d'un accompagnement professionnel personnalisé.",
+      "exampleTranslation": "She then receives personalised professional support on the daycare's premises."
+    },
+    {
+      "french": "le niveau",
+      "english": "level",
+      "level": "B2",
+      "example": "Nous cherchons un animateur/une animatrice avec un bon niveau en tennis pour entraîner les enfants.",
+      "exampleTranslation": "We're looking for an instructor with a good level of tennis to coach the children."
+    },
+    {
+      "french": "la connaissance",
+      "english": "knowledge",
+      "level": "B2",
+      "example": "Il prépare ses visites en recherchant des documents pour actualiser ses connaissances.",
+      "exampleTranslation": "He prepares his tours by looking for documents to update his knowledge."
+    },
+    {
+      "french": "le savoir",
+      "english": "knowledge",
+      "level": "B2",
+      "example": "Comment en effet parvenir à gérer une chose aussi insaisissable que le savoir ?",
+      "exampleTranslation": "How can you manage something as elusive as knowledge?"
+    },
+    {
+      "french": "la compréhension",
+      "english": "understanding",
+      "level": "B1",
+      "example": "En général, l'absence de compréhension est associée à un manque de plaisir.",
+      "exampleTranslation": "In general, not understanding is linked to a lack of enjoyment."
+    },
+    {
+      "french": "la mémoire",
+      "english": "memory",
+      "level": "B2",
+      "example": "C'est ma réponse aux vieux grognons qui accusent les jeunes de ne plus avoir de mémoire.",
+      "exampleTranslation": "That's my answer to the old grumblers who accuse young people of having no memory anymore."
+    },
+    {
+      "french": "la concentration",
+      "english": "concentration",
+      "level": "B1",
+      "example": "Il n'y a pas « d'influence sur la concentration ou les résultats scolaires ».",
+      "exampleTranslation": "There is \"no effect on concentration or school results\"."
+    },
+    {
+      "french": "l'orthographe (f.)",
+      "english": "spelling",
+      "level": "B2",
+      "example": "L'orthographe, dans ses fondements, peut faire l'objet d'un apprentissage raisonné.",
+      "exampleTranslation": "The basics of spelling can be learned in a logical way."
+    },
+    {
+      "french": "la lecture",
+      "english": "reading",
+      "level": "B2",
+      "example": "La Bouquinerie permettra donc de promouvoir la lecture et de la rendre accessible à tous.",
+      "exampleTranslation": "La Bouquinerie will help promote reading and make it accessible to everyone."
+    },
+    {
+      "french": "l'écriture (f.)",
+      "english": "writing",
+      "level": "C1",
+      "example": "L'écriture de l'auteur reste cependant toujours aussi piquante et agréable à lire.",
+      "exampleTranslation": "The author's writing, however, is as sharp and enjoyable to read as ever."
+    },
+    {
+      "french": "la pédagogie",
+      "english": "teaching method",
+      "level": "C1",
+      "example": "Ce récit est à la fois un manuel de pédagogie et un recueil de souvenirs.",
+      "exampleTranslation": "This story is both a teaching manual and a collection of memories."
+    },
+    {
+      "french": "pédagogique",
+      "english": "educational",
+      "level": "B2",
+      "example": "Ainsi, les élèves sont de plus en plus en contact avec des sources hétéroclites et cela constitue un changement majeur en termes pédagogiques.",
+      "exampleTranslation": "Students are increasingly exposed to very varied sources, which is a major change in terms of teaching."
+    },
+    {
+      "french": "le chercheur",
+      "english": "researcher",
+      "level": "B2",
+      "example": "« Pendant des millénaires, les chercheurs du monde entier ont jalousement gardé leurs données.",
+      "exampleTranslation": "\"For thousands of years, researchers around the world have jealously guarded their data."
+    },
+    {
+      "french": "la recherche",
+      "english": "research; search",
+      "level": "B2",
+      "example": "L'histoire des sociétés humaines tourne autour de la recherche d'un monde plus juste.",
+      "exampleTranslation": "The history of human societies revolves around the search for a fairer world."
+    },
+    {
+      "french": "l'étude (f.)",
+      "english": "study",
+      "level": "B2",
+      "example": "Logement, études ou téléphone portable, tout coûte cher pour les jeunes à l'université.",
+      "exampleTranslation": "Housing, studies, mobile phone: everything is expensive for young people at university."
+    },
+    {
+      "french": "le parcours",
+      "english": "path, background (studies or career)",
+      "level": "B2",
+      "example": "Vous devez avoir pensé à l'avance à toutes les questions qu'on pourra vous poser sur vous et sur votre parcours.",
+      "exampleTranslation": "You must have thought in advance about every question you may be asked about yourself and your background."
+    },
+    {
+      "french": "scolaire",
+      "english": "school (adj.)",
+      "level": "B2",
+      "example": "Les activités scolaires paraissent artificielles, hors contexte voire dénuées de sens.",
+      "exampleTranslation": "School activities seem artificial, out of context, even meaningless."
+    },
+    {
+      "french": "universitaire",
+      "english": "university (adj.)",
+      "level": "B2",
+      "example": "Le restaurant universitaire vous propose des recettes régionales variées au tarif normal.",
+      "exampleTranslation": "The university restaurant offers a variety of regional dishes at the standard price."
+    },
+    {
+      "french": "l'atelier (m.)",
+      "english": "workshop",
+      "level": "B2",
+      "example": "Elle a ouvert un atelier où les personnes parlent de vélos et peuvent les réparer gratuitement.",
+      "exampleTranslation": "She opened a workshop where people talk about bikes and can repair them for free."
+    }
+  ]
+}

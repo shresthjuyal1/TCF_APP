@@ -1,0 +1,336 @@
+{
+  "id": "environment",
+  "title": "Environment & nature",
+  "icon": "leaf.fill",
+  "words": [
+    {
+      "french": "l'environnement (m.)",
+      "english": "environment",
+      "level": "B2",
+      "example": "Les bénéfices du bio pour la santé et pour l'environnement sont aujourd'hui prouvés.",
+      "exampleTranslation": "The benefits of organic food for health and the environment are now proven."
+    },
+    {
+      "french": "la nature",
+      "english": "nature",
+      "level": "B2",
+      "example": "Les élèves y apprennent, pendant quelques jours, à connaître et respecter la nature.",
+      "exampleTranslation": "Over a few days, the students learn to get to know and respect nature."
+    },
+    {
+      "french": "la planète",
+      "english": "planet",
+      "level": "B2",
+      "example": "Elles orientent ainsi le consommateur vers des acteurs économiques plus respectueux de la planète.",
+      "exampleTranslation": "They steer consumers towards businesses that respect the planet more."
+    },
+    {
+      "french": "le climat",
+      "english": "climate",
+      "level": "B2",
+      "example": "Sinon, un climat de méfiance entre collègues, voire de rejet, risque de s'installer et d'inciter les télétravailleurs à s'investir plus intensément que nécessaire.",
+      "exampleTranslation": "Otherwise, a climate of distrust or even rejection between colleagues may set in and push remote workers to work harder than necessary."
+    },
+    {
+      "french": "climatique",
+      "english": "climate (adj.)",
+      "level": "B2",
+      "example": "Le rapport de l'Agence internationale de l'énergie se concentre sur les données de la dernière conférence climatique.",
+      "exampleTranslation": "The International Energy Agency's report focuses on data from the latest climate conference."
+    },
+    {
+      "french": "le réchauffement",
+      "english": "warming",
+      "level": "C2",
+      "example": "Avant de pouvoir entrer, il faut jurer par écrit que l'on s'engage à participer à la lutte contre le réchauffement de la planète.",
+      "exampleTranslation": "Before you can enter, you have to promise in writing to take part in the fight against global warming."
+    },
+    {
+      "french": "la pollution",
+      "english": "pollution",
+      "level": "B2",
+      "example": "Ce constat, émis par les pêcheurs en haute mer, est alarmant, car cette pollution a des conséquences écologiques.",
+      "exampleTranslation": "This finding, reported by deep-sea fishermen, is alarming, because this pollution has ecological consequences."
+    },
+    {
+      "french": "polluer",
+      "english": "to pollute",
+      "level": "B2",
+      "example": "En raison de leur confusion avec les algues vertes qui polluent le littoral, ces légumes de mer sont parfois mal considérés.",
+      "exampleTranslation": "Because they are confused with the green algae that pollute the coast, these sea vegetables are sometimes looked down on."
+    },
+    {
+      "french": "les déchets (m.)",
+      "english": "waste, rubbish",
+      "level": "B1",
+      "example": "La société « Ville propre » nous demande de faire plus attention quand on jette nos déchets.",
+      "exampleTranslation": "The \"Clean City\" company asks us to be more careful when we throw away our rubbish."
+    },
+    {
+      "french": "recycler",
+      "english": "to recycle",
+      "level": "B1",
+      "example": "Son concept est simple : le consommateur échange des bouteilles en plastique vides contre un objet recyclé.",
+      "exampleTranslation": "The idea is simple: the consumer swaps empty plastic bottles for a recycled object."
+    },
+    {
+      "french": "le tri",
+      "english": "sorting (of waste)",
+      "level": "B2",
+      "example": "Ils deviennent ainsi des ambassadeurs du tri.",
+      "exampleTranslation": "They become ambassadors for waste sorting."
+    },
+    {
+      "french": "le gaspillage",
+      "english": "waste, wasting",
+      "level": "B2",
+      "example": "Les solutions pour lutter contre le gaspillage en grande distribution existent donc bel et bien.",
+      "exampleTranslation": "So solutions to fight waste in large supermarkets really do exist."
+    },
+    {
+      "french": "l'énergie (f.)",
+      "english": "energy",
+      "level": "B2",
+      "example": "Quand il prend le dessus, on perd sa motivation et on manque continuellement d'énergie.",
+      "exampleTranslation": "When it takes over, you lose your motivation and are always short of energy."
+    },
+    {
+      "french": "le nucléaire",
+      "english": "nuclear power",
+      "level": "B2",
+      "example": "L'abandon de l'énergie nucléaire ne peut s'entreprendre sur la base de motivations uniquement idéologiques et politiques.",
+      "exampleTranslation": "Abandoning nuclear energy cannot be done for purely ideological and political reasons."
+    },
+    {
+      "french": "le carbone",
+      "english": "carbon",
+      "level": "C2",
+      "example": "C'est aussi un très bon endroit pour retraiter notre production de dioxyde de carbone.",
+      "exampleTranslation": "It's also a very good place to reprocess the carbon dioxide we produce."
+    },
+    {
+      "french": "le plastique",
+      "english": "plastic",
+      "level": "B2",
+      "example": "Il faut séparer le plastique et le carton et les mettre dans les poubelles jaunes.",
+      "exampleTranslation": "You must separate plastic and cardboard and put them in the yellow bins."
+    },
+    {
+      "french": "l'écologie (f.)",
+      "english": "ecology",
+      "level": "C1",
+      "example": "C'est peut-être l'une des raisons pour lesquelles l'écologie politique ne rallie pas tant que ça.",
+      "exampleTranslation": "That may be one of the reasons why green politics doesn't attract that many people."
+    },
+    {
+      "french": "écologique",
+      "english": "ecological, green",
+      "level": "B2",
+      "example": "Depuis quelque temps, la conscience écologique s'est considérablement aiguisée.",
+      "exampleTranslation": "For some time now, environmental awareness has grown considerably."
+    },
+    {
+      "french": "durable",
+      "english": "sustainable, lasting",
+      "level": "B2",
+      "example": "Il n'y est question que de « social business » ou de « développement durable ».",
+      "exampleTranslation": "It's all about \"social business\" or \"sustainable development\"."
+    },
+    {
+      "french": "protéger",
+      "english": "to protect",
+      "level": "B2",
+      "example": "Pour protéger les côtes, furent institués les fameux rails au large d'Ouessant.",
+      "exampleTranslation": "To protect the coastline, the famous shipping lanes off Ouessant were created."
+    },
+    {
+      "french": "la protection",
+      "english": "protection",
+      "level": "B2",
+      "example": "On peut mettre une protection en plexiglas, mais un jour le mur finira aussi peut-être par tomber.",
+      "exampleTranslation": "You can put up a plexiglass shield, but one day the wall may fall anyway."
+    },
+    {
+      "french": "préserver",
+      "english": "to preserve",
+      "level": "B2",
+      "example": "On veut les préserver durablement.",
+      "exampleTranslation": "We want to preserve them for the long term."
+    },
+    {
+      "french": "l'espèce (f.)",
+      "english": "species",
+      "level": "B2",
+      "example": "Plus de 40 % des espèces d'insectes sont en déclin et un tiers sont menacés.",
+      "exampleTranslation": "More than 40% of insect species are in decline and a third are endangered."
+    },
+    {
+      "french": "la faune",
+      "english": "wildlife",
+      "level": "B1",
+      "example": "De plus, les éoliennes seraient à l'origine de désastres esthétiques, sonores et un danger pour la faune.",
+      "exampleTranslation": "What's more, wind turbines are said to be ugly, noisy and a danger to wildlife."
+    },
+    {
+      "french": "la biodiversité",
+      "english": "biodiversity",
+      "level": "B2",
+      "example": "C'est ce que constatent les invités d'une conférence internationale sur la biodiversité qui se tient dans la capitale britannique.",
+      "exampleTranslation": "That's what guests at an international biodiversity conference in the British capital have observed."
+    },
+    {
+      "french": "les insectes (m.)",
+      "english": "insects",
+      "level": "B2",
+      "example": "La demande mondiale de protéines va doubler et les insectes, c'est riche en protéines.",
+      "exampleTranslation": "Global demand for protein is going to double, and insects are rich in protein."
+    },
+    {
+      "french": "l'écosystème (m.)",
+      "english": "ecosystem",
+      "level": "B2",
+      "example": "Cette prévision est préoccupante, car ils sont essentiels au bon fonctionnement de tous les écosystèmes.",
+      "exampleTranslation": "This forecast is worrying, because they are essential to every ecosystem working properly."
+    },
+    {
+      "french": "les pesticides (m.)",
+      "english": "pesticides",
+      "level": "B2",
+      "example": "Depuis, les sols, en plus d'être labourés à outrance, sont aspergés de pesticides qui se propagent sur les terres et dans les eaux voisines.",
+      "exampleTranslation": "Since then, the soil has been over-ploughed and sprayed with pesticides that spread to nearby land and water."
+    },
+    {
+      "french": "biologique",
+      "english": "organic (food); biological",
+      "level": "B2",
+      "example": "C'est en France que se tient le salon du raisin biologique.",
+      "exampleTranslation": "The organic grape fair takes place in France."
+    },
+    {
+      "french": "l'agriculture (f.)",
+      "english": "agriculture, farming",
+      "level": "B2",
+      "example": "Deux mondes s'affrontent : ceux de l'ancienne agriculture et de la nouvelle.",
+      "exampleTranslation": "Two worlds clash: traditional farming and the new kind."
+    },
+    {
+      "french": "agricole",
+      "english": "agricultural",
+      "level": "B2",
+      "example": "Un défi de taille, alors que le bio ne représente que 1% de la surface agricole utile dans le monde.",
+      "exampleTranslation": "A big challenge, since organic farming accounts for only 1% of the world's farmland."
+    },
+    {
+      "french": "la terre",
+      "english": "earth, land, soil",
+      "level": "B2",
+      "example": "C'est le retour à la terre alors que la désertification des campagnes se poursuit.",
+      "exampleTranslation": "It's a return to the land, even as people keep leaving the countryside."
+    },
+    {
+      "french": "le sol",
+      "english": "soil, ground",
+      "level": "B2",
+      "example": "Il se trouve qu'un scientifique, Anthony Van der Hent, a prouvé que des « super- plantes » avaient la faculté d'extraire du sol des métaux économiquement exploitables.",
+      "exampleTranslation": "A scientist, Anthony Van der Hent, has shown that \"super plants\" can extract commercially useful metals from the soil."
+    },
+    {
+      "french": "l'océan (m.)",
+      "english": "ocean",
+      "level": "B2",
+      "example": "L'océan est une source d'énergie, d'eau douce et de nourriture.",
+      "exampleTranslation": "The ocean is a source of energy, fresh water and food."
+    },
+    {
+      "french": "la forêt",
+      "english": "forest",
+      "level": "B2",
+      "example": "C'est la superficie que les forêts perdent chaque minute à travers le monde.",
+      "exampleTranslation": "That's the area of forest lost every minute around the world."
+    },
+    {
+      "french": "l'arbre (m.)",
+      "english": "tree",
+      "level": "B2",
+      "example": "En effet, les arbres filtrent les particules contenues dans l'atmosphère.",
+      "exampleTranslation": "Indeed, trees filter the particles in the air."
+    },
+    {
+      "french": "la plante",
+      "english": "plant",
+      "level": "B1",
+      "example": "Ils pollinisent les plantes, recyclent les nutriments, et servent de nourriture aux autres animaux.",
+      "exampleTranslation": "They pollinate plants, recycle nutrients and serve as food for other animals."
+    },
+    {
+      "french": "la ressource",
+      "english": "resource",
+      "level": "B2",
+      "example": "Quelle est la principale ressource qui manque aux chercheurs.",
+      "exampleTranslation": "What is the main resource researchers are missing."
+    },
+    {
+      "french": "réduire",
+      "english": "to reduce",
+      "level": "B2",
+      "example": "Ces mesures ont permis de réduire les pertes alimentaires de 22 % en trois mois !",
+      "exampleTranslation": "These measures cut food waste by 22% in three months!"
+    },
+    {
+      "french": "la disparition",
+      "english": "disappearance, extinction",
+      "level": "B2",
+      "example": "Mais la liste des professions en voie de disparition ne cesse de s'allonger.",
+      "exampleTranslation": "But the list of professions that are disappearing keeps getting longer."
+    },
+    {
+      "french": "disparaître",
+      "english": "to disappear",
+      "level": "B2",
+      "example": "Si l'automatisation a fait disparaître des emplois, elle en a aussi créé d'autres.",
+      "exampleTranslation": "Although automation has wiped out some jobs, it has also created others."
+    },
+    {
+      "french": "la menace",
+      "english": "threat",
+      "level": "B2",
+      "example": "Le bioacousticien Michel André alerte sur cette nuisance invisible qui menace la vie marine : la cacophonie engendrée par les activités humaines.",
+      "exampleTranslation": "Bioacoustics expert Michel André warns about an invisible nuisance threatening marine life: the din caused by human activity."
+    },
+    {
+      "french": "menacer",
+      "english": "to threaten",
+      "level": "B2",
+      "example": "Plus de 40 % des espèces d'insectes sont en déclin et un tiers sont menacés.",
+      "exampleTranslation": "More than 40% of insect species are in decline and a third are endangered."
+    },
+    {
+      "french": "les espaces verts (m.)",
+      "english": "green spaces",
+      "level": "B1",
+      "example": "Dans l'ensemble des espaces verts de la ville de Toulouse, les pelouses tondues régulièrement laissent place à 150 hectares de prairies urbaines, plus sauvages.",
+      "exampleTranslation": "In all of Toulouse's green spaces, regularly mown lawns are giving way to 150 hectares of wilder urban meadows."
+    },
+    {
+      "french": "la campagne",
+      "english": "countryside; campaign",
+      "level": "B2",
+      "example": "C'est le retour à la terre alors que la désertification des campagnes se poursuit.",
+      "exampleTranslation": "It's a return to the land, even as people keep leaving the countryside."
+    },
+    {
+      "french": "le paysage",
+      "english": "landscape",
+      "level": "C1",
+      "example": "Partagez vos prises de vue (portraits, paysages, etc.) qui montrent que l'Europe fait partie de votre vie.",
+      "exampleTranslation": "Share your photos (portraits, landscapes, etc.) that show Europe is part of your life."
+    },
+    {
+      "french": "la montagne",
+      "english": "mountains",
+      "level": "B1",
+      "example": "C'est dommage, Ali ne peut pas venir, il est parti à la montagne.",
+      "exampleTranslation": "It's a shame, Ali can't come; he's gone to the mountains."
+    }
+  ]
+}

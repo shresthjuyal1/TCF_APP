@@ -1,0 +1,1407 @@
+{
+  "id": "grammar-a2",
+  "title": "Grammar A2",
+  "kind": "practice",
+  "questions": [
+    {
+      "id": "a2-irreguliers-01",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Je ___ au supermarché tous les samedis.",
+      "options": [
+        "vais",
+        "vas",
+        "va",
+        "allons"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aller with je is irregular: je vais."
+    },
+    {
+      "id": "a2-irreguliers-02",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Qu'est-ce que vous ___ ce week-end ?",
+      "options": [
+        "font",
+        "faites",
+        "fais",
+        "faisez"
+      ],
+      "correctIndex": 1,
+      "explanation": "Faire with vous is irregular: vous faites (never \"faisez\")."
+    },
+    {
+      "id": "a2-irreguliers-03",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Ils ___ du Canada.",
+      "options": [
+        "venons",
+        "vient",
+        "viennent",
+        "venent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Venir with ils: ils viennent."
+    },
+    {
+      "id": "a2-irreguliers-04",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Tu ___ m'aider, s'il te plaît ?",
+      "options": [
+        "pouvez",
+        "peuvent",
+        "peux",
+        "peut"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pouvoir with tu: tu peux."
+    },
+    {
+      "id": "a2-irreguliers-05",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Nous ___ partir à 8 heures pour ne pas être en retard.",
+      "options": [
+        "doivons",
+        "devons",
+        "devez",
+        "doivent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Devoir with nous: nous devons."
+    },
+    {
+      "id": "a2-irreguliers-06",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Elles ___ le train pour aller au travail.",
+      "options": [
+        "prenent",
+        "prennent",
+        "prenons",
+        "prend"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prendre with ils/elles: elles prennent (double n)."
+    },
+    {
+      "id": "a2-irreguliers-07",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Mon fils ___ devenir pilote.",
+      "options": [
+        "veux",
+        "veulent",
+        "veut",
+        "voulons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vouloir with il: il veut."
+    },
+    {
+      "id": "a2-irreguliers-08",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Les enfants ___ leurs devoirs après l'école.",
+      "options": [
+        "font",
+        "faisent",
+        "fait",
+        "faites"
+      ],
+      "correctIndex": 0,
+      "explanation": "Faire with ils: ils font."
+    },
+    {
+      "id": "a2-irreguliers-09",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Vous ___ avec nous au concert ?",
+      "options": [
+        "venons",
+        "viennent",
+        "venez",
+        "vient"
+      ],
+      "correctIndex": 2,
+      "explanation": "Venir with vous: vous venez."
+    },
+    {
+      "id": "a2-irreguliers-10",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "On ___ se retrouver devant la gare.",
+      "options": [
+        "peuvent",
+        "peut",
+        "peux",
+        "pouvons"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"On\" uses the il/elle form: on peut."
+    },
+    {
+      "id": "a2-partitifs-01",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Le matin, je mange ___ pain avec du beurre.",
+      "options": [
+        "de l'",
+        "des",
+        "de la",
+        "du"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Pain\" is masculine and the amount isn't specified: du pain."
+    },
+    {
+      "id": "a2-partitifs-02",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Tu veux ___ eau ?",
+      "options": [
+        "des",
+        "de la",
+        "du",
+        "de l'"
+      ],
+      "correctIndex": 3,
+      "explanation": "Before a vowel, use de l': de l'eau."
+    },
+    {
+      "id": "a2-partitifs-03",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Elle ne boit pas ___ alcool.",
+      "options": [
+        "de l'",
+        "du",
+        "d'",
+        "des"
+      ],
+      "correctIndex": 2,
+      "explanation": "After a negation, partitives become de/d': pas d'alcool."
+    },
+    {
+      "id": "a2-partitifs-04",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Il a beaucoup ___ amis.",
+      "options": [
+        "des",
+        "d'",
+        "les",
+        "de les"
+      ],
+      "correctIndex": 1,
+      "explanation": "After beaucoup, use de/d': beaucoup d'amis."
+    },
+    {
+      "id": "a2-partitifs-05",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Pour ce gâteau, il faut ___ farine.",
+      "options": [
+        "de la",
+        "des",
+        "du",
+        "de l'"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Farine\" is feminine and uncountable: de la farine."
+    },
+    {
+      "id": "a2-partitifs-06",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "J'achète un kilo ___ pommes.",
+      "options": [
+        "du",
+        "les",
+        "de",
+        "des"
+      ],
+      "correctIndex": 2,
+      "explanation": "After a quantity (un kilo), use de: un kilo de pommes."
+    },
+    {
+      "id": "a2-partitifs-07",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Nous avons ___ chance !",
+      "options": [
+        "des",
+        "du",
+        "de la",
+        "de l'"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Chance\" is feminine: avoir de la chance (to be lucky)."
+    },
+    {
+      "id": "a2-partitifs-08",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Vous faites ___ sport ?",
+      "options": [
+        "de la",
+        "des",
+        "du",
+        "de l'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Faire + a masculine activity: faire du sport."
+    },
+    {
+      "id": "a2-partitifs-09",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Il n'y a plus ___ lait dans le frigo.",
+      "options": [
+        "des",
+        "le",
+        "du",
+        "de"
+      ],
+      "correctIndex": 3,
+      "explanation": "After ne… plus, use de: plus de lait."
+    },
+    {
+      "id": "a2-partitifs-10",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Elle a ___ cheveux très longs.",
+      "options": [
+        "du",
+        "des",
+        "de l'",
+        "de la"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural noun: des cheveux."
+    },
+    {
+      "id": "a2-futur-proche-01",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Demain, je ___ visiter le musée.",
+      "options": [
+        "viens de",
+        "vais",
+        "suis",
+        "vas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Futur proche: aller + infinitive: je vais visiter."
+    },
+    {
+      "id": "a2-futur-proche-02",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Le film ___ commencer, dépêche-toi !",
+      "options": [
+        "allé",
+        "va",
+        "vient",
+        "vas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Futur proche with \"le film\" (il): il va commencer."
+    },
+    {
+      "id": "a2-futur-proche-03",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Désolé, Mme Martin ___ partir il y a cinq minutes.",
+      "options": [
+        "va",
+        "viens de",
+        "va de",
+        "vient de"
+      ],
+      "correctIndex": 3,
+      "explanation": "Something that has just happened: venir de + infinitive: elle vient de partir."
+    },
+    {
+      "id": "a2-futur-proche-04",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Nous ___ acheter une nouvelle voiture l'année prochaine.",
+      "options": [
+        "sommes",
+        "allez",
+        "venons d'",
+        "allons"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"L'année prochaine\" is the future: nous allons acheter."
+    },
+    {
+      "id": "a2-futur-proche-05",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Je ___ finir mon travail, je suis libre maintenant.",
+      "options": [
+        "suis en",
+        "viens de",
+        "va",
+        "vais"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"I've just finished\" = venir de: je viens de finir."
+    },
+    {
+      "id": "a2-futur-proche-06",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Ils ___ arriver dans une heure.",
+      "options": [
+        "allons",
+        "vient d'",
+        "va",
+        "vont"
+      ],
+      "correctIndex": 3,
+      "explanation": "Future with ils: ils vont arriver."
+    },
+    {
+      "id": "a2-futur-proche-07",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Tu ___ recevoir mon message ? Je l'ai envoyé il y a une seconde.",
+      "options": [
+        "va",
+        "viens de",
+        "venez de",
+        "vas"
+      ],
+      "correctIndex": 1,
+      "explanation": "It happened a second ago: tu viens de recevoir."
+    },
+    {
+      "id": "a2-futur-proche-08",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Attention, il ___ pleuvoir !",
+      "options": [
+        "vient de",
+        "vont",
+        "allé",
+        "va"
+      ],
+      "correctIndex": 3,
+      "explanation": "Weather that's about to happen: il va pleuvoir."
+    },
+    {
+      "id": "a2-futur-proche-09",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Vous ___ prendre l'avion pour la première fois ? Vous êtes nerveux ?",
+      "options": [
+        "va",
+        "venez",
+        "allez",
+        "allons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Future plan with vous: vous allez prendre."
+    },
+    {
+      "id": "a2-futur-proche-10",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Elles ___ rentrer de vacances, elles sont encore bronzées.",
+      "options": [
+        "viennent de",
+        "vont",
+        "allons",
+        "vient de"
+      ],
+      "correctIndex": 0,
+      "explanation": "They have just come back: elles viennent de rentrer."
+    },
+    {
+      "id": "a2-pc-avoir-01",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Hier soir, nous ___ au restaurant.",
+      "options": [
+        "dînons",
+        "avons dîner",
+        "sommes dîné",
+        "avons dîné"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dîner uses avoir + past participle (-é): nous avons dîné."
+    },
+    {
+      "id": "a2-pc-avoir-02",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "J'___ ce livre en deux jours.",
+      "options": [
+        "ai lisé",
+        "ai lu",
+        "ai lit",
+        "suis lu"
+      ],
+      "correctIndex": 1,
+      "explanation": "The past participle of lire is lu: j'ai lu."
+    },
+    {
+      "id": "a2-pc-avoir-03",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Tu ___ tes devoirs ?",
+      "options": [
+        "as faisé",
+        "as fait",
+        "es fait",
+        "as faire"
+      ],
+      "correctIndex": 1,
+      "explanation": "The past participle of faire is fait: tu as fait."
+    },
+    {
+      "id": "a2-pc-avoir-04",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Ils ___ le train de 8 h.",
+      "options": [
+        "ont prendre",
+        "sont pris",
+        "ont pris",
+        "ont prendu"
+      ],
+      "correctIndex": 2,
+      "explanation": "The past participle of prendre is pris: ils ont pris."
+    },
+    {
+      "id": "a2-pc-avoir-05",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Vous ___ le dernier film de Xavier Dolan ?",
+      "options": [
+        "avez voir",
+        "avez vu",
+        "avez voyé",
+        "êtes vu"
+      ],
+      "correctIndex": 1,
+      "explanation": "The past participle of voir is vu: vous avez vu."
+    },
+    {
+      "id": "a2-pc-avoir-06",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Elle ___ une lettre à sa grand-mère.",
+      "options": [
+        "a écrite",
+        "a écriv",
+        "est écrit",
+        "a écrit"
+      ],
+      "correctIndex": 3,
+      "explanation": "The past participle of écrire is écrit, and with avoir there is no agreement here."
+    },
+    {
+      "id": "a2-pc-avoir-07",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "J'___ beaucoup de chance.",
+      "options": [
+        "suis eu",
+        "ai avu",
+        "ai avé",
+        "ai eu"
+      ],
+      "correctIndex": 3,
+      "explanation": "The past participle of avoir is eu: j'ai eu de la chance."
+    },
+    {
+      "id": "a2-pc-avoir-08",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Nous ___ notre appartement l'an dernier.",
+      "options": [
+        "avons vendé",
+        "sommes vendus",
+        "avons vendi",
+        "avons vendu"
+      ],
+      "correctIndex": 3,
+      "explanation": "-re verbs: vendre → vendu."
+    },
+    {
+      "id": "a2-pc-avoir-09",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Ils ___ leur travail à 18 h.",
+      "options": [
+        "ont fini",
+        "ont finé",
+        "sont finis",
+        "ont finu"
+      ],
+      "correctIndex": 0,
+      "explanation": "-ir verbs: finir → fini."
+    },
+    {
+      "id": "a2-pc-avoir-10",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Qu'est-ce que tu ___ comme dessert ?",
+      "options": [
+        "as choisi",
+        "as choisit",
+        "es choisi",
+        "as choisé"
+      ],
+      "correctIndex": 0,
+      "explanation": "Choisir → choisi: tu as choisi."
+    },
+    {
+      "id": "a2-pc-etre-01",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Hier, elle ___ au cinéma avec ses amis.",
+      "options": [
+        "est allée",
+        "a allé",
+        "est allé",
+        "a allée"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aller uses être, and the participle agrees with elle: est allée."
+    },
+    {
+      "id": "a2-pc-etre-02",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Mes parents ___ à Paris en 1995.",
+      "options": [
+        "ont arrivés",
+        "ont arrivé",
+        "sont arrivés",
+        "sont arrivé"
+      ],
+      "correctIndex": 2,
+      "explanation": "Arriver uses être; masculine plural agreement: sont arrivés."
+    },
+    {
+      "id": "a2-pc-etre-03",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Nous ___ à la maison tout le week-end.",
+      "options": [
+        "sommes restés",
+        "sommes resté",
+        "avons restés",
+        "avons resté"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rester uses être: nous sommes restés."
+    },
+    {
+      "id": "a2-pc-etre-04",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Marie ___ dans l'escalier.",
+      "options": [
+        "est tombé",
+        "est tombée",
+        "a tombée",
+        "a tombé"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomber uses être; feminine agreement: est tombée."
+    },
+    {
+      "id": "a2-pc-etre-05",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Paul dit : « Je ___ en 1998 à Lyon. »",
+      "options": [
+        "suis née",
+        "ai naît",
+        "suis né",
+        "ai né"
+      ],
+      "correctIndex": 2,
+      "explanation": "Naître uses être; Paul is a man, so: je suis né."
+    },
+    {
+      "id": "a2-pc-etre-06",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Les filles ___ à minuit.",
+      "options": [
+        "sont rentrés",
+        "sont rentrées",
+        "ont rentrées",
+        "ont rentré"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rentrer uses être; feminine plural: rentrées."
+    },
+    {
+      "id": "a2-pc-etre-07",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Il ___ médecin après dix ans d'études.",
+      "options": [
+        "a devenu",
+        "est devient",
+        "est devenu",
+        "est devenue"
+      ],
+      "correctIndex": 2,
+      "explanation": "Devenir uses être: il est devenu."
+    },
+    {
+      "id": "a2-pc-etre-08",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Madame, vous ___ à quelle heure hier soir ?",
+      "options": [
+        "avez sorti",
+        "êtes sorti",
+        "êtes sortie",
+        "êtes sorties"
+      ],
+      "correctIndex": 2,
+      "explanation": "Polite \"vous\" to one woman: the participle is feminine singular, sortie."
+    },
+    {
+      "id": "a2-pc-etre-09",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Le train ___ à l'heure.",
+      "options": [
+        "a parti",
+        "est parti",
+        "a partie",
+        "est partie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Partir uses être; \"le train\" is masculine: est parti."
+    },
+    {
+      "id": "a2-pc-etre-10",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Elles ___ me voir à l'hôpital.",
+      "options": [
+        "ont venues",
+        "sont venues",
+        "sont venus",
+        "ont venu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Venir uses être; feminine plural: venues."
+    },
+    {
+      "id": "a2-pronominaux-01",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Nous ___ couchons tard le samedi.",
+      "options": [
+        "vous",
+        "nous",
+        "nos",
+        "se"
+      ],
+      "correctIndex": 1,
+      "explanation": "The pronoun matches the subject: nous nous couchons."
+    },
+    {
+      "id": "a2-pronominaux-02",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Tu ___ habilles vite le matin ?",
+      "options": [
+        "t'",
+        "m'",
+        "s'",
+        "te"
+      ],
+      "correctIndex": 0,
+      "explanation": "Before a vowel, te becomes t': tu t'habilles."
+    },
+    {
+      "id": "a2-pronominaux-03",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Les enfants ___ lavent les mains.",
+      "options": [
+        "leur",
+        "les",
+        "se",
+        "s'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ils takes se: ils se lavent les mains."
+    },
+    {
+      "id": "a2-pronominaux-04",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Je ___ appelle Karim.",
+      "options": [
+        "me",
+        "je",
+        "s'",
+        "m'"
+      ],
+      "correctIndex": 3,
+      "explanation": "Before a vowel, me becomes m': je m'appelle."
+    },
+    {
+      "id": "a2-pronominaux-05",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Vous ___ promenez souvent au bord du lac ?",
+      "options": [
+        "se",
+        "vos",
+        "vous",
+        "nous"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vous takes vous: vous vous promenez."
+    },
+    {
+      "id": "a2-pronominaux-06",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Hier, elle ___ levée à 6 heures.",
+      "options": [
+        "a",
+        "s'a",
+        "s'est",
+        "est"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reflexive verbs use être in the passé composé: elle s'est levée."
+    },
+    {
+      "id": "a2-pronominaux-07",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Ils ___ amusés à la fête.",
+      "options": [
+        "sont se",
+        "se ont",
+        "ont",
+        "se sont"
+      ],
+      "correctIndex": 3,
+      "explanation": "Passé composé of s'amuser: ils se sont amusés."
+    },
+    {
+      "id": "a2-pronominaux-08",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Je ne ___ souviens pas de son nom.",
+      "options": [
+        "se",
+        "m'",
+        "moi",
+        "me"
+      ],
+      "correctIndex": 3,
+      "explanation": "Se souvenir: je me souviens. The negation goes around pronoun + verb."
+    },
+    {
+      "id": "a2-pronominaux-09",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Dépêche-___, on va être en retard !",
+      "options": [
+        "tu",
+        "te",
+        "toi",
+        "t'"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a positive command, te becomes toi after the verb: dépêche-toi."
+    },
+    {
+      "id": "a2-pronominaux-10",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Nous ___ sommes rencontrés à l'université.",
+      "options": [
+        "se",
+        "nos",
+        "sommes",
+        "nous"
+      ],
+      "correctIndex": 3,
+      "explanation": "Se rencontrer with nous: nous nous sommes rencontrés."
+    },
+    {
+      "id": "a2-cod-01",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Tu regardes la télé ? — Oui, je ___ regarde.",
+      "options": [
+        "le",
+        "la",
+        "lui",
+        "les"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"La télé\" is feminine singular: je la regarde."
+    },
+    {
+      "id": "a2-cod-02",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Vous aimez ces chansons ? — Oui, je ___ adore.",
+      "options": [
+        "les",
+        "la",
+        "le",
+        "leur"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Ces chansons\" is plural: je les adore."
+    },
+    {
+      "id": "a2-cod-03",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Où est mon livre ? Je ne ___ trouve pas.",
+      "options": [
+        "le",
+        "la",
+        "lui",
+        "les"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Mon livre\" is masculine: je ne le trouve pas."
+    },
+    {
+      "id": "a2-cod-04",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Tu connais Julie ? — Oui, je ___ connais bien.",
+      "options": [
+        "leur",
+        "la",
+        "lui",
+        "le"
+      ],
+      "correctIndex": 1,
+      "explanation": "Connaître quelqu'un takes a direct object: je la connais."
+    },
+    {
+      "id": "a2-cod-05",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Je t'appelle ce soir ? — Oui, appelle-___ après 20 h.",
+      "options": [
+        "me",
+        "je",
+        "moi",
+        "m'"
+      ],
+      "correctIndex": 2,
+      "explanation": "After a positive command, me becomes moi: appelle-moi."
+    },
+    {
+      "id": "a2-cod-06",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Ce gâteau, je vais ___ préparer pour samedi.",
+      "options": [
+        "lui",
+        "le",
+        "la",
+        "les"
+      ],
+      "correctIndex": 1,
+      "explanation": "With aller + infinitive, the pronoun goes before the infinitive: je vais le préparer."
+    },
+    {
+      "id": "a2-cod-07",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Tu as l'adresse ? — Non, je ne ___ ai pas.",
+      "options": [
+        "la",
+        "le",
+        "lui",
+        "l'"
+      ],
+      "correctIndex": 3,
+      "explanation": "Before a vowel, le/la becomes l': je ne l'ai pas."
+    },
+    {
+      "id": "a2-cod-08",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Les enfants ? Je ___ emmène à l'école tous les matins.",
+      "options": [
+        "les",
+        "lui",
+        "la",
+        "leur"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Les enfants\" is plural and a direct object: je les emmène."
+    },
+    {
+      "id": "a2-cod-09",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Vous ___ entendez bien ? — Oui, nous vous entendons très bien.",
+      "options": [
+        "les",
+        "nous",
+        "leur",
+        "lui"
+      ],
+      "correctIndex": 1,
+      "explanation": "The answer is \"nous vous entendons\", so the question was \"vous nous entendez\"."
+    },
+    {
+      "id": "a2-cod-10",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Cette question, je ne ___ comprends pas.",
+      "options": [
+        "lui",
+        "la",
+        "le",
+        "les"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Cette question\" is feminine singular: je ne la comprends pas."
+    },
+    {
+      "id": "a2-coi-01",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Tu as parlé à Sophie ? — Oui, je ___ ai parlé hier.",
+      "options": [
+        "l'",
+        "la",
+        "leur",
+        "lui"
+      ],
+      "correctIndex": 3,
+      "explanation": "Parler à quelqu'un takes an indirect object: je lui ai parlé."
+    },
+    {
+      "id": "a2-coi-02",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "J'écris souvent à mes grands-parents. Je ___ écris chaque semaine.",
+      "options": [
+        "leur",
+        "les",
+        "leurs",
+        "lui"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"À mes grands-parents\" is plural: leur (never with -s)."
+    },
+    {
+      "id": "a2-coi-03",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Qu'est-ce que tu offres à ton frère ? — Je ___ offre un livre.",
+      "options": [
+        "lui",
+        "l'",
+        "le",
+        "leur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Offrir quelque chose à quelqu'un: je lui offre un livre."
+    },
+    {
+      "id": "a2-coi-04",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Les clients sont mécontents : nous allons ___ répondre rapidement.",
+      "options": [
+        "les",
+        "leur",
+        "leurs",
+        "lui"
+      ],
+      "correctIndex": 1,
+      "explanation": "Répondre à quelqu'un, and \"les clients\" is plural: leur répondre."
+    },
+    {
+      "id": "a2-coi-05",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Tu ___ téléphones ce soir ? J'attends ton appel.",
+      "options": [
+        "me",
+        "je",
+        "moi",
+        "m'"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"J'attends ton appel\", so you call me: tu me téléphones."
+    },
+    {
+      "id": "a2-coi-06",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Mes collègues m'ont aidé, alors je ___ ai envoyé un message de remerciement.",
+      "options": [
+        "lui",
+        "leur",
+        "leurs",
+        "les"
+      ],
+      "correctIndex": 1,
+      "explanation": "Envoyer à + \"mes collègues\" (plural): je leur ai envoyé."
+    },
+    {
+      "id": "a2-coi-07",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Ta mère attend une réponse : dis-___ la vérité !",
+      "options": [
+        "leur",
+        "elle",
+        "la",
+        "lui"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dire à quelqu'un, and \"ta mère\" is one person: dis-lui."
+    },
+    {
+      "id": "a2-coi-08",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Ce cadeau ___ plaît beaucoup, merci !",
+      "options": [
+        "moi",
+        "me",
+        "je",
+        "m'"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plaire à quelqu'un: ça me plaît (I like it)."
+    },
+    {
+      "id": "a2-coi-09",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Paul et Léa ? Je ne ___ ai pas encore répondu.",
+      "options": [
+        "lui",
+        "leurs",
+        "leur",
+        "les"
+      ],
+      "correctIndex": 2,
+      "explanation": "Répondre à + two people: leur."
+    },
+    {
+      "id": "a2-coi-10",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Vous pouvez ___ expliquer cette règle ? Nous ne la comprenons pas.",
+      "options": [
+        "leur",
+        "vous",
+        "les",
+        "nous"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Explain it to us\": vous pouvez nous expliquer."
+    },
+    {
+      "id": "a2-imparfait-01",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Quand j'étais enfant, je ___ souvent chez ma grand-mère.",
+      "options": [
+        "dormaient",
+        "dormons",
+        "dormais",
+        "dormait"
+      ],
+      "correctIndex": 2,
+      "explanation": "A repeated habit in the past needs the imparfait, and je takes -ais: je dormais."
+    },
+    {
+      "id": "a2-imparfait-02",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Avant, nous ___ à Montréal.",
+      "options": [
+        "habitions",
+        "habitaient",
+        "habitiez",
+        "habitons"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Avant\" (before) + a past situation: imparfait, nous → -ions."
+    },
+    {
+      "id": "a2-imparfait-03",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Il ___ très froid ce jour-là.",
+      "options": [
+        "fait",
+        "faisais",
+        "faisaient",
+        "faisait"
+      ],
+      "correctIndex": 3,
+      "explanation": "Weather described in the past: imparfait, il faisait."
+    },
+    {
+      "id": "a2-imparfait-04",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Quand j'étais petit, mes parents ___ beaucoup le soir.",
+      "options": [
+        "travaillais",
+        "travaillait",
+        "travaillions",
+        "travaillaient"
+      ],
+      "correctIndex": 3,
+      "explanation": "Past habit, and \"mes parents\" = ils: ils travaillaient."
+    },
+    {
+      "id": "a2-imparfait-05",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Tu ___ fatigué hier soir ?",
+      "options": [
+        "étais",
+        "êtes",
+        "été",
+        "était"
+      ],
+      "correctIndex": 0,
+      "explanation": "Être in the imparfait is irregular: tu étais."
+    },
+    {
+      "id": "a2-imparfait-06",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "À cette époque, vous ___ souvent au cinéma ?",
+      "options": [
+        "allaient",
+        "allez",
+        "alliez",
+        "alliions"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"À cette époque\" (back then) describes a past habit; vous → -iez: vous alliez."
+    },
+    {
+      "id": "a2-imparfait-07",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Elle ___ les cheveux longs quand elle était jeune.",
+      "options": [
+        "avait",
+        "avions",
+        "avaient",
+        "avais"
+      ],
+      "correctIndex": 0,
+      "explanation": "A physical description in the past: imparfait, elle avait."
+    },
+    {
+      "id": "a2-imparfait-08",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Quand j'étais jeune, chaque été, nous ___ en Bretagne.",
+      "options": [
+        "partaient",
+        "partions",
+        "partons",
+        "partiions"
+      ],
+      "correctIndex": 1,
+      "explanation": "A repeated past habit: imparfait, nous partions."
+    },
+    {
+      "id": "a2-imparfait-09",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Les rues ___ vides : tout le monde dormait.",
+      "options": [
+        "étaient",
+        "étions",
+        "était",
+        "sont"
+      ],
+      "correctIndex": 0,
+      "explanation": "A description in the past: imparfait, les rues étaient."
+    },
+    {
+      "id": "a2-imparfait-10",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Quand j'avais dix ans, je ___ devenir astronaute.",
+      "options": [
+        "voulais",
+        "veux",
+        "voulu",
+        "voulait"
+      ],
+      "correctIndex": 0,
+      "explanation": "Past wishes and states: imparfait, je voulais."
+    },
+    {
+      "id": "a2-comparatifs-01",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Le train est ___ rapide que le bus.",
+      "options": [
+        "le plus",
+        "plus",
+        "plus de",
+        "autant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Comparing an adjective: plus + adjective + que."
+    },
+    {
+      "id": "a2-comparatifs-02",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Ce gâteau est ___ que celui d'hier.",
+      "options": [
+        "plus bon",
+        "meilleur",
+        "mieux",
+        "le meilleur"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Plus bon\" doesn't exist: the comparative of bon is meilleur."
+    },
+    {
+      "id": "a2-comparatifs-03",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Elle chante ___ que sa sœur.",
+      "options": [
+        "meilleure",
+        "mieux",
+        "meilleur",
+        "plus bien"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Chante\" is a verb, so we compare with the adverb bien: mieux."
+    },
+    {
+      "id": "a2-comparatifs-04",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "J'ai ___ livres que toi.",
+      "options": [
+        "moins de",
+        "le moins",
+        "moins",
+        "moins que"
+      ],
+      "correctIndex": 0,
+      "explanation": "With a noun, use moins de / plus de: moins de livres."
+    },
+    {
+      "id": "a2-comparatifs-05",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "C'est ___ restaurant de la ville.",
+      "options": [
+        "le plus bon",
+        "le meilleur",
+        "meilleur",
+        "le mieux"
+      ],
+      "correctIndex": 1,
+      "explanation": "Superlative of bon: le meilleur."
+    },
+    {
+      "id": "a2-comparatifs-06",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Il travaille ___ heures que son collègue.",
+      "options": [
+        "autant d'",
+        "aussi d'",
+        "aussi",
+        "autant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Equality with a noun: autant de (d') … que."
+    },
+    {
+      "id": "a2-comparatifs-07",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Marie est ___ grande que Paul : ils font tous les deux 1,70 m.",
+      "options": [
+        "aussi",
+        "si",
+        "plus",
+        "autant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Same height, so equality with an adjective: aussi … que."
+    },
+    {
+      "id": "a2-comparatifs-08",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "C'est la montagne ___ haute d'Europe.",
+      "options": [
+        "la meilleure",
+        "le plus",
+        "plus",
+        "la plus"
+      ],
+      "correctIndex": 3,
+      "explanation": "The superlative agrees with the noun (montagne is feminine): la plus haute."
+    },
+    {
+      "id": "a2-comparatifs-09",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Le Canada est ___ peuplé que la France.",
+      "options": [
+        "moins que",
+        "le moins",
+        "moins",
+        "moins de"
+      ],
+      "correctIndex": 2,
+      "explanation": "Comparing an adjective (peuplé): moins … que."
+    },
+    {
+      "id": "a2-comparatifs-10",
+      "skill": "grammar",
+      "level": "A2",
+      "question": "Ce sont les ___ étudiants de la classe.",
+      "options": [
+        "meilleurs",
+        "meilleur",
+        "mieux",
+        "plus bons"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plural superlative of bon: les meilleurs."
+    }
+  ]
+}

@@ -1,0 +1,1127 @@
+{
+  "id": "grammar-a1",
+  "title": "Grammar A1",
+  "kind": "practice",
+  "questions": [
+    {
+      "id": "a1-etre-avoir-01",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Nous ___ étudiants à Montréal.",
+      "options": [
+        "avons",
+        "êtes",
+        "sont",
+        "sommes"
+      ],
+      "correctIndex": 3,
+      "explanation": "With \"nous\", être is \"sommes\"."
+    },
+    {
+      "id": "a1-etre-avoir-02",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Tu ___ un frère ou une sœur ?",
+      "options": [
+        "as",
+        "es",
+        "a",
+        "est"
+      ],
+      "correctIndex": 0,
+      "explanation": "Avoir with \"tu\" is \"tu as\"."
+    },
+    {
+      "id": "a1-etre-avoir-03",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Mes parents ___ très gentils.",
+      "options": [
+        "ont",
+        "êtes",
+        "est",
+        "sont"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Mes parents\" = ils, so être becomes \"sont\"."
+    },
+    {
+      "id": "a1-etre-avoir-04",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "J'___ 25 ans.",
+      "options": [
+        "est",
+        "suis",
+        "ai",
+        "as"
+      ],
+      "correctIndex": 2,
+      "explanation": "Age uses avoir in French: j'ai 25 ans (literally \"I have 25 years\")."
+    },
+    {
+      "id": "a1-etre-avoir-05",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Vous ___ fatigué ?",
+      "options": [
+        "êtes",
+        "sommes",
+        "avez",
+        "est"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vous + être = vous êtes. \"Fatigué\" is an adjective, so we use être."
+    },
+    {
+      "id": "a1-etre-avoir-06",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Elle ___ faim, elle veut manger.",
+      "options": [
+        "as",
+        "a",
+        "est",
+        "ont"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hunger uses avoir: avoir faim (to be hungry)."
+    },
+    {
+      "id": "a1-etre-avoir-07",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Il ___ médecin à l'hôpital.",
+      "options": [
+        "est",
+        "sont",
+        "es",
+        "a"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jobs use être with no article: il est médecin."
+    },
+    {
+      "id": "a1-etre-avoir-08",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Ils ___ une grande maison.",
+      "options": [
+        "ont",
+        "sont",
+        "a",
+        "avons"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ils + avoir = ils ont. Don't confuse it with \"ils sont\"."
+    },
+    {
+      "id": "a1-etre-avoir-09",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Nous ___ froid, fermons la fenêtre.",
+      "options": [
+        "êtes",
+        "avons",
+        "ont",
+        "sommes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Feeling cold uses avoir: avoir froid."
+    },
+    {
+      "id": "a1-etre-avoir-10",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Je ___ content de te voir !",
+      "options": [
+        "est",
+        "suis",
+        "ai",
+        "es"
+      ],
+      "correctIndex": 1,
+      "explanation": "Feelings described by an adjective (content) use être: je suis content."
+    },
+    {
+      "id": "a1-articles-01",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ soleil brille aujourd'hui.",
+      "options": [
+        "La",
+        "Le",
+        "L'",
+        "Les"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Soleil\" is masculine and there is only one: le soleil."
+    },
+    {
+      "id": "a1-articles-02",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "J'achète ___ baguette à la boulangerie.",
+      "options": [
+        "un",
+        "une",
+        "des",
+        "les"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Baguette\" is feminine, and we buy one (any) baguette: une baguette."
+    },
+    {
+      "id": "a1-articles-03",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ hôtel est près de la gare.",
+      "options": [
+        "L'",
+        "Les",
+        "La",
+        "Le"
+      ],
+      "correctIndex": 0,
+      "explanation": "Before a vowel or silent h, le/la becomes l': l'hôtel."
+    },
+    {
+      "id": "a1-articles-04",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Il y a ___ enfants dans le parc.",
+      "options": [
+        "une",
+        "un",
+        "des",
+        "le"
+      ],
+      "correctIndex": 2,
+      "explanation": "Some children, not specific, plural: des enfants."
+    },
+    {
+      "id": "a1-articles-05",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Elle aime beaucoup ___ cinéma français.",
+      "options": [
+        "un",
+        "une",
+        "le",
+        "des"
+      ],
+      "correctIndex": 2,
+      "explanation": "After aimer/adorer/détester, French uses the definite article for general tastes: le cinéma."
+    },
+    {
+      "id": "a1-articles-06",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "C'est ___ voiture de mon père.",
+      "options": [
+        "un",
+        "des",
+        "la",
+        "le"
+      ],
+      "correctIndex": 2,
+      "explanation": "It's a specific car (my father's): la voiture de mon père."
+    },
+    {
+      "id": "a1-articles-07",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Nous cherchons ___ appartement à Paris.",
+      "options": [
+        "le",
+        "une",
+        "des",
+        "un"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Appartement\" is masculine, and we're looking for any apartment: un appartement."
+    },
+    {
+      "id": "a1-articles-08",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ fleurs du jardin sont belles.",
+      "options": [
+        "Le",
+        "Les",
+        "La",
+        "Un"
+      ],
+      "correctIndex": 1,
+      "explanation": "Specific plural (the flowers in the garden): les fleurs."
+    },
+    {
+      "id": "a1-articles-09",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Tu as ___ question ?",
+      "options": [
+        "une",
+        "le",
+        "un",
+        "des"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Question\" is feminine, and it's one question: une question."
+    },
+    {
+      "id": "a1-articles-10",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ université ouvre à 8 heures.",
+      "options": [
+        "La",
+        "L'",
+        "Le",
+        "Les"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Université\" starts with a vowel: l'université."
+    },
+    {
+      "id": "a1-present-er-01",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Je ___ français et anglais.",
+      "options": [
+        "parles",
+        "parle",
+        "parlons",
+        "parlent"
+      ],
+      "correctIndex": 1,
+      "explanation": "With \"je\", -er verbs end in -e: je parle."
+    },
+    {
+      "id": "a1-present-er-02",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Nous ___ à Toronto depuis deux ans.",
+      "options": [
+        "habite",
+        "habitent",
+        "habitons",
+        "habitez"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Nous\" takes -ons: nous habitons."
+    },
+    {
+      "id": "a1-present-er-03",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Vous ___ le week-end ?",
+      "options": [
+        "travaillez",
+        "travaillent",
+        "travaillons",
+        "travailles"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Vous\" takes -ez: vous travaillez."
+    },
+    {
+      "id": "a1-present-er-04",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Mes amis ___ la télévision.",
+      "options": [
+        "regardons",
+        "regardes",
+        "regardent",
+        "regarde"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Mes amis\" = ils, so the ending is -ent (silent): ils regardent."
+    },
+    {
+      "id": "a1-present-er-05",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Tu ___ le chocolat ?",
+      "options": [
+        "aiment",
+        "aime",
+        "aimes",
+        "aimez"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Tu\" takes -es: tu aimes."
+    },
+    {
+      "id": "a1-present-er-06",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Elle ___ ses clés partout.",
+      "options": [
+        "cherchent",
+        "cherche",
+        "cherchons",
+        "cherches"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Elle\" takes -e: elle cherche."
+    },
+    {
+      "id": "a1-present-er-07",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Nous ___ beaucoup en été.",
+      "options": [
+        "voyagent",
+        "voyagez",
+        "voyageons",
+        "voyagons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Verbs in -ger keep an e before -ons to keep the soft g sound: nous voyageons."
+    },
+    {
+      "id": "a1-present-er-08",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "On ___ au restaurant ce soir ?",
+      "options": [
+        "mangent",
+        "manges",
+        "mangeons",
+        "mange"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"On\" (we, informal) uses the il/elle form: on mange."
+    },
+    {
+      "id": "a1-present-er-09",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Les enfants ___ dans le jardin.",
+      "options": [
+        "jouons",
+        "jouez",
+        "joue",
+        "jouent"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Les enfants\" = ils: ils jouent."
+    },
+    {
+      "id": "a1-present-er-10",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Nous ___ le travail à 9 heures.",
+      "options": [
+        "commencons",
+        "commencez",
+        "commençons",
+        "commencent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Verbs in -cer take ç before -ons: nous commençons."
+    },
+    {
+      "id": "a1-negation-01",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Je ___ aime pas le café.",
+      "options": [
+        "pas",
+        "non",
+        "ne",
+        "n'"
+      ],
+      "correctIndex": 3,
+      "explanation": "Before a vowel, ne becomes n': je n'aime pas."
+    },
+    {
+      "id": "a1-negation-02",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Il ne travaille ___ le dimanche.",
+      "options": [
+        "non",
+        "pas",
+        "aucun",
+        "ne"
+      ],
+      "correctIndex": 1,
+      "explanation": "Basic negation: ne + verb + pas."
+    },
+    {
+      "id": "a1-negation-03",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Elle n'a pas ___ voiture.",
+      "options": [
+        "des",
+        "la",
+        "une",
+        "de"
+      ],
+      "correctIndex": 3,
+      "explanation": "After a negation, \"une\" becomes \"de\": pas de voiture."
+    },
+    {
+      "id": "a1-negation-04",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Nous ne fumons ___ : nous avons arrêté il y a un an.",
+      "options": [
+        "rien",
+        "jamais",
+        "plus",
+        "personne"
+      ],
+      "correctIndex": 2,
+      "explanation": "They stopped, so it's \"no longer\": ne… plus."
+    },
+    {
+      "id": "a1-negation-05",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Je ne vois ___ dans la rue, elle est vide.",
+      "options": [
+        "plus",
+        "jamais",
+        "rien",
+        "personne"
+      ],
+      "correctIndex": 3,
+      "explanation": "The street is empty of people: ne… personne (nobody)."
+    },
+    {
+      "id": "a1-negation-06",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Tu ne manges ___ ? Tu n'as pas faim ?",
+      "options": [
+        "aucun",
+        "personne",
+        "rien",
+        "non"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ne… rien = nothing: tu ne manges rien."
+    },
+    {
+      "id": "a1-negation-07",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Il n'est ___ en retard, il est toujours à l'heure.",
+      "options": [
+        "plus",
+        "rien",
+        "jamais",
+        "personne"
+      ],
+      "correctIndex": 2,
+      "explanation": "He's always on time, so he is never late: ne… jamais."
+    },
+    {
+      "id": "a1-negation-08",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Ce n'est ___ mon livre.",
+      "options": [
+        "rien",
+        "pas",
+        "non",
+        "de"
+      ],
+      "correctIndex": 1,
+      "explanation": "Simple negation of être: ce n'est pas…"
+    },
+    {
+      "id": "a1-negation-09",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Nous n'avons pas ___ enfants.",
+      "options": [
+        "des",
+        "les",
+        "d'",
+        "de les"
+      ],
+      "correctIndex": 2,
+      "explanation": "After a negation, \"des\" becomes d' before a vowel: pas d'enfants."
+    },
+    {
+      "id": "a1-negation-10",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Je ___ comprends pas cette question.",
+      "options": [
+        "ne",
+        "n'",
+        "non",
+        "pas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Before a consonant, use ne: je ne comprends pas."
+    },
+    {
+      "id": "a1-adjectifs-01",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Ma sœur est très ___.",
+      "options": [
+        "grand",
+        "grands",
+        "grande",
+        "grandes"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Ma sœur\" is feminine singular: grande."
+    },
+    {
+      "id": "a1-adjectifs-02",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Ce sont des livres ___.",
+      "options": [
+        "intéressants",
+        "intéressant",
+        "intéressantes",
+        "intéressante"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Livres\" is masculine plural: intéressants."
+    },
+    {
+      "id": "a1-adjectifs-03",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "C'est une ___ idée !",
+      "options": [
+        "bonne",
+        "bons",
+        "bon",
+        "bonnes"
+      ],
+      "correctIndex": 0,
+      "explanation": "The feminine of bon doubles the n: bonne."
+    },
+    {
+      "id": "a1-adjectifs-04",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Elles sont ___ de leurs résultats.",
+      "options": [
+        "content",
+        "contentes",
+        "contents",
+        "contente"
+      ],
+      "correctIndex": 1,
+      "explanation": "Feminine plural: add -e and -s: contentes."
+    },
+    {
+      "id": "a1-adjectifs-05",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Nous avons acheté une ___ maison.",
+      "options": [
+        "beau",
+        "beaux",
+        "bel",
+        "belle"
+      ],
+      "correctIndex": 3,
+      "explanation": "The feminine of beau is belle."
+    },
+    {
+      "id": "a1-adjectifs-06",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Il porte une chemise ___.",
+      "options": [
+        "blanc",
+        "blancs",
+        "blanches",
+        "blanche"
+      ],
+      "correctIndex": 3,
+      "explanation": "Blanc has an irregular feminine: blanche."
+    },
+    {
+      "id": "a1-adjectifs-07",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "J'habite dans un ___ immeuble.",
+      "options": [
+        "vieille",
+        "vieil",
+        "vieux",
+        "vieilles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Before a masculine noun starting with a vowel, vieux becomes vieil: un vieil immeuble."
+    },
+    {
+      "id": "a1-adjectifs-08",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "C'est une femme très ___.",
+      "options": [
+        "sérieux",
+        "sérieuse",
+        "sérieuxs",
+        "sérieuses"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adjectives in -eux become -euse in the feminine: sérieuse."
+    },
+    {
+      "id": "a1-adjectifs-09",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Où est ma robe ___ ?",
+      "options": [
+        "noire",
+        "noirs",
+        "noir",
+        "noires"
+      ],
+      "correctIndex": 0,
+      "explanation": "Colours go after the noun and agree: une robe noire."
+    },
+    {
+      "id": "a1-adjectifs-10",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Paris est une ville ___.",
+      "options": [
+        "internationale",
+        "international",
+        "internationales",
+        "internationaux"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Ville\" is feminine singular: internationale."
+    },
+    {
+      "id": "a1-questions-01",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ tu habites ? — À Montréal.",
+      "options": [
+        "Quand",
+        "Combien",
+        "Qui",
+        "Où"
+      ],
+      "correctIndex": 3,
+      "explanation": "The answer is a place, so the question word is où (where)."
+    },
+    {
+      "id": "a1-questions-02",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ coûte ce livre ? — 15 euros.",
+      "options": [
+        "Comment",
+        "Combien",
+        "Pourquoi",
+        "Quel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Asking about a price: combien (how much)."
+    },
+    {
+      "id": "a1-questions-03",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ est-ce que tu pars en vacances ? — En juillet.",
+      "options": [
+        "Comment",
+        "Où",
+        "Qui",
+        "Quand"
+      ],
+      "correctIndex": 3,
+      "explanation": "The answer is a time, so: quand (when)."
+    },
+    {
+      "id": "a1-questions-04",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ âge as-tu ?",
+      "options": [
+        "Quelle",
+        "Combien",
+        "Quel",
+        "Quels"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Âge\" is masculine singular: quel âge."
+    },
+    {
+      "id": "a1-questions-05",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ est-ce que vous apprenez le français ? — Pour mon travail.",
+      "options": [
+        "Pourquoi",
+        "Où",
+        "Comment",
+        "Quand"
+      ],
+      "correctIndex": 0,
+      "explanation": "The answer gives a reason (\"pour…\"), so: pourquoi (why)."
+    },
+    {
+      "id": "a1-questions-06",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ vous appelez-vous ? — Marie Dupont.",
+      "options": [
+        "Que",
+        "Comment",
+        "Qui",
+        "Quel"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Comment vous appelez-vous ?\" = What is your name? (literally \"how do you call yourself\")."
+    },
+    {
+      "id": "a1-questions-07",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ est ton actrice préférée ?",
+      "options": [
+        "Quelle",
+        "Quelles",
+        "Quel",
+        "Quels"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Actrice\" is feminine singular: quelle."
+    },
+    {
+      "id": "a1-questions-08",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ fais-tu ce soir ?",
+      "options": [
+        "Qui",
+        "Quoi",
+        "Quel",
+        "Que"
+      ],
+      "correctIndex": 3,
+      "explanation": "Before an inverted verb, \"what\" is que: que fais-tu ?"
+    },
+    {
+      "id": "a1-questions-09",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ vous aimez le sport ?",
+      "options": [
+        "Est-ce que",
+        "Quoi",
+        "Qu'est-ce que",
+        "Est-ce"
+      ],
+      "correctIndex": 0,
+      "explanation": "For a yes/no question, use est-ce que."
+    },
+    {
+      "id": "a1-questions-10",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Tu travailles avec ___ ?",
+      "options": [
+        "que",
+        "où",
+        "qui",
+        "quel"
+      ],
+      "correctIndex": 2,
+      "explanation": "After a preposition, \"who\" is qui: avec qui ?"
+    },
+    {
+      "id": "a1-possessifs-01",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Paul cherche ___ clés.",
+      "options": [
+        "ses",
+        "leur",
+        "son",
+        "sa"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Clés\" is plural: ses clés (his keys)."
+    },
+    {
+      "id": "a1-possessifs-02",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "C'est ___ amie Sophie.",
+      "options": [
+        "mon",
+        "mes",
+        "ma",
+        "m'"
+      ],
+      "correctIndex": 0,
+      "explanation": "Before a feminine word starting with a vowel, use mon: mon amie."
+    },
+    {
+      "id": "a1-possessifs-03",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Les enfants adorent ___ école.",
+      "options": [
+        "leur",
+        "sa",
+        "ses",
+        "leurs"
+      ],
+      "correctIndex": 0,
+      "explanation": "One school belonging to several people: leur école. (\"Sa école\" is impossible: it would be \"son école\".)"
+    },
+    {
+      "id": "a1-possessifs-04",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ homme est très célèbre.",
+      "options": [
+        "Ces",
+        "Cet",
+        "Cette",
+        "Ce"
+      ],
+      "correctIndex": 1,
+      "explanation": "Masculine word starting with a silent h: cet homme."
+    },
+    {
+      "id": "a1-possessifs-05",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Je n'aime pas ___ chaussures.",
+      "options": [
+        "cet",
+        "ces",
+        "ce",
+        "cette"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Chaussures\" is plural: ces chaussures."
+    },
+    {
+      "id": "a1-possessifs-06",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Marie parle avec ___ père.",
+      "options": [
+        "sa",
+        "son",
+        "leurs",
+        "ses"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Père\" is masculine: son père (her father). The owner's gender doesn't matter."
+    },
+    {
+      "id": "a1-possessifs-07",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ semaine, je travaille beaucoup.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Ces",
+        "Cet"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Semaine\" is feminine: cette semaine."
+    },
+    {
+      "id": "a1-possessifs-08",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Vous avez ___ passeports ?",
+      "options": [
+        "vous",
+        "ta",
+        "vos",
+        "votre"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Passeports\" is plural and the owner is vous: vos passeports."
+    },
+    {
+      "id": "a1-possessifs-09",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "___ livre est à moi.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Cet",
+        "Ces"
+      ],
+      "correctIndex": 0,
+      "explanation": "Masculine noun starting with a consonant: ce livre."
+    },
+    {
+      "id": "a1-possessifs-10",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Nous habitons ici avec ___ trois enfants.",
+      "options": [
+        "nos",
+        "nous",
+        "mon",
+        "notre"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Enfants\" is plural and the owners are nous: nos enfants."
+    },
+    {
+      "id": "a1-lieux-01",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Je vais ___ Londres la semaine prochaine.",
+      "options": [
+        "aux",
+        "à",
+        "au",
+        "en"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cities take à: à Londres."
+    },
+    {
+      "id": "a1-lieux-02",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Ils habitent ___ Espagne.",
+      "options": [
+        "aux",
+        "au",
+        "à",
+        "en"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Espagne\" is feminine: en Espagne."
+    },
+    {
+      "id": "a1-lieux-03",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Nous partons en vacances ___ Portugal.",
+      "options": [
+        "en",
+        "aux",
+        "à",
+        "au"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Portugal\" is masculine: au Portugal."
+    },
+    {
+      "id": "a1-lieux-04",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Mon frère travaille ___ États-Unis.",
+      "options": [
+        "au",
+        "aux",
+        "en",
+        "à"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"États-Unis\" is plural: aux États-Unis."
+    },
+    {
+      "id": "a1-lieux-05",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Ce soir, on dîne ___ mes parents.",
+      "options": [
+        "chez",
+        "à",
+        "en",
+        "au"
+      ],
+      "correctIndex": 0,
+      "explanation": "For someone's home: chez + person."
+    },
+    {
+      "id": "a1-lieux-06",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Elle est née ___ Maroc.",
+      "options": [
+        "à",
+        "en",
+        "aux",
+        "au"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Maroc\" is masculine: au Maroc."
+    },
+    {
+      "id": "a1-lieux-07",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Je dois aller ___ médecin.",
+      "options": [
+        "en",
+        "au",
+        "à le",
+        "chez le"
+      ],
+      "correctIndex": 3,
+      "explanation": "For a person (doctor, hairdresser), use chez: chez le médecin."
+    },
+    {
+      "id": "a1-lieux-08",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "On se retrouve ___ cinéma à 20 h ?",
+      "options": [
+        "au",
+        "en",
+        "chez",
+        "à le"
+      ],
+      "correctIndex": 0,
+      "explanation": "À + le always contracts to au: au cinéma."
+    },
+    {
+      "id": "a1-lieux-09",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Ils ont passé un an ___ Iran.",
+      "options": [
+        "en",
+        "à",
+        "aux",
+        "au"
+      ],
+      "correctIndex": 0,
+      "explanation": "Masculine countries starting with a vowel take en: en Iran."
+    },
+    {
+      "id": "a1-lieux-10",
+      "skill": "grammar",
+      "level": "A1",
+      "question": "Elle va ___ pharmacie.",
+      "options": [
+        "en",
+        "au",
+        "à la",
+        "aux"
+      ],
+      "correctIndex": 2,
+      "explanation": "À + la doesn't contract: à la pharmacie."
+    }
+  ]
+}

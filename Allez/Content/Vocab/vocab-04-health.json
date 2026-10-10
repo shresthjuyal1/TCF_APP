@@ -1,0 +1,259 @@
+{
+  "id": "health",
+  "title": "Health & well-being",
+  "icon": "heart.fill",
+  "words": [
+    {
+      "french": "la santé",
+      "english": "health",
+      "level": "B2",
+      "example": "Les bénéfices du bio pour la santé et pour l'environnement sont aujourd'hui prouvés.",
+      "exampleTranslation": "The benefits of organic food for health and the environment are now proven."
+    },
+    {
+      "french": "le médecin",
+      "english": "doctor",
+      "level": "B2",
+      "example": "Les médecins sont formels : le stress est souvent à l'origine de dysfonctionnements physiques.",
+      "exampleTranslation": "Doctors are clear: stress is often the cause of physical problems."
+    },
+    {
+      "french": "l'hôpital (m.)",
+      "english": "hospital",
+      "level": "B2",
+      "example": "Elle a ainsi ouvert deux centres pour enfants et un hôpital.",
+      "exampleTranslation": "She has opened two children's centres and a hospital."
+    },
+    {
+      "french": "le patient",
+      "english": "patient",
+      "level": "B2",
+      "example": "Ces derniers pourront les appliquer sur les ordonnances pour sensibiliser les patients au gaspillage des médicaments.",
+      "exampleTranslation": "They can put them on prescriptions to make patients aware of wasted medicine."
+    },
+    {
+      "french": "la maladie",
+      "english": "illness, disease",
+      "level": "C1",
+      "example": "La recherche entraîner l'éradication des maladies génétiques et permettre même de les prévoir.",
+      "exampleTranslation": "Research could wipe out genetic diseases and even make it possible to predict them."
+    },
+    {
+      "french": "malade",
+      "english": "ill, sick",
+      "level": "A2",
+      "example": "Tous les samedis pendant l'été, vous pouvez donner votre sang pour les malades et les blessés.",
+      "exampleTranslation": "Every Saturday during the summer, you can give blood for the sick and injured."
+    },
+    {
+      "french": "le médicament",
+      "english": "medicine, drug",
+      "level": "B2",
+      "example": "C'est la quantité de médicaments non utilisés qui dorment dans les armoires des Français.",
+      "exampleTranslation": "That's the amount of unused medicine sitting in French people's cupboards."
+    },
+    {
+      "french": "le traitement",
+      "english": "treatment; processing",
+      "level": "B2",
+      "example": "Ralentissement du traitement de l'information, baisse de l'attention et de notre mémorisation à court terme.",
+      "exampleTranslation": "Slower information processing, reduced attention and weaker short-term memory."
+    },
+    {
+      "french": "les soins (m.)",
+      "english": "care, treatment",
+      "level": "A2",
+      "example": "Le soin d'origine naturelle « Nuit sommeil » est étudié pour les peaux fragiles.",
+      "exampleTranslation": "The natural \"Night Sleep\" skincare treatment is designed for sensitive skin."
+    },
+    {
+      "french": "la douleur",
+      "english": "pain",
+      "level": "B1",
+      "example": "Le sport sans douleur.",
+      "exampleTranslation": "Sport without pain."
+    },
+    {
+      "french": "le stress",
+      "english": "stress",
+      "level": "C1",
+      "example": "Les médecins sont formels : le stress est souvent à l'origine de dysfonctionnements physiques.",
+      "exampleTranslation": "Doctors are clear: stress is often the cause of physical problems."
+    },
+    {
+      "french": "la fatigue",
+      "english": "tiredness",
+      "level": "B1",
+      "example": "Il corrige les signes de fatigue et réveille votre visage.",
+      "exampleTranslation": "It corrects signs of tiredness and brightens your face."
+    },
+    {
+      "french": "l'épuisement (m.)",
+      "english": "exhaustion",
+      "level": "B2",
+      "example": "À son sens, le seul syndrome d'épuisement professionnel qui puisse être retenu concernant le milieu familial renvoie au travail des aidants familiaux.",
+      "exampleTranslation": "In her view, the only kind of burnout that applies to family life concerns family caregivers."
+    },
+    {
+      "french": "le sommeil",
+      "english": "sleep",
+      "level": "B2",
+      "example": "Ils mettent en avant un impact négatif sur « le sommeil, l'alimentation ou l'humeur ».",
+      "exampleTranslation": "They highlight a negative impact on \"sleep, eating habits and mood\"."
+    },
+    {
+      "french": "le bien-être",
+      "english": "well-being",
+      "level": "C1",
+      "example": "Conserver un lien social est indispensable à notre bien-être, donc à notre travail.",
+      "exampleTranslation": "Keeping social ties is essential to our well-being, and therefore to our work."
+    },
+    {
+      "french": "le corps",
+      "english": "body",
+      "level": "B2",
+      "example": "Selon la conception de Descartes, le corps est perçu comme séparé de l'esprit à éduquer.",
+      "exampleTranslation": "In Descartes' view, the body is seen as separate from the mind, which is what needs educating."
+    },
+    {
+      "french": "le cerveau",
+      "english": "brain",
+      "level": "B2",
+      "example": "De plus en plus de scientifiques s'intéressent au fonctionnement du cerveau des tout-petits.",
+      "exampleTranslation": "More and more scientists are interested in how toddlers' brains work."
+    },
+    {
+      "french": "le cœur",
+      "english": "heart",
+      "level": "C1",
+      "example": "Les néo-nomades forment de fait une entité structurée au cœur de notre société individualiste.",
+      "exampleTranslation": "The new nomads in fact form an organised group at the heart of our individualistic society."
+    },
+    {
+      "french": "la peau",
+      "english": "skin",
+      "level": "C1",
+      "example": "Le soin d'origine naturelle « Nuit sommeil » est étudié pour les peaux fragiles.",
+      "exampleTranslation": "The natural \"Night Sleep\" skincare treatment is designed for sensitive skin."
+    },
+    {
+      "french": "l'hygiène (f.)",
+      "english": "hygiene",
+      "level": "B2",
+      "example": "Mais tout de même, en matière d'hygiène, le bon sens du consommateur doit prévaloir et lui permettre de prévenir tout incident.",
+      "exampleTranslation": "Still, when it comes to hygiene, the consumer's common sense must prevail and help prevent any incident."
+    },
+    {
+      "french": "le sang",
+      "english": "blood",
+      "level": "B2",
+      "example": "Tous les samedis pendant l'été, vous pouvez donner votre sang pour les malades et les blessés.",
+      "exampleTranslation": "Every Saturday during the summer, you can give blood for the sick and injured."
+    },
+    {
+      "french": "le handicap",
+      "english": "disability",
+      "level": "B2",
+      "example": "Pour qu'enfin, on regarde le savoir-faire et l'expérience avant le handicap.",
+      "exampleTranslation": "So that people finally look at skills and experience before the disability."
+    },
+    {
+      "french": "handicapé",
+      "english": "disabled",
+      "level": "B1",
+      "example": "Sa philosophie : une personne handicapée n'est pas forcément une personne en fauteuil roulant.",
+      "exampleTranslation": "His philosophy: a disabled person is not necessarily someone in a wheelchair."
+    },
+    {
+      "french": "le trouble",
+      "english": "disorder",
+      "level": "C1",
+      "example": "En France, entre 200 000 et 500 000 cas de troubles psychiques sont liés au monde du travail.",
+      "exampleTranslation": "In France, between 200,000 and 500,000 cases of mental disorders are linked to work."
+    },
+    {
+      "french": "la pathologie",
+      "english": "disease, pathology",
+      "level": "B2",
+      "example": "Les interdictions sont essentiellement liées à l'âge ou à des pathologies préexistantes.",
+      "exampleTranslation": "The restrictions are mainly related to age or pre-existing conditions."
+    },
+    {
+      "french": "la prévention",
+      "english": "prevention",
+      "level": "C1",
+      "example": "Ils peuvent ainsi développer en classe un programme de prévention pour identifier et éviter les dangers.",
+      "exampleTranslation": "They can develop a prevention programme in class to identify and avoid dangers."
+    },
+    {
+      "french": "soigner",
+      "english": "to treat, to care for",
+      "level": "B2",
+      "example": "Un Français sur quatre renonce à se soigner faute de moyens.",
+      "exampleTranslation": "One in four French people go without medical care because they can't afford it."
+    },
+    {
+      "french": "l'urgence (f.)",
+      "english": "emergency",
+      "level": "B2",
+      "example": "Devant l'urgence, il faudrait en planter partout, dans les moindres interstices.",
+      "exampleTranslation": "Given the urgency, we should plant them everywhere, in every little gap."
+    },
+    {
+      "french": "l'assurance (f.)",
+      "english": "insurance",
+      "level": "B1",
+      "example": "Promotion exceptionnelle, 3 mois d'assurance gratuite si vous vous inscrivez avant le 30 septembre.",
+      "exampleTranslation": "Special offer: 3 months of free insurance if you sign up before 30 September."
+    },
+    {
+      "french": "le risque",
+      "english": "risk",
+      "level": "B2",
+      "example": "Le chantier nécessite l'utilisation de produits à risque et d'un appareillage bruyant.",
+      "exampleTranslation": "The work requires hazardous products and noisy equipment."
+    },
+    {
+      "french": "le danger",
+      "english": "danger",
+      "level": "B2",
+      "example": "Les conséquences de l'analphabétisme sont profondes, au point qu'elles peuvent mettre la vie en danger.",
+      "exampleTranslation": "The consequences of illiteracy are serious, to the point that they can put lives at risk."
+    },
+    {
+      "french": "la mort",
+      "english": "death",
+      "level": "C1",
+      "example": "L'épisode meurtrier de canicule, qui a entraîné la mort d'un si grand nombre de personnes du troisième âge en Europe, a imposé un nouveau défi sanitaire.",
+      "exampleTranslation": "The deadly heatwave, which caused the death of so many elderly people in Europe, created a new public-health challenge."
+    },
+    {
+      "french": "la naissance",
+      "english": "birth",
+      "level": "B2",
+      "example": "Adoptées séparément à la naissance, des jumelles indonésiennes se sont retrouvées 29 ans plus tard en Suède.",
+      "exampleTranslation": "Adopted separately at birth, Indonesian twin sisters were reunited 29 years later in Sweden."
+    },
+    {
+      "french": "les personnes âgées",
+      "english": "elderly people",
+      "level": "B2",
+      "example": "Une bonne nouvelle pour les nombreuses personnes âgées qui fréquentent le jardin.",
+      "exampleTranslation": "Good news for the many elderly people who visit the garden."
+    },
+    {
+      "french": "l'activité physique (f.)",
+      "english": "physical activity",
+      "level": "B1",
+      "example": "En cause, le stress, mais aussi les activités physiques à répétition.",
+      "exampleTranslation": "The causes: stress, but also repeated physical activity."
+    },
+    {
+      "french": "le sport",
+      "english": "sport",
+      "level": "B1",
+      "example": "Une manière de récolter de l'argent supplémentaire dans un sport peu sponsorisé.",
+      "exampleTranslation": "A way to raise extra money in a sport with little sponsorship."
+    }
+  ]
+}

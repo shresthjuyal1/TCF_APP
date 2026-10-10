@@ -1,0 +1,378 @@
+{
+  "id": "culture",
+  "title": "Culture & leisure",
+  "icon": "theatermasks.fill",
+  "words": [
+    {
+      "french": "la culture",
+      "english": "culture",
+      "level": "B2",
+      "example": "Faites connaissance avec des gens du monde entier et découvrez d'autres cultures !",
+      "exampleTranslation": "Meet people from all over the world and discover other cultures!"
+    },
+    {
+      "french": "culturel",
+      "english": "cultural",
+      "level": "B2",
+      "example": "Ils approfondissaient et élargissaient ma vision du monde, grâce à leur apport culturel.",
+      "exampleTranslation": "They deepened and broadened my view of the world through what they brought culturally."
+    },
+    {
+      "french": "les loisirs (m.)",
+      "english": "leisure, hobbies",
+      "level": "B2",
+      "example": "Les inscriptions à l'école et au centre de loisirs pour la rentrée prochaine sont ouvertes.",
+      "exampleTranslation": "Registration for school and the after-school centre for next school year is open."
+    },
+    {
+      "french": "le spectacle",
+      "english": "show",
+      "level": "B2",
+      "example": "Après le spectacle, l'équipe artistique propose d'échanger sur la pièce avec les élèves.",
+      "exampleTranslation": "After the show, the artistic team offers to discuss the play with the students."
+    },
+    {
+      "french": "le concert",
+      "english": "concert",
+      "level": "A1",
+      "example": "Pour le concert ce soir, on se retrouve à 19h30 devant le bar rue Daunou.",
+      "exampleTranslation": "For tonight's concert, let's meet at 7:30 pm in front of the bar on rue Daunou."
+    },
+    {
+      "french": "le festival",
+      "english": "festival",
+      "level": "B1",
+      "example": "Le festival Étonnants Voyageurs de Saint-Malo ouvrira ses portes vendredi 27 mai.",
+      "exampleTranslation": "The Étonnants Voyageurs festival in Saint-Malo will open on Friday 27 May."
+    },
+    {
+      "french": "le théâtre",
+      "english": "theatre",
+      "level": "B1",
+      "example": "Il y a un grand restaurant à côté, tout près du théâtre de l'Odéon.",
+      "exampleTranslation": "There's a big restaurant next door, very close to the Odéon theatre."
+    },
+    {
+      "french": "la scène",
+      "english": "stage; scene",
+      "level": "B2",
+      "example": "L'auteur met en scène un couple de petites gens qui sont passées à côté de belles choses.",
+      "exampleTranslation": "The author portrays an ordinary couple who have missed out on beautiful things."
+    },
+    {
+      "french": "le comédien",
+      "english": "actor",
+      "level": "B2",
+      "example": "La comédienne franco-suisse Pascale Rocard part tourner un film à Paris.",
+      "exampleTranslation": "The French-Swiss actress Pascale Rocard is going to Paris to shoot a film."
+    },
+    {
+      "french": "l'acteur (m.)",
+      "english": "actor; key player",
+      "level": "B2",
+      "example": "Elles orientent ainsi le consommateur vers des acteurs économiques plus respectueux de la planète.",
+      "exampleTranslation": "They steer consumers towards businesses that respect the planet more."
+    },
+    {
+      "french": "le spectateur",
+      "english": "spectator",
+      "level": "C1",
+      "example": "Ce phénomène est amplifié par ce cadre intimiste qui favorise le rapprochement des spectateurs et des comédiens.",
+      "exampleTranslation": "This is amplified by the intimate setting, which brings the audience and actors closer together."
+    },
+    {
+      "french": "le cinéma",
+      "english": "cinema",
+      "level": "B1",
+      "example": "Il préfère le spectacle d'une toile de cinéma ou le plongeon dans la toile du cyberspace.",
+      "exampleTranslation": "He prefers a cinema screen or diving into the web of cyberspace."
+    },
+    {
+      "french": "le roman",
+      "english": "novel",
+      "level": "C1",
+      "example": "Rien ne sert de raconter l'intrigue de ce roman tant elle est simple et sans surprise.",
+      "exampleTranslation": "There's no point telling the plot of this novel, it's so simple and predictable."
+    },
+    {
+      "french": "l'écrivain (m.)",
+      "english": "writer",
+      "level": "C1",
+      "example": "L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques.",
+      "exampleTranslation": "The writer loves digging into the history of the capital and visits many libraries."
+    },
+    {
+      "french": "l'auteur (m.)",
+      "english": "author",
+      "level": "C1",
+      "example": "L'écriture de l'auteur reste cependant toujours aussi piquante et agréable à lire.",
+      "exampleTranslation": "The author's writing, however, is as sharp and enjoyable to read as ever."
+    },
+    {
+      "french": "le personnage",
+      "english": "character (in a story)",
+      "level": "B2",
+      "example": "Le personnage principal, Goku, est d'abord un enfant simple et très joyeux.",
+      "exampleTranslation": "The main character, Goku, starts out as a simple and very cheerful child."
+    },
+    {
+      "french": "le héros",
+      "english": "hero",
+      "level": "C1",
+      "example": "Le héros principal, quant à lui, est dépeint avec une certaine profondeur.",
+      "exampleTranslation": "The main hero, for his part, is portrayed with some depth."
+    },
+    {
+      "french": "l'intrigue (f.)",
+      "english": "plot",
+      "level": "C1",
+      "example": "Rien ne sert de raconter l'intrigue de ce roman tant elle est simple et sans surprise.",
+      "exampleTranslation": "There's no point telling the plot of this novel, it's so simple and predictable."
+    },
+    {
+      "french": "la littérature",
+      "english": "literature",
+      "level": "C1",
+      "example": "Dans le monde de la littérature jeunesse, Michèle Moreau est une référence.",
+      "exampleTranslation": "In the world of children's literature, Michèle Moreau is a leading name."
+    },
+    {
+      "french": "la bande dessinée",
+      "english": "comic book",
+      "level": "B1",
+      "example": "Le festival de la bande dessinée aura lieu les 6 et 7 février à Paris.",
+      "exampleTranslation": "The comic book festival will take place on 6 and 7 February in Paris."
+    },
+    {
+      "french": "l'œuvre (f.)",
+      "english": "work (of art)",
+      "level": "B2",
+      "example": "Pendant la visite, il explique l'histoire des lieux ou des œuvres et répond aux questions des participants.",
+      "exampleTranslation": "During the tour, he explains the history of the place or the works of art and answers participants' questions."
+    },
+    {
+      "french": "l'artiste (m./f.)",
+      "english": "artist",
+      "level": "B2",
+      "example": "Promis à la destruction et à la rénovation, le bâtiment a été investi par des artistes.",
+      "exampleTranslation": "Due to be demolished and renovated, the building was taken over by artists."
+    },
+    {
+      "french": "le peintre",
+      "english": "painter",
+      "level": "B2",
+      "example": "« La passion de Gauguin », voici le titre d'un documentaire sur le peintre français.",
+      "exampleTranslation": "\"Gauguin's Passion\" is the title of a documentary about the French painter."
+    },
+    {
+      "french": "la peinture",
+      "english": "painting (art)",
+      "level": "B2",
+      "example": "Vous aimez la peinture, la sculpture et vous êtes disponible le week-end entre 14h et 20h.",
+      "exampleTranslation": "You love painting and sculpture and you're free at weekends between 2 and 8 pm."
+    },
+    {
+      "french": "le tableau",
+      "english": "painting; board; chart",
+      "level": "B1",
+      "example": "Y sont réunis des tableaux d'artistes adeptes de ce mouvement.",
+      "exampleTranslation": "It brings together paintings by artists who followed this movement."
+    },
+    {
+      "french": "la sculpture",
+      "english": "sculpture",
+      "level": "B1",
+      "example": "Vous aimez la peinture, la sculpture et vous êtes disponible le week-end entre 14h et 20h.",
+      "exampleTranslation": "You love painting and sculpture and you're free at weekends between 2 and 8 pm."
+    },
+    {
+      "french": "l'exposition (f.)",
+      "english": "exhibition",
+      "level": "B2",
+      "example": "Vous pourrez aussi visiter une exposition sur l'histoire de la bande dessinée et rencontrer des auteurs.",
+      "exampleTranslation": "You can also visit an exhibition on the history of comics and meet authors."
+    },
+    {
+      "french": "le musée",
+      "english": "museum",
+      "level": "B2",
+      "example": "L'enfant fréquente le musée par obligation, avec ses parents ou son instituteur.",
+      "exampleTranslation": "Children go to museums because they have to, with their parents or teacher."
+    },
+    {
+      "french": "le patrimoine",
+      "english": "heritage",
+      "level": "B2",
+      "example": "Après l'arrestation de pilleurs en France, l'UNESCO lance un cri d'alarme pour la protection du patrimoine sous-marin.",
+      "exampleTranslation": "After looters were arrested in France, UNESCO is raising the alarm about protecting underwater heritage."
+    },
+    {
+      "french": "le monument",
+      "english": "monument",
+      "level": "B1",
+      "example": "La famille propriétaire de ce monument n'a pas changé depuis son ouverture en 1911.",
+      "exampleTranslation": "The family that owns this monument hasn't changed since it opened in 1911."
+    },
+    {
+      "french": "le château",
+      "english": "castle",
+      "level": "B1",
+      "example": "Le château de la Bussière est une demeure du 17e siècle située dans le Loiret.",
+      "exampleTranslation": "The Château de la Bussière is a 17th-century residence in the Loiret."
+    },
+    {
+      "french": "la musique",
+      "english": "music",
+      "level": "B1",
+      "example": "Musique jazz et brésilienne durant tout l'été dans le quartier du Musée d'Art Moderne !",
+      "exampleTranslation": "Jazz and Brazilian music all summer long in the Museum of Modern Art neighbourhood!"
+    },
+    {
+      "french": "le musicien",
+      "english": "musician",
+      "level": "B2",
+      "example": "Les musiciens ont tendance à surestimer la première, avec l'idée que moins on en sait, mieux c'est.",
+      "exampleTranslation": "Musicians tend to overrate the first one, with the idea that the less you know, the better."
+    },
+    {
+      "french": "la chanson",
+      "english": "song",
+      "level": "B2",
+      "example": "Non, malgré sa chanson bien connue, Georges Brassens n'est pas enterré au Cimetière marin.",
+      "exampleTranslation": "No, despite his famous song, Georges Brassens is not buried in the Cimetière marin."
+    },
+    {
+      "french": "la danse",
+      "english": "dance",
+      "level": "B2",
+      "example": "Au programme : salsa, tango, danse moderne et un goûter (boissons et gâteaux) !",
+      "exampleTranslation": "On the programme: salsa, tango, modern dance and an afternoon snack (drinks and cakes)!"
+    },
+    {
+      "french": "la photographie",
+      "english": "photography",
+      "level": "B1",
+      "example": "Pourtant, j'ai beaucoup aimé et pas mal pratiqué la photographie dans mon adolescence.",
+      "exampleTranslation": "Yet I really loved photography and did quite a lot of it as a teenager."
+    },
+    {
+      "french": "le photographe",
+      "english": "photographer",
+      "level": "B2",
+      "example": "Actrice et réalisatrice à succès, elle est aussi peintre et photographe.",
+      "exampleTranslation": "A successful actress and director, she is also a painter and photographer."
+    },
+    {
+      "french": "la fête",
+      "english": "party, celebration",
+      "level": "A2",
+      "example": "La fête annuelle de notre école se déroulera cette année le samedi 12 juin.",
+      "exampleTranslation": "Our school's annual party will take place on Saturday 12 June this year."
+    },
+    {
+      "french": "l'anniversaire (m.)",
+      "english": "birthday; anniversary",
+      "level": "B1",
+      "example": "C'est mon anniversaire samedi et j'ai encore beaucoup de choses à faire.",
+      "exampleTranslation": "It's my birthday on Saturday and I still have lots to do."
+    },
+    {
+      "french": "le jeu",
+      "english": "game",
+      "level": "B2",
+      "example": "Nous avons besoin d'adultes pour animer les stands et surveiller les jeux.",
+      "exampleTranslation": "We need adults to run the stalls and supervise the games."
+    },
+    {
+      "french": "le jouet",
+      "english": "toy",
+      "level": "B1",
+      "example": "Vous y trouverez des idées cadeaux : biscuits, chocolat, jouets et plein d'autres articles.",
+      "exampleTranslation": "You'll find gift ideas there: biscuits, chocolate, toys and lots of other items."
+    },
+    {
+      "french": "la randonnée",
+      "english": "hike, hiking",
+      "level": "A2",
+      "example": "La randonnée se passe bien, nous marchons beaucoup avec les moniteurs.",
+      "exampleTranslation": "The hike is going well; we're walking a lot with the instructors."
+    },
+    {
+      "french": "la promenade",
+      "english": "walk",
+      "level": "B1",
+      "example": "Inutile d'aller bien loin pour une promenade puisque le parc Étienne est à proximité de la résidence.",
+      "exampleTranslation": "No need to go far for a walk, since Étienne Park is close to the residence."
+    },
+    {
+      "french": "se promener",
+      "english": "to go for a walk",
+      "level": "A2",
+      "example": "D'autre part, Naya s'est fait des copains pour se promener, pour jouer, pour être câlinée, pour causer…",
+      "exampleTranslation": "Naya has also made friends to go for walks with, to play, to be cuddled and to chat…"
+    },
+    {
+      "french": "la visite",
+      "english": "visit; tour",
+      "level": "B1",
+      "example": "Il prépare ses visites en recherchant des documents pour actualiser ses connaissances.",
+      "exampleTranslation": "He prepares his tours by looking for documents to update his knowledge."
+    },
+    {
+      "french": "l'entrée (f.)",
+      "english": "entrance; admission; starter",
+      "level": "B1",
+      "example": "Pendant les travaux, il est interdit de stationner devant l'entrée du supermarché.",
+      "exampleTranslation": "During the works, parking in front of the supermarket entrance is forbidden."
+    },
+    {
+      "french": "le tarif",
+      "english": "price, rate",
+      "level": "B1",
+      "example": "Le restaurant universitaire vous propose des recettes régionales variées au tarif normal.",
+      "exampleTranslation": "The university restaurant offers a variety of regional dishes at the standard price."
+    },
+    {
+      "french": "la séance",
+      "english": "session, screening",
+      "level": "B1",
+      "example": "Elles disaient qu'elles souhaitaient faire des séances de bronzage.",
+      "exampleTranslation": "They said they wanted to do tanning sessions."
+    },
+    {
+      "french": "l'abonnement (m.)",
+      "english": "subscription",
+      "level": "C1",
+      "example": "De mensuel payant vendu en kiosques ou par abonnement, il va devenir un supplément gratuit proposé avec le quotidien.",
+      "exampleTranslation": "From a paid monthly sold at newsstands or by subscription, it will become a free supplement with the daily paper."
+    },
+    {
+      "french": "la bibliothèque",
+      "english": "library",
+      "level": "B1",
+      "example": "Attention : la bibliothèque sera fermée l'après-midi pour un mois pendant les travaux.",
+      "exampleTranslation": "Note: the library will be closed in the afternoons for a month during the works."
+    },
+    {
+      "french": "l'association (f.)",
+      "english": "association, club",
+      "level": "B1",
+      "example": "Des histoires comme celle-là circulent dans toutes les associations de consommateurs.",
+      "exampleTranslation": "Stories like that circulate in every consumer association."
+    },
+    {
+      "french": "la créativité",
+      "english": "creativity",
+      "level": "C1",
+      "example": "Or, notre créativité et notre productivité sont dépendantes des rencontres que nous faisons.",
+      "exampleTranslation": "Yet our creativity and productivity depend on the people we meet."
+    },
+    {
+      "french": "l'imagination (f.)",
+      "english": "imagination",
+      "level": "C1",
+      "example": "J'ai la naïveté de penser qu'un peu d'imagination n'est pas totalement absurde lorsqu'on écrit des romans.",
+      "exampleTranslation": "I'm naive enough to think a bit of imagination isn't completely absurd when you write novels."
+    }
+  ]
+}

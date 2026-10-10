@@ -27,6 +27,7 @@ private struct PathFile: Codable {
         let title: String
         let level: Level
         let icon: String
+        var guide: Guide?
         let questionIds: [String]
     }
 
@@ -37,6 +38,7 @@ private struct PathFile: Codable {
 struct ContentLibrary {
     var sets: [QuestionSet] = []
     var units: [LessonUnit] = []
+    var vocabThemes: [VocabTheme] = []
     /// Plain-English descriptions of files that couldn't be read, shown in the app so mistakes are easy to spot.
     var problems: [String] = []
 
@@ -69,6 +71,10 @@ struct ContentLibrary {
                 let data = try Data(contentsOf: url)
                 if fileName == "parcours.json" {
                     pathFile = try decoder.decode(PathFile.self, from: data)
+                    continue
+                }
+                if fileName.hasPrefix("vocab-") {
+                    library.vocabThemes.append(try decoder.decode(VocabTheme.self, from: data))
                     continue
                 }
                 var set = try decoder.decode(QuestionSet.self, from: data)
@@ -104,7 +110,7 @@ struct ContentLibrary {
                 library.problems.append("parcours.json: unit \"\(unit.title)\" uses question \"\(id)\", which doesn't exist.")
                 return nil
             }
-            return LessonUnit(id: unit.id, title: unit.title, level: unit.level, icon: unit.icon, questions: questions)
+            return LessonUnit(id: unit.id, title: unit.title, level: unit.level, icon: unit.icon, guide: unit.guide, questions: questions)
         }
         return library
     }
@@ -139,6 +145,59 @@ extension ContentLibrary {
         case ..<0.75: .b2
         case ..<0.9: .c1
         default: .c2
+        }
+    }
+}
+
+/// Which way vocabulary questions go.
+enum VocabDirection: String, CaseIterable, Identifiable {
+    case frenchToEnglish, englishToFrench
+
+    var id: String { rawValue }
+
+    var label: String {
+        switch self {
+        case .frenchToEnglish: "French → English"
+        case .englishToFrench: "English → French"
+        }
+    }
+}
+
+extension ContentLibrary {
+    var allVocab: [VocabWord] { vocabThemes.flatMap(\.words) }
+
+    /// Builds multiple-choice questions from vocabulary words. Wrong answers come from the same theme when possible.
+    func vocabQuestions(themeID: String?, direction: VocabDirection, count: Int) -> [Question] {
+        let themes = themeID.map { id in vocabThemes.filter { $0.id == id } } ?? vocabThemes
+        let picks = themes.flatMap { theme in theme.words.map { (theme, $0) } }.shuffled().prefix(count)
+        return picks.map { theme, word in
+            let answer: (VocabWord) -> String = direction == .frenchToEnglish ? { $0.english } : { $0.french }
+            var options = [answer(word)]
+            var usedMeanings = word.meanings
+            for candidate in (theme.words.shuffled() + allVocab.shuffled()) where options.count < 4 {
+                // Skip words that share a meaning (e.g. cependant / toutefois = "however"), so only one option is right.
+                let option = answer(candidate)
+                guard !options.contains(option), usedMeanings.isDisjoint(with: candidate.meanings) else { continue }
+                options.append(option)
+                usedMeanings.formUnion(candidate.meanings)
+            }
+            options.shuffle()
+            var explanation = "\(word.french) = \(word.english)"
+            if let example = word.example {
+                explanation += "\n\n« \(example) »"
+                if let translation = word.exampleTranslation { explanation += "\n\(translation)" }
+            }
+            return Question(
+                id: "vocab-\(direction.rawValue)-\(word.id)",
+                skill: .vocabulary,
+                level: word.level,
+                question: direction == .frenchToEnglish
+                    ? "What does “\(word.french)” mean?"
+                    : "How do you say “\(word.english)” in French?",
+                options: options,
+                correctIndex: options.firstIndex(of: answer(word)) ?? 0,
+                explanation: explanation
+            )
         }
     }
 }
