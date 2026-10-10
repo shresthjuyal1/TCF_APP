@@ -1,0 +1,828 @@
+{
+  "id": "tcf-lecture-04",
+  "title": "Test 4",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t04-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Maman,\nJe fais mes devoirs de mathématiques chez Louise. Je rentre à 21 heures. Bises et à ce soir.\nPatrick",
+      "question": "Qu’est-ce que Patrick fait chez Louise ?",
+      "questionTranslation": "What is Patrick doing at Louise's?",
+      "options": [
+        "Il dort",
+        "Il travaille",
+        "Il joue",
+        "Il mange"
+      ],
+      "optionTranslations": [
+        "He is sleeping",
+        "He is working",
+        "He is playing",
+        "He is eating"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t04-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "France 5\n- 19 h 55 SÉRIE DOCUMENTAIRE -> Bonjour la Bretagne - 20 h 35 MAGAZINE -> La grande libraire Présentation : François Bunel - 21 h 35 DOCUMENTAIRE -> Arman, portrait d’un peintre et d’un sculpteur - 23 h 55 SÉRIE DOCUMENTAIRE -> J’irai dormir chez vous « Maroc »",
+      "question": "À quelle heure est-ce qu’on peut voir une émission sur l’art ?",
+      "questionTranslation": "At what time can we see a show about art?",
+      "options": [
+        "• À 19 h 55",
+        "• À 20 h 55",
+        "• À 21 h 35",
+        "• À 23 h 55"
+      ],
+      "optionTranslations": [
+        "At 7:55 PM",
+        "At 8:55 PM",
+        "At 9:35 PM",
+        "At 11:55 PM"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t04-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Je suis bien arrivé chez moi.\nJe t'appelle demain pour aller voir le film.\nJe t'embrasse.\nCristian.",
+      "question": "Où est Cristian ?",
+      "questionTranslation": "Where is Cristian?",
+      "options": [
+        "À la gare",
+        "À la maison",
+        "Au cinéma",
+        "Au travail"
+      ],
+      "optionTranslations": [
+        "At the train station",
+        "At home",
+        "At the cinema",
+        "At work"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t04-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "LA MAIRIE VOUS INFORME\nPendant les travaux, il est interdit de stationner devant l’entrée du supermarché.\nMerci d’utiliser le parking derrière la poste.",
+      "question": "Où pouvez-vous laisser votre voiture pendant les travaux ?",
+      "questionTranslation": "Where can you leave your car during the works?",
+      "options": [
+        "Devant la mairie",
+        "Près de l’entrée du supermarché",
+        "Derrière le bâtiment de la poste",
+        "En face du parc"
+      ],
+      "optionTranslations": [
+        "In front of the town hall",
+        "Near the supermarket entrance",
+        "Behind the post office building",
+        "Opposite the park"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t04-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "À bord du Tip Top, le plus grand bateau du bassin d’Arcachon, laissez-vous guider pour 2 h 30 de promenade au gré des vents et des courants marins.\nDépart de la jetée Thiers tous les jours en juillet et août, en fonction des horaires de la marée.\nRenseignez-vous la veille. Prix 25 euros par personne. 28 passagers maximum",
+      "question": "par croisière. Que propose ce document ?",
+      "questionTranslation": "What does this document offer?",
+      "options": [
+        "La visite d’un bateau",
+        "Une promenade en mer",
+        "Une promenade en ville",
+        "La visite de la part Arcachon"
+      ],
+      "optionTranslations": [
+        "A tour of a boat",
+        "A sea trip",
+        "A city walk",
+        "A visit to the Arcachon area"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t04-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Le centre de Branféré a ouvert ses portes au printemps dernier dans un parc de Bretagne.\nDes classes du primaire y sont invitées. Les élèves y apprennent, pendant quelques jours, à connaître et respecter la nature.",
+      "question": "Qu’apprend-on sur le centre de Branféré ?",
+      "questionTranslation": "What do we learn about the Branféré center?",
+      "options": [
+        "Il accueille les élèves et leurs parents",
+        "Il est ouvert seulement au printemps",
+        "Il est réservé aux écoles de Bretagne",
+        "Il informe les enfants sur la nature"
+      ],
+      "optionTranslations": [
+        "It welcomes students and their parents",
+        "It is open only in the spring",
+        "It is reserved for schools in Brittany",
+        "It informs children about nature"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t04-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Cher Monsieur Damier,\nNous avons le plaisir de vous annoncer que vous êtes l’heureux gagnant de notre grand jeu de l’été.\nVous pouvez dès maintenant venir chercher votre prix dans votre magasin préféré où nos soldes d’automne ont déjà commencé !\nBien cordialement",
+      "question": "Que va recevoir Monsieur Damier ?",
+      "questionTranslation": "What will Mr. Damier receive?",
+      "options": [
+        "Un cadeau",
+        "Une publicité",
+        "Une visite",
+        "Une lettre"
+      ],
+      "optionTranslations": [
+        "A gift",
+        "An advertisement",
+        "A visit",
+        "A letter"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t04-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "GRAND JEU JARDIMARCHÉ\nVous pensez avoir le plus beau jardin ? Envoyez une photo à grandjeu@jardimarche.com.\nTrois gagnants recevront un chèque de 500 euros valable dans tous nos",
+      "question": "magasins. Que propose Jardimarché ?",
+      "questionTranslation": "What does Jardimarché offer?",
+      "options": [
+        "D’acheter des plantes à bon prix.",
+        "De faire des courses en ligne.",
+        "De participer à un concours.",
+        "De recevoir des outils gratuits."
+      ],
+      "optionTranslations": [
+        "To buy plants at a good price.",
+        "To do shopping online.",
+        "To participate in a contest.",
+        "To receive free tools."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t04-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Bonjour Ahmed,\nCe message pour te rappeler la réunion de lundi.\nNous commanderons des paniers-repas pour le midi car la séance peut durer longtemps, les dossiers à traiter sont nombreux.\nPeux-tu en informer les personnes des services concernés ?\nMerci d’avance. À lundi.\nPierre",
+      "question": "Que demande Pierre à Ahmed ?",
+      "questionTranslation": "What does Pierre ask Ahmed?",
+      "options": [
+        "D’apporter le déjeuner",
+        "D’avancer le rendez-vous",
+        "De consulter les documents",
+        "De prévenir ses collègues"
+      ],
+      "optionTranslations": [
+        "To bring lunch",
+        "To move the appointment earlier",
+        "To consult the documents",
+        "To notify his colleagues"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t04-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Chers parents,\nJe profite d’une étape en ville pour vous envoyer un courriel.\nLa randonnée se passe bien, nous marchons beaucoup avec les moniteurs.\nC’est fatigant, mais la région est magnifique.\nBisous, à bientôt.\nKarim",
+      "question": "Pourquoi est-ce que Karim écrit à ses parents ?",
+      "questionTranslation": "Why is Karim writing to his parents?",
+      "options": [
+        "Pour annoncer son retour",
+        "Pour parler de son travail",
+        "Pour prendre des nouvelles",
+        "Pour raconter ses vacances"
+      ],
+      "optionTranslations": [
+        "To announce his return",
+        "To talk about his work",
+        "To ask for news",
+        "To tell about his vacation"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t04-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Vous avez entre 16 et 25 ans et vous souhaitez travailler rapidement ?\nVenez rencontrer des chefs d’entreprise et connaître les formations existantes au salon de l’entreprise, du 3 au 9 avril prochain.",
+      "question": "Qu’est-ce qu’on peut faire dans ce salon ?",
+      "questionTranslation": "What can one do at this fair?",
+      "options": [
+        "Participer à un stage de plusieurs jours",
+        "S’informer sur le monde professionnel",
+        "S’inscrire à un cours réservé aux jeunes",
+        "Trouver de l’aide pour écrire un CV"
+      ],
+      "optionTranslations": [
+        "Participate in a multi-day internship",
+        "Get information about the professional world",
+        "Register for a course reserved for young people",
+        "Find help writing a CV"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t04-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Un récent sondage a révélé que le tourisme intercontinental des Européens commence à s’essouffler.\nDésormais, on connaît bien nos voisins, on veut donc voir autre chose.\nLes touristes n’ont pas l’impression de changer d’air s’ils ne quittent pas l’Union.\nOn assiste à un développement du tourisme de longue distance, par exemple vers L’Afrique du Sud.",
+      "question": "Selon les dernières études, les Européens…",
+      "questionTranslation": "According to the latest studies, Europeans...",
+      "options": [
+        "Voyagent plutôt dans l’Union Européenne",
+        "Visitent de préférence leurs pays d’origine",
+        "Découvrent les pays e leurs voisins",
+        "S’aventurent dans les pays lointains"
+      ],
+      "optionTranslations": [
+        "Travel rather within the European Union",
+        "Preferably visit their countries of origin",
+        "Discover their neighbors' countries",
+        "Venture into distant countries"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t04-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Ne dites plus dépendance, dites autonomie.\nLes mots changent, le problème demeure.\nCe problème est celui d’une population qui vit de plus en plus longtemps, grâce aux progrès de la médecine, mais dont les dernières années nécessitent très souvent une assistance à domicile ou un hébergement en maison de retraite",
+      "question": "médicalisée. Selon ce texte, quelle difficulté rencontrent les personnes âgées ?",
+      "questionTranslation": "According to this text, what difficulty do elderly people encounter?",
+      "options": [
+        "Elles ont besoin d’accompagnante",
+        "Elles ont peur de quitter leur logement",
+        "Elles souffrent de grande solitude",
+        "Elles suivent des traitements couteux"
+      ],
+      "optionTranslations": [
+        "They need accompaniment/support",
+        "They are afraid to leave their housing",
+        "They suffer from great loneliness",
+        "They follow expensive treatments"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t04-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Les vacanciers français ont trouvé cet été le bonheur chez eux, avec une nette préférence pour les côtes ensoleillées.\nTandis que les étrangers européens ou non, qui n’avaient pas choisi la France l’an dernier, sont revenus.\nGlobalement, la fréquentation touristique a légèrement progressé, selon des données statistiques recueillies.\nLa montagne a connu une belle saison aussi avec des taux de réservation dans les résidences de tourisme en hausse de 9% en Savoie et Haute-Savoie, dans les",
+      "question": "Alpes. Où les Français ont-ils préféré passer leurs vacances d’été ?",
+      "questionTranslation": "Where did the French prefer to spend their summer holidays?",
+      "options": [
+        "À l’étranger",
+        "Dans les Alpes",
+        "En Europe",
+        "En France"
+      ],
+      "optionTranslations": [
+        "Abroad",
+        "In the Alps",
+        "In Europe",
+        "In France"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t04-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "COMMENT APPRENDRE UNE LANGUE ÉTRANGÈRE\nExiste-t-il un âge critique au-delà duquel on ne peut plus jamais atteindre le niveau d’un locuteur natif ?\nCe sujet fait l’objet de nombreux débats.\nPlus on est jeune, plus on a d’appétit pour découvrir le monde.\nL’apprentissage d’une langue, quelle qu’elle soit, est donc plus simple.\nMais il y a également une composante sociale.\nOn se comporte avec l’enfant d’une manière bien particulière, que l’on ne peut reproduire avec un adolescent ou un adulte.",
+      "question": "D’après cet extrait, qu’est-ce qui favorise chez les enfants l’apprentissage d’une langue étrangère ?",
+      "questionTranslation": "According to this extract, what favors foreign language learning in children?",
+      "options": [
+        "Leur curiosité",
+        "Leur imagination",
+        "Leur mémoire",
+        "Leur obéissance"
+      ],
+      "optionTranslations": [
+        "Their curiosity",
+        "Their imagination",
+        "Their memory",
+        "Their obedience"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t04-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Une collégienne de 13 ans a remporté un prix grâce à son idée d’entreprise.\nSoucieuse de l’environnement, la jeune fille a imaginé un service qui encourage la récupération de bouteilles en plastique.\nSon concept est simple : le consommateur échange des bouteilles en plastique vides contre un objet recyclé.\nPar exemple, avec une bouteille en plastique, il peut commander un stylo, avec 47 bouteilles, il peut avoir un t-shirt et pour 65 bouteilles, il a la possibilité d’acheter une couverture.",
+      "question": "Que propose la jeune fille pour les bouteilles en plastique vides ?",
+      "questionTranslation": "What does the girl propose for the empty plastic bottles?",
+      "options": [
+        "De les produire de façon écologique",
+        "De les revendre à un prix réduit",
+        "De les transformer en vêtement",
+        "De les utiliser comme monnaie"
+      ],
+      "optionTranslations": [
+        "To produce them in an eco-friendly way",
+        "To resell them at a reduced price",
+        "To transform them into clothing",
+        "To use them as currency"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t04-q17",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Job d’été, la première expérience\nQuand une entreprise fait appel pour la première fois à un jeune, elle n’a pas d’attente vis-à-vis de ses compétences professionnelles, c’est donc sur son comportement que vont se porter ses critères d’évaluation.\nMême saisonnier, il faut montrer qu’on a vraiment envie de décrocher un job.\nLes jeunes sans expérience ont tout intérêt à parler de leur passion et à démontrer leur motivation.\nPour un employeur, c’est ce qui reste souvent le critère le plus important.",
+      "question": "Selon l’article, que faut-il faire pour trouver un job d’été ?",
+      "questionTranslation": "According to the article, what must one do to find a summer job?",
+      "options": [
+        "Exposer l’ensemble de ses qualités professionnelles",
+        "Faire la preuve de son désir de travailler",
+        "Parler avec enthousiasme de ses projets de formation",
+        "Parler des emplois qu’on a déjà occupés"
+      ],
+      "optionTranslations": [
+        "Display all of one's professional qualities",
+        "Prove one's desire to work",
+        "Speak enthusiastically about one's training plans",
+        "Talk about jobs one has already held"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t04-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "MATCH SÈTE - TOURS\nMercredi 12 novembre\n- Achat des billets aux points de vente habituels : 15 €.\n- Réduction pour les étudiants et les détenteurs de la carte « Famille nombreuse ».\n- Vente aux guichets du stade, le soir même : 20 €.",
+      "question": "À quelle condition l’acheteur a-t-il un meilleur prix ?",
+      "questionTranslation": "On what condition does the buyer get a better price?",
+      "options": [
+        "En achetant les billets en avance",
+        "En choisissant des places pour quatre matchs",
+        "En prenant des billets pour un groupe",
+        "En présentant une carte de club de sport"
+      ],
+      "optionTranslations": [
+        "By buying tickets in advance",
+        "By choosing seats for four matches",
+        "By taking tickets for a group",
+        "By presenting a sports club card"
+      ],
+      "correctIndex": 0,
+      "answerDisputed": true
+    },
+    {
+      "id": "t04-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "LA NÉO-RURALITÉ EST DEVENUE UN PHÉNOMÈNE DE SOCIÉTÉ.\nCette dénomination date des années 70.\nC’est le retour à la terre alors que la désertification des campagnes se poursuit.\nUn mouvement de population inverse s’opère.\nIl concerne des personnes jeunes, sans enfant, portant les valeurs contestataires de mai 68.\nIssues de toutes les classes sociales, elles ne recherchent pas spécialement le confort.\nElles veulent avant tout vivre une expérience, ce qui les différencie de la population locale et ne facilite pas leur intégration.",
+      "question": "Que veulent les néo-ruraux ?",
+      "questionTranslation": "What do the neo-rurals want?",
+      "options": [
+        "Accéder à la propriété privée",
+        "Avoir un mode de vie économique",
+        "Participer à la vie associative",
+        "Tenter une nouvelle aventure"
+      ],
+      "optionTranslations": [
+        "Access private property",
+        "Have an economic lifestyle",
+        "Participate in community life",
+        "Try a new adventure"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t04-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Elle a 27 ans et a trouvé sa vocation : restauratrice de meubles.\nStéphanie reçoit, à ce titre, le prix du jeune artisan d’art :\n« La dotation va me permettre d’ouvrir mon atelier.\nJ’ai déjà trouvé le lieu, dans un village entre Narbonne et Carcassonne. »\nSon compagnon y a créé une menuiserie.\nStéphanie a déjà touché à tout, au fil de sa formation, dont un BTS en alternance, obtenu dans son Auvergne natale.\nNos vœux de réussite !",
+      "question": "Quel projet cette personne veut-elle réaliser ?",
+      "questionTranslation": "What project does this person want to realize?",
+      "options": [
+        "Démarrer une activité professionnelle",
+        "Présenter son travail à un concours",
+        "S’associer à un groupement d’artisans",
+        "Suivre une formation complémentaire"
+      ],
+      "optionTranslations": [
+        "Start a professional activity",
+        "Present her work at a competition",
+        "Join a group of artisans",
+        "Take additional training"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t04-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le rire pour soulager les enfants à l’hôpital\nLes « docteurs rêves » apportent joie et mieux-être aux enfants hospitalisés.\nPour que le petit malade puisse oublier un peu ses souffrances et retrouver le sourire, de gentils « docteurs » viennent à sa rencontre.\nIls visitent les jeunes enfants, vêtus d’une blouse blanche, stéthoscope autour du cou, comme de vrais médecins.\nOn les appelle les « docteurs rêves ».\nC’est en artistes professionnels spécialement formés qu’ils interviennent dans les hôpitaux pédiatriques tout en travaillant en synergie avec l’équipe médicale.\nLes enfants s’échappent un instant, grâce à eux, du monde hospitalier.",
+      "question": "Quelle est la fonction des « docteurs rêves » ?",
+      "questionTranslation": "What is the function of the 'dream doctors'?",
+      "options": [
+        "Mettre en place une lettre thérapie",
+        "Remplacer les anciens médecins",
+        "Faire rêver les petits patients",
+        "Guérir les enfants par le rêve"
+      ],
+      "optionTranslations": [
+        "Set up a letter therapy",
+        "Replace the old doctors",
+        "Make the little patients dream",
+        "Cure children through dreams"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t04-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Avant de pouvoir entrer, il faut jurer par écrit que l’on s’engage à participer à la lutte contre le réchauffement de la planète.\nBar Surya est devenue la première boîte de nuit écologique.\nSituée à Londres, elle ne propose que des boissons biologiques et offre une entrée gratuite aux clients qui peuvent prouver qu’ils sont venus à pied, à vélo, en bus ou en métro.\nEn outre, un système d’énergie recyclable utilise les mouvements des pieds des danseurs pour fournir une partie de l’électricité.\nL’objectif affiché est de sensibiliser les jeunes au développement durable.\nUne bonne idée marketing qui devrait inspirer d’autres initiatives du même type…",
+      "question": "Quelle est l’originalité de la discothèque dont il est question ?",
+      "questionTranslation": "What is the unique feature of the nightclub in question?",
+      "options": [
+        "Elle s’adresse exclusivement à une clientèle soucieuse des questions d’environnement.",
+        "Elle travaille à la réduction des accidents de la route due à l’alcool.",
+        "Le coût du billet d’entrée varie en fonction de l’énergie produite par les danseurs",
+        "Les jeunes doivent consommer sur place les produits du commerce équitable."
+      ],
+      "optionTranslations": [
+        "It caters exclusively to a clientele concerned with environmental issues.",
+        "It works on reducing road accidents due to alcohol.",
+        "The cost of the entrance ticket varies according to the energy produced by the dancers.",
+        "Young people must consume fair trade products on the premises."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t04-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La ville chinoise de Chongqing vient d’inaugurer des voies réservées aux « accros » du portable sur les trottoirs.\nLes piétons sont en effet nombreux à ne prêter aucune attention à leur entourage, au risque de provoquer des accidents.\nUn parcours délimité par des lignes blanches peintes au sol invite ceux qui ne quittent pas des yeux leur écran à les emprunter.\nL’idée de ce marquage n’est pas d’encourager l’usage des portables, mais d’inciter chacun à réfléchir à la place qu’il leur donne dans son quotidien et à faire attention aux autres.",
+      "question": "Quel est l’objectif de cette initiative concernant les portables ?",
+      "questionTranslation": "What is the objective of this initiative regarding mobile phones?",
+      "options": [
+        "Faciliter leur utilisation dans l’ensemble de la commune",
+        "Faire prendre conscience des excès lies à leur usage",
+        "Instaurer de nouvelles règles de priorité de circulation",
+        "Multiplier les espaces publicitaires le long des avenues"
+      ],
+      "optionTranslations": [
+        "Facilitate their use throughout the municipality",
+        "Raise awareness about the excesses linked to their use",
+        "Establish new traffic priority rules",
+        "Multiply advertising spaces along the avenues"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t04-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Fixer des limites strictes à la pêche, c’est l’action que va mener l’Australie afin de protéger la vie aquatique.\n« Il est temps que la planète franchisse une nouvelle étape dans la protection des océans », a déclaré le ministre australien de l’environnement.\nLa création d’un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui recevra 79,2 millions d’euros en contrepartie.\nLa fondation australienne pour la protection de l’environnement a qualifié cette annonce « historique », mais elle a souligné que plusieurs zones restaient menacées par l’exploitation humaine des ressources naturelles.",
+      "question": "Que projette le gouvernement australien ?",
+      "questionTranslation": "What does the Australian government plan?",
+      "options": [
+        "D’aménager des réserves restreignant la pêche",
+        "D’encourager une politique mondiale de la pêche",
+        "D’organiser des contrôles pour surveiller la pêche",
+        "De créer des taxes sur les produits de la pêche"
+      ],
+      "optionTranslations": [
+        "To set up reserves restricting fishing",
+        "To encourage a global fishing policy",
+        "To organize checks to monitor fishing",
+        "To create taxes on fishery products"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t04-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "L’éducation nationale française vient d’inscrire aux programmes scolaires une initiation à la programmation informatique, appelée « code ».\nLe but n’est pas de faire de tous les enfants des informaticiens, mais il est clair que se limiter à être uniquement un utilisateur passif constituera, par la suite, un handicap professionnel.\nLe chantier est immense, car il faut introduire cette nouvelle matière sans compter sur suffisamment de professeurs formés pour cela.\nEn effet, la vitesse à laquelle les technologies numériques ont changé a été bien supérieure à celle de l’évolution de la formation des équipes pédagogiques.",
+      "question": "Qu’apprend-on sur l’enseignement du code à l’école ?",
+      "questionTranslation": "What do we learn about teaching coding in school?",
+      "options": [
+        "Les enfants ont des difficultés de concentration dans ce domaine",
+        "Les équipements informatiques des écoles sont devenus obsolètes",
+        "Les établissements doivent se doter d’une connexion illimitée",
+        "Les professeurs avec les compétences nécessaires sont rares"
+      ],
+      "optionTranslations": [
+        "Children have concentration difficulties in this area",
+        "Computer equipment in schools has become obsolete",
+        "Establishments must equip themselves with an unlimited connection",
+        "Teachers with the necessary skills are rare"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t04-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Futur manager, soyez gentil !\nDepuis les scandales des traders, les grandes écoles ont été mises au banc des accusés :\nCe qu’elles transmettaient se limitait à du savoir technique directement exploitable par les entreprises.\nMyopie sociale et absence d’esprit critique menaçaient les futurs managers du monde économique.\nL’éthique est maintenant à la mode dans toutes les grandes écoles de management.\nIl n’y est question que de « social business » ou de « développement durable ».\nÀ côté des activités associatives traditionnelles, les actions humanitaires ont fleuri et de plus en plus d’étudiants s’y investissent chaque année.\nDésormais, un étudiant doit avoir fait du soutien scolaire en banlieue ou monté du microcrédit en Afrique.",
+      "question": "D’après ce texte, quelle est la nouvelle orientation des grandes écoles ?",
+      "questionTranslation": "According to this text, what is the new orientation of the elite schools?",
+      "options": [
+        "Créer des partenaires avec le milieu associatif",
+        "Former des jeunes défavorisés au management",
+        "Intégrer des valeurs sociales et environnementales",
+        "Préparer des techniciens aux dangers de la finance"
+      ],
+      "optionTranslations": [
+        "Creating partners with the voluntary/non-profit sector",
+        "Training disadvantaged youth in management",
+        "Integrating social and environmental values",
+        "Preparing technicians for the dangers of finance"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t04-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "D’abord surpris par la naïveté du film, puis sceptique face aux clichés habituels et gentillets de ce genre de longs métrages potaches, on se laisse progressivement porter par la réalisation décalée du cinéaste et par l’interprétation savoureuse de la distribution.\nS’il manque parfois de rythme et s’il a un peu vieilli, ce film n’en demeure pas moins réussi dans sa capacité à savoir capter l’esprit bohème et bon enfant des échanges Erasmus.\nAprès, ça n’est bien sûr pas le chef-d’œuvre de l’année, mais il est tellement rare aujourd’hui de voir un film français proposer quelque chose d’assez original et drôle sans se départir d’une certaine simplicité et d’une réelle justesse.\nQu’on ne peut que saluer le travail du réalisateur et de sa sympathique équipe.",
+      "question": "Quelle critique négative ce spectateur émet-il sur ce film ?",
+      "questionTranslation": "What negative criticism does this viewer make about this film?",
+      "options": [
+        "La réalisation de l’œuvre manque de maitrise",
+        "Le film tombe dans les stéréotypes du genre",
+        "Le jeu des comédiens lui semble plutôt médiocre",
+        "Le scénario du film est maladroitement construit"
+      ],
+      "optionTranslations": [
+        "The direction of the work lacks mastery",
+        "The film falls into the stereotypes of the genre",
+        "The acting seems rather mediocre to him",
+        "The film's script is clumsily constructed"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t04-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la « société civile » n’aura de cesse de vouloir assujettir l’école à ses demandes particulières.\nIl faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison.\nCar l’enfant n’y est plus seulement un enfant, il y est un élève.\nÀ l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant.\nOn s’adresse à l’intelligence de l’élève.\nLe rapport maître/élève n’est d’ailleurs pas un rapport affectif :\non ne demande pas à un professeur d’être sympathique.\nOn lui demande d’être exigeant et juste.",
+      "question": "Quelle est l’opinion de l’auteur ?",
+      "questionTranslation": "What is the author's opinion?",
+      "options": [
+        "L’ambiance de l’école doit être calquée sur le modèle familial",
+        "L’autorité du professeur doit être compensée par sa gentillesse",
+        "L’épanouissement de l’enfant doit primer sur sa réussite",
+        "L’impartialité doit être l’une des qualités principales d’un maitre"
+      ],
+      "optionTranslations": [
+        "The atmosphere of the school must be modeled on the family model",
+        "The authority of the teacher must be compensated by his kindness",
+        "The fulfillment of the child must take precedence over his success",
+        "Impartiality must be one of the main qualities of a master"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t04-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "« Pendant des millénaires, les chercheurs du monde entier ont jalousement gardé leurs données. Essentiellement parce qu’ils pensaient que le contrôle de l’information donnait le pouvoir », déclare le conservateur en paléontologie au musée d’Histoire naturelle de Londres.\nLes mentalités ont changé depuis quelques années, à partir du moment où les savants ont pris conscience des bénéfices du travail collaboratif et du partage de l’information.\nCependant, vouloir échanger entre chercheurs et parvenir à le faire correctement sont deux choses très différentes.\nC’est ce que constatent les invités d’une conférence internationale sur la biodiversité qui se tient dans la capitale britannique.",
+      "question": "Que souhaitent actuellement les chercheurs ?",
+      "questionTranslation": "What do researchers currently wish for?",
+      "options": [
+        "Mettre en commun les données",
+        "Multiplier les colloques internationaux",
+        "Protéger les résultats de leurs études",
+        "Vulgariser l’information scientifique"
+      ],
+      "optionTranslations": [
+        "Pool/Share data",
+        "Increase international symposiums",
+        "Protect the results of their studies",
+        "Popularize scientific information"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t04-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Trouver un logement dans une ville étudiante est un parcours du combattant pour un grand nombre d’inscrits dans l’enseignement supérieur.\nLa barrière est parfois infranchissable.\nNon seulement les loyers sont élevés, mais la sélection des candidats par les propriétaires est très dure, souvent basée sur le niveau de revenus des garants.\nPour lever ce frein, la caution locative étudiante (CLE) vient d’être généralisée à l’ensemble du territoire national après avoir été expérimentée dans quatre régions pendant un an.\nAvec ce dispositif, c’est l’État qui se porte garant du versement des loyers des étudiants en cas de non-paiement.",
+      "question": "Quel est le principal obstacle à l’accès au logement des étudiants selon cette analyse ?",
+      "questionTranslation": "What is the main obstacle to student housing access according to this analysis?",
+      "options": [
+        "La méfiance des propriétaires",
+        "La rareté des offres de ce logement",
+        "L’absence d’engagement de l’État",
+        "Le montant de la caution exigée"
+      ],
+      "optionTranslations": [
+        "The mistrust of landlords",
+        "The scarcity of housing offers",
+        "The absence of State commitment",
+        "The amount of the security deposit required"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t04-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "L’opération « Voile à l’école » permet chaque année à des centaines d’enfants d’apprendre à faire du bateau pendant l’école.\nAu départ, la voile fait peur.\nPour rassurer les élèves débutants, les leçons sont très progressives.\nLes enseignants reçoivent des cahiers avec des explications et des informations techniques.\nIls peuvent ainsi développer en classe un programme de prévention pour identifier et éviter les dangers.",
+      "question": "Quel est le but de l’opération « Voile à l’école » ?",
+      "questionTranslation": "What is the goal of the 'Sailing at School' operation?",
+      "options": [
+        "Expérimenter une nouvelle technologie par le sport",
+        "Former les maitres à la pratique du sport sur l’eau",
+        "Permettre aux jeunes de découvrir un sport difficile",
+        "Réduire les risques en éducation physique et sportive"
+      ],
+      "optionTranslations": [
+        "Experiment with a new technology through sport",
+        "Train teachers in the practice of water sports",
+        "Allow young people to discover a difficult sport",
+        "Reduce risks in physical education and sports"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t04-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Christian Hacker, dessinateur né en 1967 à Strasbourg, est devenu « Butch » très tôt, et pas seulement parce que dans la cour de récréation il était le portrait craché du caporal du même nom, l’un des héros de la célèbre bande dessinée « Les Tuniques Bleues »...\nC’est aussi grâce au dessin que « le petit Christian » se protégeait.\n« Je me coupais du monde, ça m’arrangeait bien, car je fuyais le sport.\nJ’avais la terreur de devenir un souffre-douleur.\nLe dessin m’a donné une stature au sein de la classe et m’a aidé à survivre. »\nDoué, il puisait dans ses lectures d’enfant de quoi développer son don :\n« J’étais tellement emballé par les BD que je lisais que j’essayais de perpétuer le plaisir en reproduisant les ambiances de Tartine, Picsou ou Lucky Luke. »",
+      "question": "Comment s’explique l’engouement de Christian Hincker pour le dessin ?",
+      "questionTranslation": "How is Christian Hincker's enthusiasm for drawing explained?",
+      "options": [
+        "Il dessinait sans relâche",
+        "Il se réfugiait dans le dessin pour échapper à ses camarades",
+        "Il vendait ses dessins pour se faire de l’argent de poche",
+        "Il voulait ressembler à un personnage de bande dessinée"
+      ],
+      "optionTranslations": [
+        "He drew tirelessly",
+        "He took refuge in drawing to escape his classmates",
+        "He sold his drawings to make pocket money",
+        "He wanted to resemble a comic book character"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t04-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "C’est un joli coup de peinture… avant fermeture.\nLe vieil hôpital psychiatrique du Mans, construit en 1828 et classé aux Monuments historiques depuis 2004, a vu l’arrivée de drôles de troupes.\nPromis à la destruction et à la rénovation, le bâtiment a été investi par des artistes.\nL’occasion était belle pour le collectif associatif « Espace provisoire » d’envahir les salles et de leur redonner une seconde vie.\nPlus de 1 000 m² ont été occupés par une soixantaine d’artistes musiciens, sculpteurs, photographes…\nTous prêts à accueillir des visiteurs, des curieux.\nL’objectif, non avoué, est de prouver que la culture est à sa place partout.",
+      "question": "Que cherche à faire le collectif « Espace provisoire » ?",
+      "questionTranslation": "What is the collective 'Espace provisoire' trying to do?",
+      "options": [
+        "Convertir les lieux en maison de culture",
+        "Diffuser l’art dans des endroits inattendus",
+        "Ouvrir un centre de formation artistique",
+        "Rénover les anciens locaux en les décorant"
+      ],
+      "optionTranslations": [
+        "Convert the premises into a culture house",
+        "Diffuse art in unexpected places",
+        "Open an artistic training center",
+        "Renovate the old premises by decorating them"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t04-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "« Le Fait du Roi »\nC’est l’histoire d’un homme qui prend l’identité d’un autre, mort, en se glissant dans sa peau, dans sa vie, dans sa maison…\nRien ne sert de raconter l’intrigue de ce roman tant elle est simple et sans surprise.\nL’écriture de l’auteur reste cependant toujours aussi piquante et agréable à lire.\nLe héros principal, quant à lui, est dépeint avec une certaine profondeur.",
+      "question": "Sur quel point porte la critique négative faite à ce livre ?",
+      "questionTranslation": "On which point is the negative criticism made about this book based?",
+      "options": [
+        "La description du personnage",
+        "La longueur de texte",
+        "La qualité de l’écriture",
+        "Le déroulement des évènements"
+      ],
+      "optionTranslations": [
+        "The description of the character",
+        "The length of the text",
+        "The quality of the writing",
+        "The course of events"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t04-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "L’ambition de cet auteur\nChanger l’art d’écrire, rien de moins.\nMais cela est dit sans emphase, d’un ton dubitatif, fataliste presque :\n« Changer l’art d’écrire, chaque écrivain le fait à sa façon.\nJe voudrais le faire de façon absolue, radicale, en abolissant totalement les histoires, l’intrigue, bien qu’il y ait toujours, en fait, des sortes de micro- narrations dans mes livres.\nJ’ai l’idée qu’il est encore trop tôt pour savoir ce que j’ai apporté ou pas.\nCela dit, lorsque vous écrivez, vous êtes tellement occupé à essayer de résoudre les problèmes techniques qui se posent à chaque instant que vous n’avez pas le temps d’avoir beaucoup d’idées générales. »",
+      "question": "De quelle manière cet auteur veut-il réaliser son ambition ?",
+      "questionTranslation": "In what way does this author want to realize his ambition?",
+      "options": [
+        "En abandonnant les codes traditionnels du roman",
+        "En cherchant des sources d’inscription méditée",
+        "En proposant de nouveaux concepts universels",
+        "En se jouant des difficultés liées à l’écriture"
+      ],
+      "optionTranslations": [
+        "By abandoning the traditional codes of the novel",
+        "By seeking sources of meditated inscription",
+        "By proposing new universal concepts",
+        "By playing with the difficulties linked to writing"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t04-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l’indicible.\nLe modèle est celui que Kafka rédigea à l’intention de son père, et qu’il préféra ranger dans un tiroir tant l’accusation portée était peu amène.\nAvec L’autre fille, missive adressée à sa sœur aînée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique.\nRejetant le terme d’autofiction, l’écrivain se dit fascinée par la réalité, partant à la recherche d’une vérité sur une mort que ses parents lui ont toujours cachée.\nEn demandant à des auteurs de se libérer d’un vieux tourment, la collection souhaite réhabiliter un genre littéraire oublié.",
+      "question": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux ?",
+      "questionTranslation": "To what result does participating in this collection lead Annie Ernaux?",
+      "options": [
+        "À s’acquitter d’un engagement moral",
+        "À s’affranchir d’une histoire ancienne",
+        "À se justifier d’une action peu culpabilité",
+        "À se justifier d’une action peu glorieuse"
+      ],
+      "optionTranslations": [
+        "To fulfill a moral commitment",
+        "To free herself from an ancient history",
+        "To justify an action involving little guilt",
+        "To justify an inglorious action"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t04-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Une scolarisation précoce permet une meilleure adaptation à l’univers scolaire et peut donc être le gage d’une réussite scolaire ultérieure.\n« La scolarisation avant 3 ans, écrit Agnès Florin (professeur de psychologie), trouve des justifications dans les résultats de plusieurs recherches, au moins pour les enfants des milieux défavorisés et sur certains aspects de leur développement cognitif et langagier.\nPar ailleurs, l’entrée précoce à l’école permet d’éviter l’apparition de troubles ou de perturbations et joue donc un rôle préventif.\nOn trouve en effet de nombreux exemples de jeunes enfants dont on a pu détecter certains problèmes psychologiques ou physiologiques grâce à leur",
+      "question": "entrée à l’école. » Selon l’auteur, que permet la scolarité précoce des enfants ?",
+      "questionTranslation": "According to the author, what does early schooling of children allow?",
+      "options": [
+        "Développer leurs capacités de socialisation",
+        "Diagnostiquer d’éventuels déséquilibres",
+        "Faciliter l’apprentissage d’une seconde langue",
+        "Lutter contre les inégalités sociales"
+      ],
+      "optionTranslations": [
+        "Developing their socialization skills",
+        "Diagnosing potential imbalances",
+        "Facilitating the learning of a second language",
+        "Fighting against social inequalities"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t04-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "PRIX BAS TOUTE L’ANNÉE\nDes voyages aux loisirs en passant par les voitures, plus question de rater la bonne affaire.\nVoilà pourquoi les fins de série, les promotions, les soldes ne se sont jamais aussi bien portés.\nOn achète surtout des vêtements, jusqu’à 14 articles pour un montant moyen de 186 euros, même si on doit dépenser moins le reste de l’année.\nLe gouvernement l’a bien compris : il vient d’octroyer deux semaines supplémentaires de soldes, à la convenance des commerçants, en dehors des mois de juillet et janvier, afin de redonner un peu de tonus aux ventes.",
+      "question": "Quel est le thème de cet article ?",
+      "questionTranslation": "What is the theme of this article?",
+      "options": [
+        "La baisse des achats en boutique",
+        "Le développement du commerce en ligne",
+        "Les stratégies des consommateurs",
+        "Un nouveau concept de magasin"
+      ],
+      "optionTranslations": [
+        "The decrease in store purchases",
+        "The development of online commerce",
+        "Consumer strategies",
+        "A new store concept"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t04-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Le trois-mâts d’exploration La Boudeuse va reprendre le large pour une nouvelle mission à caractère scientifique.\nLe voilier va mettre le cap en septembre prochain sur l’Amérique du Sud et ses grands fleuves.\nIl se consacrera « aux études scientifiques et humaines concernant la biosphère, le réchauffement climatique et le développement durable », selon la « lettre de mission » adressée à son commandant, signée du ministre d’État aux Transports et à l’Écologie.\nCette « lettre de mission » de la République assigne à l’équipage un audacieux programme concernant la protection de l’environnement.",
+      "question": "Selon l’article, que va faire l’équipage du voilier La Boudeuse ?",
+      "questionTranslation": "According to the article, what will the crew of the sailboat La Boudeuse do?",
+      "options": [
+        "Former des scientifiques à la prévention des risques écologiques.",
+        "Innover dans les moyens de lutter contre les pollutions fluviales.",
+        "Observer l’écosystème dans une région de grands fleuves.",
+        "Représerver le gouvernement français lors d’une rencontre."
+      ],
+      "optionTranslations": [
+        "Train scientists in the prevention of ecological risks.",
+        "Innovate in ways to fight river pollution.",
+        "Observe the ecosystem in a region of great rivers.",
+        "Represent the French government during a meeting. Retry test All tests"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

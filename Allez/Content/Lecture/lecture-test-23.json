@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-23",
+  "title": "Test 23",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t23-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Heures d’ouverture du service consulaire :\nLe service consulaire est ouvert au public les lundis, mercredis et jeudis de 8 h à 14 h et les mardis et vendredis de 14 h 30 à 18 h.",
+      "question": "Quand le service est-il fermé au public ?",
+      "questionTranslation": "When is the service closed to the public?",
+      "options": [
+        "Le lundi matin",
+        "Le mardi matin",
+        "Le mercredi matin",
+        "Le jeudi matin"
+      ],
+      "optionTranslations": [
+        "Monday morning",
+        "Tuesday morning",
+        "Wednesday morning",
+        "Thursday morning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t23-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Urgent ! Cherche maison à louer pour vacances d’été dans le centre-ville.\nLaetitia : 07 08 09 80 90.",
+      "question": "Qu’est-ce que Laetitia veut faire ?",
+      "questionTranslation": "What does Laetitia want to do?",
+      "options": [
+        "Habiter à la compagne.",
+        "Réserver un hôtel.",
+        "Trouver un logement.",
+        "Vendre un appartement."
+      ],
+      "optionTranslations": [
+        "Live in the countryside.",
+        "Book a hotel.",
+        "Find accommodation.",
+        "Sell an apartment."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "De : Société BALY INFORMATIQUE\nÀ : Monsieur Lefort\nObjet : Printemps des conférences - Lyon\nMonsieur,\nUne voiture de notre société va vous attendre à votre arrivée à l’aéroport (porte F) pour vous conduire au Palais des Congrès.\nCordialement,\nMme Deor.",
+      "question": "Comment est-ce que M. Lefort va aller au Palais des Congrès ?",
+      "questionTranslation": "How will Mr. Lefort go to the Palais des Congrès?",
+      "options": [
+        "Avec Mme Deor.",
+        "Avec un chauffeur.",
+        "En autobus.",
+        "En taxi."
+      ],
+      "optionTranslations": [
+        "With Mrs. Deor.",
+        "With a driver.",
+        "By bus.",
+        "By taxi."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t23-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Prière de ne pas toucher à la photocopieuse.\nLe réparateur arrive demain à la première heure. En attendant, donnez vos documents à ma secrétaire qui les photocopiera au bureau de la comptable.\nMerci,\nLe directeur.",
+      "question": "Qui va faire les photocopies pendant que la photocopieuse est en réparation ?",
+      "questionTranslation": "Who will do the photocopies while the photocopier is being repaired?",
+      "options": [
+        "La comptable.",
+        "La secrétaire.",
+        "Le directeur.",
+        "Le réparateur."
+      ],
+      "optionTranslations": [
+        "The accountant.",
+        "The secretary.",
+        "The director.",
+        "The repairman."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t23-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "FÊTE DE LA MUSIQUE\nÀ PARIS LE 21 JUIN\nBillet unique, 2,5 €, utilisable sans limite du 21 juin à 20 heures au 22 juin à 7 heures.",
+      "question": "Ce billet est utilisable…",
+      "questionTranslation": "This ticket is usable...",
+      "options": [
+        "Une journée.",
+        "Une semaine.",
+        "Une nuit.",
+        "Un mois."
+      ],
+      "optionTranslations": [
+        "One day.",
+        "One week.",
+        "One night.",
+        "One month."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Fred,\nJe ne pourrai pas venir comme prévu, mais cela sera une prochaine fois… J’ai beaucoup de travail en ce moment. Peut-être dans quinze jours ? J’aurai du temps libre !\nÀ bientôt !",
+      "question": "Paul. Qu’apprend-on sur Paul ?",
+      "questionTranslation": "What do we learn about Paul?",
+      "options": [
+        "Il est très occupé.",
+        "Il part en vacances.",
+        "Il travaille avec Fred.",
+        "Il veut venir plus tôt."
+      ],
+      "optionTranslations": [
+        "He is very busy.",
+        "He is going on vacation.",
+        "He works with Fred.",
+        "He wants to come sooner."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t23-q07",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Je suis dans le métro J’arrive dans 20 minutes au bureau.\nCommencez la réunion de travail.\nSans moi. Merci",
+      "question": "Jean Pour qui est ce message de Jean ?",
+      "questionTranslation": "Who is this message from Jean for?",
+      "options": [
+        "Ses amis",
+        "Ses collègues",
+        "Ses enfants",
+        "Ses voisins"
+      ],
+      "optionTranslations": [
+        "His friends",
+        "His colleagues",
+        "His children",
+        "His neighbors"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t23-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "France 2 - soirée\n20h00 : Journal télévisé.\n20h40 : Météo.\n20h55 : Mission estivale. Jeu. Première émission de l’été, avec un coureur automobile, un pilote moto, un animateur de télévision. L’équipe jouera au profit d’une association qui aide au développement des villages fleuris historiques.\n22h35 : Plus d’humour. Ce magazine divertissant rend compte de la création humoristique actuelle, passée et future, dans tous les domaines (cinéma, télévision, publicité, édition, etc.).\n0h40 : Journal de la nuit.",
+      "question": "D’après ce programme de télévision, quand peut-on regarder les informations ?",
+      "questionTranslation": "According to this television program, when can one watch the news?",
+      "options": [
+        "En cours de soirée.",
+        "En début et en fin de soirée.",
+        "Entre chaque émission.",
+        "Quatre fois dans la soirée."
+      ],
+      "optionTranslations": [
+        "In the middle of the evening.",
+        "At the beginning and at the end of the evening.",
+        "Between every show.",
+        "Four times in the evening."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t23-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Rendez-vous samedi pour un repas de quartier devant notre immeuble.\nApportez vos chaises (il y aura des tables sur place).\nÀ boire et un plat salé ou sucré.\nMireille et Pierre (3ème étage à gauche) organisent l’événement et peuvent répondre à vos questions.",
+      "question": "Qu’est-ce qui est organisé ?",
+      "questionTranslation": "What is being organized?",
+      "options": [
+        "Un atelier de cuisine.",
+        "Un déménagement.",
+        "Une fête entre voisins.",
+        "Une visite d’appartement."
+      ],
+      "optionTranslations": [
+        "A cooking workshop.",
+        "A move (moving house).",
+        "A party among neighbors.",
+        "An apartment visit."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Information importante :\nÀ cause de l’augmentation du nombre de vols de téléphones portables, vous ne pouvez plus les utiliser à l’intérieur du lycée.\nMerci de votre compréhension.\nLe directeur de l’établissement.",
+      "question": "Que dit ce texte sur l’utilisation des téléphones portables ?",
+      "questionTranslation": "What does this text say about the use of mobile phones?",
+      "options": [
+        "Elle est autorisée.",
+        "Elle est dangereuse.",
+        "Elle est interdite.",
+        "Elle est limitée."
+      ],
+      "optionTranslations": [
+        "It is authorized.",
+        "It is dangerous.",
+        "It is forbidden.",
+        "It is limited."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Le Centre de Relations Client, c’est un numéro de téléphone pour parler avec des conseillers du lundi au vendredi de 8 h à 22 h, le samedi de 8 h à 18 h, et aussi pour accéder à un serveur vocal 7 jours sur 7 et 24 heures sur 24.",
+      "question": "Que faut-il faire pour joindre un conseiller ?",
+      "questionTranslation": "What must one do to reach an advisor?",
+      "options": [
+        "Consulter le serveur vocal.",
+        "Prendre rendez-vous par téléphone.",
+        "Téléphoner aux horaires indiqués.",
+        "Demander le service de relation avec la clientèle."
+      ],
+      "optionTranslations": [
+        "Consult the vocal server.",
+        "Make an appointment by phone.",
+        "Call at the indicated times.",
+        "Ask for the customer relations service."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Chère Marie,\nJe t’écris rapidement ce mot pour te prévenir que je ne pourrai, hélas, pas être parmi vous pour l’anniversaire de Théo. Je suis vraiment déçu !\nJe pars pour des raisons professionnelles au Japon, à des milliers de kilomètres de toi ! Je serai de retour dans trois semaines et j’espère sincèrement que l’on pourra se voir alors, avec Théo.\nNous pourrions également inviter Fred.\nTu me manques.\nJe t’embrasse,\nPierre.",
+      "question": "Qu’est-ce que Pierre envoie à Marie ?",
+      "questionTranslation": "What is Pierre sending to Marie?",
+      "options": [
+        "Un message d’excuse.",
+        "Une déclaration d’amour.",
+        "Une invitation à une fête.",
+        "Une lettre de vacances."
+      ],
+      "optionTranslations": [
+        "A message of excuse.",
+        "A declaration of love.",
+        "An invitation to a party.",
+        "A holiday letter."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t23-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Message:\nMonsieur le Directeur,\nConformément au devis (en pièce jointe) qui a reçu votre accord, notre équipe interviendra le 20 juin prochain pour effectuer les opérations nécessaires dans l’aile droite du bâtiment principal de votre société.\nLe chantier nécessite l'utilisation de produits à risque et d’un appareillage bruyant. Pour la sécurité et le confort de votre personnel, il serait préférable que les services du bâtiment concerné soient suspendus la journée du 20.\nMerci par avance de me faire part de votre avis sur ce point.\nCordialement,\nJacques Legendre\nChef du service d'entretien",
+      "question": "Que demande Jacques Legendreau directeur ?",
+      "questionTranslation": "What does Jacques Legendre ask the director?",
+      "options": [
+        "D’envoyer très rapidement le devis.",
+        "D’interdire l’emploi de produits toxiques.",
+        "De libérer les lieux pendant les travaux.",
+        "De préciser la nature de l’intervention."
+      ],
+      "optionTranslations": [
+        "To send the estimate very quickly.",
+        "To prohibit the use of toxic products.",
+        "To vacate the premises during the work.",
+        "To specify the nature of the intervention."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Le Festival Sourd Métrage est accessible à tous : traduction en langue des signes et films sous-titrés.\nCe festival de courts métrages présente des réalisateurs sourds. Tous les regards sont permis : fictions, documentaires, films d’animation… Tous les publics sont accueillis.\nPendant trois jours, un espace « rencontre » est créé entre des écoles européennes accueillant de jeunes sourds, entre un public sourd et non-sourd ainsi qu’entre le regard du jeune sourd derrière la caméra et des professionnels de l’image.",
+      "question": "Quelle est la particularité de ce festival de cinéma ?",
+      "questionTranslation": "What is the particularity of this film festival?",
+      "options": [
+        "Il montre des documentaires sur les conditions de vie des sourds.",
+        "Il organise des conférences sur la langue utilisée par les sourds.",
+        "Il présente des films réalisés par des personnes sourdes.",
+        "Il programme des spectacles destinés à un jeune public sourd."
+      ],
+      "optionTranslations": [
+        "It shows documentaries on the living conditions of the deaf.",
+        "It organizes conferences on the language used by the deaf.",
+        "It presents films made by deaf people.",
+        "It schedules shows intended for a young deaf audience."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Cher Paul,\nJe suis désolée de t’avoir laissé sans nouvelle.\nJe pensais t’écrire de Fès, mais notre séjour ne s’est pas déroulé comme nous l’espérions.\nNous avons passé trois nuits supplémentaires à Tanger à cause d’un problème technique sur une de nos lignes touristiques.\nNous avons aussi annulé le rendez-vous prévu aujourd’hui avec notre client de Casablanca, car nous avons dû nous rendre à Marrakech pour régler les frais occasionnés par cet incident.\nNous rentrons demain à Paris.\nBises,\nMathilde",
+      "question": "Dans quelle ville se trouve Mathilde d’après cette lettre ?",
+      "questionTranslation": "In which city is Mathilde according to this letter?",
+      "options": [
+        "Fès",
+        "Casablanca",
+        "Marrakech",
+        "Tanger"
+      ],
+      "optionTranslations": [
+        "Fes",
+        "Casablanca",
+        "Marrakech",
+        "Tangier"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Chère Andréa,\nHier, j’ai déjeuné avec des célibataires de mon quartier.\nC’était à 12h30 au restaurant corse près de l’église.\nOn était 7 : on a bien mangé et bien ri.\nC’est vraiment une bonne idée pour se faire des amis : tu t’inscris sur le site MIAMI et tu consultes les propositions de rendez-vous dans ton quartier.\nTu devrais essayer, c’est génial.\nLéa.",
+      "question": "Qu’est-ce que Léa souhaite faire découvrir à son amie ?",
+      "questionTranslation": "What does Léa wish to introduce her friend to?",
+      "options": [
+        "Un centre de loisirs pour les habitants de son quartier.",
+        "Un restaurant qui sert des spécialités de sa région.",
+        "Un service municipal d’aide sociale aux jeunes célibataires.",
+        "Une manière originale de rencontrer des gens près de chez elle."
+      ],
+      "optionTranslations": [
+        "A leisure center for the inhabitants of her neighborhood.",
+        "A restaurant serving specialties from her region.",
+        "A municipal social aid service for young singles.",
+        "An original way to meet people near her home."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t23-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Draisienne du XXIe siècle\nÀ 88 ans, Jacques Blosseville est le participant le plus âgé de la 100e édition du concours Lépine, qui récompense les inventeurs.\nIl a choisi de transformer la draisienne, un vélo sans pédale pour enfant inventé au début du XIXe siècle.\n« Il y a trois ans, j’ai commencé à me déplacer avec peine.\nOn m’a proposé une canne, puis un fauteuil roulant, mais ça ne me convenait pas.\nLa draisienne vous permet de ne pas avoir à supporter votre poids », explique le",
+      "question": "concurrent. Dans quel but Jacques Blosseville a-t-il modernisé la draisienne ?",
+      "questionTranslation": "For what purpose did Jacques Blosseville modernize the balance bike?",
+      "options": [
+        "Pour éviter de conduire.",
+        "Pour faire rêver les enfants.",
+        "Pour marcher sans souffrir.",
+        "Pour porter des objets lourds."
+      ],
+      "optionTranslations": [
+        "To avoid driving.",
+        "To make children dream.",
+        "To walk without suffering.",
+        "To carry heavy objects."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "« Beaucoup d'aliments pour enfants sont testés par des adultes », explique le délégué régional du projet « DisMoiGoût ». Leur avis intéresse pourtant ceux qui cherchent à développer des gammes de produits dédiés aux petits. L'école agroalimentaire nantaise, a ainsi entrepris de sonder les goûts des bambins et leur perception des aliments. Objectif : cerner plus subtilement leur profil alimentaire. Les résultats de cette étude devraient permettre, à terme, d’élaborer des produits bons pour leur santé, c’est-à-dire conformes aux recommandations du Programme national de nutrition, mais aussi bons pour",
+      "question": "leur goût. Quelle est la vocation du projet« DisMoiGoút » ?",
+      "questionTranslation": "What is the vocation of the « DisMoiGoût » project?",
+      "options": [
+        "Corriger les mauvaises habitudes alimentaires des enfants.",
+        "Faire respecter la législation sur l’alimentation des enfants.",
+        "Mieux comprendre les préférences alimentaires des enfants.",
+        "Permettre aux enfants de découvrir de nouveaux aliments."
+      ],
+      "optionTranslations": [
+        "To correct children's bad eating habits.",
+        "To enforce legislation on children's nutrition.",
+        "To better understand children's food preferences.",
+        "To allow children to discover new foods."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Angleterre, à la fin du XVIIIᵉ siècle.\nL’action du film se situe en Nouvelle-\nUn jeune inspecteur de police ne jure que par la science et la logique et ne rate jamais une occasion de le faire savoir.\nPour le mettre à l’épreuve, ses supérieurs l’envoient dans un petit village de fermiers d’origine hollandaise, théâtre de plusieurs meurtres étranges.",
+      "question": "Quel est le sujet du film présenté ?",
+      "questionTranslation": "What is the subject of the presented film?",
+      "options": [
+        "L’arrivée d’une troupe de comédiens à la campagne.",
+        "L’enquête policière d’une personne très rationnelle.",
+        "La vie des paysans néerlandais au XVIIIE siècle.",
+        "Les expériences originales d’un scientifique anglais."
+      ],
+      "optionTranslations": [
+        "The arrival of a troupe of actors in the countryside.",
+        "The police investigation of a very rational person.",
+        "The life of Dutch peasants in the 18th century.",
+        "The original experiments of an English scientist."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t23-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le jour viendra où un fonds de pension ou un groupe alimentaire mondial investira dans l’entreprise d’un cuisinier reconnu pour orchestrer son développement international.\nBien sûr, on ne peut qu’avoir de la nostalgie pour les temps héroïques où une bande de copains inventait les codes de la nouvelle cuisine.\nAujourd’hui, n’importe quel jeune cuisinier est prêt à payer très cher pour le privilège d’un stage de six mois chez un « Grand chef ».\nIl rentabilisera vite cet investissement en s’autoproclamant élève de, car les marques des grands chefs ne cessent de prendre de la valeur.",
+      "question": "Qu’apprend-on sur les grands chefs ?",
+      "questionTranslation": "What do we learn about great chefs?",
+      "options": [
+        "Leur conception de la cuisine est passée de mode",
+        "Leur créativité leur assure une célébrité mondiale",
+        "Leur nom s’est transformé en label de prestige",
+        "Leurs établissements sont cotes en bourse"
+      ],
+      "optionTranslations": [
+        "Their conception of cooking is out of fashion",
+        "Their creativity assures them worldwide fame",
+        "Their name has turned into a prestigious label",
+        "Their establishments are listed on the stock exchange"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Paris, le 13 mars\nMadame, Monsieur,\nCe courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre, car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\nAinsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\nDans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\nAndré Cellier",
+      "question": "Quel est l'objet de la lettre de Monsieur Cellier ?",
+      "questionTranslation": "What is the subject of Mr. Cellier's letter?",
+      "options": [
+        "Le remboursement de son article.",
+        "L’échange de son téléphone.",
+        "L’envoi de son téléphone par la poste.",
+        "Une réclamation sur son achat."
+      ],
+      "optionTranslations": [
+        "The refund of his item.",
+        "The exchange of his phone.",
+        "Sending his phone by post.",
+        "A complaint about his purchase."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t23-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "L’enfant fréquente le musée par obligation, avec ses parents ou son instituteur.\nL’adulte le vit par plaisir.\nEntre les deux, rien.\nChez l’ado, la perspective de franchir ses portes, même gratuitement, provoque la nausée.\nIl préfère le spectacle d’une toile de cinéma ou le plongeon dans la toile du cyberspace.\nLes jeunes deviennent aujourd’hui pour les musées une cible prioritaire.\nMais les inciter à venir n’est pas facile.\nLa culture internet a bouleversé leur relation au savoir.\nLes musées ne peuvent plus s’accrocher aux réseaux traditionnels de la transmission des connaissances.\nLe temps est venu de réfléchir à de nouvelles approches adaptées à ce public.",
+      "question": "Que suggère l’auteur pour attirer le jeune public au musée ?",
+      "questionTranslation": "What does the author suggest to attract the young audience to the museum?",
+      "options": [
+        "D’analyser les moyens de séduire les jeunes.",
+        "De moderniser le contenu des expositions.",
+        "De s’inspirer des approches pédagogiques scolaires.",
+        "De systématiser l’accès gratuit pour les adolescents."
+      ],
+      "optionTranslations": [
+        "To analyze ways to seduce young people.",
+        "To modernize the content of exhibitions.",
+        "To draw inspiration from school pedagogical approaches.",
+        "To systematize free access for adolescents."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t23-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Réparer un véhicule endommagé avec des pièces d’occasion recyclées, c’est désormais possible.\nDepuis le printemps dernier, l’expert d’une compagnie d’assurances peut en effet proposer à un assuré des pièces de réemploi.\nCes pièces issues de véhicules hors d’usage, accidentés ou arrivés en fin de vie, sont démontées, contrôlées et revendues à des réparateurs par des recycleurs agréés.\nCette disposition est une alternative au neuf et répond à de nouvelles attentes.\nLa récupération de pièces valides permet ainsi de prolonger leur longévité ainsi que celle d’autres véhicules avec un bénéfice économique, environnemental et",
+      "question": "social. D’après cet article, quel avantage présente l’utilisation de pièces recyclées ?",
+      "questionTranslation": "According to this article, what advantage does the use of recycled parts present?",
+      "options": [
+        "Elle donne l’assurance d’un dépannage rapide.",
+        "Elle donne lieu à une réduction sur l’assurance.",
+        "Elle offre la possibilité d’une garantie de qualité.",
+        "Elle permet de dépenser moins d’argent."
+      ],
+      "optionTranslations": [
+        "It gives the assurance of a quick repair.",
+        "It leads to a reduction on the insurance.",
+        "It offers the possibility of a quality guarantee.",
+        "It allows spending less money."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t23-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La Maison de campagne\nCe restaurant offre à sa clientèle un bel espace articulé en trois salles : cuisine, salle à manger et salon, décorés dans un joli style provençal.\nOn choisit même sa bouteille de vin à la cave, comme à la maison !\nMalheureusement, bien que les plats proposés soient élaborés à partir de produits frais sélectionnés au marché, la cuisine reste une cuisine vue et revue, tellement prévisible qu’il vaudra mieux choisir un restaurant en ville plutôt que",
+      "question": "se perdre dans cette campagne-là. Sur quel point porte la critique négative faite à ce restaurant ?",
+      "questionTranslation": "On which point does the negative criticism made to this restaurant focus?",
+      "options": [
+        "L’originalité des plats",
+        "La qualité des produits",
+        "Le cadre du restaurant",
+        "Le prix des menus"
+      ],
+      "optionTranslations": [
+        "The originality of the dishes",
+        "The quality of the products",
+        "The setting of the restaurant",
+        "The price of the menus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t23-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Monsieur,\nLe règlement de votre facture du mois dernier ne nous est pas encore parvenu.\nPeut-être avez-vous effectué ce paiement très récemment ?\nDans ce cas, nous vous en remercions et nous vous prions de ne pas tenir compte de ce courrier.\nS’il s’agit d’un simple oubli, adressez-nous votre règlement à l’aide du coupon- réponse.\nPour toute autre raison, contactez rapidement votre conseiller clientèle.\nIl vous renseignera sur votre facture ainsi que sur les moyens de paiement.\nNous vous prions d’agréer, Monsieur, nos sincères salutations.\nLe responsable clientèle.",
+      "question": "Que contient ce courrier ?",
+      "questionTranslation": "What does this letter contain?",
+      "options": [
+        "Un rappel d’un impayé en cours.",
+        "Une facture à payer rapidement.",
+        "Une proposition de paiement différé.",
+        "Une erreur de règlement."
+      ],
+      "optionTranslations": [
+        "A reminder of an outstanding unpaid balance.",
+        "An invoice to be paid quickly.",
+        "A proposal for deferred payment.",
+        "A payment error."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t23-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "L’éthique, nouveau critère d’attractivité.\nDiversité, handicap, éthique, développement durable.\nAutant de grands enjeux sociétaux englobés sous le terme de « responsabilité sociale de l’entreprise » (RSE).\nSuivant sa définition, la RSE repose sur trois piliers : les problématiques sociales, environnementales et économiques.\nEn amont du marché du travail, les écoles n’échappent pas à ces obligations.\nLa RSE couvre les actions en faveur des lycéens issus de zones défavorisées, grâce à un tutorat proposé en classe de première et de terminale.\nElle couvre aussi le champ humanitaire.\nSes enjeux sont finalement proches des questions chères à la jeunesse.\nOn comprend pourquoi les écoles, bien conscientes de l’attractivité exercée par la RSE, multiplient les initiatives dans le domaine.",
+      "question": "Comment le texte justifie-t-il l’attrait qu’exerce la RSE auprès des écoles ?",
+      "questionTranslation": "How does the text justify the attraction that CSR exercises on schools?",
+      "options": [
+        "Elle favorise l’orientation des élèves après l’obtention du baccalauréat.",
+        "Elle permet de renforcer les liens éducatifs entre adultes et élèves.",
+        "Elle répond de manière pertinente aux difficultés et aux aspirations des élèves.",
+        "Elle veille à la concrétisation des projets professionnels des élèves."
+      ],
+      "optionTranslations": [
+        "It promotes student orientation after obtaining the baccalaureate.",
+        "It allows for strengthening educational ties between adults and students.",
+        "It responds pertinently to the difficulties and aspirations of students.",
+        "It ensures the concretization of students' professional projects."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "L'espoir des enfants\nMarguerite Barankitse est un exemple pour toutes les Burundaises. Pour sauver les enfants de la guerre, elle se bat chaque jour.\nSes actions ont d'abord été financées par des organismes allemands. Puis, la renommée mondiale de la fondatrice est devenue le carburant de l'association.\nAujourd'hui, elle voyage à travers le monde pour parler de son pays et de ses enfants, dans l'espoir d'obtenir des subventions.\nDésormais, l'aide extérieure soutient la plupart des projets. Elle a ainsi ouvert deux centres pour enfants et un hôpital.\nLe travail de cette humanitaire débordante d'énergie a été couronné par de nombreux prix.",
+      "question": "Quel est le but des déplacements à l'étranger de Marguerite Barankitse ?",
+      "questionTranslation": "What is the goal of Marguerite Barankitse's trips abroad?",
+      "options": [
+        "Obtenir de l’argent pour développer des centres d’accueil.",
+        "Convaincre les entreprises étrangères d’investir au Burundi.",
+        "Soutenir les étudiants burundais expatriés pour leurs études.",
+        "Trouver des bénévoles pour s’occuper des enfants à l’hôpital."
+      ],
+      "optionTranslations": [
+        "Obtain money to develop reception centers.",
+        "Convince foreign companies to invest in Burundi.",
+        "Support expatriate Burundian students for their studies.",
+        "Find volunteers to take care of children at the hospital."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t23-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Écologique par nature, les solutions que nous proposons représentent un atout certain pour lutter contre les émissions de gaz à effet de serre.\nAudioconférence, visioconférence et messagerie vous évitent des déplacements inutiles, tout en vous permettant de contribuer à la préservation de la planète.\nEn effet, une étude environnementale a calculé qu’en remplaçant 20 % des voyages d’affaires par des visioconférences, on économiserait 22 millions de tonnes de CO2 par an.\nEnsemble, agissons pour un monde plus vert !",
+      "question": "Que propose cette entreprise ?",
+      "questionTranslation": "What does this company offer?",
+      "options": [
+        "Des outils de communication.",
+        "Des voyages organisés.",
+        "Une formation à l’écologie.",
+        "Un système d’information."
+      ],
+      "optionTranslations": [
+        "Communication tools.",
+        "Organized trips.",
+        "Training in ecology.",
+        "An information system."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t23-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Aux débuts d’Internet, je me souviens d’avoir lu, éberluée, dans un magazine féminin : « Mon mari était absent, il passait tout son temps sur le chat », et j’en étais à tenter de visualiser ce triste état de fait lorsque je compris ma méprise :\navoir confondu le chat, le félidé, avec le chat, la discussion sur Internet.\nDepuis ce jour, aucun progrès sur cette équivoque terrible de la langue, alors que l’usage informatique du mot souris démultiplie les sources de confusions.\nLe bon sens voudrait que la phonétique l’emporte et que l’on écrive « tchat ».\nAu lieu de cette solution évidente, le Petit Larousse a laissé entrer en 2004 dans le dictionnaire le monstrueux mot-valise « clavardage ».",
+      "question": "Qu’est-ce qui dérange l’auteur de ce texte ?",
+      "questionTranslation": "What bothers the author of this text?",
+      "options": [
+        "L’abus d’anglicismes en langage informatique.",
+        "L’ambiguïté du néologisme « chat » à l’écrit.",
+        "Le laxisme orthographique dans les forums.",
+        "Le manque d’imagination des lexicologues."
+      ],
+      "optionTranslations": [
+        "The abuse of anglicisms in computer language.",
+        "The ambiguity of the neologism \"chat\" in writing.",
+        "Spelling laxity in forums.",
+        "The lack of imagination of lexicologists."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t23-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Ils sont dix et ils sont “dys”.\nComme dyslexiques, dysphasiques…\nÂgés de 11 à 13 ans, ces enfants souffrant de troubles du langage sont accueillis depuis la rentrée au collège Petite-Lande dans une classe intégrée, entourée d’une équipe de professionnels.\n« Les enfants ne suivent pas une formation classique, mais, durant quatre ans, ils vont donc acquérir les bases scolaires, de l’autonomie au quotidien, et choisir une orientation professionnelle grâce à des stages en entreprise. »\nAu sein du collège, ils peuvent fréquenter des jeunes de leur âge, participer à certaines activités et projets en commun (cours de sport, sorties…).",
+      "question": "Que peuvent faire ces jeunes grâce à ce projet ?",
+      "questionTranslation": "What can these young people do thanks to this project?",
+      "options": [
+        "Guérir de leurs troubles du langage",
+        "Intégrer une classe traditionnelle",
+        "Préparer leur entrée au collègue",
+        "Profiter d’un encadrement spécifique"
+      ],
+      "optionTranslations": [
+        "Cure their language disorders",
+        "Join a traditional class",
+        "Prepare their entry into middle school",
+        "Benefit from specific supervision"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t23-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "« Il faut te le dire en quelle langue ? »\nCette question, que des milliers de mères posent à leur enfant lorsqu’elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères).\nDes travaux scientifiques récents ont en effet démontré une réalité étonnante :\nnous réfléchissons et prenons des décisions différemment lorsque nous traitons l’information dans une autre langue que notre langue maternelle.\nNous comprenons tout aussi bien l’idée ou le problème, mais lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l’utilité.",
+      "question": "Que permet l’utilisation d’une langue autre que la langue maternelle ?",
+      "questionTranslation": "What does the use of a language other than the native language allow?",
+      "options": [
+        "D’attirer l’attention de l’interlocuteur.",
+        "D’imaginer des solutions originales.",
+        "De solliciter davantage la raison.",
+        "De trouver des réponses rapides."
+      ],
+      "optionTranslations": [
+        "To attract the interlocutor's attention.",
+        "To imagine original solutions.",
+        "To solicit reason more.",
+        "To find quick answers."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Les additifs et conservateurs, ces poudres de perlimpinpin, rendent appétissant un produit médiocre afin de mieux le vendre.\nC’est le cas des colorants si la préparation est terne, des exhausteurs de goût de type glutamate si elle est fade, des agents de texture si elle est sans consistance, ou des arômes si elle est insipide ou a carrément mauvais goût.\nOn vous dit que les conservateurs ou antioxydants (sorbates, nitrites, sulfites…) servent à vous protéger de possibles intoxications bactériennes, mais ils servent surtout à prolonger les dates limites de consommation, afin de laisser plus de temps aux industriels et aux supermarchés pour commercialiser leur",
+      "question": "marchandise. Que critique cet article ?",
+      "questionTranslation": "What does this article criticize?",
+      "options": [
+        "Le dosage des produits chimiques dans les aliments.",
+        "Le manque de lisibilité des étiquettes.",
+        "Les arguments hypocrites avancés par les fabricants.",
+        "Les conséquences sanitaires des ajouts."
+      ],
+      "optionTranslations": [
+        "The dosage of chemical products in food.",
+        "The lack of readability of labels.",
+        "The hypocritical arguments put forward by manufacturers.",
+        "The health consequences of additions."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "En France, entre 200 000 et 500 000 cas de troubles psychiques sont liés au monde du travail.\nL’apparition de nouvelles méthodes de travail, plus intenses et contraignantes, serait à l’origine de l’augmentation des cas de syndrome d’épuisement professionnel.\nC’est le mal du siècle et pourtant, il n’est pas encore reconnu.\nLes salariés, prisonniers de l’idéologie ambiante, s’imaginent trop souvent, quand ils craquent, qu’un collègue plus solide qu’eux aurait été capable de résister.\nMais cela s’avère faux la plupart du temps. Une reconnaissance de la maladie obligerait les entreprises à réfléchir à leur fonctionnement et représenterait une réelle mesure d’utilité publique.",
+      "question": "Quel constat est dressé à propos de ce syndrome ?",
+      "questionTranslation": "What observation is made regarding this syndrome?",
+      "options": [
+        "Il inquiète les patrons des sociétés",
+        "Il touche les employés les plus faibles",
+        "Son existence doit être officialisée",
+        "Son traitement est peu efficace"
+      ],
+      "optionTranslations": [
+        "It worries company bosses",
+        "It affects the weakest employees",
+        "Its existence must be officialized",
+        "Its treatment is ineffective"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t23-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Des chercheurs mettent en doute l'idée répandue que la langue que nous parlons influence notre façon de penser.\nIls présentent une recherche sur l'ordre des mots dans la phrase : sujet, verbe, objet pour certaines langues ; sujet, objet, verbe pour d'autres.\nLeurs 40 sujets, locuteurs d'anglais, d'espagnol, de mandarin, de turc, ont décrit des séquences vidéo dans leur langue d'abord, puis en utilisant des gestes.\nSi les descriptions verbales différaient dans l'ordre des mots selon les langues, les descriptions faites avec les mains reprenaient toutes le même ordre (sujet, objet, verbe), suivant celui des langues des signes inventées par des locuteurs",
+      "question": "sourds. Quel est le résultat de l'étude présentée dans cet article ?",
+      "questionTranslation": "What is the result of the study presented in this article?",
+      "options": [
+        "Les gestes révèleraient systématiquement la langue maternelle des locuteurs",
+        "Il existerait un ordre universel de la pensée, indépendant de l’ordre linguistique",
+        "Il y aurait autant de façons de penser que de structures de langue différentes",
+        "Les structures des langues seraient dépendantes de notre expérience du monde"
+      ],
+      "optionTranslations": [
+        "Gestures would systematically reveal the speakers' native language",
+        "There would exist a universal order of thought, independent of linguistic order",
+        "There would be as many ways of thinking as there are different language structures",
+        "Language structures would depend on our experience of the world"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t23-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Si la télévision est souvent critiquée pour sa distribution d’informations un peu floues, elle est aussi un remarquable éveilleur d’intérêt, quand, en plus d’un embryon de connaissances, elle donne le goût de le développer.\nIl en est ainsi par exemple de la lecture, dont elle est la plupart du temps un incomparable promoteur.\nContrairement à trop d’idées reçues, la concurrence est très rare entre le petit écran et le livre, ne serait-ce que parce que leurs clientèles respectives sont différentes.\nCeux qui aiment lire ne sacrifient pas ce vice impuni à l’uniformité des habituels spectacles télévisés.\nAu contraire, après chaque émission littéraire, les chiffres de la vente des livres évoqués ou ayant inspiré le spectacle comblent toujours d’aise les éditeurs.",
+      "question": "Que soutient l’auteur de ce texte concernant la télévision ?",
+      "questionTranslation": "What does the author of this text maintain regarding television?",
+      "options": [
+        "C’est un vecteur de diffusion des œuvres littéraires.",
+        "C’est une source de connaissances sûre et fiable.",
+        "L’audience des émissions culturelles est en hausse.",
+        "La concurrence qu’elle mène à la lecture est acharnée."
+      ],
+      "optionTranslations": [
+        "It is a vehicle for the dissemination of literary works.",
+        "It is a sure and reliable source of knowledge.",
+        "The audience for cultural shows is rising.",
+        "The competition it leads against reading is fierce."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t23-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Sexistes, les jeux vidéo ? Peut-être que oui, peut-être que non.\nEn tout cas, à parcourir les allées de la Paris Games Week, l'œil avisé aura lui- même bien du mal à trouver un personnage principal féminin de jeu vidéo.\nIl y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure pour plaire à un certain nombre de joueurs masculins.\nPour le reste, circulez, il n'y a - presque - rien d'autre à voir, si l'on balaye d'un coup de manette de jeu, au mieux, les princesses à sauver, au pire, les call-girls de mafioso.\nPourtant, l'industrie du jeu vidéo a pris conscience ces dernières années du potentiel du marché des joueuses.",
+      "question": "Quel constat est dressé sur les jeux vidéo ?",
+      "questionTranslation": "What observation is made about video games?",
+      "options": [
+        "La quasi-absence d’héroïnes.",
+        "L’appel constant à la violence.",
+        "L’atténuation des clichés.",
+        "L’uniformité des scénarios."
+      ],
+      "optionTranslations": [
+        "The near-absence of heroines.",
+        "The constant appeal to violence.",
+        "The mitigation of clichés.",
+        "The uniformity of scenarios."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t23-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Suite à un accident chimique sur un site minier, les pouvoirs publics ont décidé d’obliger les sociétés minières à financer des programmes de recherche et à replanter les surfaces exploitées.\nEt de fait, les compagnies minières jouent très bien le jeu.\nComme il serait bien naïf de penser que leurs dirigeants soient tout à coup devenus philanthropes, il faut chercher la raison de cet intérêt ailleurs.\nIl se trouve qu’un scientifique, Anthony Van der Hent, a prouvé que des « super- plantes » avaient la faculté d’extraire du sol des métaux économiquement exploitables.\nC’est donc la possibilité d’allier la régénération de sites industriels à des assurances de gains financiers supplémentaires qui motive tant les industriels.",
+      "question": "Sur quel point porte le scepticisme du journaliste ?",
+      "questionTranslation": "What is the journalist skeptical about?",
+      "options": [
+        "La capacité des plantes à nettoyer les sols.",
+        "La rentabilité d’un nouveau système d’extraction.",
+        "Le résultat des recherches de Mr Van der Hert.",
+        "Les préoccupations écologistes des industriels."
+      ],
+      "optionTranslations": [
+        "The ability of plants to clean the soil.",
+        "The profitability of a new extraction system.",
+        "The result of Mr. Van der Hert's research.",
+        "The ecological concerns of the industrialists."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t23-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Travailler avec son mari ou son petit ami, sa sœur ou sa mère n’est pas une punition pour tout le monde !\nPour certains, c’est même la condition du bien-être professionnel.\nSi cette idée évoquait jadis une petite entreprise conservatrice, transmise de père en fils, aujourd’hui, travailler en famille relève de réalités très différentes.\nCritères retenus : confiance, valeurs et goûts communs ; et surtout, besoin de réaliser ses projets plutôt que ceux des autres.\nDepuis toujours, la majorité des entreprises en France, toutes tailles confondues, sont familiales ; et de plus en plus de créations sont le fait de femmes.\nCe sont d’ailleurs des entreprises où l’on vit mieux et qui durent plus longtemps que les autres.\nAujourd’hui, la création d’une entreprise est plus souvent motivée par le désir d’assurer un travail à ses enfants ou d’échapper à des structures jugées déshumanisantes.",
+      "question": "Que permet la structure d’entreprise présentée ?",
+      "questionTranslation": "What does the presented company structure allow?",
+      "options": [
+        "De concrétiser des objectifs personnels",
+        "De fonctionner dans un cadre innovant",
+        "De limiter la répartition des gains",
+        "De renforcer les liens entre les générations"
+      ],
+      "optionTranslations": [
+        "To materialize personal goals",
+        "To operate in an innovative framework",
+        "To limit the distribution of earnings",
+        "To strengthen ties between generations"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t23-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Panache et arrogance, élégance et futilité, galanterie et gauloiserie: S'il existe, et à condition que cette notion ait encore un sens à l'ère de la mondialisation, l'esprit français tire son essence particulière du fragile équilibre entre ces oppositions. Amateur de grands principe, du coup de sang et de bons mots, c'est l'esprit français. Quoi que nous en disions, il nous obsède. Que nous exaltions le génie national ou l'exception culturelle, les racines ou l'universel, le particularisme local ou l'intérêt général, il ne s'agit toujours, au fond, que de lui.\nLa mondialisation va-t-elle le dissoudre, et nous renvoyer au triste rang de pays",
+      "question": "ordinaire ? Selon l'auteur, qu'est-ce que l'esprit français ?",
+      "questionTranslation": "According to the author, what is the French spirit?",
+      "options": [
+        "Des attitudes contradictoires forgeant une identité",
+        "Un égocentrisme désuet au temps de la mondialisation",
+        "Un ensemble de valeurs partagées par une élite",
+        "Une aptitude à l’ouverture qui tend à disparaître"
+      ],
+      "optionTranslations": [
+        "Contradictory attitudes forging an identity",
+        "An obsolete egocentrism in the time of globalization",
+        "A set of values shared by an elite",
+        "An aptitude for openness that tends to disappear Retry test All tests"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "tcf-lecture-supplement",
+  "title": "Questions supplémentaires",
+  "kind": "practice",
+  "questions": [
+    {
+      "id": "overflow-q01",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Salut à tous,\nCaroline déménage dans deux semaines à Genève. Elle organise une fête pour son départ. Vous êtes d'accord pour lui offrir un bouquet de fleurs ?\nJ'attends votre réponse,",
+      "question": "Patrice Que propose Patrice ?",
+      "questionTranslation": "What is Patrice proposing?",
+      "options": [
+        "D'acheter un cadeau.",
+        "D'aider leur amie.",
+        "D'inviter des copains.",
+        "De partir en vacances."
+      ],
+      "optionTranslations": [
+        "To buy a gift.",
+        "To help their friend.",
+        "To invite friends.",
+        "To go on vacation."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "overflow-q02",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Salut Lisa,\nJe n'ai pas oublié ma promesse de l'été dernier. Tu peux venir passer quelques jours de vacances chez moi, à Paris, au mois d'août. Donne-moi vite une réponse.\nJe t'embrasse, ton amie Caroline.\nP.S. : appelle-moi sur mon portable.",
+      "question": "Que doit faire Lisa pour prévenir Caroline de son arrivée ?",
+      "questionTranslation": "What must Lisa do to let Caroline know about her arrival?",
+      "options": [
+        "Elle doit lui écrire une lettre.",
+        "Elle doit lui écrire une carte.",
+        "Elle doit lui téléphoner.",
+        "Elle doit lui envoyer un message."
+      ],
+      "optionTranslations": [
+        "She must write her a letter.",
+        "She must write her a card.",
+        "She must call her.",
+        "She must send her a message."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "overflow-q03",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "CHERS CLIENTS DU CAMPING DES COUZIGUETTES,\nLa météo annonce des pluies et des vents très forts dans la nuit de samedi à dimanche.\nLa mairie conseille aux campeurs de passer la nuit dans le gymnase de la ville.\nPour plus d'informations, prenez contact avec nous au 03 45 85 74 38 ou venez nous voir à l'accueil.",
+      "question": "Qu'est-ce que les campeurs doivent faire ?",
+      "questionTranslation": "What must the campers do?",
+      "options": [
+        "Appeler pour réserver une place.",
+        "Dormir dans un lieu protégé.",
+        "Participer à une rencontre.",
+        "Régler leur facture avant de partir."
+      ],
+      "optionTranslations": [
+        "Call to reserve a spot.",
+        "Sleep in a protected place.",
+        "Take part in a meeting.",
+        "Pay their bill before leaving."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "overflow-q04",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "À L'OCCASION DE NOËL, L'ASSOCIATION TOUS SOLIDAIRES ORGANISE UN GRAND MARCHÉ LE 23 DÉCEMBRE.\nVous y trouverez des idées cadeaux : biscuits, chocolat, jouets et plein d'autres articles.\nRendez-vous de 12 h à 19 h devant l'école de Musique de Rouen.\nVENEZ NOMBREUX !",
+      "question": "Qu'est-ce que cette association propose ?",
+      "questionTranslation": "What is this association offering?",
+      "options": [
+        "D'aider à réaliser une fête.",
+        "D'assister à un concert.",
+        "De participer à un goûter.",
+        "De venir faire des achats."
+      ],
+      "optionTranslations": [
+        "To help organize a party.",
+        "To attend a concert.",
+        "To take part in a snack/tea party.",
+        "To come and shop."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "overflow-q05",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Marins au long cours depuis le XVIIIe siècle, les hommes d'Ouessant embarquaient dans la navigation marchande ou la Royale. Et les femmes, restées seules sur l'île, labouraient la terre. « Qui voit Ouessant voit son sang », prétend le dicton marin. La légende populaire a doté d'une sinistre réputation cette « île d'épouvante », qui faisait trembler les capitaines tant les tempêtes y sont violentes, les eaux traîtresses et les écueils sournois. Pour protéger les côtes, furent institués les fameux rails au large d'Ouessant. Édifiée au début des années 80, la tour-radar assure la surveillance de ces autoroutes maritimes. Et fort heureusement, la carte des naufrages a perdu de son actualité.",
+      "question": "À quelle évolution le texte fait-il référence ?",
+      "questionTranslation": "What evolution does the text refer to?",
+      "options": [
+        "Le nombre de courants dangereux a diminué.",
+        "La cartographie moderne a progressé.",
+        "Le guidage des navires s'est modernisé.",
+        "Le métier de marin a disparu."
+      ],
+      "optionTranslations": [
+        "The number of dangerous currents has decreased.",
+        "Modern cartography has progressed.",
+        "Ship guidance has been modernized.",
+        "The sailor profession has disappeared."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "overflow-q06",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Le profil du colocataire a évolué. En France, les actifs sont désormais plus nombreux que les étudiants à opter pour ce type d'habitat, selon une récente étude du site Appartager.com, premier site de colocation dans le monde. Leur part atteint 46 %, dépassant celle des étudiants (40 %). Les raisons d'un tel succès ? « Pour beaucoup de salariés, la colocation est devenue un véritable mode de vie, qui séduit de plus en plus, tout en restant une alternative moins onéreuse que de vivre dans un logement seul et d'en payer le loyer, surtout en temps de crise », précise l'étude.",
+      "question": "Qu'explique cet article ?",
+      "questionTranslation": "What does this article explain?",
+      "options": [
+        "Les étudiants préfèrent habiter seuls.",
+        "Les loyers ont augmenté avec la crise.",
+        "Les salariés sont attirés par la colocation.",
+        "Les sites d'habitat partagé se multiplient."
+      ],
+      "optionTranslations": [
+        "Students prefer living alone.",
+        "Rents have risen with the crisis.",
+        "Salaried workers are attracted to flat-sharing.",
+        "Shared-housing websites are multiplying."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "overflow-q07",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Cher Monsieur Argon,\nNous vous rappelons que la réunion des parents d'élèves se tiendra vendredi prochain. Elle sera suivie d'entretiens individuels entre parents et professeurs, qui permettront de faire le point sur la progression de votre enfant. La rencontre avec les professeurs est obligatoire avant les vacances d'hiver. Nous vous remercions de nous confirmer votre présence en remplissant le formulaire ci-joint.\nS'il ne vous est pas possible de vous déplacer ce vendredi, merci d'y préciser vos disponibilités afin de fixer un autre rendez-vous.\nCordialement,\nL'équipe pédagogique",
+      "question": "Pourquoi l'équipe pédagogique envoie-t-elle ce courrier à Monsieur Argon ?",
+      "questionTranslation": "Why is the teaching team sending this letter to Mr. Argon?",
+      "options": [
+        "Pour lui annoncer un changement d'emploi du temps.",
+        "Pour lui confirmer l'expédition d'un courrier.",
+        "Pour lui rappeler l'importance d'une entrevue.",
+        "Pour lui signaler les absences répétées de son enfant."
+      ],
+      "optionTranslations": [
+        "To tell him about a timetable change.",
+        "To confirm that a letter was sent.",
+        "To remind him how important an interview is.",
+        "To report his child’s repeated absences."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "overflow-q08",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Dans l'ensemble des espaces verts de la ville de Toulouse, les pelouses tondues régulièrement laissent place à 150 hectares de prairies urbaines, plus sauvages.\n« En coupant l'herbe, on stoppe le cycle des végétaux. Or si on ne la coupe qu'une fois par an, c'est bon pour l'écosystème et ça permet l'intégration de nouvelles espèces », explique la conseillère municipale en charge des espaces verts. Seul inconvénient, le résultat est nettement moins esthétique. « Au début, c'était mal compris car les gens pensaient que c'était sale, reconnaît l'élue. Mais aujourd'hui, on voit des petites fleurs réapparaître et je ne reçois plus de courriers ».",
+      "question": "Pourquoi les gens écrivaient-ils à la conseillère municipale à propos des espaces verts ?",
+      "questionTranslation": "Why were people writing to the city councilor about green spaces?",
+      "options": [
+        "Pour demander une diminution des frais.",
+        "Pour dénoncer le manque d'entretien.",
+        "Pour exiger plus de variété de plantes.",
+        "Pour réclamer l'ouverture d'autres parcs."
+      ],
+      "optionTranslations": [
+        "To ask for lower fees.",
+        "To complain about poor maintenance.",
+        "To demand more plant variety.",
+        "To demand more parks be opened. Retry test All tests"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

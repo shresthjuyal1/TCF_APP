@@ -1,0 +1,828 @@
+{
+  "id": "tcf-lecture-37",
+  "title": "Test 37",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t37-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Vous êtes étudiant,vous cherchez un logement,et vous aimez aidez les autres ?\nPourquoi ne pas vivre chez une personne âgée pendant vos études ?\nPlus d'informations sur jeunes.gouv.fr.",
+      "question": "Que propose le site jeunes gouv.fr ?",
+      "questionTranslation": "What does the site jeunes.gouv.fr propose?",
+      "options": [
+        "D’acheter un appartement.",
+        "D’habiter avec quelqu’un.",
+        "De rencontrer ses voisins.",
+        "De visiter son quartier."
+      ],
+      "optionTranslations": [
+        "To buy an apartment.",
+        "To live with someone.",
+        "To meet one's neighbors.",
+        "To visit one's neighborhood."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t37-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Mathilde,\nJe t’attends devant l’entrée du stade rue Victor Hugo.\nFais vite, le match va commencer !\nLaura",
+      "question": "Pourquoi est-ce que Laura attend Mathilde ?",
+      "questionTranslation": "Why is Laura waiting for Mathilde?",
+      "options": [
+        "Pour aller visiter un musée.",
+        "Pour participer à un concours.",
+        "Pour prendre un café ensemble.",
+        "Pour voir un événement sportif."
+      ],
+      "optionTranslations": [
+        "To visit a museum.",
+        "To participate in a contest.",
+        "To have a coffee together.",
+        "To see a sporting event."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t37-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Jean n'oublie pas d'aller chercher les enfants à l'école !\nJe suis en rendez-vous Jusqu'a 17h\nBisous\nClaudia",
+      "question": "Que doit faire Jean ?",
+      "questionTranslation": "What must Jean do?",
+      "options": [
+        "Aller à une réunion.",
+        "Déjeuner avec Claudia.",
+        "S’occuper des enfants.",
+        "Téléphoner à l’école."
+      ],
+      "optionTranslations": [
+        "Go to a meeting.",
+        "Have lunch with Claudia.",
+        "Take care of the children.",
+        "Phone the school."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t37-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Prière de n’emporter ni les draps de bain, ni les objets appartenant au bar de la chambre.\nNous vous remercions de votre compréhension.\nLa direction de l’hôtel",
+      "question": "À qui est destinée cette annonce ?",
+      "questionTranslation": "Who is this announcement intended for?",
+      "options": [
+        "Aux clients de l’hôtel.",
+        "Au service de nettoyage.",
+        "Au directeur de l’hôtel.",
+        "Aux serveurs du bar."
+      ],
+      "optionTranslations": [
+        "To the hotel guests.",
+        "To the cleaning service.",
+        "To the hotel manager.",
+        "To the bar waiters."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Salon gastronomique le 17 mars.\nVenez à la rencontre des agriculteurs, producteurs et chefs de votre région !\nVous pourrez discuter avec eux et goûter leurs délicieux produits : pommes, fromages, beurre, miel, etc. !\nParticipez au concours de la meilleure recette !",
+      "question": "Qu’est-ce qu’on peut faire dans ce salon ?",
+      "questionTranslation": "What can you do at this fair?",
+      "options": [
+        "Découvrir la nourriture locale.",
+        "Gagner un repas traditionnel.",
+        "Prendre un cours de cuisine.",
+        "Visiter une ferme française."
+      ],
+      "optionTranslations": [
+        "Discover local food.",
+        "Win a traditional meal.",
+        "Take a cooking class.",
+        "Visit a French farm."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "De : cannelle@lilo.com\nÀ : Elke@mail.com\nSalut Elke,\nC’est bientôt la fête de nos 20 ans de mariage !\nBeaucoup d’invités viendront avec leurs enfants.\nComme tu adores les petits, pourrais-tu t’occuper d’eux en journée ?\nQuand ils seront couchés, nous pourrons danser tous ensemble.\nMerci, bisous.",
+      "question": "Cannelle Que demande Cannelle à son amie ?",
+      "questionTranslation": "What does Cannelle ask her friend?",
+      "options": [
+        "D’écrire aux invités.",
+        "D’organiser la fête.",
+        "De garder des enfants.",
+        "De préparer des danses."
+      ],
+      "optionTranslations": [
+        "To write to the guests.",
+        "To organize the party.",
+        "To look after children.",
+        "To prepare dances."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t37-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Devenez reporter pour le mensuel de notre ville !\nEnvoyez-nous votre article sur les thèmes suivants : vie du quartier,sport,cuisine,poésie…\nS'il est sélectionné,il sera publiéle mois prochain.\nNotre contact:publications@nanterre.fr",
+      "question": "Qui aécrit cette proposition ?",
+      "questionTranslation": "Who wrote this proposal?",
+      "options": [
+        "Un journal.",
+        "Un restaurant.",
+        "Une association.",
+        "Une école."
+      ],
+      "optionTranslations": [
+        "A newspaper.",
+        "A restaurant.",
+        "An association.",
+        "A school."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Pour la fête de fin d’année, les enfants du club de théâtre vous offrent un spectacle musical extraordinaire et très drôle !\nParticipez à la fête :\nVenez avec des gâteaux, des boissons et votre bonne humeur !",
+      "question": "Que peuvent apporter les parents ?",
+      "questionTranslation": "What can the parents bring?",
+      "options": [
+        "De la nourriture.",
+        "Des cadeaux.",
+        "Des chansons.",
+        "Des jeux."
+      ],
+      "optionTranslations": [
+        "Food.",
+        "Gifts.",
+        "Songs.",
+        "Games."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "De : jean.Roussel@epicesexotiques.com\nÀ : georges.Rouault@epicesexotiques.com\nGeorges, je reste à Montélimar une semaine de plus parce que les ventes sur les marchés sont très bonnes.\nEst-ce que tu peux rencontrer les gens des magasins Biotopia à ma place ?\nAppelle-moi si tu as besoin.",
+      "question": "Jean Que va faire Jean Roussel ?",
+      "questionTranslation": "What is Jean Roussel going to do?",
+      "options": [
+        "Continuer ses ventes.",
+        "Déménager à Montélimar.",
+        "Rencontrer des clients.",
+        "Téléphoner à Biotopia."
+      ],
+      "optionTranslations": [
+        "Continue his sales.",
+        "Move to Montélimar.",
+        "Meet clients.",
+        "Phone Biotopia."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Madame,\nSuite à votre appel téléphonique, je vous informe que nous pourrons nous rencontrer mardi prochain afin de parler des problèmes scolaires de Guillaume.\nJ'aurai les informations concernant les autres matières.\nCordialement,\nMadame Fernand,\nProfesseur principal.",
+      "question": "Quelle est l'information contenue dans la lettre du professeur ?",
+      "questionTranslation": "What information is contained in the teacher's letter?",
+      "options": [
+        "La confirmation d’un rendez-vous.",
+        "La date des évaluations en français.",
+        "Les résultats scolaires de son élève.",
+        "L’explication d’une punition donnée."
+      ],
+      "optionTranslations": [
+        "The confirmation of an appointment.",
+        "The date of French evaluations.",
+        "The school results of her student.",
+        "The explanation of a given punishment."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Le département d'études anglo-américaines,en collaboration avec l'universitéde Houston,organise la semaine du cinéma.\nLes étudiant(e)s intéressé(e)s peuvent faire un exposésur un film au choix.\nLe meilleur exposésera publiédans le journal de l'universitépartenaire.\nInscrivez-vous au secrétariat.",
+      "question": "Que faut-il faire pour participer à la semaine du cinéma ?",
+      "questionTranslation": "What must be done to participate in the Cinema Week?",
+      "options": [
+        "Aller à Houston.",
+        "Prendre un abonnement.",
+        "Présenter un film.",
+        "Répondre à un questionnaire."
+      ],
+      "optionTranslations": [
+        "Go to Houston.",
+        "Buy a subscription.",
+        "Present a film.",
+        "Answer a questionnaire."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t37-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "On savait déjà que le chocolat était bon pour la tension.\nLes scientifiques affirment maintenant qu’une consommation de chocolat pourrait être une stratégie efficace de protection contre les rayons du soleil.\nPour cela, il n’est pas nécessaire de recouvrir son corps de cacao : d’après les chercheurs, il suffirait de consommer trois carrés par jour pour bénéficier des bienfaits du chocolat.\nCela n’empêche pas de se protéger avec de la crème solaire et d’avoir une bonne",
+      "question": "alimentation. Que conseillent ces chercheurs pour se protéger du soleil ?",
+      "questionTranslation": "What do these researchers advise to protect oneself from the sun?",
+      "options": [
+        "D’utiliser des crèmes solaires à base de chocolat",
+        "De diminuer sa consommation de chocolat",
+        "De manger quotidiennement du chocolat",
+        "De suivre un traitement de pilules au chocolat"
+      ],
+      "optionTranslations": [
+        "To use chocolate-based sunscreens",
+        "To decrease one's chocolate consumption",
+        "To eat chocolate daily",
+        "To follow a chocolate pill treatment"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t37-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Bonjour,\nJ’ai commandé une robe (réf. 35100) sur votre site « mamode.com » il y a deux mois.\nJe devais la recevoir le 5 octobre.\nOr nous sommes le 5 novembre et, malgré mes nombreuses réclamations, je ne l’ai toujours pas reçue.\nJe vous demande de me rembourser le plus rapidement possible.\nUn geste commercial sous la forme d’un cadeau serait bienvenu.",
+      "question": "Merci. Que veut la cliente ?",
+      "questionTranslation": "What does the client want?",
+      "options": [
+        "Annuler son achat.",
+        "Échanger son article.",
+        "Obtenir une réduction.",
+        "Rendre le vêtement."
+      ],
+      "optionTranslations": [
+        "Cancel her purchase.",
+        "Exchange her item.",
+        "Get a discount.",
+        "Return the clothing."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Ah ! Le bel été !\nPar trente-cinq degrés à l’ombre, les enfants réclament le goûter après la baignade, et coup de chance, le vendeur de beignets se profile à l’horizon.\nRésultat : visite aux urgences, car les beignets à la crème avaient passé la journée au soleil.\nDes histoires comme celle-là circulent dans toutes les associations de consommateurs.\nLa direction générale de la répression des fraudes dresse tout de même un bilan encourageant.\nPeu d’endroits publics échappent aux vérifications et les escroqueries ont diminué.\nMais tout de même, en matière d’hygiène, le bon sens du consommateur doit prévaloir et lui permettre de prévenir tout incident.",
+      "question": "L’anecdote racontée dans cet article dénonce :",
+      "questionTranslation": "The anecdote told in this article denounces:",
+      "options": [
+        "Le grand nombre de vendeurs ambulants.",
+        "Les dangers des aliments mal conservés.",
+        "Les méfaits des collations après le bain.",
+        "L’inconscience des enfants imprudents."
+      ],
+      "optionTranslations": [
+        "The large number of street vendors.",
+        "The dangers of poorly preserved food.",
+        "The harmful effects of snacks after swimming.",
+        "The recklessness of imprudent children."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t37-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Une page se tourne ou plutôt ne se tournera plus pour les députés.\nDes tablettes numériques remplacent désormais les épaisses liasses de papier.\nDepuis leur arrivée en juin, beaucoup de nouveaux députés se sont émus de la quantité de papier utilisée pendant l’examen des textes, avec des amendements systématiquement imprimés.\nAvec environ 52 000 paquets utilisés chaque année, l’Assemblée est gourmande en feuilles, même si ce chiffre a déjà énormément diminué depuis cinq ans avec la dématérialisation de certains travaux.",
+      "question": "Pourquoi les députés utilisent-ils des tablettes numériques ?",
+      "questionTranslation": "Why do the deputies use digital tablets?",
+      "options": [
+        "Pour diminuer l’empreinte carbone.",
+        "Pour donner une image moderne de l’Assemblée.",
+        "Pour étudier plus rapidement les amendements.",
+        "Pour faire des économies de papier."
+      ],
+      "optionTranslations": [
+        "To reduce the carbon footprint.",
+        "To give a modern image of the Assembly.",
+        "To study amendments more quickly.",
+        "To save paper."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t37-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Tout le personnel est vivement invité à participer à la réunion du vendredi 4 mai à 10h entre les délégués syndicaux et les différents responsables du service.\nPlusieurs points seront abordés pour tenter de désamorcer les tensions qui,depuis quelques jours, gênent la bonne marche de l'entreprise, à savoir: la non-prise en compte de la pénibilité du travail, les problèmes croissants de sécurité.\nUn terrain d'entente doit être trouvé rapidement.",
+      "question": "Quel est l'objectif de cette réunion ?",
+      "questionTranslation": "What is the objective of this meeting?",
+      "options": [
+        "Améliorer l’environnement professionnel.",
+        "Éviter des licenciements abusifs.",
+        "Modifier les termes d’accords obsolètes.",
+        "Obtenir des créations de postes."
+      ],
+      "optionTranslations": [
+        "Improve the professional environment.",
+        "Avoid abusive dismissals.",
+        "Modify the terms of obsolete agreements.",
+        "Obtain job creations."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Par correspondance les produits de beautésont souvent moins chers, car vous pouvez bénéficier de cadeaux gratuits.\nAttention,toutefois: vérifiez toujours que le montant du cadeau ou de la réduction est supérieur aux frais de port exigés.\nSinon, votre achat risque de vous coûter plus cher que vous ne le pensiez.\nCertains laboratoires ont des offres particulièrement intéressantes(jusqu'à 50% de réduction ou 2 produits pour le prix d'un, ce qui revient au même!) De plus, à partir d'un certain montant d'achats vous ne payez pas de frais de port alors, pensez à grouper vos achats avec des amis!",
+      "question": "Pourquoi faut-il se méfier en achetant des produits de beauté par correspondance ?",
+      "questionTranslation": "Why should one be wary when buying beauty products by mail order?",
+      "options": [
+        "Les produits sont toujours plus chers.",
+        "Les frais d’envoi peuvent en augmenter le coût.",
+        "Les laboratoires offrent souvent des cadeaux sans valeur.",
+        "Les produits ne sont pas toujours de très bonne qualité."
+      ],
+      "optionTranslations": [
+        "The products are always more expensive.",
+        "Shipping fees can increase the cost.",
+        "Laboratories often offer worthless gifts.",
+        "The products are not always of very good quality."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t37-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Pendant tout l’été, votre supermarché organise un concours gratuit pour gagner des milliers de lots : livres, places de spectacles pour enfant, dîners au restaurant, entrées pour activités en plein air.\nComplétez votre bulletin et envoyez-le à :\nspecial.etc@monsupermarche.com",
+      "question": "Qu’est-ce que ce supermarché propose à ses clients ?",
+      "questionTranslation": "What does this supermarket offer its clients?",
+      "options": [
+        "Des promotions.",
+        "Des vacances.",
+        "Un jeu.",
+        "Une fête."
+      ],
+      "optionTranslations": [
+        "Promotions.",
+        "Vacations.",
+        "A game.",
+        "A party."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t37-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La peur de se tromper est excessivement élevée chez les jeunes Français.\nEn témoigne leur comportement face aux QCM: alors qu'ils maîtrisent les connaissances mieux que la moyenne des candidats de toutes nationalités, ils préfèrent ne rien répondre plutôt que risquer de mal répondre.\nC'est bien que l'erreur est trop peu valorisée dans leur formation et même considérée comme un drame.\nIl faudrait leur rappeler combien les génies, les savants mais aussi les artistes se sont trompés.\nLeur faire découvrir tout ce qu'ils ont compris en se penchant sur leurs erreurs, tout ce qu'ils n'auraient jamais compris s'ils ne s'étaient pas trompés.",
+      "question": "Dans cet article,que dit-on sur l'erreur ?",
+      "questionTranslation": "In this article, what is said about error?",
+      "options": [
+        "Elle a des conséquences négatives sur l’apprentissage.",
+        "Elle doit être sévèrement sanctionnée durant la formation.",
+        "Elle est moins bien tolérée dans le domaine scientifique.",
+        "Elle est sous-estimée en tant que moyen d’amélioration."
+      ],
+      "optionTranslations": [
+        "It has negative consequences on learning.",
+        "It must be severely sanctioned during training.",
+        "It is less well tolerated in the scientific field.",
+        "It is underestimated as a means of improvement."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t37-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Quelle est la principale ressource qui manque aux chercheurs. Le temps ?\n« Informatiser les données de l'herbier du Muséum d'histoire naturelle aurait pris cinq cents ans un chercheur »,\nexplique Marc Pignal, botaniste au Muséum. Le Muséum a donc trouvé une alternative : une plate-forme sur laquelle les internautes sont invités à retranscrire les informations répertoriées sur les étiquettes des plantes et que l'apprenti botaniste, après avoir ouvert un compte, retrouve sur une photo d'une page de l'herbier national.",
+      "question": "Qu'a décidé de faire en ligne le Muséum d'histoire naturelle ?",
+      "questionTranslation": "What has the Natural History Museum decided to do online?",
+      "options": [
+        "Créer un site collaboratif de données.",
+        "Mener une enquête sur les plantes.",
+        "Organiser des visites de l’herbier.",
+        "Proposer des cours de botanique."
+      ],
+      "optionTranslations": [
+        "Create a collaborative data site.",
+        "Conduct a survey on plants.",
+        "Organize visits to the herbarium.",
+        "Offer botany courses."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le passage à l'heure d'hiver est beaucoup mieux vécu que celui à l'heure d'été parce qu'il donne l'occasion de dormir une heure supplémentaire et qu'il se déroule pendant une période de vacances scolaires. Mais s'il donne l'occasion de se lever plus tard, il amène logiquement à se coucher plus tard si l'on veut respecter son rythme.\nDe ce fait, ce sont ceux dont l'organisme est naturellement réglé qui sont le plus",
+      "question": "gênés. Que dit-on du passage à l'heure d'hiver ?",
+      "questionTranslation": "What is said about the switch to winter time?",
+      "options": [
+        "Il convient aux enfants d’âge scolaire.",
+        "Il dérègle l’organisation des élèves.",
+        "Il est adapté au rythme biologique.",
+        "Il modifie le moment du coucher."
+      ],
+      "optionTranslations": [
+        "It suits school-age children.",
+        "It disrupts the organization of students.",
+        "It is adapted to the biological rhythm.",
+        "It modifies the bedtime."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t37-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Ce matin, les collègues de Barbara auront peut-être la chance d'avoir des croissants en arrivant au bureau.\nCette jeune cadre passe régulièrement chercher des viennoiseries dans un hôtel situé à côté de son lieu de travail.\nL'hôtel participe à une opération actuellement en vogue en France.\nLe principe Par le biais d'une application mobile, l'utilisateur peut accéder à plus de 1500 enseignes dans trente villes en France qui cèdent leurs produits invendus au moins à moitié prix.\nOn peut même connaître l'heure de collecte fixée par le commerçant de son choix.\nL'application,qui aurait déjà « sauvé » 65 000 repas, satisfait les acheteurs qui bénéficient des promotions et les commerçants qui n'ont plus à regretter de devoir jeter des produits faits à la main avec d'excellentes matières premières.",
+      "question": "Que permet l'application ?",
+      "questionTranslation": "What does the application allow?",
+      "options": [
+        "De limiter le gaspillage alimentaire.",
+        "De livrer des plats dans les entreprises.",
+        "De soutenir les magasins de proximité.",
+        "D’organiser des ventes groupées."
+      ],
+      "optionTranslations": [
+        "To limit food waste.",
+        "To deliver dishes to companies.",
+        "To support local shops.",
+        "To organize group sales."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Un jour, en réfléchissant aux raisons qui m’avaient éloigné d’une carrière universitaire pourtant bien partie afin de me consacrer à mon travail de médecin praticien, j’ai compris que mon choix tenait en partie du fait que l’on rirait beaucoup plus au contact des êtres humains plongés dans la vie qu’à celui des chercheurs.\nComme un animal qui migre vers le sud en hiver, j’avais suivi le soleil de cette vibration qui fabrique du bonheur, du lien, de la santé.\nJe ne l’ai jamais regretté.",
+      "question": "Qu’est-ce qui a guidé l’auteur dans ses choix professionnels ?",
+      "questionTranslation": "What guided the author in their professional choices?",
+      "options": [
+        "L’attirance pour les études",
+        "L’appel des pays chauds",
+        "Le besoin d’interaction social",
+        "Le désir de reconnaissance"
+      ],
+      "optionTranslations": [
+        "Attraction to studies",
+        "The call of hot countries",
+        "The need for social interaction",
+        "The desire for recognition"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t37-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "On les appelle « farfadets » ou encore « sylphes rouges ».\nLes spécialistes les rangent parmi les phénomènes lumineuxéphémères.\nEt ces apparitions trompent leur monde. On les prenait, à tort, pour des lueurs émises par des ovnis.\nOr, selon les recherches menées par une équipe de jeunes diplômés, ces lueurs proviendraient d'orages grondant dans la haute atmosphère entre 50 et 120 kilomètres d'altitude. Ceux-ci engendreraient, l'espace de quelques millisecondes, des phénomènes de fluorescence optique « dansant » dans l'espace.",
+      "question": "À quoi fait référence le terme de«farfadets»dans cet extrait ?",
+      "questionTranslation": "What does the term 'farfadets' refer to in this excerpt?",
+      "options": [
+        "Aux équipes d’universitaires qui travaillent sur la lumière.",
+        "Aux étincelles produites par des perturbations orageuses.",
+        "Aux scientifiques qui guettent des signaux dans l’espace.",
+        "Aux vibrations transmises par des corps extra-terrestres."
+      ],
+      "optionTranslations": [
+        "To teams of academics working on light.",
+        "To sparks produced by stormy disturbances.",
+        "To scientists watching for signals in space.",
+        "To vibrations transmitted by extraterrestrial bodies."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t37-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Je suis un Parisien de Paris.\nJ'y suis né,en 1840,sous le bon roi Louis-Philippe, dans un milieu d'affaires où l'on affichait un dédain méprisant pour les arts.\nMais ma jeunesse s'estécoulée au Havre,oùmon père s'était installé,vers 1845, pour suivre ses intérêts de plus près, et cette jeunesse aétéessentiellement vagabonde.\nJ'étais un indisciplinéde naissance; on n'a jamais pu me plier, même dans ma petite enfance, à une règle.\nC'est chez moi que j'ai appris le peu que je sais.",
+      "question": "Comment cet homme décrit-il l'enfant qu'il était?",
+      "questionTranslation": "How does this man describe the child he was?",
+      "options": [
+        "Malheureux de vivre en province.",
+        "Persévérant dans ses études.",
+        "Rebelle à toute forme d’autorité.",
+        "Respectueux des valeurs de sa famille."
+      ],
+      "optionTranslations": [
+        "Unhappy living in the province.",
+        "Persevering in his studies.",
+        "Rebellious to all forms of authority.",
+        "Respectful of his family's values."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t37-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Supplique pour trouver Brassens au Cimetière marin !\nNon, malgré sa chanson bien connue, Georges Brassens n'est pas enterré au Cimetière marin.\nIl repose sous son pin, au cimetière Le Py. Cela a été dit, écrit des centaines de fois, mais visiblement, les touristes ont du mal à enregistrer l'information. «Au Cimetière marin, nous avons une cinquantaine de personnes toutes les demi- journées qui viennent voir les tombes des hommes célèbres.\nEt sur ce nombre, les trois-quarts nous demandent où se trouve la tombe de Brassens», dit Michel Cappettat, conservateur des cimetières sétois.",
+      "question": "Que décrit Michel Cappettat ?",
+      "questionTranslation": "What does Michel Cappettat describe?",
+      "options": [
+        "L’afflux des fans de Brassens dans un espace intime.",
+        "L’intérêt exclusif des visiteurs du cimetière pour Brassens.",
+        "La situation peu accessible de la tombe de Brassens.",
+        "Le malentendu sur le lieu où est enterré Brassens."
+      ],
+      "optionTranslations": [
+        "The influx of Brassens fans into an intimate space.",
+        "The exclusive interest of cemetery visitors for Brassens.",
+        "The inaccessible situation of Brassens' grave.",
+        "The misunderstanding about the place where Brassens is buried."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t37-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Pourrait-on nourrir les 9 milliards d’humains que comptera la Terre en 2050 uniquement par l’agriculture biologique ?\nOui, répondent certains chercheurs.\nMais selon eux, la tâche sera difficile, car pour se défaire des pesticides, des engrais de synthèse et des OGM, il faudrait absolument diminuer la consommation de viande et le gaspillage alimentaire.\nEt même à ces conditions, il resterait encore des obstacles au « tout bio ».\nAlors, agriculture biologique ou conventionnelle ?\nLes incertitudes scientifiques demeurent quant à leurs réels impacts sur les rendements et les prédictions sur ce sujet sont encore floues.",
+      "question": "Sur quoi insiste l’auteur de ce texte ?",
+      "questionTranslation": "What does the author of this text insist on?",
+      "options": [
+        "Les conséquences d’un régime végétarien.",
+        "Les doutes sur les méthodes de production.",
+        "Les effets de l’usage de produits chimiques.",
+        "Les problèmes causés par la surpopulation."
+      ],
+      "optionTranslations": [
+        "The consequences of a vegetarian diet.",
+        "The doubts about production methods.",
+        "The effects of the use of chemical products.",
+        "The problems caused by overpopulation."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t37-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "L'alpinisme reste une affaire de mâles: les femmes sont très minoritaires en haute montagne et se cantonnent souvent au rôle de second de cordée.\nMais au royaume de la testostérone, de la puissance physique et de l'héroïsation,une génération de femmes alpinistes est en train de bouleverser la donne.\nEn Himalaya, une des performances les plus importantes est l'ascension du Nanga Parbat par Elisabeth Revol.\nSi son exploit a été éclipsé par une tragédie à la descente, elle n'en reste pas moins la première femme à avoir gravi un tel sommet en hiver et en style alpin.\nLe message est Limpide:les femmes ont leur place dans l'élite de l'himalayisme.",
+      "question": "Selon cet article,quelle est la situation des femmes alpinistes ?",
+      "questionTranslation": "According to this article, what is the situation of female mountaineers?",
+      "options": [
+        "Elles gagnent en visibilité dans ce milieu.",
+        "Elles remportent des compétitions mixtes.",
+        "Elles sont rabaissées par les hommes.",
+        "Elles sont victimes d’accidents fréquents."
+      ],
+      "optionTranslations": [
+        "They are gaining visibility in this environment.",
+        "They win mixed competitions.",
+        "They are belittled by men.",
+        "They are victims of frequent accidents."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "- En tant que philosophe, que répondez-vous à ceux qui s’inquiètent de voir évoluer les jeunes dans l’univers virtuel des nouvelles technologies ?\n- Rendez-vous compte que la culture est à la portée de chacun !\nQuel progrès !\nOn sait que les nouvelles technologies n’activent pas les mêmes régions du cerveau que les livres.\nCet organe évolue, de la même façon qu’il avait déjà révélé des capacités nouvelles lorsqu’on est passé de l’oral à l’écrit.\nQue faisaient nos neurones avant l’invention de l’écriture ?\nLes facultés cognitives ne sont pas stables chez l’homme, c’est très intéressant.\nC’est ma réponse aux vieux grognons qui accusent les jeunes de ne plus avoir de mémoire.\nIls jugent avec les facultés cognitives qui sont les leurs, sans admettre que le cerveau évolue.",
+      "question": "Quel est l’avis de ce philosophe concernant les nouvelles technologies ?",
+      "questionTranslation": "What is this philosopher's opinion regarding new technologies?",
+      "options": [
+        "Elles détruisent les cellules du cerveau.",
+        "Elles développent la mémoire à court terme.",
+        "Elles modifient nos processus cognitifs.",
+        "Elles provoquent la disparition de l’écriture."
+      ],
+      "optionTranslations": [
+        "They destroy brain cells.",
+        "They develop short-term memory.",
+        "They modify our cognitive processes.",
+        "They cause the disappearance of writing."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t37-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Les recherches actuelles sur la motivation indiquent que la confiance en ses capacités permet d’agir efficacement et joue un rôle crucial dans l’engagement et les performances d’un élève.\nCette confiance peut varier d’un domaine à l’autre ainsi que d’une matière scolaire à l’autre.\nTout comme on peut se sentir très à l’aise avec des instruments de musique, mais maladroit sur un terrain de basket, on peut se sentir très compétent en français, mais peu brillant en mathématiques.\nLes recherches ont montré que les élèves confiants en leurs capacités dans une matière choisissent de préférence des activités présentant pour eux un défi et leur donnant l’occasion de développer leurs habiletés.\nInversement, ils ont tendance à se désintéresser des activités dans lesquelles ils se sentent peu efficaces.",
+      "question": "Comment réagissent les élèves qui sont à l’aise dans certaines disciplines ?",
+      "questionTranslation": "How do students react who are comfortable in certain disciplines?",
+      "options": [
+        "Ils finissent par maîtriser l’ensemble des matières.",
+        "Ils font des efforts dans les autres matières étudiées.",
+        "Ils négligent les matières trop faciles pour eux.",
+        "Ils se fixent des objectifs élevés dans ces matières."
+      ],
+      "optionTranslations": [
+        "They end up mastering all subjects.",
+        "They make efforts in the other subjects studied.",
+        "They neglect subjects that are too easy for them.",
+        "They set high goals in these subjects."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t37-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "« Il faut te le dire en quelle langue ? »\nCette question, que des milliers de mères posent à leur enfant lorsqu’elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères).\nDes travaux scientifiques récents ont en effet démontré une réalité étonnante :\nnous réfléchissons et prenons des décisions différemment lorsque nous traitons l’information dans une autre langue que notre langue maternelle.\nNous comprenons tout aussi bien l’idée ou le problème, mais lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l’utilité.",
+      "question": "Que permet l’utilisation d’une langue autre que la langue maternelle ?",
+      "questionTranslation": "What does the use of a language other than the native language allow?",
+      "options": [
+        "D’attirer l’attention de l’interlocuteur.",
+        "D’imaginer des solutions originales.",
+        "De solliciter davantage la raison.",
+        "De trouver des réponses rapides."
+      ],
+      "optionTranslations": [
+        "To attract the interlocutor's attention.",
+        "To imagine original solutions.",
+        "To solicit reason more.",
+        "To find quick answers."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t37-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Au début de l’adolescence, vers 11-12 ans, les enfants aspirent à l’autonomie.\nC’est à cette période que les écrans jouent un rôle important au niveau de leur intégration sociale, mais aussi que les risques d’excès se profilent.\n« Les parents doivent abandonner leur position de prescription et passer à une position d’accompagnement. »\nLe docteur Huerre leur recommande donc d’explorer avec leur enfant les jeux qui l’intéressent et la manière qu’il a de circuler sur la toile, afin de faciliter les échanges.\n« Au lieu d’avoir peur des jeux vidéo, demandez-lui de vous les montrer et n’hésitez pas à jouer avec lui. Certains procurent un réel plaisir visuel et esthétique », conseille-t-il.",
+      "question": "Que préconise le médecin aux parents ?",
+      "questionTranslation": "What does the doctor recommend to parents?",
+      "options": [
+        "De participer à l’exploration du monde numérique",
+        "De restreindre le temps consacré aux jeux vidéo",
+        "De sélectionner des contenus adaptés aux enfants",
+        "De surveiller la navigation des jeunes sur la toile"
+      ],
+      "optionTranslations": [
+        "To participate in the exploration of the digital world",
+        "To restrict the time devoted to video games",
+        "To select content adapted to children",
+        "To monitor young people's navigation on the web"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Il est important d’alimenter l’imagination des enfants.\nDans cette perspective, les matériaux les moins finis sont plus intéressants que les jouets sophistiqués, car ils laissent à l’enfant l’espace nécessaire pour tenter de les transformer et pour développer ses capacités créatives.\nIl importe également de tenir compte du caractère de chaque enfant.\nCertains sont entreprenants, d’autres plus contemplatifs.\nCela ne signifie pas qu’ils ont un monde intérieur moins riche, mais que leur créativité s’exprime davantage dans la rêverie que dans l’action.\nAlimenter l’imagination des enfants, c’est leur ménager des moments d’ennui où ils auront à se remplir de leur inspiration.",
+      "question": "Selon cet article, que faut-il faire pour stimuler l’imagination des enfants ?",
+      "questionTranslation": "According to this article, what must be done to stimulate children's imagination?",
+      "options": [
+        "Leur donner le gout de l’observation.",
+        "Leur permettre d’inventer des activités.",
+        "Leur procurer des jeux éducatifs.",
+        "Leur proposer des énigmes à résoudre."
+      ],
+      "optionTranslations": [
+        "Give them a taste for observation.",
+        "Allow them to invent activities.",
+        "Provide them with educational games.",
+        "Propose riddles for them to solve."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t37-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "SUR LE CHEMIN DE LA BIO-CONSTRUCTION\nDepuis quelque temps, la conscience écologique s’est considérablement aiguisée.\nLes particuliers ont même une idée précise de ce qu’ils veulent comme habitat.\nEn conséquence, les projets de logement 100 % écologiques deviennent l’obsession de tous les cabinets d’architectes : construction basse consommation, rénovation énergétique, maison passive.\nIl s’agit maintenant d’adapter l’offre du marché et d’élargir les domaines de compétences des professionnels, notamment au sein des entreprises de construction.\nD’autant plus que, selon un grand nombre de spécialistes, la construction bio - quand elle est mise en œuvre - représente un gain pour tout le monde, pour le",
+      "question": "promoteur comme pour l’acheteur. Selon l’auteur, quel est le défi de la bioconstruction ?",
+      "questionTranslation": "According to the author, what is the challenge of bio-construction?",
+      "options": [
+        "Convaincre la clientèle ciblée.",
+        "Former les spécialistes du secteur.",
+        "Rentabiliser les projets à venir.",
+        "Restaurer d’anciens bâtiments."
+      ],
+      "optionTranslations": [
+        "Convincing the target clientele.",
+        "Training sector specialists.",
+        "Making future projects profitable.",
+        "Restoring old buildings."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t37-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Plutôt que de multiplier les tests et les mises en situation, certaines entreprises choisissent de déléguer la responsabilité du recrutement à leurs salariés.\n« Personnellement, je suis très favorable à la cooptation, affirme ce responsable.\nSi vous avez un bon élément dans votre équipe, vous avez une excellente chance qu’il vous amène un autre bon élément, ça permet de limiter les risques. »\nSigne des temps : la « cooptation » est aujourd’hui acceptée et revendiquée par tous.\nDans certaines entreprises, elle est même encouragée par une prime : 4000 euros sont versés à tout employé ayant recommandé un candidat recruté à son tour.",
+      "question": "En adoptant la cooptation pour le recrutement, que recherchent les entreprises ?",
+      "questionTranslation": "By adopting cooptation for recruitment, what are companies looking for?",
+      "options": [
+        "À gagner du temps.",
+        "À minimiser les aléas.",
+        "À réduire les frais.",
+        "À simplifier les procédures"
+      ],
+      "optionTranslations": [
+        "To save time.",
+        "To minimize hazards (risks).",
+        "To reduce costs.",
+        "To simplify procedures."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t37-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Sexistes, les jeux vidéo ? Peut-être que oui, peut-être que non.\nEn tout cas, à parcourir les allées de la Paris Games Week, l'œil avisé aura lui- même bien du mal à trouver un personnage principal féminin de jeu vidéo.\nIl y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure pour plaire à un certain nombre de joueurs masculins.\nPour le reste, circulez, il n'y a - presque - rien d'autre à voir, si l'on balaye d'un coup de manette de jeu, au mieux, les princesses à sauver, au pire, les call-girls de mafioso.\nPourtant, l'industrie du jeu vidéo a pris conscience ces dernières années du potentiel du marché des joueuses.",
+      "question": "Quel constat est dressé sur les jeux vidéo ?",
+      "questionTranslation": "What observation is made about video games?",
+      "options": [
+        "La quasi-absence d’héroïnes.",
+        "L’appel constant à la violence.",
+        "L’atténuation des clichés.",
+        "L’uniformité des scénarios."
+      ],
+      "optionTranslations": [
+        "The near-absence of heroines.",
+        "The constant appeal to violence.",
+        "The mitigation of clichés.",
+        "The uniformity of scenarios."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t37-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "L’avenir est dans la formation de la jeunesse, dans l’innovation, dans la recherche.\nPour prendre pleinement ses responsabilités, l’université de Nantes propose un nouveau modèle universitaire en France, décloisonné, qui rassemble les acteurs de l’enseignement supérieur et de la recherche (grandes écoles, organismes de recherche, centre hospitalier universitaire…).\nCe nouveau modèle remet au centre des préoccupations la question de l’accès à un enseignement supérieur qualitatif pour le plus grand nombre.\nIl a l’ambition de créer les conditions de réussite et d’épanouissement pour tous ses étudiants et de permettre des innovations majeures.\nAu travers de ce projet de nouvelle université, le président et son équipe défendent une vision innovante et proposent un nouveau modèle qui conjugue exigence et main tendue, excellence et lien social.",
+      "question": "Quel est l’objectif de cette université ?",
+      "questionTranslation": "What is the objective of this university?",
+      "options": [
+        "Attirer davantage d’étudiants brillants.",
+        "Être à la pointe de la technologie.",
+        "Ouvrir ses cours à un public élargi.",
+        "Proposer des disciplines inédites."
+      ],
+      "optionTranslations": [
+        "Attract more brilliant students.",
+        "Be at the cutting edge of technology.",
+        "Open its courses to a wider public.",
+        "Propose unseen disciplines."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t37-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Inexorablement, la cravate perd de sa superbe. Un abandon progressif constaté par Serge Carreira, maître de conférences à Sciences Po Paris et spécialiste du luxe et de la mode : on l’impose de moins en moins de manière systématique à tout le monde au sein d’une entreprise. Toutefois, il existe des secteurs qui résistent à la tendance. Dans le monde de la finance, dans la haute administration, la cravate reste quelque chose de statutaire, estime Serge Carreira. C’est un symbole d’autorité et de respect vis-à-vis de ses interlocuteurs, de ses clients… Un formalisme qui n’est pas toujours très bien compris par les principaux intéressés : Josselin travaille pour une banque d’entreprise, il n’est pas en contact avec les clients et pourtant il doit se plier à la règle.",
+      "question": "Pourquoi certains continuent-ils à porter la cravate au travail ?",
+      "questionTranslation": "Why do some continue to wear the tie at work?",
+      "options": [
+        "C’est un accessoire d’élégance masculine.",
+        "C’est un signe de reconnaissance entre pairs.",
+        "C’est une coutume en réunion.",
+        "C’est une marque de courtoisie."
+      ],
+      "optionTranslations": [
+        "It is an accessory of masculine elegance.",
+        "It is a sign of recognition between peers.",
+        "It is a custom in meetings.",
+        "It is a mark of courtesy."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t37-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "J’ai la naïveté de penser qu’un peu d’imagination n’est pas totalement absurde lorsqu’on écrit des romans. Or, à mon sens, l’imagination est le but de deux choses fondamentales : l’ennui, à qui on donne trop souvent un mauvais rôle, et l’observation, qui n’est pas seulement un terme médical. Il s’avère que le téléphone intelligent, ce charmant objet, si nécessaire, si vital, fait peu à peu disparaître ces deux activités de fainéants du cerveau humain que sont l’ennui et l’observation. Pourquoi s’ennuyer quand on peut regarder des vidéos de chatons ou des notifications Facebook de la plus haute importance dans une salle d’attente ? En somme, grâce à ce téléphone intelligent. Vous pouvez regarder en permanence le résultat de l’imagination brillante des autres (au détriment de la vôtre).",
+      "question": "Quelle est l’attitude de l’auteur vis-à-vis du téléphone intelligent ?",
+      "questionTranslation": "What is the author's attitude towards the smartphone?",
+      "options": [
+        "Il reconnaît ses aspects pratiques.",
+        "Il remet en cause ses bienfaits.",
+        "Il s’inquiète de son usage abusif.",
+        "Il s’émerveille de sa technologie."
+      ],
+      "optionTranslations": [
+        "He recognizes its practical aspects.",
+        "He questions its benefits.",
+        "He worries about its abusive use.",
+        "He marvels at its technology. Retry test All tests"
+      ],
+      "correctIndex": 1,
+      "answerDisputed": true
+    }
+  ]
+}

@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-38",
+  "title": "Test 38",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t38-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Marion,\nTu veux passer à la maison ce soir pour boire un verre ?\nOn peut aussi dîner ensemble et regarder un film Bisous, Stéphane",
+      "question": "Où Marion est-elle invitée ?",
+      "questionTranslation": "Where is Marion invited?",
+      "options": [
+        "Au cinéma.",
+        "Au restaurant.",
+        "Chez son ami.",
+        "Dans un bar."
+      ],
+      "optionTranslations": [
+        "To the cinema.",
+        "To a restaurant.",
+        "To her friend's place.",
+        "To a bar."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t38-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "De: standard@entreprise.fr À: duvaljulie@entreprise.fr Objet: message urgent\nRappelez monsieur Durand au 0147389188",
+      "question": "Que doit faire la destinataire de ce message ?",
+      "questionTranslation": "What must the recipient of this message do?",
+      "options": [
+        "Téléphoner au numéro donné.",
+        "Écrire un courriel de réponse.",
+        "Écouter le répondeur.",
+        "Contacter le standard."
+      ],
+      "optionTranslations": [
+        "Phone the given number.",
+        "Write a reply email.",
+        "Listen to the answering machine.",
+        "Contact the switchboard."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t38-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Cours de cuisine au restaurant Chez nous !\nOuverts aux petits et grands Pour réserver, appelez le 04 25 69 35 14.\nRendez-vous tous les mercredis de 16h30 à 18h, au 25 rue de la Grange, Bagneu.",
+      "question": "Comment est-ce qu'on peut s'inscrire à cette activité ?",
+      "questionTranslation": "How can one register for this activity?",
+      "options": [
+        "Par courrier.",
+        "Par téléphone.",
+        "Sur Internet.",
+        "Sur place."
+      ],
+      "optionTranslations": [
+        "By mail.",
+        "By phone.",
+        "On the Internet.",
+        "On site."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Des élèves français ont envoyé un message sur internet afin de recevoir des cartes postales du monde entier.\nIls ont reçu 8000 réponses. L'instituteur explique: « En classe, les élèves cherchent d'où viennent les cartes et ils découvrent des capitales et des pays. »",
+      "question": "Qu'est-ce que ces élèves font avec les cartes postales ?",
+      "questionTranslation": "What are these students doing with the postcards?",
+      "options": [
+        "Ils apprennent la géographie.",
+        "Ils invitent des amis à l’école.",
+        "Ils pratiquent des langues étrangères.",
+        "Ils préparent un voyage de classe."
+      ],
+      "optionTranslations": [
+        "They are learning geography.",
+        "They are inviting friends to school.",
+        "They are practicing foreign languages.",
+        "They are preparing a class trip."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t38-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "VISITE DU CHÂTEAU\nGratuit pour les moins de 12 ans.",
+      "question": "Quelle est l’information affichée sur ce panneau?",
+      "questionTranslation": "What information is displayed on this sign?",
+      "options": [
+        "Une adresse.",
+        "Une date.",
+        "Un horaire.",
+        "Un tarif."
+      ],
+      "optionTranslations": [
+        "An address.",
+        "A date.",
+        "A schedule.",
+        "A rate/price."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t38-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Le 21 mars prochain, l'événement Goût de France sera organisé dans des restaurants du monde entier.\n2 000 chefs préparent un dîner mettant à l'honneur les meilleures spécialités de la cuisine française.\nChoisissez vite votre table sur: http://france.fr/fr/gout-france-good-france",
+      "question": "Qu'est-ce qui est proposé aux lecteurs de cette annonce ?",
+      "questionTranslation": "What is proposed to the readers of this announcement?",
+      "options": [
+        "De cuisiner avec des professionnels.",
+        "De faire une réservation par Internet.",
+        "De gagner un repas gratuit pour deux.",
+        "De recevoir des recettes typiques."
+      ],
+      "optionTranslations": [
+        "To cook with professionals.",
+        "To make a reservation by Internet.",
+        "To win a free meal for two.",
+        "To receive typical recipes."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Je propose un 3 pièces en colocation à partir du septembre.\nProche de la gare Montparnasse, chauffage au gaz, un salon et 2 chambres.\nJe recherche une personne sérieuse, de préférence en école de commerce pour préparer les examens ensemble.\nSi vous êtes intéressé(e), appelez Rémi au 01.56.84.92.37.",
+      "question": "À qui s'adresse cette annonce ?",
+      "questionTranslation": "Who is this ad addressed to?",
+      "options": [
+        "À un commerçant.",
+        "À un étudiant.",
+        "À un professeur.",
+        "À un propriétaire."
+      ],
+      "optionTranslations": [
+        "To a merchant.",
+        "To a student.",
+        "To a professor.",
+        "To a landlord."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Chers étudiants,\nNous avons le plaisir de vous informer que notre centre vous offre moins 10 % sur le prix de ses cours de français.\nVous pouvez bénéficier de cette offre spéciale pour un stage d’une ou plusieurs semaines de juin à septembre.\nVous trouverez le calendrier et le programme des formations sur notre site :\nwww.coursdefrançais.org\nCordialement,\nN AN AN AN ADA,\nLa responsable des cours",
+      "question": "Dans ce message, que propose-t-on aux étudiants ?",
+      "questionTranslation": "In this message, what is proposed to the students?",
+      "options": [
+        "Une formation adaptée pendant les vacances",
+        "Une grande variété de cours intensifs",
+        "Une promotion spéciale pour un voyage",
+        "Une réduction sur des stages pendant l’été"
+      ],
+      "optionTranslations": [
+        "Adapted training during the holidays",
+        "A wide variety of intensive courses",
+        "A special promotion for a trip",
+        "A reduction on internships during the summer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t38-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Studio Céline\nL’école de danse « Studio Céline » ouvre ses portes au public le 16 septembre.\nC’EST GRATUIT : venez essayer nos cours toute la journée.\nAu programme : salsa, tango, danse moderne et un goûter (boissons et gâteaux) !",
+      "question": "Qu’est-ce que cette école de danse propose ?",
+      "questionTranslation": "What does this dance school offer?",
+      "options": [
+        "De participer à un concours",
+        "De tester des activités",
+        "De s’inscrire à un stage",
+        "De voir un spectacle"
+      ],
+      "optionTranslations": [
+        "To participate in a competition",
+        "To test activities",
+        "To register for a workshop",
+        "To see a show"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "L’Union européenne va offrir une « Carte Jeunes » aux étudiants du continent qui ont vingt ans cette année.\nPendant un mois maximum, les jeunes pourront prendre le train gratuitement pour visiter plus de quinze pays.",
+      "question": "Qu’est-ce qui est proposé aux jeunes Européens ?",
+      "questionTranslation": "What is proposed to young Europeans?",
+      "options": [
+        "Des visites de musées.",
+        "Des voyages en Europe.",
+        "Un mois de vacances.",
+        "Un semestre d’études."
+      ],
+      "optionTranslations": [
+        "Museum visits.",
+        "Trips in Europe.",
+        "A month of vacation.",
+        "A semester of studies."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Vous souhaitez vivre une expérience qui sort de l’ordinaire ?\nRéservez une nuit dans l’une de nos maisons dans les arbres !\nIntérieur confortable, sensation d’aventure, réveil aux bruits de la nature, tout est prévu pour un séjour inoubliable !",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this ad propose?",
+      "options": [
+        "De dormir au milieu de la nature.",
+        "De faire un parcours dans les arbres.",
+        "De participer à une aventure sportive.",
+        "De passer une nuit sous la tente."
+      ],
+      "optionTranslations": [
+        "To sleep in the middle of nature.",
+        "To do a tree-top course.",
+        "To participate in a sporting adventure.",
+        "To spend a night in a tent."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t38-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Selon les résultats d’un sondage, 7 Français sur 10 déclarent acheter régulièrement des produits bio.\nAvec, par ordre de préférence, les fruits et légumes, le lait et les produits laitiers, les œufs, l’épicerie, puis la viande.\nPour les deux tiers des personnes interrogées, la santé est l’argument prioritaire, devant les considérations écologiques.\nCe bond de la vente des produits bio doit beaucoup à l’intérêt des grandes surfaces pour ce marché qui rapporte, mais aussi au développement des enseignes spécialisées.\nCet appétit des Français a de quoi rassurer tous ceux qui pouvaient s’inquiéter des débouchés de la filière bio, suite aux nombreuses reconversions agricoles.",
+      "question": "D’après ce texte, pourquoi les Français consomment-ils des produits bio ?",
+      "questionTranslation": "According to this text, why do French people consume organic products?",
+      "options": [
+        "Pour éviter de tomber malades",
+        "Pour profiter de tarifs avantageux",
+        "Pour protéger l’environnement",
+        "Pour soutenir les paysans locaux"
+      ],
+      "optionTranslations": [
+        "To avoid getting sick",
+        "To take advantage of favorable prices",
+        "To protect the environment",
+        "To support local farmers"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t38-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Vous travaillez à la mairie de Rouen, vous êtes musicien et vous jouez d’un instrument depuis plusieurs années ?\nRejoignez l’orchestre des agents de la ville de Rouen !\nLes répétitions reprennent en septembre (à la fin des congés d’été) et ont lieu les jeudis entre 12 h et 13 h 30 au conservatoire de la ville.",
+      "question": "Qu’est-ce qui est proposé aux agents de la mairie ?",
+      "questionTranslation": "What is proposed to the city hall agents?",
+      "options": [
+        "D’assister à un concert à Rouen.",
+        "De devenir membre de l’orchestre municipal.",
+        "De suivre des cours de musique à la rentrée.",
+        "De visiter le conservatoire."
+      ],
+      "optionTranslations": [
+        "To attend a concert in Rouen.",
+        "To become a member of the municipal orchestra.",
+        "To take music lessons at the start of the school year.",
+        "To visit the conservatory."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Après les cartes de cinéma illimitées, la carte Scène+ !\nParis est la première ville à tester cette formule : des places à tarifs réduits à utiliser quand on veut, dans quarante théâtres environ, pour aller voir plus de 150 pièces. On achète la carte, valable un mois ou un semestre et on peut aller dans les petites scènes de théâtre parisiennes qui accueillent surtout des comédies populaires plutôt que des pièces classiques.",
+      "question": "Que peut-on faire avec la carte Scène+ ?",
+      "questionTranslation": "What can one do with the Scène+ card?",
+      "options": [
+        "Assister à des spectacles",
+        "Obtenir de meilleures places",
+        "Rencontrer des comédiens",
+        "Suivre des visites guidées"
+      ],
+      "optionTranslations": [
+        "Attend shows",
+        "Get better seats",
+        "Meet actors",
+        "Follow guided tours"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t38-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Vous voulez aller à la montagne en hiver mais vous n'aimez pas skier ?\nCe n'est pas un problème: il y a d'autres possibilités !\nVenez chez nous à Seillac: paysages magnifiques, marches dans la neige, piscine et installations sportives disponibles.",
+      "question": "Qu'est-ce que cette publicité propose?",
+      "questionTranslation": "What does this advertisement offer?",
+      "options": [
+        "Des activités de loisir.",
+        "Des vacances à la campagne.",
+        "Un cours de natation.",
+        "Une promenade avec un guide."
+      ],
+      "optionTranslations": [
+        "Leisure activities.",
+        "Holidays in the countryside.",
+        "A swimming lesson.",
+        "A walk with a guide."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t38-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Amélie,\nPour le concert ce soir, on se retrouve à 19h30 devant le bar rue Daunou.\nIl y a un grand restaurant à côté, tout près du théâtre de l’Odéon.\nLe concert commence à 20 h 30.",
+      "question": "Sarah Que vont faire les deux femmes ce soir ?",
+      "questionTranslation": "What are the two women going to do tonight?",
+      "options": [
+        "Aller dans un bar.",
+        "Assister à un spectacle.",
+        "Dîner au restaurant.",
+        "Voir une pièce de théâtre."
+      ],
+      "optionTranslations": [
+        "Go to a bar.",
+        "Attend a show.",
+        "Dine at a restaurant.",
+        "See a play."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "En hiver et à l’extérieur, pour piloter n’importe quel appareil à écran tactile, il faut enlever ses gants, au risque d’attraper des engelures par les temps de grand froid.\nPlus de risque de se geler les mains désormais avec ce modèle de gants en chevreau doublé de soie. Les perforations au niveau de l’index permettent un meilleur contact avec l’écran tactile.\nOn pourra être à la pointe de la technologie et de la mode. Mais être à la page a un prix : la paire de gants est plus chère que l’appareil à écran tactile : 370 euros.",
+      "question": "Quelle est la particularité de ces gants ?",
+      "questionTranslation": "What is the distinctive feature of these gloves?",
+      "options": [
+        "Ils évitent de rayer les appareils à écran tactile",
+        "Ils permettent un contact direct avec un écran tactile",
+        "Ils sont équipés de capteurs reliés à un écran tactile",
+        "Ils sont offerts lors de l’achat d’un écran tactile"
+      ],
+      "optionTranslations": [
+        "They prevent scratching touchscreen devices",
+        "They allow direct contact with a touchscreen",
+        "They are equipped with sensors connected to a touchscreen",
+        "They are offered as a gift when purchasing a touchscreen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La question de l’orientation est fondamentale et se pose inévitablement au moment de commencer des études universitaires.\nComment faire le bon choix ?\nSur quelles bases ?\nQuel parcours sera le mieux adapté à la personnalité scolaire et psychologique, aux capacités de l’étudiant ?\nUn livre, édité par le magazine l’Étudiant, propose une démarche progressive qui aide à définir un projet en fonction des goûts et d’un objectif professionnel.",
+      "question": "Que peut-on trouver dans ce livre ?",
+      "questionTranslation": "What can be found in this book?",
+      "options": [
+        "Des idées de stages en entreprises",
+        "Un guide des démarches d’inscription",
+        "Une méthode pour choisir une formation",
+        "Une sélection des meilleures universités"
+      ],
+      "optionTranslations": [
+        "Ideas for internships in companies",
+        "A guide to registration procedures",
+        "A method for choosing a training course",
+        "A selection of the best universities"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t38-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Des études de marché récentes montrent que les frites signent leur grand retour. Leur côte de popularité ne se dément pas, mais elles doivent être préparées dans les règles de l’art : pour des frites dorées, moelleuses dedans, croquantes dehors, il faut les cuire puis les frire en deux temps.\nSi la Belgique et la France se disputent la paternité, on n’en a toujours pas trouvé l’origine, avec le bond spectaculaire du burger dont elles sont l’accompagnement idéal, les frites sont fortement consommées au restaurant.",
+      "question": "Que révèle cet article sur les frites ?",
+      "questionTranslation": "What does this article reveal about fries?",
+      "options": [
+        "L’origine historique de la recette.",
+        "Le secret d’une bonne préparation.",
+        "Les adresses où les consommer.",
+        "Les raisons de leur popularité."
+      ],
+      "optionTranslations": [
+        "The historical origin of the recipe.",
+        "The secret of a good preparation.",
+        "The addresses where to consume them.",
+        "The reasons for their popularity."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les jours rallongent, la température monte, les arbres sont en fleurs, bref… l’été approche, et les grandes vacances aussi.\nMais savez-vous déjà comment vos enfants vont passer ces deux mois ?\nIls ont un besoin vital de se détendre et ils sont curieux de tout.\nDe votre côté, vous cherchez des solutions pratiques et des vacances intelligentes et sûres.\nNous vous proposons des ateliers scientifiques passionnants dans des centres de vacances rigoureusement sélectionnés.\nAlors, appelez-nous vite !",
+      "question": "Qu’offrent ces centres de vacances ?",
+      "questionTranslation": "What do these holiday centers offer?",
+      "options": [
+        "Des cours de rattrapage scolaires en sciences.",
+        "Des activités de découverte de la nature.",
+        "Des stages de travail en laboratoire.",
+        "Des séjours alliant détente et découvertes."
+      ],
+      "optionTranslations": [
+        "Remedial school courses in sciences.",
+        "Nature discovery activities.",
+        "Work internships in a laboratory.",
+        "Stays combining relaxation and discoveries."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t38-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les bons vieux bancs verts sur les trottoirs parisiens ont de la concurrence.\nDepuis le mois de décembre, sur certains boulevards, un nouveau mobilier urbain a fait son apparition, avec 12 modèles de banquettes, chaises et tabourets.\nPour la première fois, la ville de Paris recueille l’avis des usagers et des riverains.\nLe traditionnel banc en fonte et bois a-t-il encore de l’avenir au milieu de ce mobilier futuriste ?",
+      "question": "Quelle est l’originalité de ce projet ?",
+      "questionTranslation": "What is the originality of this project?",
+      "options": [
+        "La priorité donnée à l’aspect écologique.",
+        "La prise en compte de l’opinion publique.",
+        "Le caractère provisoire de l’installation",
+        "Le choix des matériaux de fabrication"
+      ],
+      "optionTranslations": [
+        "The priority given to the ecological aspect.",
+        "Taking public opinion into account.",
+        "The temporary nature of the installation.",
+        "The choice of manufacturing materials."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Pendant un an, la journaliste allemande Greta Taubert a décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle a bu, mangé, s’est habillée sans payer : elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l’auto-stop. « Aujourd’hui, je suis contente de ne plus vivre aussi radicalement, c’était difficile, mais je cherche à intégrer dans mon quotidien ce que j’ai appris », explique-t-elle ?\nD'après linternaute.com",
+      "question": "Quel est le constat de Greta Taubert après cette expérience ?",
+      "questionTranslation": "What is Greta Taubert's observation after this experience?",
+      "options": [
+        "C’est possible à la campagne.",
+        "C’est possible avec du temps.",
+        "C’est possible, mais pénible.",
+        "C’est possible pour tous."
+      ],
+      "optionTranslations": [
+        "It is possible in the countryside.",
+        "It is possible with time.",
+        "It is possible, but arduous.",
+        "It is possible for everyone."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t38-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Un salarié qui avale un sandwich devant l'écran en guise de pause déjeuner offre à son employeur 128 heures de travail non rémunéré, soit seize jours pleins, ont calculé des chercheurs britanniques.\nInterrogés sur leurs motivations, ces salariés expliquent se sentir trop coupables de s'arrêter de travailler. En ces temps de compétition exacerbée entre les salariés, ce serait interprété comme un manque d'efficacité. Un médecin rappelle pourtant que « faire des pauses régulières, se lever et marcher aide à s'aérer l'esprit » pendant sa journée de travail. « Prendre une pause déjeuner prépare à une après-midi productive », poursuit-il.\nD'après lexpress.fr",
+      "question": "D'après cet article, pourquoi certains salariés travaillent-ils pendant la pause déjeuner ?",
+      "questionTranslation": "According to this article, why do some employees work during their lunch break?",
+      "options": [
+        "Pour améliorer leur situation financière.",
+        "Pour donner une bonne image d’eux.",
+        "Pour exécuter les ordres de la direction.",
+        "Pour quitter leur entreprise plus tôt."
+      ],
+      "optionTranslations": [
+        "To improve their financial situation.",
+        "To give a good image of themselves.",
+        "To execute management's orders.",
+        "To leave their company earlier."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Journée « Portes Ouvertes » à Polytech Tours.\nVenez rencontrer les étudiants, enseignants et associations de Polytech Tours.\nLe samedi 12 février, de 9 h à 16 h sans interruption.\nEspaces d’information présents sur les trois sites de l’école.\nPrésentation des études et des métiers d’ingénieur par les responsables des spécialités sur chaque site.\nVisites guidées des salles de travaux pratiques, des centres de documentation, des laboratoires de recherche et de langues.\nDémonstration des projets réalisés dans nos cursus.\nPrésentation des associations étudiantes.",
+      "question": "Quel est l’objectif de cette journée ?",
+      "questionTranslation": "What is the objective of this day?",
+      "options": [
+        "Découvrir le travail de recherche en laboratoire.",
+        "Faire découvrir les formations pour devenir ingénieur.",
+        "Inaugurer l’ouverture d’un campus universitaire.",
+        "Obtenir des conseils afin de créer une association."
+      ],
+      "optionTranslations": [
+        "To discover research work in a laboratory.",
+        "To help discover the training courses to become an engineer.",
+        "To inaugurate the opening of a university campus.",
+        "To obtain advice in order to create an association."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le syndrome d'épuisement professionnel est-il uniquement lié au monde du travail ? Si l'on considère la sphère privée, certains médecins préfèrent utiliser le terme de surcharge mentale. Pour le docteur Marie-Pierre Guilho-Bailly, médecin-psychiatre spécialisée en pathologie professionnelle, il est indispensable de ne pas étendre le concept de ce syndrome à toutes les situations d'épuisement engendrées par la vie personnelle, familiale ou sociale.\nÀ son sens, le seul syndrome d'épuisement professionnel qui puisse être retenu concernant le milieu familial renvoie au travail des aidants familiaux. Toutefois, des études tendent à montrer que les symptômes peuvent survenir également dans la vie personnelle, notamment chez certains parents particulièrement épuisés.",
+      "question": "Qu'apprend-on à propos du syndrome d'épuisement professionnel ?",
+      "questionTranslation": "What do we learn about professional burnout syndrome?",
+      "options": [
+        "Il demande une prise charge médicale.",
+        "Il peut s’étendre au domaine personnel.",
+        "Il suscite un consensus parmi les spécialistes.",
+        "Il touche surtout les aides-soignants."
+      ],
+      "optionTranslations": [
+        "It requires medical management.",
+        "It can extend to the personal domain.",
+        "It generates consensus among specialists.",
+        "It affects mostly nursing assistants."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "FILM DOCUMENTAIRE « TISSEUSES DE RÊVES »\nMères, filles, grand-mères, une poignée de femmes berbères travaillent dur aux tâches domestiques comme à la fabrication de tapis traditionnels.\nDans une économie autarcique, elles restent sans autonomie financière, ni reconnaissance de leur talent.\nElles veulent farouchement s’arracher à leur condition et offrir études et avenir à leurs enfants.\nD’Essaouira sur la côte atlantique, leur parviennent les nouvelles de femmes, semblables à elles, qui ont créé des coopératives de production d’huile d’argan et changé leurs vies.\nTaaborth et Erkia partent en exploratrices et, éblouies, rapportent à leurs sœurs les images de ce premier voyage hors de leurs montagnes et un espoir.",
+      "question": "De quoi traite le documentaire sur les femmes berbères ?",
+      "questionTranslation": "What is the documentary on Berber women about?",
+      "options": [
+        "De l’éducation des plus jeunes.",
+        "De la transmission d’un savoir-faire.",
+        "De la volanté d’émancipation.",
+        "Du rapport entre les générations."
+      ],
+      "optionTranslations": [
+        "The education of the youngest.",
+        "The transmission of know-how.",
+        "The will for emancipation.",
+        "The relationship between generations."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t38-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Quand on choisit une voiture, on compare les prix et les performances avant de faire son choix. Mais quand il s'agit d'une prothèse de hanche ou de sein, on prend ce que le spécialiste impose. On ne se sent souvent ni le droit, ni le courage, ni la capacité de vérifier si le matériel proposé est le plus adapté ou si le médecin est sous influence des fabricants. Ce qui explique cette confiance totale accordée au médecin. Cet abandon du patient à son médecin ou à l'hôpital exigent donc en retour une éthique et un professionnalisme sans faille de l'univers médical qui doit notamment se protéger du marketing très agressif des fabricants du matériel.",
+      "question": "D'après Le Soir Que souligne l'article au sujet des prothèses ?",
+      "questionTranslation": "What does the article highlight regarding prostheses?",
+      "options": [
+        "Le coût des dispositifs pose un problème d’éthique.",
+        "Le respect de la déontologie médicale est primordial.",
+        "Les fabricants d’implants doivent signer une charte",
+        "Les patients ont le devoir de s’informer davantage."
+      ],
+      "optionTranslations": [
+        "The cost of devices poses an ethical problem.",
+        "Respect for medical ethics is primordial.",
+        "Implant manufacturers must sign a charter.",
+        "Patients have a duty to inform themselves more."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Est-on plus heureux\nquand on est riche?\nquand on croit en Dieu?\nquand on vit en couple?\nDepuis quelques décennies, de nombreuses recherches concernant le bien-être sont menées sur les facteurs sociaux et psychologiques quil favorisent ou non le bonheur. On pourrait penser que le bien- être est un phénomène subjectif, inaccessible donc à l'investigation scientifique et à la mesure. Or, grâce à des instruments divers mis en place depuis plus de trente ans pour mesurer le niveau de satisfaction de vie des individus et des populations, des méthodologies diverses ont été mises au point pour permettre de mesurer la qualité de vie telle qu'elle est perçue.",
+      "question": "Qu'apprend-on sur le bien-être dans cet article ?",
+      "questionTranslation": "What do we learn about well-being in this article?",
+      "options": [
+        "C’est un état difficile à évaluer chez une personne.",
+        "Des outils ont été élaborés pour en estimer l’intensité.",
+        "Les enquêtes dont c’est le sujet sont innombrables.",
+        "Malgré des études sérieuses, l’analyse est impossible."
+      ],
+      "optionTranslations": [
+        "It is a state difficult to evaluate in a person.",
+        "Tools have been developed to estimate its intensity.",
+        "The surveys on this subject are innumerable.",
+        "Despite serious studies, analysis is impossible."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q29",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Parcourir les routes d’Europe l’été, beaucoup de touristes le font sans forcément connaître les règles en vigueur dans chacun des pays.\nCe qu’il faut savoir, c’est qu’il existe des différences qui peuvent être notables selon les législations.\nAlors que la vitesse maximale sur autoroute est de 130 km/h en France, elle n’est que de 120 km/h en Belgique, en Espagne ou au Portugal.\nQuant au taux d’alcoolémie toléré, il varie de 0.8 g/l en Irlande à zéro en",
+      "question": "République tchèque. Que fait l’auteur de cet article ?",
+      "questionTranslation": "What is the author of this article doing?",
+      "options": [
+        "Il commente une loi.",
+        "Il donne un conseil.",
+        "Il formule une plainte.",
+        "Il raconte une anecdote."
+      ],
+      "optionTranslations": [
+        "He comments on a law.",
+        "He gives advice.",
+        "He formulates a complaint.",
+        "He tells an anecdote."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Quelques astuces pour optimiser les révisions.\nLors des révisions pour un examen, l'acquisition des connaissances s'opère plus facilement en jonglant avec la mémoire visuelle et la mémoire auditive. Comme la part des deux peut varier d'une personne à l'autre, c'est à chacun de mesurer la méthode qui lui paraît la plus efficace. Il est inutile d'intégrer des notions par cœur: mieux vaut se détacher des termes employés, pour s'approprier les connaissances et les exprimer différemment. Enfin, une bonne hygiène de vie et des activités variéesl constituent un gage de réussite et permettent de limiter le stress : il est indispensable de s'aérer l'esprit et de faire des pauses.",
+      "question": "D'après cette personne, que faut-il éviter de faire lorsque l'on révise ?",
+      "questionTranslation": "According to this person, what should one avoid doing when revising?",
+      "options": [
+        "Mémoriser des concepts sans les comprendre.",
+        "Multiplier les méthodes d’apprentissage.",
+        "S’autoriser des pauses fréquemment.",
+        "Se disperser dans de nombreuses activités"
+      ],
+      "optionTranslations": [
+        "Memorizing concepts without understanding them.",
+        "Multiplying learning methods.",
+        "Allowing oneself frequent breaks.",
+        "Scattering oneself in numerous activities."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t38-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Là où leurs prédécesseurs rêvaient d'un contrat à durée indéterminée, les Millennials (génération née entre 1980 et 2000) sont en quête d'expériences diversifiées.\nBeaucoup ont déjà connu le chômage et ont conscience de l'obsolescence de leurs compétences et de leur diplôme, d'où leur sentiment de n'avoir rien à perdre.\nL'heure n'est plus à la relation de subordination, mais à la coopération.\nAu quotidien, il y a de quoi déconcerter les managers.\nUn Millennial accepte qu'on lui explique le sens du travail, mais pas la manière de le faire.\nFace à ces collaborateurs qui font rimer le bien-être professionnel avec connexion, confiance, autonomie et flexibilité, il faut en finir avec le syndrome de la hiérarchie pyramidale.",
+      "question": "Qu’apprend-on sur les Millennials dans le monde du travail ?",
+      "questionTranslation": "What do we learn about Millennials in the world of work?",
+      "options": [
+        "Ils bouleversent les rapports d’autorité.",
+        "Ils évitent les postes à responsabilité.",
+        "Ils sont moins motivés que leurs aînés.",
+        "Ils tiennent à la stabilité de l’emploi."
+      ],
+      "optionTranslations": [
+        "They disrupt authority relationships.",
+        "They avoid positions of responsibility.",
+        "They are less motivated than their elders.",
+        "They value job stability."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t38-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Le numérique bouleverse profondément l’enseignement, mais, d’après le philosophe Marcel Gauchet, on aura plus que jamais besoin de professeurs et d’écoles.\nExcellent moyen de stimuler la curiosité, le numérique pousse à chercher, à creuser encore.\nSurtout, il enseigne une chose essentielle : personne ne sait et, nulle part, il n’existe de détenteur ultime du savoir.\nAinsi, les élèves sont de plus en plus en contact avec des sources hétéroclites et cela constitue un changement majeur en termes pédagogiques.\nL’enseignant est alors celui qui va expliquer qu’il existe plusieurs versions d’une même chose et que savoir, c’est se confronter à l’incertitude et non réciter bêtement des connaissances.",
+      "question": "Selon Marcel Gauchet, quel va être le rôle de l’enseignant auprès des élèves ?",
+      "questionTranslation": "According to Marcel Gauchet, what will be the teacher's role with the students?",
+      "options": [
+        "Développer leur esprit critique.",
+        "Encourager les débats entre eux.",
+        "Enrichir leur capacité mémorielle.",
+        "Évaluer régulièrement leurs acquis."
+      ],
+      "optionTranslations": [
+        "Develop their critical thinking.",
+        "Encourage debates between them.",
+        "Enrich their memory capacity.",
+        "Regularly evaluate their acquisitions."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t38-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Certains économistes spécialisés dans la politique en matière de mobilité estiment que la gratuité des transports en commun n'est pas souhaitable. Pour eux, la question de savoir qui va les financer est un peu simpliste: « La gratuité existe déjà dans notre pays. Il y a une quinzaine de réseaux en dehors de l'île- de-France qui le font déjà totalement. Le problème actuel est celui des ressources. En effet, les réseaux des grandes métropoles ne sont pas formatés pour pouvoir absorber ce supplément de fréquentation.\nEt donc de ce point de vue, il n'est pas possible de se poser la question de la gratuité, avant de savoir quelle offre sera proposée aux usagers qui voyagent sur",
+      "question": "le réseau. » D'après ces spécialistes, quel est le fond du problème de la gratuité des transports ?",
+      "questionTranslation": "According to these specialists, what is the fundamental problem with free transport?",
+      "options": [
+        "L’absence de modèle comparatif de mobilité.",
+        "La déresponsabilisation des usagers.",
+        "Le déficit provoqué par son financement.",
+        "Le risque de saturation des réseaux."
+      ],
+      "optionTranslations": [
+        "The lack of a comparative mobility model.",
+        "The lack of responsibility of users.",
+        "The deficit caused by its funding.",
+        "The risk of network saturation."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t38-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "SUR LE CHEMIN DE LA BIO-CONSTRUCTION\nDepuis quelque temps, la conscience écologique s’est considérablement aiguisée.\nLes particuliers ont même une idée précise de ce qu’ils veulent comme habitat.\nEn conséquence, les projets de logement 100 % écologiques deviennent l’obsession de tous les cabinets d’architectes : construction basse consommation, rénovation énergétique, maison passive.\nIl s’agit maintenant d’adapter l’offre du marché et d’élargir les domaines de compétences des professionnels, notamment au sein des entreprises de construction.\nD’autant plus que, selon un grand nombre de spécialistes, la construction bio - quand elle est mise en œuvre - représente un gain pour tout le monde, pour le",
+      "question": "promoteur comme pour l’acheteur. Selon l’auteur, quel est le défi de la bioconstruction ?",
+      "questionTranslation": "According to the author, what is the challenge of bio-construction?",
+      "options": [
+        "Convaincre la clientèle ciblée.",
+        "Former les spécialistes du secteur.",
+        "Rentabiliser les projets à venir.",
+        "Restaurer d’anciens bâtiments."
+      ],
+      "optionTranslations": [
+        "Convincing the target clientele.",
+        "Training sector specialists.",
+        "Making future projects profitable.",
+        "Restoring old buildings."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "L’homme est de noir vêtu. Son crâne, nu, joue avec la lumière. Tout est dit, tout est là, dans ce jeu d’ombre et de clarté qui fait d’un bâtisseur un poète. Jean Nouvel façonne le mystère pour insuffler du vivant aux édifices au cœur de pierre et bâtit sans dénaturer. Cet architecte éclairé n’érige rien, il convie cette émotion, suscite une apparition pour sa dernière création, il découvre une ville- musée aux formes douces, un dôme qui semble né des mains d’une dentellière.\nLe dôme repose sur quatre piliers pour gagner en légèreté et s’allier au paysage, trait d’union avec les nuages.",
+      "question": "Quelle particularité de Jean Nouvel est louée dans cet article ?",
+      "questionTranslation": "Which particularity of Jean Nouvel is praised in this article?",
+      "options": [
+        "Sa technique puise dans divers mouvements artistiques.",
+        "Ses œuvres se fondent dans leur environnement.",
+        "Son inspiration provient de ses nombreuses lectures.",
+        "Son savoir-faire met en valeur des procédés connus."
+      ],
+      "optionTranslations": [
+        "His technique draws from various artistic movements.",
+        "His works blend into their environment.",
+        "His inspiration comes from his numerous readings.",
+        "His expertise highlights known processes."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t38-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Imaginez un instant que nos espaces de travail soient inadaptés à la moitié des salariés : vous trouveriez cela pour le moins troublant, voire inacceptable.\nC'est pourtant le cas pour les personnes introverties qui, selon des recherches, représentent entre un tiers et la moitié de la population mondiale.\nTravail de groupe, réseaux sociaux, « open space » : l'économie moderne exige d'interagir, faisant de l'aisance en public un avantage non négligeable dans le milieu professionnel.\nLes cultures d'entreprises qui mettent constamment en avant les échanges avec autrui finissent par dévaloriser l'identité des introvertis dont les capacités ne sont pas suffisamment sollicitées.",
+      "question": "Que dénonce l'auteur de cet article ?",
+      "questionTranslation": "What does the author of this article denounce?",
+      "options": [
+        "La primauté de l’apparence sur les compétences.",
+        "Le corporatisme pousse de certaines sociétés.",
+        "Le manque de formation aux nouvelles technologies.",
+        "Les principes actuels d’organisation du travail."
+      ],
+      "optionTranslations": [
+        "The primacy of appearance over skills.",
+        "The extreme corporatism of certain societies.",
+        "The lack of training in new technologies.",
+        "The current principles of work organization."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t38-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Les champs de mise en œuvre des robots sont légion : production, services, gestion des données, vie urbaine, sécurité, loisirs, domotique.\nLeur arrivée donne lieu à des transformations inédites et à des problématiques nouvelles, souvent mythifiées.\nUn univers professionnel où tout serait régi par des robots ? Voilà qui est encore loin de la réalité.\nSi l’automatisation a fait disparaître des emplois, elle en a aussi créé d’autres.\nSurtout, elle a bouleversé le fonctionnement de l’entreprise, faisant peser une forte pression sur les salariés, tenus de maintenir la continuité de la production dans des processus toujours plus complexes.",
+      "question": "Quelle est la conséquence de la robotisation dans le monde professionnel ?",
+      "questionTranslation": "What is the consequence of robotization in the professional world?",
+      "options": [
+        "Elle a accru la compétitivité industrielle.",
+        "Elle a amélioré les conditions de travail.",
+        "Elle a enrayé la hausse du chômage.",
+        "Elle a modifié l’organisation du travail."
+      ],
+      "optionTranslations": [
+        "It increased industrial competitiveness.",
+        "It improved working conditions.",
+        "It halted the rise in unemployment.",
+        "It modified the organization of work."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t38-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Utiliser la comédie, le mime ou la danse pour sensibiliser les riverains, les responsables des établissements, les usagers de la Nuit aux nuisances sonores?\nTelle est la mission novatrice des Pierrots de la Nuit, ces nouvelles « brigades d'intervention artistiques nocturnes » qui sensibilisent le public de nuit.\nL'originalité de la méthode interpelle, les noctambules s'interrogent: qui sont les Pierrots de la Nuit? Que font-ils et pourquoi? L'art de rue n'est pas ressenti comme une agression, en revanche il force l'écoute et le respect. Le silence n'est pas une répression mais une forme de partage.",
+      "question": "Quel est l'objectif poursuivi par les pierrots de la nuit ?",
+      "questionTranslation": "What is the objective pursued by the Pierrots of the Night?",
+      "options": [
+        "Améliorer la cohabitation entre les habitants et les noctambules.",
+        "Attirer les spectateurs parisiens vers les spectacles de rue.",
+        "Développer un nouveau concept de lieux silencieux.",
+        "Relancer la fréquentation nocturne des quartiers réservés."
+      ],
+      "optionTranslations": [
+        "To improve cohabitation between residents and night owls.",
+        "To attract Parisian spectators to street shows.",
+        "To develop a new concept of silent places.",
+        "To revive the nightlife attendance of reserved districts."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t38-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Le nombre de travailleurs indépendants progresse : il devient simple d’être à son compte, avec pour unique outil un ordinateur.\nMais le risque est de se retrouver coupé des autres. Or, notre créativité et notre productivité sont dépendantes des rencontres que nous faisons.\nConserver un lien social est indispensable à notre bien-être, donc à notre travail.\nL’espace partagé de travail se présente comme une solution : il favorise les moments de détente et les contacts professionnels.\nD’ailleurs, les travailleurs utilisant ces espaces s’associent souvent temporairement pour répondre à une mission. Ces aménagements pourraient donc devenir essentiels à de nombreux jeunes diplômés.",
+      "question": "Sur quoi cet article insiste-t-il ?",
+      "questionTranslation": "What does this article insist on?",
+      "options": [
+        "L’importance de la gestion des ressources humaines.",
+        "L’intérêt d’éviter les inconvénients liés à l’isolement.",
+        "La facilité de réaliser des projets communs à distance.",
+        "La nécessité de souder les équipes dans une entreprise."
+      ],
+      "optionTranslations": [
+        "The importance of human resources management.",
+        "The interest in avoiding the drawbacks related to isolation.",
+        "The ease of carrying out common projects remotely.",
+        "The necessity to bond teams in a company. Retry test All tests"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

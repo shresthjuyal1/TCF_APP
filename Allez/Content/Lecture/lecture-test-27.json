@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-27",
+  "title": "Test 27",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t27-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Salut Hamza,\nÇa y est ! J’ai commencé mon tour du monde !\nJe viens d’arriver à Montréal, il fait très beau et l’hôtel est génial !\nJe pars aux États-Unis jeudi !\nJ’espère que tout va bien au bureau.\nBises,",
+      "question": "Antoine De quoi parle ce message ?",
+      "questionTranslation": "What is this message about?",
+      "options": [
+        "D’un déménagement.",
+        "D’un grand voyage.",
+        "D’une réunion de travail.",
+        "D’une sortie culturelle."
+      ],
+      "optionTranslations": [
+        "A move.",
+        "A big trip.",
+        "A work meeting.",
+        "A cultural outing."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t27-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Le musée cherche un guide.\nVous aimez la peinture, la sculpture et vous êtes disponible le week-end entre 14h et 20h.\nPour plus d’informations, allez sur notre site Internet.\nSi vous êtes intéressé(e), envoyez votre CV à direction@musee.maville.com.",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this ad offer?",
+      "options": [
+        "Des informations culturelles.",
+        "Des visites en ligne gratuites.",
+        "Un cours d’initiation à l’art.",
+        "Un travail à temps partiel."
+      ],
+      "optionTranslations": [
+        "Cultural information.",
+        "Free online visits.",
+        "An introductory art course.",
+        "A part-time job."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Lyon, le 22 juin 2011\nMadame,\nSuite à votre courrier du 17 juin dernier, je vous envoie le catalogue de nos produits.\nTrès cordialement,\nSophie Leloux\nService clientèle",
+      "question": "Pourquoi est-ce que Sophie Leloux écrit cette lettre ?",
+      "questionTranslation": "Why is Sophie Leloux writing this letter?",
+      "options": [
+        "Elle cherche une vendeuse.",
+        "Elle demande un renseignement.",
+        "Elle informé une cliente.",
+        "Elle prend un rendez-vous."
+      ],
+      "optionTranslations": [
+        "She is looking for a saleswoman.",
+        "She is asking for information.",
+        "She is informing a customer.",
+        "She is making an appointment."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t27-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "PARTICIPEZ À NOTRE GRAND JEU !\nREMPLISSEZ UN FORMULAIRE À L’ACCUEIL DU MAGASIN.\n10 CLIENTS SERONT SÉLECTIONNÉS.\nILS GAGNERONT UN SUPERBE CADEAU POUR LEUR CUISINE !\nLISTE DES CADEAUX DISPONIBLE SUR WWW.GRANDJEU.FR",
+      "question": "Que faut-il faire pour participer à ce jeu ?",
+      "questionTranslation": "What must be done to participate in this game?",
+      "options": [
+        "Compléter une fiche.",
+        "Proposer une recette.",
+        "Répondre à une question.",
+        "S’inscrire sur Internet."
+      ],
+      "optionTranslations": [
+        "Complete a form.",
+        "Propose a recipe.",
+        "Answer a question.",
+        "Register on the Internet."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t27-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Antoine, s’il te plaît, viens dans mon bureau après la réunion.\nMerci,\nLudovic",
+      "question": "Que doit faire Antoine ?",
+      "questionTranslation": "What must Antoine do?",
+      "options": [
+        "Apporter un document",
+        "Organiser un entretien",
+        "Rencontrer un collègue",
+        "Téléphoner à Ludovic"
+      ],
+      "optionTranslations": [
+        "Bring a document",
+        "Organize an interview",
+        "Meet a colleague",
+        "Call Ludovic"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t27-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Chère Corinne,\nÀ partir de la semaine prochaine, le magasin Zoreilles n’ouvrira plus le samedi matin.\nC’est dommage.\nPar contre, il ouvrira le vendredi jusqu’à 22 heures.\nC’est parfait pour nous.\nEst-ce que tu veux y faire un tour avec moi vendredi prochain ?",
+      "question": "Nathalie Que veut faire Nathalie avec Corinne ?",
+      "questionTranslation": "What does Nathalie want to do with Corinne?",
+      "options": [
+        "Aller dans une boutique.",
+        "Faire une fête ensemble.",
+        "Vendre des vêtements.",
+        "Voir une exposition de bijoux."
+      ],
+      "optionTranslations": [
+        "Go to a shop.",
+        "Have a party together.",
+        "Sell clothes.",
+        "See a jewelry exhibition."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t27-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "GRANDE MARCHE POUR DÉFENDRE NOS EMPLOIS MARDI 12 JUIN\nVENEZ NOMBREUX\nDÉPART PLACE DES NATIONS DEVANT LE CENTRE DES CONGRÈS À 10H.\nARRIVÉE PRÉVUE VERS MIDI DEVANT LA MAISON DES ENTREPRISES.\nBOULEVARD DES PLATANES.",
+      "question": "Qu’annonce cette affiche ?",
+      "questionTranslation": "What does this poster announce?",
+      "options": [
+        "Un salon des entrepreneurs",
+        "Une compétition sportive",
+        "Une conférence sur le chômage",
+        "Une manifestation sociale"
+      ],
+      "optionTranslations": [
+        "An entrepreneurs' fair",
+        "A sports competition",
+        "A conference on unemployment",
+        "A social demonstration"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Pour la fête de fin d’année, les enfants du club de théâtre vous offrent un spectacle musical extraordinaire et très drôle !\nParticipez à la fête :\nVenez avec des gâteaux, des boissons et votre bonne humeur !",
+      "question": "Que peuvent apporter les parents ?",
+      "questionTranslation": "What can the parents bring?",
+      "options": [
+        "De la nourriture.",
+        "Des cadeaux.",
+        "Des chansons.",
+        "Des jeux."
+      ],
+      "optionTranslations": [
+        "Food.",
+        "Gifts.",
+        "Songs.",
+        "Games."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t27-q09",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Bonjour Madame Grange,\nJe vous confirme notre rendez-vous de demain. Je viendrai vous chercher à l’aéroport. Nous irons ensuite manger au restaurant. Enfin, nous rencontrerons les responsables de l’entreprise à 14h pour signer le contrat.\nÀ demain,\nMadame Dire",
+      "question": "Pourquoi est-ce que Madame Dire écrit à Madame Grange ?",
+      "questionTranslation": "Why is Madame Dire writing to Madame Grange?",
+      "options": [
+        "Pour lui annoncer un projet.",
+        "Pour lui présenter un nouveau produit.",
+        "Pour organiser leur journée de travail.",
+        "Pour préparer son voyage."
+      ],
+      "optionTranslations": [
+        "To announce a project to her.",
+        "To present a new product to her.",
+        "To organize their workday.",
+        "To prepare her trip."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t27-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Semaine du 6 au 10 septembre :\nLe restaurant universitaire vous propose des recettes régionales variées au tarif normal.\nRendez-vous de 11 h 15 à 13 h dans la salle du premier étage.",
+      "question": "Bon appétit ! Que propose le restaurant du 6 au 10 septembre ?",
+      "questionTranslation": "What does the restaurant offer from September 6 to 10?",
+      "options": [
+        "Des cours de cuisine",
+        "Des menus différents",
+        "Des plats à emporter",
+        "Des tickets bon marché"
+      ],
+      "optionTranslations": [
+        "Cooking classes",
+        "Different menus",
+        "Takeaway dishes",
+        "Cheap tickets"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t27-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "JE M’OCCUPE DE MON CHIEN\nLes chiens, comme les humains, n’aiment pas lorsqu’il fait très chaud.\nIl faut alors les rafraîchir, par exemple leur donner à boire ou les doucher, et préférer les promenades du matin ou du soir.",
+      "question": "Qu’est-ce que cet article conseille pour les chiens ?",
+      "questionTranslation": "What does this article advise for dogs?",
+      "options": [
+        "De les doucher tous les jours.",
+        "De les nourrir le matin.",
+        "De les promener souvent.",
+        "De les protéger de la chaleur."
+      ],
+      "optionTranslations": [
+        "To shower them every day.",
+        "To feed them in the morning.",
+        "To walk them often.",
+        "To protect them from the heat."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "CuisineAZ.com vous propose de gagner des appareils de cuisine qui facilitent la vie !\nN’hésitez pas, allez sur notre site, c’est gratuit !\nBonne chance !",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this ad propose?",
+      "options": [
+        "De participer à un jeu.",
+        "De préparer un repas.",
+        "De recevoir de l’argent.",
+        "De remplir un formulaire."
+      ],
+      "optionTranslations": [
+        "To participate in a game.",
+        "To prepare a meal.",
+        "To receive money.",
+        "To fill out a form."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t27-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Pierre, je suis sorti pour une urgence, tu peux m’attendre au café au coin de la rue, c’est le plus sympa du quartier. Je serai de retour à la maison vers 19h.\nDésolé.\nDominique\nPS : Mon téléphone est cassé !",
+      "question": "Qu’est-ce que Dominique explique à Pierre ?",
+      "questionTranslation": "What does Dominique explain to Pierre?",
+      "options": [
+        "Il a un rendez-vous à l’hôpital.",
+        "Il doit annuler leur rencontre.",
+        "Il est parti acheter un portable.",
+        "Il va arriver en retard chez lui."
+      ],
+      "optionTranslations": [
+        "He has an appointment at the hospital.",
+        "He must cancel their meeting.",
+        "He left to buy a mobile phone.",
+        "He is going to arrive late at home."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Les vacanciers français ont trouvé cet été le bonheur chez eux, avec une nette préférence pour les côtes ensoleillées.\nTandis que les étrangers européens ou non, qui n’avaient pas choisi la France l’an dernier, sont revenus.\nGlobalement, la fréquentation touristique a légèrement progressé, selon des données statistiques recueillies.\nLa montagne a connu une belle saison aussi avec des taux de réservation dans les résidences de tourisme en hausse de 9% en Savoie et Haute-Savoie, dans les",
+      "question": "Alpes. Où les Français ont-ils préféré passer leurs vacances d’été ?",
+      "questionTranslation": "Where did the French prefer to spend their summer holidays?",
+      "options": [
+        "À l’étranger",
+        "Dans les Alpes",
+        "En Europe",
+        "En France"
+      ],
+      "optionTranslations": [
+        "Abroad",
+        "In the Alps",
+        "In Europe",
+        "In France"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Au service des urgences de l’hôpital, nous recevons beaucoup de gens très angoissés, à qui il arrive des choses très traumatisantes.\nQuel que soit leur état, la gentillesse est sans conteste la meilleure façon de leur répondre.\nIl me serait impossible de gérer le stress et l’agressivité auxquels je suis sans cesse exposée sans adopter ce parti pris calme et souriant.\nLa gentillesse est la réponse idéale, et même une compétence indispensable",
+      "question": "pour les médecins que nous sommes. Selon ce texte, que doit faire un urgentiste ?",
+      "questionTranslation": "According to this text, what must an emergency doctor do?",
+      "options": [
+        "Accueillir les patients avec bienveillance.",
+        "Évaluer rapidement la gravité des situations.",
+        "Expliquer clairement les problèmes.",
+        "Savoir travailler en équipe restreinte."
+      ],
+      "optionTranslations": [
+        "Welcome patients with benevolence.",
+        "Quickly assess the severity of situations.",
+        "Explain problems clearly.",
+        "Know how to work in a small team."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t27-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "LE VAL D’OISE C’EST NOUS\nLE MAGAZINE DU CONSEIL GÉNÉRAL\nFORUMS DES COLLÉGIENS POUR UNE ORIENTATION RÉUSSIE Pour des collégiens se destinant à des filières professionnelles, une information de qualité est gage d’une orientation pertinente.\nCela vise autant une approche du métier envisagé qu’une bonne connaissance des filières.\nChaque année, quatre forums accueillant quelque 8000 collégiens sont organisés dans cette perspective.\nIls s’inscrivent dans des dispositifs mis en place ou soutenus par le Conseil Général dans le domaine des actions éducatives.\nLes élèves préparent ces rendez-vous avec leurs professeurs ou les conseillers d’orientation pour tirer le meilleur profit de rencontres avec des professionnels.",
+      "question": "Que permettent ces forums aux collégiens ?",
+      "questionTranslation": "What do these forums allow middle schoolers to do?",
+      "options": [
+        "D’avoir rapidement un emploi.",
+        "De bien choisir une formation.",
+        "De s’entretenir avec des élus.",
+        "De s’inscrire dans une école."
+      ],
+      "optionTranslations": [
+        "To have a job quickly.",
+        "To choose a training course well.",
+        "To talk with elected officials.",
+        "To enroll in a school."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t27-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Selon le docteur Michel L., spécialiste du sommeil à l’hôpital de l’Hôtel-Dieu à Montréal :\n« On ne sait pas encore à quoi sert exactement le sommeil ».\nMais on sait au moins que dormir permet au cerveau et au corps de fonctionner de manière optimale :\nLe sommeil répond à un besoin de récupération physique et intellectuelle.\nÀ signaler que le sommeil de début de nuit est plus réparateur.",
+      "question": "Quel titre correspond le mieux à cet article ?",
+      "questionTranslation": "Which title best fits this article?",
+      "options": [
+        "Dormir ou pas ?",
+        "Pourquoi dormir ?",
+        "Mieux dormir comment ?",
+        "Dormir, c’est quoi ?"
+      ],
+      "optionTranslations": [
+        "Sleep or not?",
+        "Why sleep?",
+        "How to sleep better?",
+        "Sleep, what is it?"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t27-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Congé parental\nIl est question de changer les règles du congé parental, aide versée aux parents interrompant leur activité après la naissance d’un enfant jusqu’à ses trois ans.\nEn effet, une étude souligne que l’extension de la mesure aux familles de deux enfants a fait chuter l’activité générale des mères de deux enfants et que le chômage ou les emplois précaires sont plus fréquents chez celles qui se sont arrêtées de travailler.\nL’idée serait de doubler le montant de cette aide en limitant sa durée à un an au lieu de trois.\nAutre proposition : à partir du troisième enfant, les employeurs seraient incités à garantir aux salariées une reprise d’activité dans des conditions fixées à",
+      "question": "l’avance. Quel serait l’objectif d’une réforme du congé parental ?",
+      "questionTranslation": "What would be the objective of a parental leave reform?",
+      "options": [
+        "Allonger la durée du congé parental.",
+        "Faciliter le retour à l’emploi des mères.",
+        "Augmenter la participation des entreprises.",
+        "Restreindre le nombre de familles concernées."
+      ],
+      "optionTranslations": [
+        "Lengthen the duration of parental leave.",
+        "Facilitate the return to employment for mothers.",
+        "Increase the participation of companies.",
+        "Restrict the number of families concerned."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t27-q19",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Il y a quelque chose de rare dans « Normandie nue » : ce film est résolument léger, tout en ayant du fond.\nÀ travers une histoire qui sert de fil conducteur cocasse et insolite - celle d’un artiste américain qui veut photographier des paysans dévêtus -, « Normandie nue » aborde la crise des éleveurs avec beaucoup d’humanité, notamment grâce au maire du village qui voit dans la venue du photographe l’occasion de faire valoir sa cause aux yeux de la planète.\nParfois un peu maladroite, cette comédie amuse en caricaturant gentiment les médias, les artistes et les bobos parisiens en mal de verdure.",
+      "question": "Quelle est l’opinion du journaliste sur le film « Normandie nue » ?",
+      "questionTranslation": "What is the journalist's opinion on the film 'Normandie nue'?",
+      "options": [
+        "Il est facile de s’identifier aux personnages.",
+        "Les lieux de tournage sont authentiques.",
+        "On y dresse un portrait juste de la société.",
+        "Son humour fait passer un message sérieux."
+      ],
+      "optionTranslations": [
+        "It is easy to identify with the characters.",
+        "The filming locations are authentic.",
+        "A fair portrait of society is drawn there.",
+        "Its humor conveys a serious message."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "En Provence et sur la Côte d’Azur, les campagnes sont jalonnées d’oliviers, d’orangers et autres pruniers dont les fruits ne sont jamais ramassés.\nÀ Grasse, l’association d’insertion Renouer a eu l’excellente idée de valoriser ces denrées pour s’auto-financer.\nDepuis 2012, la structure intervient dans les vergers de particuliers via des cueillettes dites solidaires.\n« Nous répertorions des parcelles laissées en friche et nous proposons aux propriétaires de ramasser les fruits à leur place », précise Sophie Allain, bénévole qui coordonne l’opération.\nTous les ans, l’action mobilise entre 10 et 15 employés en insertion ainsi que des citoyens séduits par la dimension à la fois sociale et écologique de l’initiative.",
+      "question": "Quelle est l’activité de cette association ?",
+      "questionTranslation": "What is the activity of this association?",
+      "options": [
+        "Elle cultive des espaces verts abandonnés.",
+        "Elle réalise de petits services d’entretien.",
+        "Elle récolte les produits de terrains privés.",
+        "Elle s’occupe de gérer des jardins collectifs."
+      ],
+      "optionTranslations": [
+        "It cultivates abandoned green spaces.",
+        "It performs small maintenance services.",
+        "It harvests products from private lands.",
+        "It takes care of managing collective gardens."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t27-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Ralentissement du traitement de l’information, baisse de l’attention et de notre mémorisation à court terme…\nAvec l’âge, le vieillissement du cerveau semble inévitable.\nPourtant, notre santé cognitive dépend aussi de notre mode de vie.\nIl est ainsi primordial, après la soixantaine, de conserver une vie active, physiquement par une pratique sportive régulière et aussi intellectuellement en sollicitant nos fonctions mentales par un apprentissage permanent.\nPour cela, il est essentiel de garder une vie sociale riche d’interactions avec les autres et également de cultiver des activités, associatives ou sportives, par",
+      "question": "exemple. Quel est l’objectif des conseils donnés dans cet article ?",
+      "questionTranslation": "What is the objective of the advice given in this article?",
+      "options": [
+        "Améliorer des capacités physiques.",
+        "Découvrir de nouveaux types de sports.",
+        "Développer le cercle de ses relations sociales.",
+        "Maintenir les performances de la mémoire."
+      ],
+      "optionTranslations": [
+        "To improve physical capabilities.",
+        "To discover new types of sports.",
+        "To develop one's circle of social relations.",
+        "To maintain memory performances."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d’un genre inédit : coiffés d’un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes.\nDes données ressortent alors sous forme d’algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur.\nAinsi, des peintures virtuelles sont créées à partir des émotions de chacun.\nEt comme chaque histoire est unique, chaque œuvre l’est aussi !",
+      "question": "Quel est le rôle des participants à cette expérience ?",
+      "questionTranslation": "What is the role of the participants in this experiment?",
+      "options": [
+        "Effectuer un calcul.",
+        "Évoquer un fait divers.",
+        "Fournir un support.",
+        "Sélectionner un souvenir."
+      ],
+      "optionTranslations": [
+        "Perform a calculation.",
+        "Mention a news item.",
+        "Provide a support.",
+        "Select a memory."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Il change le clavier de ses deux ordinateurs tous les six mois.\nLes touches cèdent sous ses mains qui, telles des araignées possédées, tissent roman après roman.\nEn vingt ans, il a écrit près de mille cent titres.\nC’est un touche-à-tout : il pond aussi bien de la littérature pour herboristes que de la pharmacopée policière.\nCet ancien chirurgien a abandonné le festin sanglant des blocs opératoires pour les joies de la graphomanie.\n« Je me suis lassé de la médecine. Mais j’écris mes romans avec toute la passion que j’avais pour la chirurgie », explique-t-il.",
+      "question": "Quelle est la particularité de cet écrivain ?",
+      "questionTranslation": "What is the peculiarity of this writer?",
+      "options": [
+        "Il a écrit une œuvre abondante et variée.",
+        "Il a toujours rêvé de devenir médecin.",
+        "Il est emballé par les histoires d’épouvante.",
+        "Il peine à écrire depuis quelque temps."
+      ],
+      "optionTranslations": [
+        "He has written an abundant and varied body of work.",
+        "He always dreamed of becoming a doctor.",
+        "He is thrilled by horror stories.",
+        "He has been struggling to write for some time."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t27-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Plus de trente monnaies locales circulent en France.\nLa plupart sont créées et pilotées par des groupes de citoyens.\nEn version papier ou exclusivement numériques, elles dessinent une nouvelle carte économique des villes, fondées sur le développement local des entreprises et la promotion des circuits courts.\nCes nouveaux moyens de paiement complémentaires de l’euro se veulent aussi des outils de réappropriation de l’économie locale par les habitants.\nSi leurs effets sur l’environnement sont moins mesurables que les impacts économiques et sociaux, les monnaies locales restent des outils intéressants pour encourager l’adoption de comportements plus écologiques.\nElles orientent ainsi le consommateur vers des acteurs économiques plus respectueux de la planète.",
+      "question": "Selon cet article, quel intérêt présentent les monnaies locales ?",
+      "questionTranslation": "According to this article, what interest do local currencies present?",
+      "options": [
+        "Elles concurrencent le marché numérique.",
+        "Elles contribuent à protéger l’environnement.",
+        "Elles favorisent l’épargne des citoyens.",
+        "Elles sécurisent les modes de paiement."
+      ],
+      "optionTranslations": [
+        "They compete with the digital market.",
+        "They contribute to protecting the environment.",
+        "They favor citizen savings.",
+        "They secure payment methods."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t27-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Programme d’exception\n« C’est un endroit calme comme un village.\nLa mairie n’est qu’à 200 mètres et, autour, tous les commerces et services dont on peut rêver sont accessibles, sans avoir besoin d’emprunter sa voiture.\nInutile d’aller bien loin pour une promenade puisque le parc Étienne est à proximité de la résidence.\nQui croirait que nous sommes à quelques minutes seulement de Paris ? », c’est ainsi que l’architecte décrit le lieu où il va construire deux bâtiments modernes",
+      "question": "cette année. Quelle sera la particularité de ce projet immobilier ?",
+      "questionTranslation": "What will be the special feature of this real estate project?",
+      "options": [
+        "Il sera éloigné des magasins.",
+        "Il sera isolé au milieu d’un parc.",
+        "Il sera proche d’un jardin public.",
+        "Il sera situé près d’un axe routier."
+      ],
+      "optionTranslations": [
+        "It will be far from shops.",
+        "It will be isolated in the middle of a park.",
+        "It will be close to a public garden.",
+        "It will be situated near a main road."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t27-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "C’est un fait majeur dans l’histoire du français : la France est devenue minoritaire en nombre de locuteurs dans le monde francophone.\nCe qui vaut mieux que de faire partie des 2 000 langues qui, par les hasards de l’histoire et des rapports de force, risquent d’avoir disparu d’ici à la fin du siècle.\nEn revanche, nous allons devoir abandonner certaines de nos postures traditionnelles.\nEt ce pour une raison simple : le français ne dépend pas seulement d’une élite intellectuelle, écrivains, enseignants ou académiciens, mais surtout de ses locuteurs.\nAussi la langue va-t-elle nécessairement s’ouvrir davantage.\nIl semble acquis en tout cas que l’origine de la norme va se déplacer des rives de la Seine au vaste monde, sachant qu’il s’agit là d’un enrichissement et non d’une",
+      "question": "perte. Comment l’auteur voit-il l’évolution du français ?",
+      "questionTranslation": "How does the author see the evolution of French?",
+      "options": [
+        "Elle est dépendante de décisions politiques.",
+        "Elle est limitée par les intellectuels.",
+        "Elle est menacée par l’essor d’autres langues.",
+        "Elle est modelée par ses locuteurs."
+      ],
+      "optionTranslations": [
+        "It is dependent on political decisions.",
+        "It is limited by intellectuals.",
+        "It is threatened by the rise of other languages.",
+        "It is shaped by its speakers."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Paris veut réduire de 30% l’exposition aux ondes des antennes-relais pour devenir la métropole la plus protectrice d’Europe.\nMaîtriser l’exposition des Parisiens aux ondes, tout en continuant à faire de Paris une capitale numérique, c’est le double objectif de la nouvelle charte de téléphonie mobile que la maire soumettra fin mars au Conseil de Paris.\nIl s’agit de trouver un équilibre entre préoccupations de santé publique et bonne qualité du service de téléphonie mobile.",
+      "question": "Quel est l’objectif de la ville de Paris ?",
+      "questionTranslation": "What is the goal of the city of Paris?",
+      "options": [
+        "Améliorer la puissance de la réception.",
+        "Diminuer les risques sanitaires.",
+        "Limiter les dépenses de la ville.",
+        "Respecter les normes internationales."
+      ],
+      "optionTranslations": [
+        "Improve reception power.",
+        "Decrease health risks.",
+        "Limit city expenses.",
+        "Respect international standards."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t27-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Initiée dans les années 1960, la bataille contre les mauvaises herbes n’a jamais cessé.\nDepuis, les sols, en plus d’être labourés à outrance, sont aspergés de pesticides qui se propagent sur les terres et dans les eaux voisines.\nClaude Bourguignon, ingénieur agricole, milite depuis plus de vingt ans pour tenter de convaincre les agriculteurs que le labourage intensif et les pesticides causent la perte de la matière organique terrestre.\nPrésente sur la couche supérieure de la terre, elle est composée de microbes, d’insectes et de champignons, et elle fournit des nutriments qui sont essentiels pour les sols.",
+      "question": "Quel est l’objectif de Claude Bourguignon ?",
+      "questionTranslation": "What is Claude Bourguignon's goal?",
+      "options": [
+        "Démontrer les dégâts des méthodes de culture intensive.",
+        "Prouver l’efficacité des insectes contre les parasites.",
+        "Recommander des procédés de gestion durable de l’eau.",
+        "Vulgariser des techniques de rendement des terres."
+      ],
+      "optionTranslations": [
+        "To demonstrate the damage of intensive farming methods.",
+        "To prove the effectiveness of insects against parasites.",
+        "To recommend sustainable water management processes.",
+        "To popularize land yield techniques."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t27-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Dans les villes françaises, les arbres ont poussé tout l’hiver !\nInsatiables capteurs de CO2, ils sont surtout de puissants climatiseurs.\nDevant l’urgence, il faudrait en planter partout, dans les moindres interstices. Et vite.\nDepuis des années, l’Organisation Mondiale de la Santé recommande un verdissement maximum des villes, insistant sur l’action de la nature quant à la réduction potentielle de l’exposition à la pollution de l’air, au bruit et à la chaleur excessive.\nMais sur le terrain, la mise en œuvre de tels programmes ne coule pas de source.\nLe temps des politiques n’est pas le temps de l’arbre.\nPour qu’il rende pleinement les services qu’on attend de lui, il lui faut des dizaines d’années, un accès à l’eau, de l’espace, des congénères, un",
+      "question": "environnement écologique… Que pense ce journaliste de l’arborisation des villes ?",
+      "questionTranslation": "What does this journalist think about the greening of cities?",
+      "options": [
+        "Elle a peu d’action sur le dérèglement climatique.",
+        "Elle demande trop d’entretien aux petites villes.",
+        "Elle doit figurer dans les programmes électoraux.",
+        "Elle est incompatible avec les objectifs politiques."
+      ],
+      "optionTranslations": [
+        "It has little effect on climate change.",
+        "It requires too much maintenance for small towns.",
+        "It must appear in electoral programs.",
+        "It is incompatible with political objectives."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q30",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Depuis plus de deux siècles, les violons fabriqués par le célèbre artisan Antonio Stradivari sont réputés pour la supériorité de leur sonorité.\nDes spécialistes ont voulu le vérifier par une petite expérience : ils ont demandé à des participants de fermer les yeux et d’écouter des musiciens jouer sur des violons.\nTrois étaient modernes et trois avaient été fabriqués par Stradivari.\nQue les participants aient ou non une expérience dans le domaine musical, tous ont préféré la sonorité des premiers.",
+      "question": "À quelle conclusion aboutit cette expérience ?",
+      "questionTranslation": "What conclusion does this experiment lead to?",
+      "options": [
+        "Ce sont les violons récents qui sont les plus estimés.",
+        "Il est difficile de maîtriser les violons anciens.",
+        "La qualité des violons évolue avec le temps.",
+        "Voir le violon modifier l’appréciation de l’auditeur."
+      ],
+      "optionTranslations": [
+        "Recent violins are the ones most esteemed.",
+        "It is difficult to master old violins.",
+        "The quality of violins evolves with time.",
+        "Seeing the violin modifies the listener's appreciation."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t27-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Quarante terrains de football.\nC’est la superficie que les forêts perdent chaque minute à travers le monde.\nLa destruction de la forêt tropicale provoque chaque année plus de rejets dans l’atmosphère que l’ensemble du secteur des transports.\nL’imaginaire collectif rendrait volontiers le commerce du bois principal responsable de la déforestation, alors qu’il n’en est rien.\nL’acteur majeur de ce phénomène est l’agriculture, responsable à 80% des déboisements dans les zones tropicales.\nLe marché illégal du bois a aussi sa part de responsabilité.\nIl est un facteur déclenchant et s’alimente des autres activités.\nQuelque 1.6 milliard d’habitants dépendent directement des forêts, et contribuent pourtant à leur raréfaction, voire à leur disparition.",
+      "question": "Selon cet article, sur quoi la déforestation a-t-elle un impact ?",
+      "questionTranslation": "According to this article, what does deforestation impact?",
+      "options": [
+        "Sur l’industrie des bois rares.",
+        "Sur la démographie dans ces zones.",
+        "Sur la pollution atmosphérique.",
+        "Sur la progression des cultures tropicales."
+      ],
+      "optionTranslations": [
+        "On the rare wood industry.",
+        "On the demography in these areas.",
+        "On atmospheric pollution.",
+        "On the progression of tropical crops."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t27-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Le numérique bouleverse profondément l’enseignement, mais, d’après le philosophe Marcel Gauchet, on aura plus que jamais besoin de professeurs et d’écoles.\nExcellent moyen de stimuler la curiosité, le numérique pousse à chercher, à creuser encore.\nSurtout, il enseigne une chose essentielle : personne ne sait et, nulle part, il n’existe de détenteur ultime du savoir.\nAinsi, les élèves sont de plus en plus en contact avec des sources hétéroclites et cela constitue un changement majeur en termes pédagogiques.\nL’enseignant est alors celui qui va expliquer qu’il existe plusieurs versions d’une même chose et que savoir, c’est se confronter à l’incertitude et non réciter bêtement des connaissances.",
+      "question": "Selon Marcel Gauchet, quel va être le rôle de l’enseignant auprès des élèves ?",
+      "questionTranslation": "According to Marcel Gauchet, what will be the teacher's role with the students?",
+      "options": [
+        "Développer leur esprit critique.",
+        "Encourager les débats entre eux.",
+        "Enrichir leur capacité mémorielle.",
+        "Évaluer régulièrement leurs acquis."
+      ],
+      "optionTranslations": [
+        "Develop their critical thinking.",
+        "Encourage debates between them.",
+        "Enrich their memory capacity.",
+        "Regularly evaluate their acquisitions."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t27-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "« Le programme de mobilité Erasmus n’est plus réservé aux étudiants », explique Sophie Roque, enseignante.\nPeu répandu, le programme Erasmus+ pour les enseignants bénéficie depuis quelques années d’un grand appel d’air. La demande progresse, et l’offre de mobilité aussi. Le système éducatif finlandais et les formations en anglais attirent beaucoup.\nSi le programme Erasmus+ pour les enseignants semble très apprécié de ceux qui y participent, il souffre néanmoins d’un vrai déficit de notoriété. On le découvre souvent par hasard ou à la faveur d’une rencontre.\nFranck Le Cars, délégué académique, confirme que le bouche-à-oreille entre enseignants est le meilleur moyen de développer le dispositif. Il souligne également que ces mobilités à l’étranger restent complexes à mettre en œuvre car très chronophages.",
+      "question": "Qu’apprend-on sur le programme Erasmus+ ?",
+      "questionTranslation": "What do we learn about the Erasmus+ program?",
+      "options": [
+        "Il est méconnu du public visé.",
+        "Il est restreint à quelques pays",
+        "Il favorise certains établissements",
+        "Il souffre d’une image négative."
+      ],
+      "optionTranslations": [
+        "It is unknown to the target audience.",
+        "It is restricted to a few countries.",
+        "It favors certain establishments.",
+        "It suffers from a negative image."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t27-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "De plus en plus de scientifiques s’intéressent au fonctionnement du cerveau des tout-petits.\nEn effet, comprendre le développement normal du cerveau permettra d’aider les bébés touchés par des troubles.\nAu-delà, l’ambition est de découvrir les racines de l’intelligence humaine :\npourquoi l’homme, à la différence des autres espèces animales, peut parler, compter et même envoyer des fusées dans l’espace.\nPendant longtemps, ces capacités uniques ont été attribuées à la taille de notre encéphale.\nUne idée finalement battue en brèche : le cerveau du bébé est bien moins gros que le nôtre ou que celui de nombreux animaux.\nEt pourtant, les tout-petits apprennent beaucoup de choses, bien plus vite et bien plus facilement que n’importe quel animal ou même que les adultes.",
+      "question": "Qu’apprend-on sur le cerveau humain ?",
+      "questionTranslation": "What do we learn about the human brain?",
+      "options": [
+        "Sa structure est identique chez l’homme et l’animal.",
+        "Sa taille influe sur les compétences cognitives.",
+        "Son développement est ralenti les premiers mois.",
+        "Son fonctionnement est encore mystérieux."
+      ],
+      "optionTranslations": [
+        "Its structure is identical in humans and animals.",
+        "Its size influences cognitive skills.",
+        "Its development is slowed down in the first months.",
+        "Its functioning is still mysterious."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Il faut se rendre à l’évidence :\nle « jour » n’est plus l’unité de temps d’un journal.\nUn quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les « news »\ndes grands serveurs diffusent les nouvelles du jour.\nAussi, au moment où il est en kiosques, se condamne-t-il à apparaître comme « le journal de la veille », perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n’y trouver que ce qu’ils savent déjà.",
+      "question": "Quelle est la position de l’auteur de l’article ?",
+      "questionTranslation": "What is the position of the article's author?",
+      "options": [
+        "Il conteste la fiabilité des sources d’internet",
+        "Il critique la surabondance de l’information",
+        "Il dénonce la médiocrité de la presse écrite",
+        "Il doute de l’intérêt des médias traditionnels"
+      ],
+      "optionTranslations": [
+        "He contests the reliability of internet sources.",
+        "He critiques the overabundance of information.",
+        "He denounces the mediocrity of the written press.",
+        "He doubts the interest of traditional media."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t27-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Sexistes, les jeux vidéo ? Peut-être que oui, peut-être que non.\nEn tout cas, à parcourir les allées de la Paris Games Week, l'œil avisé aura lui- même bien du mal à trouver un personnage principal féminin de jeu vidéo.\nIl y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure pour plaire à un certain nombre de joueurs masculins.\nPour le reste, circulez, il n'y a - presque - rien d'autre à voir, si l'on balaye d'un coup de manette de jeu, au mieux, les princesses à sauver, au pire, les call-girls de mafioso.\nPourtant, l'industrie du jeu vidéo a pris conscience ces dernières années du potentiel du marché des joueuses.",
+      "question": "Quel constat est dressé sur les jeux vidéo ?",
+      "questionTranslation": "What observation is made about video games?",
+      "options": [
+        "La quasi-absence d’héroïnes.",
+        "L’appel constant à la violence.",
+        "L’atténuation des clichés.",
+        "L’uniformité des scénarios."
+      ],
+      "optionTranslations": [
+        "The near-absence of heroines.",
+        "The constant appeal to violence.",
+        "The mitigation of clichés.",
+        "The uniformity of scenarios."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t27-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "La bataille de Bouvines, remportée le 27 juillet 1214 par le roi de France Philippe Auguste sur un empereur allemand, est l’un des actes fondateurs de la dynastie capétienne et l’un des épisodes les plus célèbres du « roman national » français.\nDu XIIIe siècle à nos jours, elle a été à l’origine de multiples légendes que le spécialiste du monde médiéval, Dominique Barthélemy, confronte à la réalité des faits.\nÀ l’issue d’une enquête approfondie, il décrit un affrontement plus modeste et moins épique que celui construit et enrichi au gré des nécessités politiques.\nAinsi, il nous invite à poursuivre la réflexion sur l’idée que les Français se font",
+      "question": "d’eux-mêmes. Selon cet article, que fait Dominique Barthélemy ?",
+      "questionTranslation": "According to this article, what does Dominique Barthélemy do?",
+      "options": [
+        "Il analyse l’établissement d’une dynastie royale.",
+        "Il explique l’origine d’une légende médiévale.",
+        "Il explore la construction identitaire des Français.",
+        "Il renforce le mythe de la bataille de Bouvines."
+      ],
+      "optionTranslations": [
+        "He analyzes the establishment of a royal dynasty.",
+        "He explains the origin of a medieval legend.",
+        "He explores the identity construction of the French.",
+        "He reinforces the myth of the Battle of Bouvines."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t27-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Le trois-mâts d’exploration La Boudeuse va reprendre le large pour une nouvelle mission à caractère scientifique.\nLe voilier va mettre le cap en septembre prochain sur l’Amérique du Sud et ses grands fleuves.\nIl se consacrera aux études scientifiques et humaines concernant la biosphère, le réchauffement climatique et le développement durable, selon la « lettre de mission » adressée à son commandant, signée du ministre d’État aux Transports et à l’Écologie.\nCette lettre assigne à l’équipage un audacieux programme concernant la",
+      "question": "protection de l’environnement. Selon l’article, que va faire l’équipage du voilier La Boudeuse ?",
+      "questionTranslation": "According to the article, what will the crew of the sailboat La Boudeuse do?",
+      "options": [
+        "Former des scientifiques à la prévention de risques écologiques.",
+        "Innover dans les moyens de lutte contre les pollutions fluviales.",
+        "Observer l’écosystème dans une région de grands fleuves.",
+        "Représenter le gouvernement français lors d’une rencontre."
+      ],
+      "optionTranslations": [
+        "Train scientists in the prevention of ecological risks.",
+        "Innovate in means of fighting river pollution.",
+        "Observe the ecosystem in a region of large rivers.",
+        "Represent the French government during a meeting."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t27-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "De plus en plus d’agriculteurs sont la cible d’accusations sévères de la part de leur voisinage ou d’organisations de défense des animaux.\nLa plupart reconnaissent que la critique est légitime et que leurs modes d’exploitation sont perfectibles.\nMais ils sont mis en cause de manière massive et généralisée, ce qui revient à contester en bloc leurs façons de travailler, leur utilité sociale et leur existence.\nLes jeunes comme les vieux, les prospères comme les plus fragiles, ceux qui ont choisi l’agriculture biologique comme ceux qui sont restés en conventionnel :\ntous disent souffrir, à des degrés divers, de ce discrédit qui s’ajoute à leurs difficultés habituelles, financières notamment.",
+      "question": "Que répondent les agriculteurs face aux critiques ?",
+      "questionTranslation": "How do farmers respond to the criticisms?",
+      "options": [
+        "Ils défendent les pratiques traditionnelles.",
+        "Ils éprouvent le sentiment d’être incompris.",
+        "Ils réfutent les reproches qui leur sont faits.",
+        "Ils sont fiers de leurs apports à l’économie."
+      ],
+      "optionTranslations": [
+        "They defend traditional practices.",
+        "They feel misunderstood.",
+        "They refute the reproaches made against them.",
+        "They are proud of their contributions to the economy. Retry test All tests"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

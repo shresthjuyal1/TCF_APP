@@ -1,0 +1,828 @@
+{
+  "id": "tcf-lecture-28",
+  "title": "Test 28",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t28-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Bonjour Anna.\nEst-ce que vous pouvez vous occuper de Jérôme après l’école vendredi ?\nPour le repas, j’ai fait les courses et un gâteau.\nIl doit se coucher avant 21h.\nJe rentrerai vers 23h.\nMerci beaucoup !",
+      "question": "Que demande Agnès à Anna ?",
+      "questionTranslation": "What does Agnès ask Anna?",
+      "options": [
+        "D’aller au supermarché.",
+        "De garder son fils.",
+        "De préparer un dessert.",
+        "ÀDe rester dormir."
+      ],
+      "optionTranslations": [
+        "To go to the supermarket.",
+        "To look after her son.",
+        "To prepare a dessert.",
+        "To stay the night."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Restaurant La bonne fourchette\nFormule légère : Salade au choix – 9 €\nFormule express : Plat du jour – 12,50 €\nFormule déjeuner : Entrée + plat du jour ou plat du jour + dessert – 16 € (1/2 eau minérale et café compris)\nFormule plaisir : Entrée + plat du jour + dessert – 20 €",
+      "question": "Combien coûte la formule avec boisson ?",
+      "questionTranslation": "How much does the set menu with a drink cost?",
+      "options": [
+        "9 euros.",
+        "12,50 euros.",
+        "16 euros.",
+        "20 euros."
+      ],
+      "optionTranslations": [
+        "9 euros.",
+        "12.50 euros.",
+        "16 euros.",
+        "20 euros."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t28-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Vous souhaitez améliorer votre niveau en langue étrangère ?\nLe Conseil de l’Europe offre à ses salariés des formations dans les langues des pays de l’Union européenne.\nInscrivez-vous dès maintenant pour les cours d’italien et d’allemand.",
+      "question": "Qu’est-ce que le conseil de l’Europe propose à ses employés ?",
+      "questionTranslation": "What does the Council of Europe propose to its employees?",
+      "options": [
+        "Des cours gratuits.",
+        "Des postes à l’étranger.",
+        "Des stages en Italie.",
+        "Des voyages en Europe."
+      ],
+      "optionTranslations": [
+        "Free courses.",
+        "Positions abroad.",
+        "Internships in Italy.",
+        "Trips in Europe."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t28-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "La comédienne franco-suisse Pascale Rocard part tourner un film à Paris.\nActrice et réalisatrice à succès, elle est aussi peintre et photographe.\nMère de deux enfants, elle vit à Verbier en Suisse.",
+      "question": "Que va faire Pascale Rocard ?",
+      "questionTranslation": "What is Pascale Rocard going to do?",
+      "options": [
+        "Avoir un bébé.",
+        "Déménager en France.",
+        "Jouer au cinéma.",
+        "Organiser une exposition."
+      ],
+      "optionTranslations": [
+        "Have a baby.",
+        "Move to France.",
+        "Act in the cinema.",
+        "Organize an exhibition."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t28-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Une société de production RECHERCHE pour faire de la FIGURATION dans un film sur le thème parent/enfants, de jeunes mères confrontées à l’éducation de",
+      "question": "leurs enfants. Que recherche la société de production ?",
+      "questionTranslation": "What is the production company looking for?",
+      "options": [
+        "De jeunes enfants.",
+        "Des femmes et des enfants.",
+        "De jeunes mamans.",
+        "Des parents avec leurs enfants."
+      ],
+      "optionTranslations": [
+        "Young children.",
+        "Women and children.",
+        "Young moms.",
+        "Parents with their children."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t28-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "1 PLACE\nFILM : LES 3 FRÈRES SÉ AÉ AÉ AÉ ANCE : 20 h 30 TARIF ÉTUDIANT : 6.00 €",
+      "question": "Où peut-on vous donner ce ticket ?",
+      "questionTranslation": "Where can you be given this ticket?",
+      "options": [
+        "À la caisse d’un cinéma.",
+        "À l’accueil d’un opéra.",
+        "À l’entrée d’un musée.",
+        "Au guichet d’un théâtre."
+      ],
+      "optionTranslations": [
+        "At the checkout of a cinema.",
+        "At the reception of an opera.",
+        "At the entrance of a museum.",
+        "At the ticket counter of a theater."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t28-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Chers parents,\nLes élèves de l’école du Centre sont heureux de vous inviter à voir la pièce « Vive les vacances » qu’ils ont écrite et qu’ils joueront pour vous le vendredi 9 mars à 19 heures.",
+      "question": "Qu’est-ce qu’on propose aux parents ?",
+      "questionTranslation": "What is proposed to the parents?",
+      "options": [
+        "De préparer un voyage.",
+        "De regarder un spectacle.",
+        "De venir à une réunion.",
+        "De visiter une classe."
+      ],
+      "optionTranslations": [
+        "To prepare a trip.",
+        "To watch a show.",
+        "To come to a meeting.",
+        "To visit a class."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Chers professeurs, chers étudiants, Venez rencontrer les nouveaux étudiants de la semaine !\nCe mardi, de 8 h 30 à 10 h 30.\nRendez-vous salle « Les Mimosas ».\nJ. Lebon, directrice\nÉcole de langues ABC.",
+      "question": "Pourquoi Madame Lebon écrit-elle cette annonce ?",
+      "questionTranslation": "Why is Madame Lebon writing this announcement?",
+      "options": [
+        "Pour changer un horaire.",
+        "Pour organiser une fête.",
+        "Pour présenter des élèves.",
+        "Pour proposer une sortie."
+      ],
+      "optionTranslations": [
+        "To change a schedule.",
+        "To organize a party.",
+        "To introduce students.",
+        "To propose an outing."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t28-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "LA CUISINE DE JEAN-ÉMILE\nJean-Émile Nodier, chef depuis 10 ans, propose DES COURS DE CUISINE À DOMICILE pour une à quatre personnes.\nApprenez à cuisiner des recettes de qualité.\nPour plus de renseignements :",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this advertisement offer?",
+      "options": [
+        "D’apprendre à préparer des plats chez soi.",
+        "De devenir un chef cuisinier professionnel.",
+        "De réaliser des repas pour de grands groupes.",
+        "De trouver de bonnes recettes sur internet."
+      ],
+      "optionTranslations": [
+        "To learn to prepare dishes at home.",
+        "To become a professional chef.",
+        "To make meals for large groups.",
+        "To find good recipes on the internet."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t28-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Madame, Monsieur,\nEn raison de travaux rue Paul Vaillant, l’accès à la piscine municipale se fera côté boulevard Camélines, du 15 au 25 mars inclus.\nVeuillez nous excuser pour la gêne occasionnée.\nLe service municipal.",
+      "question": "Quelle information est donnée au sujet de la piscine ?",
+      "questionTranslation": "What information is given regarding the pool?",
+      "options": [
+        "Elle sera fermée au mois de mars.",
+        "Il y aura des travaux à l’intérieur.",
+        "L’entrée se fera par une autre porte.",
+        "Le service municipal réparera les lieux."
+      ],
+      "optionTranslations": [
+        "It will be closed in March.",
+        "There will be construction work inside.",
+        "The entry will be via another door.",
+        "The municipal service will repair the premises."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t28-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Cher Jacques,\nCe petit mot pour vous dire que Natacha et moi-même allons être dans la région de Toulouse au mois de juillet.\nNous voudrions vous rendre visite à cette occasion.\nMerci de nous dire si cela est possible.\nTrès sincèrement,\nAhmed",
+      "question": "Pourquoi Ahmed écrit-il à Jacques ?",
+      "questionTranslation": "Why is Ahmed writing to Jacques?",
+      "options": [
+        "Pour lui communiquer la date de ses fiançailles.",
+        "Pour lui proposer de passer le voir avec son amie.",
+        "Pour lui annoncer son déménagement à Toulouse.",
+        "Pour lui demander de l’accompagner en voyage."
+      ],
+      "optionTranslations": [
+        "To tell him the date of his engagement.",
+        "To propose visiting him with his friend.",
+        "To announce his move to Toulouse.",
+        "To ask him to come along on a trip."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Vous travaillez à la mairie de Rouen, vous êtes musicien et vous jouez d’un instrument depuis plusieurs années ?\nRejoignez l’orchestre des agents de la ville de Rouen !\nLes répétitions reprennent en septembre (à la fin des congés d’été) et ont lieu les jeudis entre 12 h et 13 h 30 au conservatoire de la ville.",
+      "question": "Qu’est-ce qui est proposé aux agents de la mairie ?",
+      "questionTranslation": "What is proposed to the city hall agents?",
+      "options": [
+        "D’assister à un concert à Rouen.",
+        "De devenir membre de l’orchestre municipal.",
+        "De suivre des cours de musique à la rentrée.",
+        "De visiter le conservatoire."
+      ],
+      "optionTranslations": [
+        "To attend a concert in Rouen.",
+        "To become a member of the municipal orchestra.",
+        "To take music lessons at the start of the school year.",
+        "To visit the conservatory."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Nous vivons dans une grande maison à 15 minutes du centre de Marseille.\nNos enfants ont quitté la maison et nous souhaitons louer une chambre à un(e) étudiant(e) pour 150€ par mois.\nSi vous êtes intéressé(e), écrivez-nous à « alouer@mailnet.com ».",
+      "question": "Qu’est-ce qui est proposé dans cette annonce ?",
+      "questionTranslation": "What is proposed in this ad?",
+      "options": [
+        "Un échange de maison.",
+        "Un studio en centre-ville.",
+        "Une chambre chez l’habitant.",
+        "Une colocation entre étudiants."
+      ],
+      "optionTranslations": [
+        "A house exchange.",
+        "A studio in the city center.",
+        "A room in a private home.",
+        "A flatshare between students."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t28-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "INFORMATION\nPendant la conférence internationale sur la ville, vous pouvez demander un accompagnateur :\nIl vous aidera dans vos déplacements, dans vos recherches, pour vos repas, etc.\nPour plus d’informations, demandez à l’accueil.",
+      "question": "Que pouvez-vous demander à l’accueil ?",
+      "questionTranslation": "What can you ask for at the reception?",
+      "options": [
+        "L’assistance d’une personne.",
+        "Le menu de vos déjeuners.",
+        "Le programme de la réunion.",
+        "Le plan des transports publics."
+      ],
+      "optionTranslations": [
+        "The assistance of a person.",
+        "The menu of your lunches.",
+        "The meeting program.",
+        "The public transport map."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t28-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Ah ! Le bel été !\nPar trente-cinq degrés à l’ombre, les enfants réclament le goûter après la baignade, et coup de chance, le vendeur de beignets se profile à l’horizon.\nRésultat : visite aux urgences, car les beignets à la crème avaient passé la journée au soleil.\nDes histoires comme celle-là circulent dans toutes les associations de consommateurs.\nLa direction générale de la répression des fraudes dresse tout de même un bilan encourageant.\nPeu d’endroits publics échappent aux vérifications et les escroqueries ont diminué.\nMais tout de même, en matière d’hygiène, le bon sens du consommateur doit prévaloir et lui permettre de prévenir tout incident.",
+      "question": "L’anecdote racontée dans cet article dénonce :",
+      "questionTranslation": "The anecdote told in this article denounces:",
+      "options": [
+        "Le grand nombre de vendeurs ambulants.",
+        "Les dangers des aliments mal conservés.",
+        "Les méfaits des collations après le bain.",
+        "L’inconscience des enfants imprudents."
+      ],
+      "optionTranslations": [
+        "The large number of street vendors.",
+        "The dangers of poorly preserved food.",
+        "The harmful effects of snacks after swimming.",
+        "The recklessness of imprudent children."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "L’art et ses modes de production contribuent à sensibiliser les gens au développement durable, commente Élise Morin, créatrice de l’œuvre Waste Landscape composée de vieux CD.\n« Le recyclage, ça ne se passe pas que dans la poubelle », intervient le photographe Joachim Romain, dont le travail est centré sur les affiches promotionnelles.\nLes déchets sont partout, on ne peut pas y échapper, on est envahi.\nAlors pourquoi ne pas m’en servir pour aller plus loin ? Pour montrer aux gens qu’à un moment, ces questions sur l’environnement vont arriver chez eux.",
+      "question": "Que proposent ces artistes ?",
+      "questionTranslation": "What do these artists propose?",
+      "options": [
+        "De diffuser de la musique",
+        "De réutiliser des objets",
+        "De s’engager en politique",
+        "De tourner des publicités"
+      ],
+      "optionTranslations": [
+        "To broadcast music",
+        "To reuse objects",
+        "To engage in politics",
+        "To shoot commercials"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "DU 4 AU 26 JUIN venez visiter\nLE SALON DE L’AGRICULTURE À STRASBOURG.\n- Ateliers pour les adultes, balades avec des animaux pour les enfants.\n- Stands de nourriture et boissons sur place.\n- Tarif spécial pour les groupes et enfants de moins de 12 ans.\nInformations sur salon-agriculture-strasbourg.fr",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this announcement offer?",
+      "options": [
+        "De découvrir un parc d’animation.",
+        "De gagner un séjour en famille.",
+        "De se promener dans une ferme.",
+        "De visiter une grande exposition."
+      ],
+      "optionTranslations": [
+        "To discover an amusement park.",
+        "To win a family trip.",
+        "To take a walk in a farm.",
+        "To visit a large exhibition."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t28-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Sur la bouteille de sa boisson de jus de fruits bio, un fabricant utilise une belle image d’ananas et de noix de coco.\nÀ lire de plus près, vous apprendrez que « des oranges gorgées de soleil et de bananes » viennent s’associer à l’ananas et à la noix de coco.\nUne jolie manière d’expliquer qu’ananas et noix de coco ne représentent que 30% des fruits de la boisson avec d’autres jus plus communs (et moins coûteux).",
+      "question": "Que dénonce cet article ?",
+      "questionTranslation": "What does this article denounce?",
+      "options": [
+        "L’ajout d’ingrédients malsains.",
+        "Le prix des produits exotiques.",
+        "Les annonces publicitaires.",
+        "Les étiquettes trompeuses."
+      ],
+      "optionTranslations": [
+        "The addition of unhealthy ingredients.",
+        "The price of exotic products.",
+        "Advertising announcements.",
+        "Deceptive labels."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t28-q19",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "L’exposition des sculptures de César s’est terminée hier.\nPour la première fois, les visiteurs ont pu voir une centaine d’œuvres de l’artiste, exposées pendant 3 semaines dans un large espace, au dernier étage du Centre Pompidou.",
+      "question": "Qu’est-ce qu’on apprend sur cette exposition ?",
+      "questionTranslation": "What do we learn about this exhibition?",
+      "options": [
+        "C’est un succès.",
+        "Elle changera de lieu.",
+        "Elle est déjà finie.",
+        "L’entrée est gratuite."
+      ],
+      "optionTranslations": [
+        "It is a success.",
+        "It will change location.",
+        "It is already finished.",
+        "Entry is free."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t28-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Plus de peur que de mal pour ce petit garçon, près de Lorient, qui, dimanche soir, mangeait une part de fromage.\n« Papa, le fromage, il est dur !!!... »\nDimanche, Youenn, 4 ans, mange une portion individuelle de fromage dans la maison familiale. Ses parents, occupés dans la pièce d’à côté, l’entendent tousser.\n« Comme s’il voulait vomir », raconte Yann, son père.\nEn fait, l’enfant est en train de recracher... un bout de plastique qui aurait pu l’étouffer.",
+      "question": "Qu’est-il arrivé à Youenn ?",
+      "questionTranslation": "What happened to Youenn?",
+      "options": [
+        "Il a avalé un mauvais morceau de fromage",
+        "Il a trouvé quelque chose dans son fromage",
+        "Il est tombé malade en mangeant du fromage",
+        "Il s’est fait mal aux dents avec le fromage"
+      ],
+      "optionTranslations": [
+        "He swallowed a bad piece of cheese",
+        "He found something in his cheese",
+        "He got sick while eating cheese",
+        "He hurt his teeth with the cheese"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "En tournage dans le Vaucluse jusqu’en décembre, l’héroïne d’Une femme d’honneur, l’un des feuilletons stars de la première chaîne de télévision (TF1), a pris le temps de marquer une pause pour parler de la sécurité routière.\n« Non pas avec le prisme de mon rôle de gendarme », dit-elle, « mais en tant que mère et automobiliste choquée par le comportement de certains conducteurs. »\nCorinne Touzet sait de quoi elle parle : chaque année, elle avale en monospace 25 000 kilomètres sur les routes de France.",
+      "question": "Corinne Touzet est",
+      "questionTranslation": "Corinne Touzet is",
+      "options": [
+        "actrice à la télévision française.",
+        "gendarme sur les routes de France.",
+        "championne française de conduite.",
+        "reporter pour la télévision française."
+      ],
+      "optionTranslations": [
+        "an actress on French television.",
+        "a gendarme on the roads of France.",
+        "a French driving champion.",
+        "a reporter for French television."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t28-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "On dit souvent que, pour avoir un bon moral et résister au stress, il faut une bonne condition physique.\nC’est encore plus vrai en période d’examen où il faut s’astreindre à quelques règles d’hygiène simples pour une bonne concentration.\nLe cerveau a besoin plus que jamais d’aliments et de nutriments variés pour être le plus efficace.\nPersonnellement, j’ai arrêté les sandwiches et le café, et privilégié les œufs (vitamine B9), les céréales (vitamine B1), les viandes riches en fer, l’iode avec les poissons et les légumes verts.",
+      "question": "Quelle conduite alimentaire a tenu cette étudiante pendant ses examens ?",
+      "questionTranslation": "What dietary conduct did this student maintain during her exams?",
+      "options": [
+        "Elle a consommé des sucres lents.",
+        "Elle a diversifié son alimentation.",
+        "Elle a préféré sauter certains repas.",
+        "Elle a privilégié les repas rapides."
+      ],
+      "optionTranslations": [
+        "She consumed slow sugars (complex carbs).",
+        "She diversified her diet.",
+        "She preferred to skip certain meals.",
+        "She prioritized quick meals."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d’un genre inédit : coiffés d’un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes.\nDes données ressortent alors sous forme d’algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur.\nAinsi, des peintures virtuelles sont créées à partir des émotions de chacun.\nEt comme chaque histoire est unique, chaque œuvre l’est aussi !",
+      "question": "Quel est le rôle des participants à cette expérience ?",
+      "questionTranslation": "What is the role of the participants in this experiment?",
+      "options": [
+        "Effectuer un calcul.",
+        "Évoquer un fait divers.",
+        "Fournir un support.",
+        "Sélectionner un souvenir."
+      ],
+      "optionTranslations": [
+        "Perform a calculation.",
+        "Mention a news item.",
+        "Provide a support.",
+        "Select a memory."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t28-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les Arts Premiers Au Musée\nSi cette reconnaissance sonne comme un cri de victoire, c’est qu’elle marque l’issue d’un combat idéaliste qui n’a fait d’autres victimes que l’arrogance et les préjugés.\nLe signal en fut donné par Guillaume Apollinaire en 1909 : « le Louvre devrait recueillir certains chefs-d’œuvre exotiques dont l’aspect n’est pas moins émouvant que celui des beaux spécimens de la statuaire occidentale ».\nPrès d’un siècle plus tard, le vœu du poète est enfin comblé : plus d’une centaine de sculptures primitives d’Afrique, d’Asie, d’Océanie et des Amériques, jusqu’alors confinées dans des réserves ethnographiques, prennent place dans le temple de l’Art, jusqu’alors réservé à l’Europe et à ses sources.",
+      "question": "Cet événement est présenté comme ...",
+      "questionTranslation": "This event is presented as...",
+      "options": [
+        "Le résultat d’une lutte menée par des gens orgueilleux et intolérants.",
+        "Le triomphe d’une opinion émise par Apollinaire mais autrefois combattue.",
+        "Un miracle dû à la persévérance des archéologues sur plusieurs continents.",
+        "La consécration des œuvres européennes jusqu’alors remisées dans les musées."
+      ],
+      "optionTranslations": [
+        "The result of a struggle led by proud and intolerant people.",
+        "The triumph of an opinion expressed by Apollinaire but formerly fought against.",
+        "A miracle due to the perseverance of archaeologists on several continents.",
+        "The consecration of European works previously stored in museums."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Comment recruter la bonne personne, baby-sitter ou collaborateur ?\nSi le bouche-à-oreille ou les tests constituent des méthodes largement répandues, difficile pour autant d’être sûr à 100% que la personne choisie soit vraiment la bonne.\nC’est pourquoi, pour une somme modique, une entreprise californienne, Predictim, promet une analyse complète de la personnalité des candidats via les réseaux sociaux : grâce à un algorithme, toutes leurs publications sont étudiées en seulement quelques secondes.\nCependant, l’usage de l’intelligence artificielle pour la sélection de candidats a rapidement montré ses limites.\nL’entreprise Amazon, par exemple, a dû renoncer à son logiciel de recrutement, car celui-ci avait tendance à privilégier les hommes.",
+      "question": "Que devrait permettre l’intelligence artificielle dans le monde professionnel ?",
+      "questionTranslation": "What is artificial intelligence supposed to allow in the professional world?",
+      "options": [
+        "De protéger les droits du personnel.",
+        "De vérifier le profil des postulants.",
+        "D’encourager la création d’emplois.",
+        "D’éviter la discrimination à l’embauche."
+      ],
+      "optionTranslations": [
+        "To protect staff rights.",
+        "To verify applicants' profiles.",
+        "To encourage job creation.",
+        "To avoid hiring discrimination."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Selon plusieurs scientifiques, les nouvelles solutions « écologiques », comme la voiture électrique, tendent en fait à accroître l’activité économique et ne pourront pas préserver notre modèle de développement.\nAu-delà du double écueil de la fabrication des voitures électriques, qui est énergivore et génère beaucoup de déchets, le problème des technologies dites « vertes » est principalement dû à l’effet rebond, c’est-à-dire l’augmentation de l’activité globale qu’entraîne toute découverte ou amélioration technologique.\nAinsi, une véritable approche écologique devrait obligatoirement comporter une part de sobriété, grâce à laquelle le progrès technique servirait une réduction de la consommation.",
+      "question": "Que pense l’auteur des nouvelles solutions écologiques ?",
+      "questionTranslation": "What does the author think of the new ecological solutions?",
+      "options": [
+        "Il déconseille au grand public de les adopter.",
+        "Il estime qu’elles sont insuffisamment promues.",
+        "Il remet en question leurs retombées positives.",
+        "Il révèle qu’elles contribuent au déclin industriel."
+      ],
+      "optionTranslations": [
+        "He advises the general public against adopting them.",
+        "He believes they are insufficiently promoted.",
+        "He questions their positive repercussions.",
+        "He reveals that they contribute to industrial decline."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t28-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "7 116 TONNES\nC’est la quantité de médicaments non utilisés qui dorment dans les armoires des Français.\nPour les inciter à les ramener en pharmacie, l’Association santé environnement France (Asef) lance une grande opération.\nDes tampons avec l’inscription « rapportez vos médicaments non utilisés à votre pharmacie » vont être remis aux 1 500 médecins et professionnels de santé adhérents de l’Asef.\nCes derniers pourront les appliquer sur les ordonnances pour sensibiliser les patients au gaspillage des médicaments.",
+      "question": "Sur quoi repose le bon fonctionnement de l’opération lancée par l’Asef ?",
+      "questionTranslation": "On what does the proper functioning of the operation launched by ASEF rely?",
+      "options": [
+        "L’efficacité d’un slogan choc.",
+        "La coopération de ses membres.",
+        "La distribution de brochures.",
+        "La promotion en ligne de la campagne."
+      ],
+      "optionTranslations": [
+        "The effectiveness of a shocking slogan.",
+        "The cooperation of its members.",
+        "The distribution of brochures.",
+        "The online promotion of the campaign."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Minoritaires au sein des filières scientifiques universitaires et dans les écoles d’ingénieurs, les filles sont de plus en plus nombreuses à suivre des études de médecine.\nElles représentent désormais près de 70 % des inscrits en première année.\nAttirance pour le secteur sanitaire et social, plus grande motivation et maturité sont des raisons invoquées pour expliquer cette forte féminisation de la profession.\nMais l’origine de l’élève en médecine a peu changé : 40 % de ces étudiants ont des parents cadres supérieurs ou exerçant une profession libérale, contre 30 % à l’université.\nDes chiffres stables qui en font une des formations les plus clivées socialement, derrière les classes préparatoires aux grandes écoles.",
+      "question": "Que constate le journaliste à propos des études de médecine ?",
+      "questionTranslation": "What does the journalist observe about medical studies?",
+      "options": [
+        "Elles ont moins de succès que les cursus scientifiques.",
+        "Elles représentent inégalement les milieux sociaux.",
+        "Elles séduisent des étudiants aux profils variés.",
+        "Elles sont source de discrimination envers les femmes."
+      ],
+      "optionTranslations": [
+        "They are less successful than scientific courses.",
+        "They represent social backgrounds unequally.",
+        "They attract students with varied profiles.",
+        "They are a source of discrimination against women."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les implants médicaux (prothèses mammaires, de hanche, etc.) sont censés vous améliorer la vie. Mais des lacunes dans leur contrôle seraient à l’origine d’incidents en nombre croissant. C’est ce que révèle la dernière enquête du Consortium international des journalistes d’investigation.\nOn y apprend que, en France, le nombre d’incidents liés à ces implants aurait doublé en dix ans. Le problème, souligne l’enquête, c’est que les informations sur les patients restent globalement très incomplètes et leurs données sont souvent confidentielles. Il est donc difficile de dénombrer avec précision le modèle des implants posés, et de retrouver les patients en cas de problème.",
+      "question": "Quel problème révèle cet article à propos des implants médicaux ?",
+      "questionTranslation": "What problem does this article reveal regarding medical implants?",
+      "options": [
+        "Les données des malades sont transmises aux fabricants.",
+        "Les incidents dus aux erreurs de diagnostic augmentent.",
+        "Les patients se méfient des innovations technologiques.",
+        "Les recherches sont limitées par le manque d’informations."
+      ],
+      "optionTranslations": [
+        "Patient data is transmitted to manufacturers.",
+        "Incidents due to diagnostic errors are increasing.",
+        "Patients are wary of technological innovations.",
+        "Research is limited by the lack of information."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t28-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Selon une ancienne théorie sur la différence entre cerveau gauche et cerveau droit, les individus pourraient être classés selon leur dominance hémisphérique.\nLes « plus à gauche » seraient ainsi plus logiques et analytiques, tandis que les « plus à droite » seraient créatifs et intuitifs.\nS’il existe bel et bien une forme de dominance hémisphérique, elle dépend non pas de la personne, mais du type d’activité en cours.\nPar exemple, chez 99 % des droitiers et plus de 70 % des gauchers, le langage fait appel le plus souvent à des neurones situés dans l’hémisphère gauche.",
+      "question": "Qu’apprend-on sur le cerveau ?",
+      "questionTranslation": "What do we learn about the brain?",
+      "options": [
+        "Il est stimulé en phase d’apprentissage du langage.",
+        "À chaque activité correspond une région précise.",
+        "Les neurones sont concentrés dans quelques zones.",
+        "Son développement est lié au caractère d’un individu."
+      ],
+      "optionTranslations": [
+        "It is stimulated during the language learning phase.",
+        "A specific region corresponds to each activity.",
+        "Neurons are concentrated in a few zones.",
+        "Its development is linked to an individual's character."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Deux petites saisons et puis s’en vont.\nSur les plates-formes de streaming vidéo par abonnement, les séries ont beau être reines, elles n’en sont pas moins soumises à rude concurrence.\nEt leur durée de vie peut se révéler bien plus courte que sur les chaînes traditionnelles.\nCette stratégie ne doit rien au hasard.\nDans leur objectif de conquête de nouveaux abonnés, les plates-formes accordent en effet plus de vertus à la nouveauté qu’à la longévité.\nQuitte à décevoir certains fans qui payent un service de streaming spécialisé dont le baromètre de satisfaction devrait en théorie être plus important que celui de l’audimat.",
+      "question": "D’après l’article, que privilégient les plates-formes de streaming ?",
+      "questionTranslation": "According to the article, what do streaming platforms favor?",
+      "options": [
+        "La longévité des programmes.",
+        "La qualité des services offerts.",
+        "Le changement régulier des séries.",
+        "Le contentement de leurs abonnés."
+      ],
+      "optionTranslations": [
+        "The longevity of programs.",
+        "The quality of services offered.",
+        "The regular changing of series.",
+        "The satisfaction of their subscribers."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t28-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Cette année encore, les adeptes de la culture ne savent plus où donner de la tête et du porte-monnaie.\nEn nombre sans cesse croissant – notamment depuis que les collectivités territoriales (régions, départements...) ont compris le parti qu’elles pouvaient tirer de leur investissement en matière de communication – les festivals de musique foisonnent et les indicateurs sont au beau fixe, avec des rendez-vous emblématiques comme les Francofolies de La Rochelle et les Vieilles Charrues.\nL’année dernière, ils assuraient avoir battu des records de fréquentation.",
+      "question": "Dans cet article, qu'apprend-on sur les festivals ?",
+      "questionTranslation": "In this article, what do we learn about festivals?",
+      "options": [
+        "D’anciens artistes ont l’occasion de monter sur scène.",
+        "Les financements publics contribuent à leur expansion.",
+        "Les organisateurs s’adaptent aux nouvelles tendances.",
+        "Les tarifs proposés dépendant de la programmation."
+      ],
+      "optionTranslations": [
+        "Former artists have the opportunity to go on stage.",
+        "Public funding contributes to their expansion.",
+        "Organizers adapt to new trends.",
+        "The rates proposed depend on the programming."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "« Le programme de mobilité Erasmus n’est plus réservé aux étudiants », explique Sophie Roque, enseignante.\nPeu répandu, le programme Erasmus+ pour les enseignants bénéficie depuis quelques années d’un grand appel d’air. La demande progresse, et l’offre de mobilité aussi. Le système éducatif finlandais et les formations en anglais attirent beaucoup.\nSi le programme Erasmus+ pour les enseignants semble très apprécié de ceux qui y participent, il souffre néanmoins d’un vrai déficit de notoriété. On le découvre souvent par hasard ou à la faveur d’une rencontre.\nFranck Le Cars, délégué académique, confirme que le bouche-à-oreille entre enseignants est le meilleur moyen de développer le dispositif. Il souligne également que ces mobilités à l’étranger restent complexes à mettre en œuvre car très chronophages.",
+      "question": "Qu’apprend-on sur le programme Erasmus+ ?",
+      "questionTranslation": "What do we learn about the Erasmus+ program?",
+      "options": [
+        "Il est méconnu du public visé.",
+        "Il est restreint à quelques pays",
+        "Il favorise certains établissements",
+        "Il souffre d’une image négative."
+      ],
+      "optionTranslations": [
+        "It is unknown to the target audience.",
+        "It is restricted to a few countries.",
+        "It favors certain establishments.",
+        "It suffers from a negative image."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t28-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Je ne connais pas son prénom, mais il y a dans les Alpes une personne à la verve savoureuse.\nElle émaille la visite des gravures rupestres, dont les plus anciennes datent du Néolithique, de remises en perspective sur les prémices préhistoriques du capitalisme et de la domination masculine.\nElle chantera peut-être, à condition que vous ne l’applaudissiez pas, pour vous permettre de ressentir l’acoustique d’un cirque rocheux.\nElle vous proposera aussi de vous allonger et de fermer les yeux pour percevoir les vibrations du sol, riche en uranium.\nBref, elle guidera les êtres minuscules que vous êtes à travers les plis grandioses de l’écorce terrestre.",
+      "question": "Où exerce la personne décrite ?",
+      "questionTranslation": "Where does the described person work?",
+      "options": [
+        "Dans un centre de relaxation",
+        "Dans un laboratoire",
+        "Dans un musée archéologique",
+        "Dans un parc naturel"
+      ],
+      "optionTranslations": [
+        "In a relaxation center",
+        "In a laboratory",
+        "In an archaeological museum",
+        "In a natural park"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t28-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Bonjour,\nVous parlez dans votre article du risque de coupure générale d’électricité pour la Bretagne du fait d’une surconsommation.\nOr, cette région ne possède pas de source de production locale, ce qui implique une dépendance vis-à-vis du réseau et des lignes à haute tension !\nLa pression est forte à chaque épisode de grand froid.\nLe risque est réel, cependant les Bretons se serrent la ceinture.\nLa Bretagne s’est toujours montrée en avance dans l’action, comme un village d’irréductibles Gaulois entouré par les Romains !\nCe qui est agaçant, c’est que, pendant qu’ils jettent la pierre aux particuliers, les médias ne dénoncent pas l’absence d’efforts des milieux industriels !\nC’est même écœurant de le constater, ils ne subissent aucune restriction à ce jour !\nQui consomme réellement plus ?\nAndré, fidèle lecteur",
+      "question": "Quelle est la réaction dont ce lecteur fait part ?",
+      "questionTranslation": "What reaction does this reader express?",
+      "options": [
+        "Il aimerait que sa région soit plus combative et engagée face aux problèmes locaux.",
+        "Il réclame de nouvelles dispositions tarifaires pour que les factures soient moins élevées.",
+        "Il s’indigne en estimant que les reproches faits aux consommateurs sont injustifiés.",
+        "Il trouve inquiétantes les conséquences de la mauvaise gestion des sources d’énergie."
+      ],
+      "optionTranslations": [
+        "He would like his region to be more combative and engaged regarding local problems.",
+        "He claims new tariff provisions so that bills are lower.",
+        "He is indignant, estimating that the reproaches made to consumers are unjustified.",
+        "He finds the consequences of poor energy source management worrying."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t28-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Dans l’intérêt de leurs peuples, les gouvernements doivent répondre à la fois à des enjeux de court et de long terme. Cet exercice est si difficile que l’on peut comprendre qu’une certaine cacophonie règne au niveau politique.\nPourtant, face aux périls, le mot « ensemble » est une arme souvent victorieuse.\nLes stratégies de développement durable des pays ont ainsi plus de chance de succès si elles s’harmonisent.\nPour commencer, cherchons à nous rapprocher entre Européens, pour mener de front transition économique et transition environnementale, afin de mettre un bémol au dérèglement climatique et à la perte de biodiversité.",
+      "question": "Hubert Reeves Quel point de vue défend l’auteur ?",
+      "questionTranslation": "What point of view does the author defend?",
+      "options": [
+        "L’écologie est avant tout une affaire d’État.",
+        "La concertation est la clé d’une action réussie.",
+        "Les mesures protectionnistes sont dépassées.",
+        "L’influence des lobbies est à prendre en compte."
+      ],
+      "optionTranslations": [
+        "Ecology is primarily a state affair.",
+        "Concertation is the key to successful action.",
+        "Protectionist measures are outdated.",
+        "The influence of lobbies must be taken into account."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t28-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "L’avenir est dans la formation de la jeunesse, dans l’innovation, dans la recherche.\nPour prendre pleinement ses responsabilités, l’université de Nantes propose un nouveau modèle universitaire en France, décloisonné, qui rassemble les acteurs de l’enseignement supérieur et de la recherche (grandes écoles, organismes de recherche, centre hospitalier universitaire…).\nCe nouveau modèle remet au centre des préoccupations la question de l’accès à un enseignement supérieur qualitatif pour le plus grand nombre.\nIl a l’ambition de créer les conditions de réussite et d’épanouissement pour tous ses étudiants et de permettre des innovations majeures.\nAu travers de ce projet de nouvelle université, le président et son équipe défendent une vision innovante et proposent un nouveau modèle qui conjugue exigence et main tendue, excellence et lien social.",
+      "question": "Quel est l’objectif de cette université ?",
+      "questionTranslation": "What is the objective of this university?",
+      "options": [
+        "Attirer davantage d’étudiants brillants.",
+        "Être à la pointe de la technologie.",
+        "Ouvrir ses cours à un public élargi.",
+        "Proposer des disciplines inédites."
+      ],
+      "optionTranslations": [
+        "Attract more brilliant students.",
+        "Be at the cutting edge of technology.",
+        "Open its courses to a wider public.",
+        "Propose unseen disciplines."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t28-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "La révolution numérique aura, selon le philosophe Michel Serres, des effets au moins aussi considérables qu’en leur temps l’invention de l’écriture, puis celle de l’imprimerie.\nLes notions de temps et d’espace en sont transformées et les façons d’accéder à la connaissance profondément modifiées.\nÀ cet égard, chaque grande rupture dans l’histoire de l’humanité conduit à priver l’homme de facultés (« il perd »), mais chaque révolution lui en apporte de nouvelles (« il gagne »).\nPour chaque perte d’une part de mémoire et de capacité de traitement de l’information liée à la diffusion des technologies numériques, l’homme gagne une possibilité nouvelle de mise en relation (entre les individus et entre les savoirs) ainsi qu’une faculté décuplée d’invention et de création.",
+      "question": "Sur quoi Michel Serres attire-t-il l’attention ?",
+      "questionTranslation": "What does Michel Serres draw attention to?",
+      "options": [
+        "L’évolution des aptitudes mentales.",
+        "La mondialisation de la recherche scientifique.",
+        "La transformation des savoirs fondamentaux.",
+        "Le maintien du patrimoine culturel."
+      ],
+      "optionTranslations": [
+        "The evolution of mental aptitudes.",
+        "The globalization of scientific research.",
+        "The transformation of fundamental knowledge.",
+        "The maintenance of cultural heritage."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t28-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "L’histoire des sociétés humaines tourne autour de la recherche d’un monde plus juste.\nLes idéologies religieuses et politiques ont toujours visé une certaine forme de justice et d’égalité.\nLes êtres humains ont besoin de donner un sens à leur existence, notamment sociale : ils se soucient forcément de la vie des autres et veulent trouver une raison d’être à l’état de la société.\nAucune élite ne peut se contenter de posséder davantage d’argent ou de pouvoir que les autres de façon explicitement arbitraire.\nDe ce fait, l’organisation sociale est expliquée et justifiée par un discours sophistiqué.\nCe discours doit être un minimum plausible et repose souvent sur un mélange de sincérité et d’hypocrisie.",
+      "question": "Qu’explique l’auteur sur les inégalités sociales ?",
+      "questionTranslation": "What does the author explain about social inequalities?",
+      "options": [
+        "Elles diminuent dans toutes les organisations.",
+        "Elles résultent du fonctionnement d’une société.",
+        "Elles se combattent mieux avec de la sincérité.",
+        "Elles se justifient par des arguments fallacieux."
+      ],
+      "optionTranslations": [
+        "They are decreasing in all organizations.",
+        "They result from the functioning of a society.",
+        "They are better fought with sincerity.",
+        "They are justified by fallacious arguments. Retry test All tests"
+      ],
+      "correctIndex": 1,
+      "answerDisputed": true
+    }
+  ]
+}

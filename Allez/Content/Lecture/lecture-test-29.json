@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-29",
+  "title": "Test 29",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t29-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Madame Dousson est malade aujourd’hui.\nSon cours est reporté à jeudi (même salle, même heure).",
+      "question": "De quel changement informe ce message ?",
+      "questionTranslation": "What change does this message inform about?",
+      "options": [
+        "Un changement de jour.",
+        "Un changement de professeur.",
+        "Un changement de salle.",
+        "Un changement d’heure."
+      ],
+      "optionTranslations": [
+        "A change of day.",
+        "A change of teacher.",
+        "A change of room.",
+        "A change of time."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t29-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Menu déjeuner\n16 euros Entrée du jour ou charcuterie.\nPlat du jour ou steak frites fromage ou dessert.\n20 euros avec un verre de vin et un café.",
+      "question": "Qu’avez-vous avec le menu à 16 euros ?",
+      "questionTranslation": "What do you get with the 16 euro menu?",
+      "options": [
+        "Un plat, un dessert et un café.",
+        "Une entrée, un plat et une boisson.",
+        "Une entrée, un plat et un fromage.",
+        "Un plat, un fromage et une boisson."
+      ],
+      "optionTranslations": [
+        "A main dish, a dessert, and a coffee.",
+        "A starter, a main dish, and a drink.",
+        "A starter, a main dish, and cheese.",
+        "A main dish, cheese, and a drink."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t29-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Initiation à l’informatique\n25, 26 et 27 mars de 9h à 14h Salle de réunion.",
+      "question": "Pendant cette formation, qu’est-ce qu’on va apprendre à utiliser ?",
+      "questionTranslation": "During this training, what will we learn to use?",
+      "options": [
+        "Un photocopieur.",
+        "Un climatiseur.",
+        "Un ordinateur.",
+        "Un télécopieur."
+      ],
+      "optionTranslations": [
+        "A photocopier.",
+        "An air conditioner.",
+        "A computer.",
+        "A fax machine."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t29-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Madame, Monsieur,\nVous êtes convoqués à l’école avec votre fils, Paul Lemaire, inscrit en 6°B, le jeudi 13 janvier à 10 h, bureau 8.\nMerci de vous présenter au secrétariat du directeur adjoint.",
+      "question": "Qui est Paul Lemaire ?",
+      "questionTranslation": "Who is Paul Lemaire?",
+      "options": [
+        "Un secrétaire.",
+        "Un parent.",
+        "Un élève.",
+        "Un professeur."
+      ],
+      "optionTranslations": [
+        "A secretary.",
+        "A parent.",
+        "A student.",
+        "A teacher."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t29-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Salut Alex,\nPourrais-tu m’emmener à la fête de Lina demain soir ?\nMa voiture est en panne et c’est moi qui ai son cadeau d’anniversaire.\nÀ demain,\nElsa,",
+      "question": "Que doit faire Alex ?",
+      "questionTranslation": "What must Alex do?",
+      "options": [
+        "Acheter un cadeau.",
+        "Emmener une amie.",
+        "Organiser une fête.",
+        "Réparer une voiture."
+      ],
+      "optionTranslations": [
+        "Buy a gift.",
+        "Take a friend.",
+        "Organize a party.",
+        "Repair a car."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t29-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Monsieur,\nVeuillez nous retourner ce dossier complété et signé.\nNous vous informerons de notre décision par courrier avant la fin du mois.\nMerci de votre compréhension.\nLes services de préfecture.",
+      "question": "Que doit faire cette personne ?",
+      "questionTranslation": "What must this person do?",
+      "options": [
+        "Compléter des documents.",
+        "Demander des informations.",
+        "Écrire un courrier.",
+        "Téléphoner à la préfecture."
+      ],
+      "optionTranslations": [
+        "Complete documents.",
+        "Ask for information.",
+        "Write a letter.",
+        "Call the prefecture."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t29-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Dimanche 21 mai, venez faire connaissance avec Les HABITANTS DU QUARTIER !\nL’association « Immeubles en fête » vous donne rendez-vous vers midi.\nApportez un plat et une boisson et partageons-les ensemb NIMATION : Tennis de table à 15 h. Place de la Victoire.",
+      "question": "Qu’est-ce que l’association « Immeubles en fête » propose ?",
+      "questionTranslation": "What does the association 'Immeubles en fête' propose?",
+      "options": [
+        "De cuisiner tous ensemble.",
+        "De faire un repas entre voisins.",
+        "De s’inscrire à des activités.",
+        "De visiter de nouveaux logements."
+      ],
+      "optionTranslations": [
+        "To cook all together.",
+        "To have a meal among neighbors.",
+        "To sign up for activities.",
+        "To visit new housing."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t29-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Martine\nJe ne connaissais pas www.lamode.com, mais sur un forum, j’ai lu des avis positifs.\nAlors, je suis allée sur le site et j’ai trouvé une jolie robe pas chère du tout.\nJe l’ai commandée et je la portais 5 jours après.\nJe suis ravie !",
+      "question": "Qu'explique cette personne ?",
+      "questionTranslation": "What does this person explain?",
+      "options": [
+        "Comment elle a acheté un article en ligne.",
+        "Où elle a cherché un cadeau bon marché.",
+        "Pourquoi elle a eu un chèque de réduction.",
+        "Quand elle a échangé un vêtement soldé."
+      ],
+      "optionTranslations": [
+        "How she bought an item online.",
+        "Where she looked for a cheap gift.",
+        "Why she got a discount voucher.",
+        "When she exchanged a sale item."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t29-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Le soin d’origine naturelle « Nuit sommeil » est étudié pour les peaux fragiles.\nIl corrige les signes de fatigue et réveille votre visage.\nVotre peau est parfaite, même en plein hiver.",
+      "question": "Qu’est-ce que « Nuit Sommeil » ?",
+      "questionTranslation": "What is 'Nuit Sommeil'?",
+      "options": [
+        "Un savon pour le corps.",
+        "Un shampoing aux herbes.",
+        "Une boisson pour dormir.",
+        "Une crème de beauté."
+      ],
+      "optionTranslations": [
+        "A body soap.",
+        "An herbal shampoo.",
+        "A drink for sleeping.",
+        "A beauty cream."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t29-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "L’Union européenne va offrir une « Carte Jeunes » aux étudiants du continent qui ont vingt ans cette année.\nPendant un mois maximum, les jeunes pourront prendre le train gratuitement pour visiter plus de quinze pays.",
+      "question": "Qu’est-ce qui est proposé aux jeunes Européens ?",
+      "questionTranslation": "What is proposed to young Europeans?",
+      "options": [
+        "Des visites de musées.",
+        "Des voyages en Europe.",
+        "Un mois de vacances.",
+        "Un semestre d’études."
+      ],
+      "optionTranslations": [
+        "Museum visits.",
+        "Trips in Europe.",
+        "A month of vacation.",
+        "A semester of studies."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t29-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Aux habitants de la résidence Les Lilas\nLe gestionnaire de la résidence rappelle aux habitants que les travaux prévus dans le logement de Madame Bertrand commenceront le 15 avril.\nAfin que les ouvriers de l’entreprise puissent travailler facilement, il vous est demandé de garer vos voitures sur l’aire de stationnement installée de l’autre côté de la rue pendant la durée des travaux.\nVous ne devez en aucun cas laisser vos véhicules devant l’entrée de la résidence.\nNous vous remercions de votre compréhension.",
+      "question": "Qu’annonce ce courrier aux habitants de la résidence ?",
+      "questionTranslation": "What does this mail announce to the residents of the residence?",
+      "options": [
+        "L’agrandissement d’un parking.",
+        "La modernisation d’un bâtiment.",
+        "La transformation d’un logement.",
+        "Le déménagement d’une locataire."
+      ],
+      "optionTranslations": [
+        "The expansion of a parking lot.",
+        "The modernization of a building.",
+        "The transformation of an apartment.",
+        "The moving out of a tenant."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t29-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La semaine dernière, les écoles de commerce ont organisé leur traditionnel rendez-vous « Avenir jeunesse ».\nComme tous les ans, son objectif a été de favoriser la rencontre entre les entreprises qui recrutent et les élèves.\nCes derniers ont pu se renseigner sur les différents secteurs d’activité et déposer leur candidature pour les postes qui les intéressent.\nDes ateliers conseil étaient animés par des professionnels.",
+      "question": "Quel était le but de l’événement « Avenir jeunesse »?",
+      "questionTranslation": "What was the goal of the 'Youth Future' event?",
+      "options": [
+        "Accueillir les étudiants étrangers.",
+        "Faciliter la recherche d’emploi.",
+        "Préparer la rentrée universitaire.",
+        "Présenter de nouvelles formations."
+      ],
+      "optionTranslations": [
+        "Welcome foreign students.",
+        "Facilitate job searching.",
+        "Prepare for the start of the university year.",
+        "Present new training courses."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t29-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Un salon automobile est un lieu de rêve, mais pas le salon de cette année.\nVoici mon classement des modèles les plus laids :\n1. La V210 : un aspirateur sur quatre roues.\n2. La Tata Aria : pas chère, mais pas belle non plus.\n3. Le cabriolet Aurus : plus large que haut.\nVivement l’année prochaine !",
+      "question": "Quel est le problème de ces voitures ?",
+      "questionTranslation": "What is the problem with these cars?",
+      "options": [
+        "Leur couleur",
+        "Leur forme",
+        "Leur prix",
+        "Leur taille"
+      ],
+      "optionTranslations": [
+        "Their color",
+        "Their shape",
+        "Their price",
+        "Their size"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t29-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Martine,\nC’est d’accord, nous pouvons faire une fête chez moi samedi prochain.\nIl y aura 15 personnes.\nC’est dommage, Ali ne peut pas venir, il est parti à la montagne.\nEst-ce que tu peux acheter les boissons ? Je m’occupe des desserts.\nViens vers 19 heures, les autres arriveront à partir de 20 heures.\nMerci, à samedi.\nRomuald",
+      "question": "Que doit faire Martine ?",
+      "questionTranslation": "What must Martine do?",
+      "options": [
+        "Apporter à boire.",
+        "Préparer un gâteau.",
+        "Contacter un ami.",
+        "Animer la soirée."
+      ],
+      "optionTranslations": [
+        "Bring something to drink.",
+        "Prepare a cake.",
+        "Contact a friend.",
+        "Host the party."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t29-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Vous pensez qu’il est un peu fou de partir en bateau avec des enfants ?\nClément, Marine et leurs deux filles de six et deux ans devraient vous inspirer.\nTous les quatre ou à plusieurs familles, ils maintiennent le rythme d’une croisière par an.\n« Des vacances où on déconnecte à l’instant même où on pose le pied sur le pont », dit Clément.\n« Une vie en contact permanent avec la nature, l’océan, les côtes sauvages, les dauphins…», rajoute Marine.",
+      "question": "Selon Marine et Clément, que permettent des vacances en bateau ?",
+      "questionTranslation": "According to Marine and Clément, what do boat holidays allow?",
+      "options": [
+        "De faire du sport et de rencontrer des personnes.",
+        "De nager régulièrement et de manger du poisson.",
+        "De se reposer et de découvrir le milieu marin.",
+        "De vivre au calme et de se retrouver en famille."
+      ],
+      "optionTranslations": [
+        "To do sports and meet people.",
+        "To swim regularly and eat fish.",
+        "To rest and discover the marine environment.",
+        "To live in peace and quiet and meet up with family."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t29-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "C’est en France que se tient le salon du raisin biologique.\nAvec 600 professionnels venus de quarante pays, c’est le salon bio le plus important en Europe.\nPourtant, si l’Europe produit la plus grande part de raisin bio, avec 88 % des surfaces biologiques dans le monde, la France n’est pas championne en la matière !\nL’année dernière, l’agriculture biologique concernait seulement 4 % de la production française…\nOn parle toujours plus du bio qu’on ne le consomme.",
+      "question": "Quelle est la situation du marché français dans la culture du raisin biologique ?",
+      "questionTranslation": "What is the situation of the French market in the cultivation of organic grapes?",
+      "options": [
+        "La France compte de nombreux producteurs qui exportent peu.",
+        "La France demeure une petite productrice sur le plan européen.",
+        "La France fournit une part importante de la production mondiale.",
+        "La France parvient tout juste à répondre à sa demande nationale."
+      ],
+      "optionTranslations": [
+        "France has many producers who export little.",
+        "France remains a small producer at the European level.",
+        "France provides a significant share of world production.",
+        "France barely manages to meet its national demand."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t29-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Vous n’avez plus le courage d’ouvrir un magazine.\nVous ne prenez plus le temps de lire, votre emploi du temps est surchargé, vous passez du temps dans les transports…\nAlors retrouvez le plaisir de la lecture différemment.\nSocrate Édition transforme la presse écrite en presse audio et garantit la qualité de la lecture grâce à des comédiens.\nVous suivez ainsi l’actualité et vous continuez à vous informer.\nRetrouvez nos offres sur notre site internet.",
+      "question": "Que propose cet éditeur ?",
+      "questionTranslation": "What does this publisher offer?",
+      "options": [
+        "Des enregistrements sonores d’article de journal",
+        "Des extraits choisis de romans classiques",
+        "Des publications résumées des contenus de sites web",
+        "Des sélections de répliques de théâtres célèbres"
+      ],
+      "optionTranslations": [
+        "Sound recordings of newspaper articles",
+        "Selected excerpts from classic novels",
+        "Summarized publications of web content",
+        "Selections of famous theater lines"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t29-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "RAPPEL\nPour un tri efficace des ordures, ne jetez dans les poubelles jaunes que les petits cartons tels que paquets de céréales ou de produits laitiers.\nLes couvercles de ces poubelles ont un trou de la taille des cartons et ne peuvent pas être ouverts complètement, afin d’éviter le mélange des ordures.\nLes gros cartons vont avec les ordures ménagères.\nLes poubelles sont vidées tous les mardis.",
+      "question": "À quoi faut-il faire attention en triant les déchets ?",
+      "questionTranslation": "What must be paid attention to when sorting waste?",
+      "options": [
+        "À leur couleur.",
+        "À leur dimension.",
+        "À leur emballage.",
+        "À leur quantité."
+      ],
+      "optionTranslations": [
+        "To their color.",
+        "To their dimension.",
+        "To their packaging.",
+        "To their quantity."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t29-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Recherche de partenaire pour un projet collaboratif par Internet.\nPour inscrire votre classe à ce projet, communiquez directement avec la personne responsable ou suivez la consigne indiquée, selon le cas.\nTitre : Comparaison des constellations entre les hémisphères nord et sud.\nPersonne responsable : Sandrine Grun.\nAdresse électronique : sandrine.grun@collegerenoir.fr.\nPays d’origine : France.\nDomaine concerné : astronomie/sciences de l’espace.\nDescription : un groupe d’élèves participant à un atelier d’astronomie avec leur professeur de sciences physiques souhaiterait comparer les constellations des hémisphères nord et sud et étudier leurs histoires.\nCes élèves recherchent un groupe d’élèves situé dans l’hémisphère sud, parlant français.\nIls voudraient commencer le projet entre élèves à la rentrée de septembre. Mais le travail entre professeurs pourrait commencer avant.",
+      "question": "En quoi consiste le projet décrit dans cette annonce ?",
+      "questionTranslation": "What does the project described in this ad consist of?",
+      "options": [
+        "Participer à un concours international d’astronomie.",
+        "Réaliser une étude d’observation des astres.",
+        "Se joindre à une formation d’enseignants en sciences.",
+        "Suivre un cours de rattrapage en sciences physiques."
+      ],
+      "optionTranslations": [
+        "Participate in an international astronomy contest.",
+        "Conduct a study of observing stars/celestial bodies.",
+        "Join a science teacher training.",
+        "Take a remedial physics class."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t29-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "En Provence et sur la Côte d’Azur, les campagnes sont jalonnées d’oliviers, d’orangers et autres pruniers dont les fruits ne sont jamais ramassés.\nÀ Grasse, l’association d’insertion Renouer a eu l’excellente idée de valoriser ces denrées pour s’auto-financer.\nDepuis 2012, la structure intervient dans les vergers de particuliers via des cueillettes dites solidaires.\n« Nous répertorions des parcelles laissées en friche et nous proposons aux propriétaires de ramasser les fruits à leur place », précise Sophie Allain, bénévole qui coordonne l’opération.\nTous les ans, l’action mobilise entre 10 et 15 employés en insertion ainsi que des citoyens séduits par la dimension à la fois sociale et écologique de l’initiative.",
+      "question": "Quelle est l’activité de cette association ?",
+      "questionTranslation": "What is the activity of this association?",
+      "options": [
+        "Elle cultive des espaces verts abandonnés.",
+        "Elle réalise de petits services d’entretien.",
+        "Elle récolte les produits de terrains privés.",
+        "Elle s’occupe de gérer des jardins collectifs."
+      ],
+      "optionTranslations": [
+        "It cultivates abandoned green spaces.",
+        "It performs small maintenance services.",
+        "It harvests products from private lands.",
+        "It takes care of managing collective gardens."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t29-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Théo, la poupée « inter-affective ».\nThéo a deux ans.\nIl mesure 52cm et communique spontanément avec sa maman.\nLancé par Berchet, ce robot est bourré d’électronique et de capteurs pour interagir avec l’enfant.\nAinsi, Théo dort lorsqu’il fait nuit, se réveille au lever du jour, réclame à manger ou à boire et même à aller au pot.\nSa voix numérisée est d’un naturel confondant.\nSurtout, il s’adapte aux capacités de jeux de chaque enfant :\nplus il manifestera son désir de jouer, plus le jouet sera réactif.",
+      "question": "La voix numérisée de Théo est d’un « naturel confondant », ce qui signifie qu’elle…",
+      "questionTranslation": "Théo's digitized voice is of an 'astounding naturalness' ('naturel confondant'), which means that it...",
+      "options": [
+        "A un timbre qui n’existe pas naturellement",
+        "Se confond avec la voix de l’enfant qui joue",
+        "Enregistre et reproduis les voix entendues",
+        "Imite à la perfection la voix d’un enfant"
+      ],
+      "optionTranslations": [
+        "Has a timbre that does not exist naturally",
+        "Blends with the voice of the child playing",
+        "Records and reproduces heard voices",
+        "Imitates perfectly the voice of a child"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t29-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La décision du gouvernement d’abattre 40 loups a fait grincer les dents d’un grand nombre d’organisations non gouvernementales.\nL’espèce est en effet sur la liste rouge des animaux en voie d’extinction de l’Office National de la Chasse et de la Faune Sauvage.\nSelon une étude scientifique récente, la disparition du loup dans le parc de Yellowstone aux États-Unis a perturbé tout un écosystème.\nCertaines espèces consommatrices d’arbres et d’arbustes que le canidé chassait ont proliféré au point de menacer la végétation.\nDe surcroît, le loup aurait d’autres bienfaits : prédateur opportuniste, il cible les proies les plus fragiles ou en mauvaise santé, favorisant ainsi la vigueur des espèces qu’il traque.",
+      "question": "Qu’apprend-on sur les loups ?",
+      "questionTranslation": "What do we learn about wolves?",
+      "options": [
+        "Ils ont de moins en moins d’espace naturel.",
+        "Ils permettent de protéger la biodiversité.",
+        "Ils représentent un danger exagéré.",
+        "Ils sont décimés par la maladie."
+      ],
+      "optionTranslations": [
+        "They have less and less natural space.",
+        "They help protect biodiversity.",
+        "They represent an exaggerated danger.",
+        "They are decimated by disease."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t29-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Il change le clavier de ses deux ordinateurs tous les six mois.\nLes touches cèdent sous ses mains qui, telles des araignées possédées, tissent roman après roman.\nEn vingt ans, il a écrit près de mille cent titres.\nC’est un touche-à-tout : il pond aussi bien de la littérature pour herboristes que de la pharmacopée policière.\nCet ancien chirurgien a abandonné le festin sanglant des blocs opératoires pour les joies de la graphomanie.\n« Je me suis lassé de la médecine. Mais j’écris mes romans avec toute la passion que j’avais pour la chirurgie », explique-t-il.",
+      "question": "Quelle est la particularité de cet écrivain ?",
+      "questionTranslation": "What is the peculiarity of this writer?",
+      "options": [
+        "Il a écrit une œuvre abondante et variée.",
+        "Il a toujours rêvé de devenir médecin.",
+        "Il est emballé par les histoires d’épouvante.",
+        "Il peine à écrire depuis quelque temps."
+      ],
+      "optionTranslations": [
+        "He has written an abundant and varied body of work.",
+        "He always dreamed of becoming a doctor.",
+        "He is thrilled by horror stories.",
+        "He has been struggling to write for some time."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t29-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Plus de trente monnaies locales circulent en France.\nLa plupart sont créées et pilotées par des groupes de citoyens.\nEn version papier ou exclusivement numériques, elles dessinent une nouvelle carte économique des villes, fondées sur le développement local des entreprises et la promotion des circuits courts.\nCes nouveaux moyens de paiement complémentaires de l’euro se veulent aussi des outils de réappropriation de l’économie locale par les habitants.\nSi leurs effets sur l’environnement sont moins mesurables que les impacts économiques et sociaux, les monnaies locales restent des outils intéressants pour encourager l’adoption de comportements plus écologiques.\nElles orientent ainsi le consommateur vers des acteurs économiques plus respectueux de la planète.",
+      "question": "Selon cet article, quel intérêt présentent les monnaies locales ?",
+      "questionTranslation": "According to this article, what interest do local currencies present?",
+      "options": [
+        "Elles concurrencent le marché numérique.",
+        "Elles contribuent à protéger l’environnement.",
+        "Elles favorisent l’épargne des citoyens.",
+        "Elles sécurisent les modes de paiement."
+      ],
+      "optionTranslations": [
+        "They compete with the digital market.",
+        "They contribute to protecting the environment.",
+        "They favor citizen savings.",
+        "They secure payment methods."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t29-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le ministère de l’Éducation nationale prépare une campagne promotionnelle afin de revaloriser le métier d’enseignant.\nEn effet, s’il a supprimé des milliers de postes ces dernières années, il peine cependant à embaucher des professeurs.\nLa présidente de la première organisation syndicale enseignante du pays ne décolère pas.\n« Le ministère prend le problème à l’envers. Ce n’est pas en faisant de la communication que nous rendrons le métier d’enseignant attractif », proteste la syndicaliste.\n« Comment donner envie aux étudiants de devenir enseignant quand on leur supprime leur formation ? »\nPour elle, l’attractivité du métier passe aussi par une revalorisation de la paie.\nOr, le gouvernement a annoncé un gel des salaires dans la Fonction publique.",
+      "question": "Comment rendre le métier d’enseignant plus attirant ?",
+      "questionTranslation": "How to make the teaching profession more attractive?",
+      "options": [
+        "En limitant la part de l’apprentissage pratique.",
+        "En rendant compréhensibles les décisions politiques.",
+        "En renouvelant les perspectives d’évolution.",
+        "En révisant les conditions de rémunération."
+      ],
+      "optionTranslations": [
+        "By limiting the share of practical learning.",
+        "By making political decisions understandable.",
+        "By renewing career evolution perspectives.",
+        "By revising remuneration conditions."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t29-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "C’est un fait majeur dans l’histoire du français : la France est devenue minoritaire en nombre de locuteurs dans le monde francophone.\nCe qui vaut mieux que de faire partie des 2 000 langues qui, par les hasards de l’histoire et des rapports de force, risquent d’avoir disparu d’ici à la fin du siècle.\nEn revanche, nous allons devoir abandonner certaines de nos postures traditionnelles.\nEt ce pour une raison simple : le français ne dépend pas seulement d’une élite intellectuelle, écrivains, enseignants ou académiciens, mais surtout de ses locuteurs.\nAussi la langue va-t-elle nécessairement s’ouvrir davantage.\nIl semble acquis en tout cas que l’origine de la norme va se déplacer des rives de la Seine au vaste monde, sachant qu’il s’agit là d’un enrichissement et non d’une",
+      "question": "perte. Comment l’auteur voit-il l’évolution du français ?",
+      "questionTranslation": "How does the author see the evolution of French?",
+      "options": [
+        "Elle est dépendante de décisions politiques.",
+        "Elle est limitée par les intellectuels.",
+        "Elle est menacée par l’essor d’autres langues.",
+        "Elle est modelée par ses locuteurs."
+      ],
+      "optionTranslations": [
+        "It is dependent on political decisions.",
+        "It is limited by intellectuals.",
+        "It is threatened by the rise of other languages.",
+        "It is shaped by its speakers."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t29-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Prendre le métro à Lyon est devenu compliqué pour celui qui ne veut pas se faire racoler.\nEn découvrant l’écran publicitaire géant installé à la station Bellecour, j’ai été sidéré.\nLe publicitaire qui a reçu la bénédiction des élus pour installer cet écran géant et près de cent écrans de télévision de 2 m² sur les quais, peut être fier de lui.\nIl se félicite d’ailleurs, sur son site internet, de « susciter encore plus d’émotion ».\nGénérer des sentiments, de la peur ou de la joie, c’est s’assurer que le message publicitaire aura plus d’impact.\nIl pourra alors vendre plus cher aux marques le droit d’accaparer toujours plus notre attention.",
+      "question": "Quelle est l’attitude de l’auteur vis-à-vis de cette campagne publicitaire ?",
+      "questionTranslation": "What is the author's attitude towards this advertising campaign?",
+      "options": [
+        "Il critique son concept.",
+        "Il dénonce son coût élevé.",
+        "Il doute se son efficacité.",
+        "Il prédit son échec."
+      ],
+      "optionTranslations": [
+        "He criticizes its concept.",
+        "He denounces its high cost.",
+        "He doubts its effectiveness.",
+        "He predicts its failure."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t29-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Elle écrivait récemment sa dernière chronique, lancée comme un appel à la résistance : « Je m’en vais et je pense que vous devriez me rejoindre. ».\nLa journaliste Kelly H. annonçait trois choses : qu’elle démissionnait après une longue carrière dans un prestigieux quotidien, qu’elle devenait professeure de mathématiques et qu’elle créait une fondation pour encourager d’anciens entrepreneurs à devenir enseignants.\n« Vous avez eu une carrière à succès. Maintenant, faites quelque chose de plus important ! Enseignez ! ».\nEn tant que journaliste, elle avait effectué des enquêtes sur la vie des cadres supérieurs, en ridiculisant le plus souvent l’engouement pour les concepts managériaux en vogue et en soulignant les crises existentielles des cadres.",
+      "question": "Quelle est la nouvelle priorité de Kelly H. ?",
+      "questionTranslation": "What is Kelly H.'s new priority?",
+      "options": [
+        "Changer la façon de gérer des équipes.",
+        "Compenser le manque de formateurs.",
+        "Réussir au sein d’une société.",
+        "Transmettre des connaissances."
+      ],
+      "optionTranslations": [
+        "Changing the way teams are managed.",
+        "Compensating for the lack of trainers.",
+        "Succeeding within a company.",
+        "Transmitting knowledge."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t29-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "- En tant que philosophe, que répondez-vous à ceux qui s’inquiètent de voir évoluer les jeunes dans l’univers virtuel des nouvelles technologies ?\n- Rendez-vous compte que la culture est à la portée de chacun !\nQuel progrès !\nOn sait que les nouvelles technologies n’activent pas les mêmes régions du cerveau que les livres.\nCet organe évolue, de la même façon qu’il avait déjà révélé des capacités nouvelles lorsqu’on est passé de l’oral à l’écrit.\nQue faisaient nos neurones avant l’invention de l’écriture ?\nLes facultés cognitives ne sont pas stables chez l’homme, c’est très intéressant.\nC’est ma réponse aux vieux grognons qui accusent les jeunes de ne plus avoir de mémoire.\nIls jugent avec les facultés cognitives qui sont les leurs, sans admettre que le cerveau évolue.",
+      "question": "Quel est l’avis de ce philosophe concernant les nouvelles technologies ?",
+      "questionTranslation": "What is this philosopher's opinion regarding new technologies?",
+      "options": [
+        "Elles détruisent les cellules du cerveau.",
+        "Elles développent la mémoire à court terme.",
+        "Elles modifient nos processus cognitifs.",
+        "Elles provoquent la disparition de l’écriture."
+      ],
+      "optionTranslations": [
+        "They destroy brain cells.",
+        "They develop short-term memory.",
+        "They modify our cognitive processes.",
+        "They cause the disappearance of writing."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t29-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Ne pas assez dormir plusieurs nuits de suite perturbe tout le monde, s’en rend compte.\nCe qui est moins visible, c’est comment cela affecte notre santé.\nDes scientifiques ont montré que le manque de sommeil modifiait l’intensité de l’activité de plus de 700 gènes, parmi eux ceux liés au stress et à la lutte contre les maladies.\nMais ils ne peuvent encore dire si ces modifications des gènes sont une réponse de court terme et sans danger à un sommeil de mauvaise qualité, un signe d’adaptation du corps à la privation de sommeil, ou un danger potentiel pour la santé.",
+      "question": "Qu’est-ce que les scientifiques ont découvert concernant le manque de sommeil ?",
+      "questionTranslation": "What have scientists discovered concerning lack of sleep?",
+      "options": [
+        "La gestion du stress est difficile",
+        "La santé est mise en péril",
+        "Le corps est moins réactif",
+        "Le système génétique est affecté"
+      ],
+      "optionTranslations": [
+        "Stress management is difficult",
+        "Health is put in peril",
+        "The body is less reactive",
+        "The genetic system is affected"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t29-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Il ne viendrait à personne l’idée d’entrer dans un cinéma ou un théâtre sans payer sa place, ni à ces industries de ne pas rémunérer leurs auteurs.\nDe nombreux festivals ou lieux dédiés à la photographie se targuent pourtant de la gratuité de leurs expositions.\nD’autant plus que, dans la majorité des cas, il est admis qu’aucun budget ni aucun droit d’auteur ne soient prévus pour le photographe.\nMême si le motif initial de rendre la photographie accessible à tous est plus que légitime, ce qui choquerait pour tout autre secteur ou corps de métier n’offusque personne dès lors qu’il s’agit du photographe, pourtant producteur de la matière première de ces activités.",
+      "question": "Que constate l’auteur de l’article ?",
+      "questionTranslation": "What does the author of the article observe?",
+      "options": [
+        "C’est la photographie qui est la forme d’art la moins valorisée.",
+        "Il y a peu d’événements culturels consacrés à la photographie.",
+        "Les photographies sont commercialisées à bas prix.",
+        "N’importe qui peut s’improviser photographe."
+      ],
+      "optionTranslations": [
+        "It is photography that is the least valued form of art.",
+        "There are few cultural events dedicated to photography.",
+        "Photographs are marketed at low prices.",
+        "Anyone can improvise themselves as a photographer."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t29-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Au début de l’adolescence, vers 11-12 ans, les enfants aspirent à l’autonomie.\nC’est à cette période que les écrans jouent un rôle important au niveau de leur intégration sociale, mais aussi que les risques d’excès se profilent.\n« Les parents doivent abandonner leur position de prescription et passer à une position d’accompagnement. »\nLe docteur Huerre leur recommande donc d’explorer avec leur enfant les jeux qui l’intéressent et la manière qu’il a de circuler sur la toile, afin de faciliter les échanges.\n« Au lieu d’avoir peur des jeux vidéo, demandez-lui de vous les montrer et n’hésitez pas à jouer avec lui. Certains procurent un réel plaisir visuel et esthétique », conseille-t-il.",
+      "question": "Que préconise le médecin aux parents ?",
+      "questionTranslation": "What does the doctor recommend to parents?",
+      "options": [
+        "De participer à l’exploration du monde numérique",
+        "De restreindre le temps consacré aux jeux vidéo",
+        "De sélectionner des contenus adaptés aux enfants",
+        "De surveiller la navigation des jeunes sur la toile"
+      ],
+      "optionTranslations": [
+        "To participate in the exploration of the digital world",
+        "To restrict the time devoted to video games",
+        "To select content adapted to children",
+        "To monitor young people's navigation on the web"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t29-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Certains économistes spécialisés dans la politique en matière de mobilité estiment que la gratuité des transports en commun n'est pas souhaitable. Pour eux, la question de savoir qui va les financer est un peu simpliste: « La gratuité existe déjà dans notre pays. Il y a une quinzaine de réseaux en dehors de l'île- de-France qui le font déjà totalement. Le problème actuel est celui des ressources. En effet, les réseaux des grandes métropoles ne sont pas formatés pour pouvoir absorber ce supplément de fréquentation.\nEt donc de ce point de vue, il n'est pas possible de se poser la question de la gratuité, avant de savoir quelle offre sera proposée aux usagers qui voyagent sur",
+      "question": "le réseau. » D'après ces spécialistes, quel est le fond du problème de la gratuité des transports ?",
+      "questionTranslation": "According to these specialists, what is the fundamental problem with free transport?",
+      "options": [
+        "L’absence de modèle comparatif de mobilité.",
+        "La déresponsabilisation des usagers.",
+        "Le déficit provoqué par son financement.",
+        "Le risque de saturation des réseaux."
+      ],
+      "optionTranslations": [
+        "The lack of a comparative mobility model.",
+        "The lack of responsibility of users.",
+        "The deficit caused by its funding.",
+        "The risk of network saturation."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t29-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "L’apprentissage en Europe\nÀ l’heure actuelle, l’utilisation des nouvelles technologies de l’information et de la communication (TIC) dans les salles de classe est rare.\nLes établissements travaillent encore selon un modèle ancien de l’éducation.\nCela signifie que les établissements n’ont pas pu se détacher d’une structure trop rigide : ils fondent leurs ressources d’enseignement sur des manuels, ont peu recours aux connaissances mises à leur portée grâce à la mondialisation et travaillent au sein d’espaces d’apprentissage très spécifiques.\nLes établissements appliquent toujours une philosophie plus caractéristique du XIXe siècle (industriel) que du XXIe siècle (informationnel).\nL’enseignement se caractérise actuellement par des établissements du XIXe siècle dans lesquels des enseignants du XXe siècle travaillent auprès d’étudiants",
+      "question": "du XXIe siècle. Que présente l’auteur de l’article ?",
+      "questionTranslation": "What does the author of the article present?",
+      "options": [
+        "Des méthodes innovantes sur l’usage des TIC.",
+        "Des pistes de recherche sur l’apprentissage.",
+        "Un état des lieux des ressources pédagogiques.",
+        "Une analyse du contexte socio-éducatif actuel."
+      ],
+      "optionTranslations": [
+        "Innovative methods on the use of ICT.",
+        "Research avenues on learning.",
+        "An inventory of pedagogical resources.",
+        "An analysis of the current socio-educational context."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t29-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "La génération Y, ce sont les 20-30 ans qui ont grandi avec les nouvelles technologies.\nPhénomène de société, ils sont ultra-connectés et surfent sur les réseaux sociaux, disposant de compétences que ne détenaient pas leurs aînés.\nUne autre caractéristique les rassemble, la précarité au travail : 25 % des jeunes sont au chômage, d’autres ont des emplois temporaires.\nConséquence : on les présente comme sans illusions, peu impliqués au travail, individualistes et réfractaires à l’autorité.\nPourtant, cette précarité aurait du bon : elle pousserait la génération Y à se prendre en charge plus que ses aînés, en créant ses propres entreprises.\nCependant, des sociologues ont montré qu’il est très difficile de distinguer l’effet d’âge de l’effet période économique sur les attitudes au travail.",
+      "question": "D’après ce texte, de quelle qualité serait dotée la génération Y ?",
+      "questionTranslation": "According to this text, with which quality would Generation Y be endowed?",
+      "options": [
+        "Un esprit créatif dans le secteur des technologies Internet.",
+        "Une grande autonomie dans le domaine professionnel.",
+        "Une aptitude étonnante à savoir se mettre en avant.",
+        "Un esprit de solidarité avec les personnes sans emploi."
+      ],
+      "optionTranslations": [
+        "A creative spirit in the internet technology sector.",
+        "Great autonomy in the professional field.",
+        "An astonishing aptitude for knowing how to promote themselves.",
+        "A spirit of solidarity with unemployed people."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t29-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "J’ai commencé ma vie comme je la finirai sans doute : au milieu des livres.\nDans le bureau de mon grand-père, il y en avait partout ; défense était faite de les épousseter sauf une fois l’an, avant la rentrée d’octobre.\nJe ne savais pas encore lire que, déjà, je les révérais.\nJe les touchais en cachette pour honorer mes mains de leur poussière, mais je ne savais trop qu’en faire.\nMon grand-père maniait ses objets culturels avec une dextérité d’officiant.\nJe l’ai vu mille fois se lever d’un air absent, faire le tour de sa table, traverser la pièce en deux enjambées, prendre un volume sans hésiter, le feuilleter en regagnant son fauteuil puis, à peine assis, l’ouvrir d’un coup sec à la bonne page.",
+      "question": "Que fait l’écrivain dans cet extrait ?",
+      "questionTranslation": "What is the writer doing in this excerpt?",
+      "options": [
+        "Il revit les souvenirs lointains dans le bureau de la maison familiale",
+        "Il se rappelle une pièce de travail poussiéreuse interdite aux enfants",
+        "Il raconte son apprentissage de la lecture auprès de son grand-père",
+        "Il évoque ses rentrées scolaires alors qu’il ne savait pas encore lire"
+      ],
+      "optionTranslations": [
+        "He relives distant memories in the family home's office",
+        "He recalls a dusty workroom forbidden to children",
+        "He recounts learning to read with his grandfather",
+        "He evokes his back-to-school days when he didn't know how to read yet"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t29-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "L’avenir est dans la formation de la jeunesse, dans l’innovation, dans la recherche.\nPour prendre pleinement ses responsabilités, l’université de Nantes propose un nouveau modèle universitaire en France, décloisonné, qui rassemble les acteurs de l’enseignement supérieur et de la recherche (grandes écoles, organismes de recherche, centre hospitalier universitaire…).\nCe nouveau modèle remet au centre des préoccupations la question de l’accès à un enseignement supérieur qualitatif pour le plus grand nombre.\nIl a l’ambition de créer les conditions de réussite et d’épanouissement pour tous ses étudiants et de permettre des innovations majeures.\nAu travers de ce projet de nouvelle université, le président et son équipe défendent une vision innovante et proposent un nouveau modèle qui conjugue exigence et main tendue, excellence et lien social.",
+      "question": "Quel est l’objectif de cette université ?",
+      "questionTranslation": "What is the objective of this university?",
+      "options": [
+        "Attirer davantage d’étudiants brillants.",
+        "Être à la pointe de la technologie.",
+        "Ouvrir ses cours à un public élargi.",
+        "Proposer des disciplines inédites."
+      ],
+      "optionTranslations": [
+        "Attract more brilliant students.",
+        "Be at the cutting edge of technology.",
+        "Open its courses to a wider public.",
+        "Propose unseen disciplines."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t29-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre :\nrencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues.\nSauf qu’entre le jeune pompier Roméo et l’infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu’on décrit trop peu.\nIl y a chez eux une envie de dire, d’avouer ce qui fut trop longtemps caché.\nAinsi, l’histoire se fait-elle peu à peu libération et rédemption.\nAvec un art direct et familier de conteuse, l’auteure offre à ses personnages un espoir, un bonheur encore possible.",
+      "question": "D’après la critique, quel est l’atout principal du roman d’Agnès Ledig ?",
+      "questionTranslation": "According to the critique, what is the main asset of Agnès Ledig's novel?",
+      "options": [
+        "L’alternance entre le comique et le drame.",
+        "L’atmosphère énigmatique et inquiétante.",
+        "La présentation de particularités régionales.",
+        "L’émancipation des héros au cours du récit."
+      ],
+      "optionTranslations": [
+        "The alternation between comedy and drama.",
+        "The enigmatic and disturbing atmosphere.",
+        "The presentation of regional particularities.",
+        "The emancipation of the heroes during the story."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t29-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Une époque inimaginable pour un enfant d’aujourd’hui : ce temps où les parents n’avaient pas internet et leur progéniture, pas de portable.\nLes parents les plus au fait s’informaient sur le monde une, voire deux fois par jour.\nMaintenant, nous savons qu’il va mal tout le temps.\nChaque seconde, une mauvaise nouvelle tombe de l’autre bout du globe dans notre smartphone.\nEn quelques années, nous avons basculé dans un nouveau monde, plus grand, immense même, tissé de rencontres improbables et d’opportunités fabuleuses, mais aussi surpeuplé de contrées hostiles et de tribus numériques agressives.\nNotre nouvelle vie est absolument excitante, vertigineuse même.\nMais, justement, il tient à nous de dompter ce vertige.",
+      "question": "Que constate ce journaliste ?",
+      "questionTranslation": "What does this journalist observe?",
+      "options": [
+        "La dégradation des relations sociales à cause d’internet",
+        "La multiplication des sources d’information",
+        "La nocivité des écrans sur le développement des enfants",
+        "La recrudescence d’informations mensongères"
+      ],
+      "optionTranslations": [
+        "The degradation of social relations due to the internet",
+        "The multiplication of sources of information",
+        "The harmfulness of screens on the development of children",
+        "The resurgence of false information Retry test All tests"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

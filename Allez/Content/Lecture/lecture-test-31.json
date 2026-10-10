@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-31",
+  "title": "Test 31",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t31-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Pour l’été, voici quelques gestes simples s’il fait très chaud :\n• Boire un litre et demi d’eau par jour ; • Limiter les efforts physiques ;\n• Manger des fruits et des légumes ;\n• Garder sa maison au frais.",
+      "question": "Quel est le but de cette annonce ?",
+      "questionTranslation": "What is the goal of this announcement?",
+      "options": [
+        "Donner des conseils.",
+        "Informer sur la météo.",
+        "Présenter des activités.",
+        "Proposer un menu."
+      ],
+      "optionTranslations": [
+        "Give advice.",
+        "Inform about the weather.",
+        "Present activities.",
+        "Propose a menu."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t31-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Chers parents,\nLes inscriptions à l’école et au centre de loisirs pour la rentrée prochaine sont ouvertes. Remplissez le dossier sur le site de la ville www.ville-de-vernon.fr ou retirez-le à la mairie et renvoyez-le avec toutes les informations avant le 17 mars.",
+      "question": "Qu’est-ce que les parents doivent faire ?",
+      "questionTranslation": "What must parents do?",
+      "options": [
+        "Compléter des documents.",
+        "Demander un programme.",
+        "Prendre un rendez-vous.",
+        "Visiter un établissement."
+      ],
+      "optionTranslations": [
+        "Complete documents.",
+        "Ask for a program.",
+        "Make an appointment.",
+        "Visit an establishment."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t31-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "À Chamonix, à 10 minutes à pied des pistes de ski, grand 3 pièces de 65 m², tout équipé, confortable et calme. Proche de nombreux commerces et d’une garderie. 620 euros la semaine en été, 1050 euros en hiver.",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this ad offer?",
+      "options": [
+        "Des ateliers pour enfants.",
+        "Du matériel de sport.",
+        "Un emploi à la montagne.",
+        "Une location de vacances."
+      ],
+      "optionTranslations": [
+        "Workshops for children.",
+        "Sports equipment.",
+        "A job in the mountains.",
+        "A vacation rental."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t31-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "L’Association « Bon appétit ! » vous propose de mieux manger. Elle vient chez vous avec des bons petits plats tous les jours de la semaine. Tous nos menus sont préparés avec des légumes de saison ! Choisissez votre menu sur notre site www.bonappetit.fr !",
+      "question": "Qu’est-ce que cette association propose ?",
+      "questionTranslation": "What does this association propose?",
+      "options": [
+        "Des achats de produits frais.",
+        "Des conseils pour maigrir.",
+        "Des recettes de cuisine.",
+        "Des repas livrés à domicile."
+      ],
+      "optionTranslations": [
+        "Purchases of fresh products.",
+        "Advice for losing weight.",
+        "Cooking recipes.",
+        "Meals delivered to home."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t31-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Salut Paul,\nJe t’écris du Canada. J’ai rencontré un étudiant mexicain. Je suis contente de parler ma langue avec lui, car l’Espagne me manque beaucoup.\nEn juin, nous suivons ensemble une formation en Italie.\nJe t’appelle bientôt.\nBisous,\nElsa",
+      "question": "Quelle est la nationalité d’Elsa ?",
+      "questionTranslation": "What is Elsa's nationality?",
+      "options": [
+        "Canadienne",
+        "Espagnole",
+        "Italienne",
+        "Mexicaine"
+      ],
+      "optionTranslations": [
+        "Canadian",
+        "Spanish",
+        "Italian",
+        "Mexican"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t31-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "De : cannelle@lilo.com\nÀ : Elke@mail.com\nSalut Elke,\nC’est bientôt la fête de nos 20 ans de mariage !\nBeaucoup d’invités viendront avec leurs enfants.\nComme tu adores les petits, pourrais-tu t’occuper d’eux en journée ?\nQuand ils seront couchés, nous pourrons danser tous ensemble.\nMerci, bisous.",
+      "question": "Cannelle Que demande Cannelle à son amie ?",
+      "questionTranslation": "What does Cannelle ask her friend?",
+      "options": [
+        "D’écrire aux invités.",
+        "D’organiser la fête.",
+        "De garder des enfants.",
+        "De préparer des danses."
+      ],
+      "optionTranslations": [
+        "To write to the guests.",
+        "To organize the party.",
+        "To look after children.",
+        "To prepare dances."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t31-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Bonjour,\nVotre colis vous attend dans votre magasin pendant sept jours. Allez à l’accueil où vous présenterez ce courriel. Si vous n’avez pas le temps de passer, vous pouvez demander un envoi à domicile sur www.envoyez-moi.com Merci pour votre confiance.",
+      "question": "Quelle information donne ce message ?",
+      "questionTranslation": "What information does this message give?",
+      "options": [
+        "La boutique est fermée.",
+        "La commande est arrivée.",
+        "La facture est disponible.",
+        "La livraison est en retard."
+      ],
+      "optionTranslations": [
+        "The shop is closed.",
+        "The order has arrived.",
+        "The invoice is available.",
+        "The delivery is late."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t31-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Salut Lucie,\nJe t’écris de l’île d’Yeu où je passe une semaine formidable : plage, mer, soleil et surtout beaucoup de calme et de repos. J’espère que tu vas bien, à bientôt.\nJe t’embrasse,\nAgathe.",
+      "question": "Pourquoi Agathe écrit-elle ?",
+      "questionTranslation": "Why is Agathe writing?",
+      "options": [
+        "Pour annoncer son déménagement.",
+        "Pour donner de ses nouvelles.",
+        "Pour inviter Lucie en vacances.",
+        "Pour remercier son amie."
+      ],
+      "optionTranslations": [
+        "To announce her move.",
+        "To give news about herself.",
+        "To invite Lucie on vacation.",
+        "To thank her friend."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t31-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Monsieur Giannorsi,\nNous vous informons que votre commande est arrivée à la poste.\nVous pouvez venir la retirer du lundi au vendredi, de 8h à 18h.\nN’oubliez pas de prendre votre pièce d’identité.\nNous vous remercions pour votre commande chez Culture et Compagnie !",
+      "question": "Qu’est-ce que M. Giannorsi doit faire ?",
+      "questionTranslation": "What must Mr. Giannorsi do?",
+      "options": [
+        "Aller chercher un colis.",
+        "Échanger son achat.",
+        "Envoyer une lettre.",
+        "Réserver son article."
+      ],
+      "optionTranslations": [
+        "Go get a parcel.",
+        "Exchange his purchase.",
+        "Send a letter.",
+        "Reserve his item."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t31-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "La commune de Saint-Brieuc participe au concours Europan sur le thème « De la gare à la mer ».\nDe jeunes architectes ont imaginé la ville de demain, avec de nouveaux espaces publics, un meilleur partage de l’espace entre piétons, vélos et véhicules.\nLes gagnants présenteront leur projet aux habitants qui choisiront le plus",
+      "question": "intéressant. Quel est le but du concours Europan ?",
+      "questionTranslation": "What is the goal of the Europan competition?",
+      "options": [
+        "Dessiner des bâtiments publics originaux.",
+        "Donner le gout du voyage aux habitants.",
+        "Inventer une ville facile à vivre pour tous.",
+        "Prévoir de nouveaux moyens de transport."
+      ],
+      "optionTranslations": [
+        "Draw original public buildings.",
+        "Give inhabitants a taste for travel.",
+        "Invent a city easy to live in for everyone.",
+        "Plan for new means of transport."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t31-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "NE JETEZ PLUS VOS BOUTEILLES EN PLASTIQUE À LA POUBELLE, DONNEZ-LES À VOTRE VILLE ET ELLE VA EN FAIRE DES BICYCLETTES !\nAVEC DIX MILLIONS DE BOUTEILLES, ON PEUT FAIRE 1 BICYCLETTE !\nRENSEIGNEZ-VOUS SUR LE SITE INTERNET DE VOTRE MAIRIE !",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this announcement propose?",
+      "options": [
+        "De changer les poubelles.",
+        "De collecter du plastique.",
+        "De gagner une bicyclette.",
+        "De travailler pour la mairie."
+      ],
+      "optionTranslations": [
+        "To change the trash cans.",
+        "To collect plastic.",
+        "To win a bicycle.",
+        "To work for the city hall."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t31-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Chers Clients\nVotre supermarché vous accueille depuis 60 ans. Le propriétaire et son équipe vous invitent à une semaine de festivités.\nÀ partir du 10 août, plus de 1000 OFFRES EXCEPTIONNELLES et des réductions JUSQU'À 50% sur les articles vous attendent.",
+      "question": "Qu'est-ce qu'on fête ?",
+      "questionTranslation": "What is being celebrated?",
+      "options": [
+        "L’anniversaire d’un magasin.",
+        "L’augmentation des ventes.",
+        "L’ouverture d’un commerce.",
+        "Le début des soldes d’été."
+      ],
+      "optionTranslations": [
+        "A store's anniversary.",
+        "The increase in sales.",
+        "The opening of a business.",
+        "The start of summer sales."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t31-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Vous faites partie des heureux élus qui ont réussi à obtenir une entrevue avec un employeur.\nVous avez les diplômes et l’expérience, et il est temps à présent de vous mettre en valeur, de prouver que vous êtes le bon candidat ! En effet, ce n’est pas tout qu’on ait retenu votre curriculum vitae (CV). Avant de vous y rendre, il est nécessaire de bien réfléchir à ce que vous allez dire pour ne pas être surpris, le moment venu. Vous devez avoir pensé à l’avance à toutes les questions qu’on pourra vous poser sur vous et sur votre parcours.",
+      "question": "Quel conseil donne ce texte ?",
+      "questionTranslation": "What advice does this text give?",
+      "options": [
+        "De parler de ses qualités personnelles.",
+        "De préparer un entretien d’embauche.",
+        "D’élaborer un curriculum vitae original.",
+        "D’insister sur sa formation universitaire."
+      ],
+      "optionTranslations": [
+        "To talk about one's personal qualities.",
+        "To prepare for a job interview.",
+        "To create an original curriculum vitae.",
+        "To insist on one's university education."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t31-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Après les cartes de cinéma illimitées, la carte Scène+ !\nParis est la première ville à tester cette formule : des places à tarifs réduits à utiliser quand on veut, dans quarante théâtres environ, pour aller voir plus de 150 pièces. On achète la carte, valable un mois ou un semestre et on peut aller dans les petites scènes de théâtre parisiennes qui accueillent surtout des comédies populaires plutôt que des pièces classiques.",
+      "question": "Que peut-on faire avec la carte Scène+ ?",
+      "questionTranslation": "What can one do with the Scène+ card?",
+      "options": [
+        "Assister à des spectacles",
+        "Obtenir de meilleures places",
+        "Rencontrer des comédiens",
+        "Suivre des visites guidées"
+      ],
+      "optionTranslations": [
+        "Attend shows",
+        "Get better seats",
+        "Meet actors",
+        "Follow guided tours"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t31-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "En Sardaigne (Italie), les piétons qui traversent tout en regardant leur téléphone peuvent recevoir une amende.\nCette mesure fait suite à une augmentation du nombre d’accidents entre des véhicules et des piétons inattentifs.\nEn effet, ils n’attendent pas les voitures parce qu’ils sont concentrés sur leur écran au lieu de regarder autour d’eux.",
+      "question": "De quoi est-ce qu’on parle dans cet article ?",
+      "questionTranslation": "What is this article talking about?",
+      "options": [
+        "De l’utilisation du portable.",
+        "De la sécurité au volant.",
+        "Du bruit de la circulation.",
+        "Du vote d’une nouvelle loi."
+      ],
+      "optionTranslations": [
+        "About mobile phone use.",
+        "About driving safety.",
+        "About traffic noise.",
+        "About the voting of a new law."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t31-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "L’art et ses modes de production contribuent à sensibiliser les gens au développement durable, commente Élise Morin, créatrice de l’œuvre Waste Landscape composée de vieux CD.\n« Le recyclage, ça ne se passe pas que dans la poubelle », intervient le photographe Joachim Romain, dont le travail est centré sur les affiches promotionnelles.\nLes déchets sont partout, on ne peut pas y échapper, on est envahi.\nAlors pourquoi ne pas m’en servir pour aller plus loin ? Pour montrer aux gens qu’à un moment, ces questions sur l’environnement vont arriver chez eux.",
+      "question": "Que proposent ces artistes ?",
+      "questionTranslation": "What do these artists propose?",
+      "options": [
+        "De diffuser de la musique",
+        "De réutiliser des objets",
+        "De s’engager en politique",
+        "De tourner des publicités"
+      ],
+      "optionTranslations": [
+        "To broadcast music",
+        "To reuse objects",
+        "To engage in politics",
+        "To shoot commercials"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t31-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Chère Lucie,\nJe t’écris de chez ma tante où je passe quelques jours. Elle est britannique mais vit à Toulon depuis dix ans. Comme ça, je peux parler anglais avec elle. Tout va bien. Je fais des balades au soleil. À bientôt.\nHélène",
+      "question": "Qu’est-ce qu’on apprend sur Hélène ?",
+      "questionTranslation": "What do we learn about Hélène?",
+      "options": [
+        "Elle apprend le français.",
+        "Elle est dans sa famille.",
+        "Elle prépare un long voyage.",
+        "Elle visite le Royaume-Uni."
+      ],
+      "optionTranslations": [
+        "She is learning French.",
+        "She is with her family.",
+        "She is preparing a long trip.",
+        "She is visiting the United Kingdom."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t31-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "PEDAGOGIE\nTwitter dès l’école primaire, pour donner le goût d’écrire, de lire et de l’orthographe.\nUn instituteur raconte: « J’utilise Twitter dans ma classe depuis un an. Les productions d’élèves sont de plus en plus intéressantes. Grâce à Twitter, je peux approfondir les notions de façon concrète.\nLes activités scolaires paraissent artificielles, hors contexte voire dénuées de sens. Pourquoi essayer de maîtriser l’écriture ? Les enfants n’y songent même pas, car leurs travaux sont cantonnés à des cahiers, eux-mêmes enfermés dans des casiers ou des cartables.\nIls n’ont pas l’occasion de partager leurs productions, de les confronter,",
+      "question": "d’argumenter leurs choix. » D’après cet article, qu’apporte l’utilisation de Twitter aux élèves ?",
+      "questionTranslation": "According to this article, what does the use of Twitter bring to the students?",
+      "options": [
+        "Ils apprennent à se servir correctement des réseaux sociaux.",
+        "Ils communiquent plus facilement avec l’instituteur.",
+        "Ils comprennent mieux l’intérêt des apprentissages proposés.",
+        "Ils sont attentifs après un moment de détente."
+      ],
+      "optionTranslations": [
+        "They learn to use social networks correctly.",
+        "They communicate more easily with the teacher.",
+        "They better understand the interest of the proposed learnings.",
+        "They are attentive after a moment of relaxation."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t31-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Depuis 1997, des passionnés construisent un château fort en utilisant exclusivement les techniques du Moyen Âge.\nDevenu célèbre, le chantier de Guédelon accueille 300 000 visiteurs annuels.\nQui sont les bâtisseurs de ce monument sorti du passé ? Hajera Mohammad, qui les a rencontrés pour France Inter, interroge ces artisans. Dans son reportage, la star n’est pas le château mais ceux qui le construisent et qui racontent leur envie d’exercer un métier manuel. Beaucoup de bénévoles parisiens se joignent pour quelques jours à cette entreprise où tout prend plus de temps que dans la vie moderne.",
+      "question": "Sur quel aspect du chantier de Guédelon Hajera Mohammad a-t-elle mis l’accent ?",
+      "questionTranslation": "On which aspect of the Guédelon site did Hajera Mohammad place the emphasis?",
+      "options": [
+        "Le rôle joué par les historiens.",
+        "Le rythme de son avancement.",
+        "Le succès auprès du public.",
+        "Les personnes qui y travaillent."
+      ],
+      "optionTranslations": [
+        "The role played by historians.",
+        "The pace of its progress.",
+        "The success with the public.",
+        "The people who work there."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t31-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "À l'ère des réseaux sociaux, il n'y a pas une table où les convives ne dégainent leur smartphone pour « poster » immédiatement leur assiette. Peu importe qu'elle refroidisse, que ce soit bon ou pas.\nSur la toile, la cuisine est devenue « l'univers le plus plébiscité avec le voyage ».\nEt même si la vue des mets est un avant-goût du plaisir, réduire la cuisine à une galerie de natures mortes, aussi belles soient-elles, n'est pas sans interroger.\n« Pour moi, la bonne cuisine, c'est quand on soulève le couvercle, que ça fume, que ça sent bon et qu'on peut se resservir », disait le grand cuisinier Paul Bocuse.\nPour les réseaux sociaux, c'est un plat qui en met plein la vue et qu'on vous sert sur écran plat.\nD'après Le Figaro.fr",
+      "question": "Qu’apprend-on dans cet article ?",
+      "questionTranslation": "What do we learn in this article?",
+      "options": [
+        "La réputation de restaurants touristiques est menacée par internet.",
+        "La technologie modifie la relation à la gastronomie.",
+        "Les grands chefs livrent leurs secrets sur des sites.",
+        "Les traditions culinaires peuvent se perpétuer grâce au numérique."
+      ],
+      "optionTranslations": [
+        "The reputation of tourist restaurants is threatened by the internet.",
+        "Technology modifies the relationship with gastronomy.",
+        "Great chefs deliver their secrets on sites.",
+        "Culinary traditions can be perpetuated thanks to digital technology."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t31-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "C’est une tendance qui a envahi Lyon ces derniers mois. Dorénavant, les végétariens (voire végétaliens) peuvent sortir dans des restaurants et commander des plats originaux et goûteux. Terminé le remplacement des viandes par une poêlée de légumes sans âme.\n« Maintenant, un végétarien peut vraiment manger à Lyon, qui a longtemps été une ville viandante ! Il existe de véritables alternatives aux plats carnés », assure Stéphanie Iguna, spécialiste des tendances en matière de nourriture à Lyon.\nLe point d’orgue de cette évolution réside probablement dans le succès du restaurant Culina Hortus, qui a ouvert il y a un peu plus d’un an. Ce restaurant gastronomique végétarien pourrait concourir à l’obtention d’une étoile sans rougir. Un grand pas dans une ville qui ne jure historiquement que par la cochonnaille.",
+      "question": "Que constate l’auteur concernant la nouvelle tendance de la restauration lyonnaise ?",
+      "questionTranslation": "What does the author observe regarding the new trend in Lyon's catering?",
+      "options": [
+        "L’adaptation de l’offre culinaire à la mode actuelle.",
+        "La baisse de la qualité des établissements.",
+        "La disparition graduelle de la cuisine traditionnelle.",
+        "L’hostilité des critiques spécialisés locaux."
+      ],
+      "optionTranslations": [
+        "The adaptation of the culinary offer to current fashion.",
+        "The decline in the quality of establishments.",
+        "The gradual disappearance of traditional cuisine.",
+        "The hostility of local specialized critics."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t31-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d’un genre inédit : coiffés d’un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes.\nDes données ressortent alors sous forme d’algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur.\nAinsi, des peintures virtuelles sont créées à partir des émotions de chacun.\nEt comme chaque histoire est unique, chaque œuvre l’est aussi !",
+      "question": "Quel est le rôle des participants à cette expérience ?",
+      "questionTranslation": "What is the role of the participants in this experiment?",
+      "options": [
+        "Effectuer un calcul.",
+        "Évoquer un fait divers.",
+        "Fournir un support.",
+        "Sélectionner un souvenir."
+      ],
+      "optionTranslations": [
+        "Perform a calculation.",
+        "Mention a news item.",
+        "Provide a support.",
+        "Select a memory."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t31-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Clémence et son mari ont commencé par monter une société de design industriel pour donner un nouvel aspect à des objets du quotidien.\nMais, peu à peu, les industriels se sont désintéressés du design et, en hommes d’affaires, se sont davantage préoccupés de la rentabilité que de l’inventivité. Le couple s’est alors lancé dans une nouvelle aventure en fondant une galerie, une sorte de laboratoire d’expérimentation où ils ont donné carte blanche à des designers libres d’exprimer leurs élans artistiques.\nAujourd’hui, leur galerie compte 12 salariés et affiche un chiffre d’affaires en progression.\nD’après Madame Figaro.",
+      "question": "Qu’apprend-on au sujet de cette galerie ?",
+      "questionTranslation": "What do we learn about this gallery?",
+      "options": [
+        "Elle attire beaucoup d’investisseurs.",
+        "Elle enregistre des ventes record.",
+        "Elle recherche une clientèle aisée",
+        "Elle soutient l’esprit de création."
+      ],
+      "optionTranslations": [
+        "It attracts many investors.",
+        "It records record sales.",
+        "It seeks a wealthy clientele.",
+        "It supports the spirit of creation."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t31-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Lors de l’inscription à la faculté de médecine de Boston, les professeurs privilégient les candidats… ayant déjà connu des échecs.\nIls considèrent en effet que ces erreurs d’orientation permettent de grandir plus vite, de se rapprocher plus rapidement de sa vocation – bref, de mieux se connaître.\nPlus simplement, ils réduisent aussi le risque de recruter des élèves qui vont se rendre compte au bout de quelques mois qu’ils ne veulent plus devenir médecins : ils ont déjà changé de voie une fois, il est moins probable qu’ils en changent une seconde fois.",
+      "question": "Pourquoi les candidates qui se réorientent sont-ils privilégiés dans cette faculté ?",
+      "questionTranslation": "Why are candidates who reorient themselves favored in this faculty?",
+      "options": [
+        "Ils ont plus de facilités d’apprentissage.",
+        "Ils ont une idée claire de leur futur métier.",
+        "Ils sont déterminés à travailler beaucoup.",
+        "Ils sont plus sûrs de leur nouveau choix."
+      ],
+      "optionTranslations": [
+        "They have easier learning abilities.",
+        "They have a clear idea of their future job.",
+        "They are determined to work a lot.",
+        "They are more sure of their new choice."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t31-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Dans cette belle institution qu’est l’Éducation nationale, ce sont les profs qui font tourner la boutique. Ce sont eux qui, chaque jour, nourrissent intellectuellement ceux qui feront la France de demain. Sans eux et leur amour du métier, l’école française se serait effondrée depuis belle lurette et ferait encore moins bien que ses résultats actuels. Notre journal veut donc leur dire merci en publiant quelques portraits et en vous demandant de nous signaler d’autres « héros de l’école ».\nENVOYEZ-NOUS VOS MESSAGES, NOUS LES PUBLIERONS.",
+      "question": "D’après le texte, quel rôle jouent les enseignants dans l’institution scolaire ?",
+      "questionTranslation": "According to the text, what role do teachers play in the school institution?",
+      "options": [
+        "Ils influencent les élèves au-delà de la classe.",
+        "Ils instillent le goût du travail en équipe.",
+        "Ils permettent au système de se maintenir.",
+        "Ils suscitent de nombreuses vocations."
+      ],
+      "optionTranslations": [
+        "They influence students beyond the classroom.",
+        "They instill a taste for teamwork.",
+        "They allow the system to maintain itself.",
+        "They spark numerous vocations."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t31-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La revue Science et Avenir cite une étude de l’université de Cambridge dans laquelle des chercheurs en psychologie et en éducation rapportaient les attitudes des écoliers à l’égard des mathématiques.\nLes scientifiques décrivent chez les petits Britanniques un sentiment de dégoût, de frustration ou de peur.\nDes observations qui reflètent exactement ce qui se passe en France.\nDe nombreux enfants sont confrontés à un véritable blocage en manifestant tous les signes du stress, ce qui entraîne des effets négatifs sur les fonctions cognitives.\nSelon certains professeurs, les mathématiques apparaissent beaucoup trop techniques et déconnectées du monde qui nous entoure, alors que pour réconcilier les écoliers avec les maths, il faudrait les enseigner comme un outil de réflexion ancré dans le quotidien.",
+      "question": "Qu’explique ce texte à propos de l’enseignement des mathématiques ?",
+      "questionTranslation": "What does this text explain about the teaching of mathematics?",
+      "options": [
+        "De nouvelles pédagogies semblent nécessaires.",
+        "Il conviendrait d’améliorer les résultats des élèves.",
+        "L’Europe doit engager une réforme des programmes.",
+        "Un soutien scolaire journalier serait bénéfique."
+      ],
+      "optionTranslations": [
+        "New teaching methods seem necessary.",
+        "It would be appropriate to improve student results.",
+        "Europe must engage in a curriculum reform.",
+        "Daily academic support would be beneficial."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t31-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Prenant acte des bilans économiques moroses qui se succèdent, et plus particulièrement d’un résultat catastrophique pour le chiffre d’affaires des libraires l’an dernier — au point qu’on a même entendu un éditeur suggérer de mettre fin à cette authentique institution qu’est la rentrée littéraire en France — l’édition a décidé, cette année, d’opter pour la sobriété : 524 nouveaux romans paraîtront entre la mi-août et octobre, parmi lesquels 336 romans français et 188 romans traduits.\nOn est certes encore loin de la diète, et même de la simple frugalité, mais il s’agit tout de même de la rentrée française la plus modeste en nombre de titres depuis vingt ans.",
+      "question": "Quelle est la particularité de la nouvelle rentrée littéraire ?",
+      "questionTranslation": "What is the particularity of the new literary season?",
+      "options": [
+        "Des libraires menacent de fermer boutique.",
+        "La qualité des livres publiés est catastrophique.",
+        "Le nombre d’ouvrages à paraître a diminué.",
+        "Un éditeur refuse de participer à cette tradition."
+      ],
+      "optionTranslations": [
+        "Bookstores threaten to close shop.",
+        "The quality of published books is catastrophic.",
+        "The number of works to be published has decreased.",
+        "A publisher refuses to participate in this tradition."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t31-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Supprimer les concours des grandes écoles ?\nChanger nos élites ?\nLe débat a ouvert grand la porte aux envies de bousculer la formation de la jeunesse.\nPendant longtemps, on a cru que les concours étaient d’indépassables garants de l’idéal républicain d’égalité.\nOn a mis beaucoup de temps à se rendre compte qu’ils pouvaient entretenir la reproduction des élites.\nOu écarter insidieusement une partie des jeunes, en fonction de leur origine sociale, voire ethnique.\nDe ce constat, certains déduisent qu’il faut introduire des discriminations positives au sein des concours existants.\nMais il existe une alternative pour répondre rapidement à cette nécessité de démocratisation : reconnaître d’autres compétences dans les processus de sélection comme l’esprit d’entraide, de solidarité et de coopération.",
+      "question": "Qu’apprend-on sur les concours ?",
+      "questionTranslation": "What do we learn about the competitive exams?",
+      "options": [
+        "Ils perpétuent une forme d’exclusion.",
+        "Le nombre de candidats s’amenuise.",
+        "Leur niveau d’exigence diminue.",
+        "On les réforme régulièrement."
+      ],
+      "optionTranslations": [
+        "They perpetuate a form of exclusion.",
+        "The number of candidates is shrinking.",
+        "Their level of requirement is decreasing.",
+        "They are reformed regularly."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t31-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les montres connectées ont longtemps été boudées par le public, du fait de leur utilité limitée.\nLes nouvelles générations de ces produits offrent donc des services de plus en plus variés, comme payer ses achats ou passer des appels. Mais aujourd’hui, la motivation première des consommateurs pour acquérir ce type de produit réside dans toutes les fonctionnalités ayant trait au sport, au bien-être et à la santé.\nLes constructeurs en sont conscients et surenchérissent d’arguments sur ce thème. Un fabricant français qui a lancé sa nouvelle montre décrit celle-ci comme « le partenaire idéal de tous les sportifs » et « l’allié du sommeil réparateur ». Un concurrent américain affirme avoir entièrement repensé son produit pour aider le consommateur à être plus actif et en meilleure santé.",
+      "question": "Qu’est-ce qui fait le succès des montres connectées aujourd’hui ?",
+      "questionTranslation": "What makes smartwatches successful today?",
+      "options": [
+        "Elles contribuent à une bonne hygiène de vie.",
+        "Elles facilitent les transactions sur Internet.",
+        "Elles permettent de communiquer à moindre frais.",
+        "Elles sont recommandées par le corps médical."
+      ],
+      "optionTranslations": [
+        "They contribute to a healthy lifestyle.",
+        "They facilitate Internet transactions.",
+        "They allow communicating at lower cost.",
+        "They are recommended by the medical profession."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t31-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Deux mondes s’affrontent : ceux de l’ancienne agriculture et de la nouvelle.\nLe productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps.\nLes tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu’il n’existe pas d’autre solution.\nNotre enquête montre le contraire : l’alliance de la technologie et de l’écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous.\nC’est la voie de la sagesse autant que de la modernité.\nD’après Libération.fr.",
+      "question": "Que défend le journaliste ?",
+      "questionTranslation": "What does the journalist defend?",
+      "options": [
+        "L’accès universel à des aliments bon marché.",
+        "L’innovation des procédés de production.",
+        "Le développement du commerce équitable.",
+        "Le partage d’expériences traditionnelles."
+      ],
+      "optionTranslations": [
+        "Universal access to cheap food.",
+        "The innovation of production processes.",
+        "The development of fair trade.",
+        "The sharing of traditional experiences."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t31-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Deux petites saisons et puis s’en vont.\nSur les plates-formes de streaming vidéo par abonnement, les séries ont beau être reines, elles n’en sont pas moins soumises à rude concurrence.\nEt leur durée de vie peut se révéler bien plus courte que sur les chaînes traditionnelles.\nCette stratégie ne doit rien au hasard.\nDans leur objectif de conquête de nouveaux abonnés, les plates-formes accordent en effet plus de vertus à la nouveauté qu’à la longévité.\nQuitte à décevoir certains fans qui payent un service de streaming spécialisé dont le baromètre de satisfaction devrait en théorie être plus important que celui de l’audimat.",
+      "question": "D’après l’article, que privilégient les plates-formes de streaming ?",
+      "questionTranslation": "According to the article, what do streaming platforms favor?",
+      "options": [
+        "La longévité des programmes.",
+        "La qualité des services offerts.",
+        "Le changement régulier des séries.",
+        "Le contentement de leurs abonnés."
+      ],
+      "optionTranslations": [
+        "The longevity of programs.",
+        "The quality of services offered.",
+        "The regular changing of series.",
+        "The satisfaction of their subscribers."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t31-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Les néo-nomades ont souvent moins de 30 ans et vivent dans leur camion ou d’anciens cars scolaires transformés en caravane ou camping-car.\nCes nouveaux voyageurs intermittents vont d’un lieu à l’autre, au gré des impératifs de leur travail, souvent saisonnier, et forment une population hétérogène.\nIls résolvent la difficulté d’accéder à un logement lorsque l’on n’a pas de travail permanent en se posant en marge de notre paysage contemporain : aux abords des routes secondaires, dans la périphérie des villes, le long des rails, sur des friches ou des terrains privés.\nLes néo-nomades forment de fait une entité structurée au cœur de notre société individualiste.",
+      "question": "Selon le journaliste, quelle est l’origine du néo-nomadisme ?",
+      "questionTranslation": "According to the journalist, what is the origin of neo-nomadism?",
+      "options": [
+        "L’attirance pour les espaces naturels.",
+        "L’insécurité des zones urbaines.",
+        "La précarité du monde professionnel.",
+        "Le désir de vivre en communauté."
+      ],
+      "optionTranslations": [
+        "Attraction to natural spaces.",
+        "Insecurity of urban zones.",
+        "The precariousness of the professional world.",
+        "The desire to live in a community."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t31-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "La Chine est championne du monde des transactions par mobile. Désormais, les Chinois privilégient le paiement par mobile pour la moindre course, « même pour acheter une bouteille d’eau minérale », comme l’explique une kiosquière à Pékin.\nLe paiement mobile s’est invité partout dans l’économie, même dans les coutumes les plus ancrées.\nAux anniversaires ou lors des festivités du Nouvel An, on s’envoie des enveloppes rouges dématérialisées, traditionnellement remplies de pièces ou billets de banque. Mais l’utilisation du liquide perdure, notamment par les plus âgés, ce qui alimente le débat sur les laissés-pour-compte des avancées technologiques.\nAu parc Zhongshan, l’entrée de 3 yuans se fait uniquement en espèces. Une bonne nouvelle pour les nombreuses personnes âgées qui fréquentent le jardin.",
+      "question": "Qu’apprend-on sur les nouveaux moyens de paiement en Chine ?",
+      "questionTranslation": "What do we learn about new payment methods in China?",
+      "options": [
+        "Ils créent un climat de méfiance envers la technologie.",
+        "Ils entraînent la disparition de pratiques traditionnelles.",
+        "Ils facilitent la vie quotidienne des personnes âgées.",
+        "Ils sont à l’origine de l’expansion économique du pays."
+      ],
+      "optionTranslations": [
+        "They create a climate of mistrust towards technology.",
+        "They lead to the disappearance of traditional practices.",
+        "They make daily life easier for the elderly.",
+        "They are the origin of the country's economic expansion."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t31-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Monsieur et Madame Martin n’ont pas un emploi du temps également captivant.\nQuand Monsieur se rend au travail, Madame manie l’aspirateur.\nQuand il est au bureau, elle achète des surgelés au supermarché.\nQuand il se cale devant la télé, l’épouse modèle se colle aux fourneaux.\nUne illustration exhumée d’un manuel des années 1950 ?\nNon, les images d’un exercice pour une classe de CP afin de « comprendre la simultanéité » en étudiant les moments de la journée d’une famille.\nQuand Virginie Sassoon est tombée sur ce document ultra-stéréotypé dans le classeur de sa fille, cette maman est tombée des nues.\n« Cette fiche dévoile une forme de violence symbolique qui persiste dans notre société et qui relève, selon moi, de la responsabilité collective. »",
+      "question": "Pourquoi Virginie Sassoon est-elle choquée par les exercices proposés dans la classe de sa fille ?",
+      "questionTranslation": "Why is Virginie Sassoon shocked by the exercises proposed in her daughter's class?",
+      "options": [
+        "Ils correspondent à des programmes scolaires obsolètes",
+        "Ils méconnaissent l’existence des familles recomposées",
+        "Ils présentent un partage sexiste des tâches dans le couple",
+        "Ils se moquent du quotidien des personnes sans emploi"
+      ],
+      "optionTranslations": [
+        "They correspond to obsolete school curricula",
+        "They ignore the existence of blended families",
+        "They present a sexist division of tasks in the couple",
+        "They mock the daily life of unemployed people"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t31-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "« Un produit qui ne s’userait pas serait une tragédie pour les affaires », lisait-on dans une ancienne revue américaine.\nDes années plus tard, le concept d’obsolescence programmée n’a pas pris une ride !\nIl s’agit pour les fabricants de réduire volontairement la durée de vie ou d’emploi d’un produit afin d’en augmenter le taux de remplacement.\nIci se cache le cœur de la course à la consommation.\nLe bilan écologique est également sans appel : les matières que contiennent nos appareils finissent en grande partie en déchets incinérés ou enfouis.\nL’exemple du téléphone portable en dit long : dans un rapport, une sénatrice souligne que « la conception des téléphones est délibérément défavorable au réemploi et au recyclage ».",
+      "question": "Que constate ce journaliste à propos des articles proposés par les fabricants ?",
+      "questionTranslation": "What does this journalist observe about the items offered by manufacturers?",
+      "options": [
+        "Ils se détériorent après un certain temps.",
+        "Ils sont dangereux pour la santé.",
+        "Ils sont nuisibles pour l’environnement.",
+        "Ils sont vendus à des prix élevés."
+      ],
+      "optionTranslations": [
+        "They deteriorate after a certain time.",
+        "They are dangerous for health.",
+        "They are harmful to the environment.",
+        "They are sold at high prices."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t31-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Il est rare que les journalistes de notre mensuel ou moi-même rentrions de reportage en renonçant à rédiger un article.\nLa plupart du temps, les découvertes que nous faisons sont comme de grands bols d’air : elles annihilent tout défaitisme, font disparaître la fatalité ambiante et ouvrent de nouveaux horizons.\nNous rencontrons des hommes et des femmes qui nous expliquent leurs envies, leurs rêves, leur utopie, et comment ils s’y prennent pour, à leur échelle, faire évoluer le monde.\nC’est simple, c’est lent, c’est « proprement humain ».\nIl est tellement jouissif de pouvoir se dire que nous allons pouvoir partager tous ces « petits riens » avec nos abonnés !",
+      "question": "Quel est le parti pris de ces journalistes ?",
+      "questionTranslation": "What is the stance of these journalists?",
+      "options": [
+        "Être au plus près de l’actualité.",
+        "Présenter des histoires positives.",
+        "Proposer des anecdotes amusantes.",
+        "Recenser les dérives de la société."
+      ],
+      "optionTranslations": [
+        "To be as close as possible to current events.",
+        "To present positive stories.",
+        "To propose amusing anecdotes.",
+        "To list the drifts of society."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t31-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "La bataille de Bouvines, remportée le 27 juillet 1214 par le roi de France Philippe Auguste sur un empereur allemand, est l’un des actes fondateurs de la dynastie capétienne et l’un des épisodes les plus célèbres du « roman national » français.\nDu XIIIe siècle à nos jours, elle a été à l’origine de multiples légendes que le spécialiste du monde médiéval, Dominique Barthélemy, confronte à la réalité des faits.\nÀ l’issue d’une enquête approfondie, il décrit un affrontement plus modeste et moins épique que celui construit et enrichi au gré des nécessités politiques.\nAinsi, il nous invite à poursuivre la réflexion sur l’idée que les Français se font",
+      "question": "d’eux-mêmes. Selon cet article, que fait Dominique Barthélemy ?",
+      "questionTranslation": "According to this article, what does Dominique Barthélemy do?",
+      "options": [
+        "Il analyse l’établissement d’une dynastie royale.",
+        "Il explique l’origine d’une légende médiévale.",
+        "Il explore la construction identitaire des Français.",
+        "Il renforce le mythe de la bataille de Bouvines."
+      ],
+      "optionTranslations": [
+        "He analyzes the establishment of a royal dynasty.",
+        "He explains the origin of a medieval legend.",
+        "He explores the identity construction of the French.",
+        "He reinforces the myth of the Battle of Bouvines."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t31-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "En imposant de nouveaux comportements, la société civile a en partie réorganisé la distribution et amorcé une transition vers des modes de vie plus économiques et plus écologiques.\nLes classes moyennes des pays industrialisés ont largement adopté la « consommation collaborative », qui consiste à acheter moins, mais mieux, et entre soi : on achète d’occasion, on partage, on loue, on troque, on répare au sein d’ateliers participatifs, on échange des services sans argent.\nOn se tourne aussi vers le local et le bio, pour connaître l’origine de ce que l’on mange et soutenir les petits producteurs.\nD’après rue89.com.",
+      "question": "Sur quoi s’appuie ce mode de consommation ?",
+      "questionTranslation": "What is this mode of consumption based on?",
+      "options": [
+        "Des associations de consommmteurs.",
+        "Des techniques de production nouvelles.",
+        "Des valeurs et des intentions claires.",
+        "Une population citadine et fortunée."
+      ],
+      "optionTranslations": [
+        "Consumer associations.",
+        "New production techniques.",
+        "Clear values and intentions.",
+        "A wealthy urban population."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t31-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "VENT DE CONTROVERSE SUR LES ÉOLIENNES\nD’après un article récent, l’argument écologique serait le principal prétexte pour la construction de parcs d’éoliennes.\nCependant, leur installation supposerait le bétonnage des sols, la construction de routes et de centrales permettant de combler la production d’électricité en cas d’absence de vent.\nDe plus, les éoliennes seraient à l’origine de désastres esthétiques, sonores et un danger pour la faune.\nPourtant, les projets éoliens foisonnent. L’intérêt serait avant tout financier puisque les producteurs éoliens ne seraient pas à la recherche de zones venteuses mais plutôt de terrains peu chers dans des communes qui ont besoin d’accroître leurs revenus.",
+      "question": "Comment l’auteur de l’article explique-t-il la multiplication des parcs éoliens ?",
+      "questionTranslation": "How does the author of the article explain the multiplication of wind farms?",
+      "options": [
+        "Ils augmentent les ressources des municipalités.",
+        "Ils contribuent à la protection de l’environnement.",
+        "Ils garantissent la fourniture continue d’énergie.",
+        "Ils participent à l’élimination des animaux nuisibles."
+      ],
+      "optionTranslations": [
+        "They increase the resources of municipalities.",
+        "They contribute to the protection of the environment.",
+        "They guarantee the continuous supply of energy.",
+        "They participate in the elimination of harmful animals. Retry test All tests"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

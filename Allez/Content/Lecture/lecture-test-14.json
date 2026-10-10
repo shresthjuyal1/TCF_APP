@@ -1,0 +1,828 @@
+{
+  "id": "tcf-lecture-14",
+  "title": "Test 14",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t14-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "ATTENTION\nTraversée du parc interdite aux voitures, aux vélomoteurs et aux bicyclettes.",
+      "question": "Comment peut-on se promener ?",
+      "questionTranslation": "How can one go for a walk?",
+      "options": [
+        "À moto.",
+        "À pied.",
+        "À vélo.",
+        "En taxi."
+      ],
+      "optionTranslations": [
+        "By motorcycle.",
+        "On foot.",
+        "By bike.",
+        "By taxi."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "L’école Lingua Mobile vous offre plusieurs solutions modernes : vous pouvez suivre vos cours par internet, depuis chez vous ou de votre bureau.",
+      "question": "Quelle est la spécialité de Lingua Mobile ?",
+      "questionTranslation": "What is the specialty of Lingua Mobile?",
+      "options": [
+        "Ses leçons à distance.",
+        "Ses professeurs expérimentés.",
+        "Ses salles neuves connectées.",
+        "Ses tarifs bon marché."
+      ],
+      "optionTranslations": [
+        "Its distance lessons.",
+        "Its experienced teachers.",
+        "Its new connected classrooms.",
+        "Its cheap rates."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t14-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Désolé de te le dire si tard !\nJe ne peux pas venir ce soir.\nPierre",
+      "question": "Pourquoi Pierre a-t-il écrit ce message ?",
+      "questionTranslation": "Why did Pierre write this message?",
+      "options": [
+        "Il annonce son absence.",
+        "Il donne un rendez-vous.",
+        "Il indique son arrivée.",
+        "Il signale son retard."
+      ],
+      "optionTranslations": [
+        "He is announcing his absence.",
+        "He is setting an appointment.",
+        "He is indicating his arrival.",
+        "He is signaling his delay."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t14-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Camille,\nJe ne peux pas te retrouver au concert ce soir, désolé.\nMes enfants sont malades et je dois rester avec eux.\nViens déjeuner à la maison dimanche.\nJe pars bientôt en voyage.\nJ’aimerais te voir avant mon départ.\nBises,\nDriss",
+      "question": "Qu’est-ce que Driss propose à son amie ?",
+      "questionTranslation": "What does Driss propose to his friend?",
+      "options": [
+        "D’aller à un concert.",
+        "D’organiser un voyage.",
+        "De déjeuner chez lui.",
+        "De garder ses enfants."
+      ],
+      "optionTranslations": [
+        "To go to a concert.",
+        "To organize a trip.",
+        "To have lunch at his place.",
+        "To look after his children."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t14-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Examen de biologie Juin à 15h30 en salle4545",
+      "question": "Quelle information manque au sujet de cetexamen?",
+      "questionTranslation": "What information is missing regarding this exam?",
+      "options": [
+        "La date",
+        "La matière",
+        "Le lieu",
+        "L’heure"
+      ],
+      "optionTranslations": [
+        "The date",
+        "The subject",
+        "The place",
+        "The time"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t14-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Le restaurant « L’Esquinade » a réussi son pari :\nIntroduire l’atmosphère espagnole dans ses plats.\nSi vous voulez goûter à l’Espagne contemporaine pour votre pause déjeuner, cet endroit est pour vous !\nTapas, cœurs de canard, jambon serrano et foie gras s’y rencontrent dans une ambiance chaleureuse,\nnous faisant voyager entre le sud-ouest de la France et l’Espagne.",
+      "question": "Que propose ce restaurant ?",
+      "questionTranslation": "What does this restaurant offer?",
+      "options": [
+        "D’apprendre à cuisiner des plats étrangers",
+        "D’organiser des repas-spectacles à thèmes",
+        "De gagner un voyage à la fin du repas",
+        "De goûter des spécialités franco-espagnoles"
+      ],
+      "optionTranslations": [
+        "To learn how to cook foreign dishes",
+        "To organize themed dinner-shows",
+        "To win a trip at the end of the meal",
+        "To taste Franco-Spanish specialties"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t14-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "ÉCOLE FERRANDI\nLes parents peuvent venir chercher leurs enfants après les cours du matin et du soir sauf si les enfants mangent à l’école ou s’ils font des activités après la classe.\nTous les enfants doivent avoir quitté l’école à 18h.",
+      "question": "P. Guignoux De quoi parle le directeur ?",
+      "questionTranslation": "What is the director talking about?",
+      "options": [
+        "De l’inscription des élèves",
+        "Des horaires de sortie",
+        "Des repas à la cantine",
+        "Du temps de repos"
+      ],
+      "optionTranslations": [
+        "Student registration",
+        "Exit schedules",
+        "Canteen meals",
+        "Rest time"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Vous venez d’arriver à Lyon pour suivre des cours à l’université, mais vous ne connaissez pas la ville.\nProfitez des conseils de Clémence, lyonnaise, qui vous donne ses adresses pour dîner ou faire la fête le soir.\nlesconseilsdeclémence-lyon.fr",
+      "question": "Que peut-on faire dans les endroits que propose Clémence ?",
+      "questionTranslation": "What can one do in the places that Clémence proposes?",
+      "options": [
+        "Cuisiner",
+        "Étudier",
+        "S’amuser",
+        "Se promener"
+      ],
+      "optionTranslations": [
+        "Cook",
+        "Study",
+        "Have fun",
+        "Go for a walk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t14-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "La France est le pays d’Europe où il y a le plus d’animaux par habitant.\nChien, chat, poisson, cheval ou même serpent, les Français adorent s’occuper d’eux, les nourrir, les sortir et vivre à leurs côtés.",
+      "question": "Qu’apprend-on sur les Français et les animaux ?",
+      "questionTranslation": "What do we learn about the French and animals?",
+      "options": [
+        "Ils aiment en voir dans la nature.",
+        "Ils les regardent à la télévision.",
+        "Ils sont nombreux à en avoir.",
+        "Ils vont les voir dans les zoos."
+      ],
+      "optionTranslations": [
+        "They like seeing them in nature.",
+        "They watch them on television.",
+        "Many of them have them.",
+        "They go to see them in zoos."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t14-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Vous mangez italien, dansez le flamenco ou apprenez le suédois ?\nPartagez vos prises de vue (portraits, paysages, etc.) qui montrent que l’Europe fait partie de votre vie.\nParticipez au concours « Europe en images ».\nÀ GAGNER : un séjour à Bruxelles ou un atelier cuisine.",
+      "question": "Que propose ce concours ?",
+      "questionTranslation": "What does this contest propose?",
+      "options": [
+        "D’envoyer des photos.",
+        "D’inventer une recette.",
+        "De créer un spectacle.",
+        "De découvrir une langue."
+      ],
+      "optionTranslations": [
+        "To send photos.",
+        "To invent a recipe.",
+        "To create a show.",
+        "To discover a language."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t14-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Bienvenue à l’hôtel du Parc.\nNotre boutique vous attend :\n• Bagages\n• Parfums\n• Bijoux\n• Produits de la région.\n• Journaux et magazines.",
+      "question": "Qu’est-ce qu’on peut acheter dans la boutique ?",
+      "questionTranslation": "What can one buy in the boutique?",
+      "options": [
+        "Des chocolats.",
+        "Des romans.",
+        "Des valises.",
+        "Ses vêtements."
+      ],
+      "optionTranslations": [
+        "Chocolates.",
+        "Novels.",
+        "Suitcases.",
+        "Clothes."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t14-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La librairie des Orques à Paris a récolté 9000 euros de ses clients afin de financer son déménagement.\nUn résultat inespéré qui a permis à la librairie de s’agrandir.\nLors de l’inauguration, la librairie a offert un verre à ses généreux donateurs.\nEn fonction du montant de leur participation, ils ont reçu un livre de leur choix ou ont obtenu le statut de client d’or, signifié par une plaque à leur nom sur le mobilier de la librairie.",
+      "question": "Pourquoi la librairie a-t-elle récolté de l’argent ?",
+      "questionTranslation": "Why did the bookstore collect money?",
+      "options": [
+        "Pour acheter des meubles de bibliothèque",
+        "Pour organiser un concours de lecture",
+        "Pour ouvrir un salon de thé littéraire",
+        "Pour s’installer dans un local plus vaste"
+      ],
+      "optionTranslations": [
+        "To buy library furniture",
+        "To organize a reading contest",
+        "To open a literary tea salon",
+        "To move into larger premises"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t14-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Clément et Pierre vont participer au tour automobile 4L Trophy au Maroc.\nIls vont apporter 40 kg de matériel et 10 kg de nourriture à une école.\nLes deux amis recherchent des solutions pour payer leur voyage.\nVous voulez les aider : c&p@4Ltrophy.fr",
+      "question": "De quoi Clément et Pierre ont-ils besoin ?",
+      "questionTranslation": "What do Clément and Pierre need?",
+      "options": [
+        "D’argent pour la course",
+        "De livres pour les enfants",
+        "De produits pour les repas",
+        "D’une voiture pour le transport"
+      ],
+      "optionTranslations": [
+        "Money for the race",
+        "Books for the children",
+        "Products for meals",
+        "A car for transport"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t14-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Pierre, je suis sorti pour une urgence, tu peux m’attendre au café au coin de la rue, c’est le plus sympa du quartier. Je serai de retour à la maison vers 19h.\nDésolé.\nDominique\nPS : Mon téléphone est cassé !",
+      "question": "Qu’est-ce que Dominique explique à Pierre ?",
+      "questionTranslation": "What does Dominique explain to Pierre?",
+      "options": [
+        "Il a un rendez-vous à l’hôpital.",
+        "Il doit annuler leur rencontre.",
+        "Il est parti acheter un portable.",
+        "Il va arriver en retard chez lui."
+      ],
+      "optionTranslations": [
+        "He has an appointment at the hospital.",
+        "He must cancel their meeting.",
+        "He left to buy a mobile phone.",
+        "He is going to arrive late at home."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t14-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Lundi prochain, en France, les librairies organisent une soirée du livre de jeunesse.\nAu programme, des activités pour enfants et des dégustations de desserts.\nOn pourra aussi voir sur grand écran les princes et princesses du cinéma.",
+      "question": "Que pourra-t-on faire aux soirées du livre de jeunesse ?",
+      "questionTranslation": "What will people be able to do at the youth book evenings?",
+      "options": [
+        "Écouter des chansons.",
+        "Gagner des cadeaux.",
+        "Goûter des recettes.",
+        "Jouer dans un film."
+      ],
+      "optionTranslations": [
+        "Listen to songs.",
+        "Win gifts.",
+        "Taste recipes.",
+        "Act in a movie."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t14-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Inauguré en décembre 2012 dans le nord de la France, le musée du Louvre-Lens célèbre ses 5 ans avec une programmation spéciale. L’ambition initiale était d’attirer un public différent de celui du célèbre musée du Louvre à Paris.\nL’objectif est atteint : 65% des visiteurs sont originaires de la région du Nord, 18% sont ouvriers ou employés, et plus de la moitié d’entre eux déclarent aller rarement au musée. À l’occasion de cet anniversaire, une quarantaine de nouveaux chefs-d’œuvre du Louvre-Paris y seront exposés.",
+      "question": "Qu’apprend-on sur le Louvre-Lens ?",
+      "questionTranslation": "What do we learn about the Louvre-Lens?",
+      "options": [
+        "C’est un musée peu fréquenté.",
+        "Il a réussi à séduire un public local.",
+        "On y découvrir l’histoire de la région.",
+        "Sa collection sera présentée à Paris."
+      ],
+      "optionTranslations": [
+        "It is a rarely visited museum.",
+        "It has succeeded in attracting a local audience.",
+        "One can discover the history of the region there.",
+        "Its collection will be presented in Paris."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Dans les quartiers populaires de Kinshasa, il crée des tableaux en relief à partir des déchets trouvés dans la ville. Certains le prennent pour un fou, d’autres pour un génie. Yeux perçants, mains agiles, jambes déformées par la polio, Emmanuel Botalatala est appelé le « ministre des poubelles » ce poste n’est pas officiel, c’est son nom d’artiste. Le documentaire qui lui est consacré présente le rôle qu’un artiste et sa vision peuvent jouer dans une capitale en pleine mutation.",
+      "question": "De quoi est-il question dans cet article ?",
+      "questionTranslation": "What is this article about?",
+      "options": [
+        "D’un comédien qui tourne dans des bidonvilles.",
+        "D’un homme qui produit des œuvres originales.",
+        "De la santé d’un membre du gouvernement.",
+        "De mesure écologique prise par une mairie."
+      ],
+      "optionTranslations": [
+        "Of a comedian filming in shanty towns.",
+        "Of a man who produces original works.",
+        "Of the health of a government member.",
+        "Of an ecological measure taken by a town hall."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La question de l’orientation est fondamentale et se pose inévitablement au moment de commencer des études universitaires.\nComment faire le bon choix ?\nSur quelles bases ?\nQuel parcours sera le mieux adapté à la personnalité scolaire et psychologique, aux capacités de l’étudiant ?\nUn livre, édité par le magazine l’Étudiant, propose une démarche progressive qui aide à définir un projet en fonction des goûts et d’un objectif professionnel.",
+      "question": "Que peut-on trouver dans ce livre ?",
+      "questionTranslation": "What can be found in this book?",
+      "options": [
+        "Des idées de stages en entreprises",
+        "Un guide des démarches d’inscription",
+        "Une méthode pour choisir une formation",
+        "Une sélection des meilleures universités"
+      ],
+      "optionTranslations": [
+        "Ideas for internships in companies",
+        "A guide to registration procedures",
+        "A method for choosing a training course",
+        "A selection of the best universities"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t14-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Des études de marché récentes montrent que les frites signent leur grand retour. Leur côte de popularité ne se dément pas, mais elles doivent être préparées dans les règles de l’art : pour des frites dorées, moelleuses dedans, croquantes dehors, il faut les cuire puis les frire en deux temps.\nSi la Belgique et la France se disputent la paternité, on n’en a toujours pas trouvé l’origine, avec le bond spectaculaire du burger dont elles sont l’accompagnement idéal, les frites sont fortement consommées au restaurant.",
+      "question": "Que révèle cet article sur les frites ?",
+      "questionTranslation": "What does this article reveal about fries?",
+      "options": [
+        "L’origine historique de la recette.",
+        "Le secret d’une bonne préparation.",
+        "Les adresses où les consommer.",
+        "Les raisons de leur popularité."
+      ],
+      "optionTranslations": [
+        "The historical origin of the recipe.",
+        "The secret of a good preparation.",
+        "The addresses where to consume them.",
+        "The reasons for their popularity."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "À l'ère des réseaux sociaux, il n'y a pas une table où les convives ne dégainent leur smartphone pour « poster » immédiatement leur assiette. Peu importe qu'elle refroidisse, que ce soit bon ou pas.\nSur la toile, la cuisine est devenue « l'univers le plus plébiscité avec le voyage ».\nEt même si la vue des mets est un avant-goût du plaisir, réduire la cuisine à une galerie de natures mortes, aussi belles soient-elles, n'est pas sans interroger.\n« Pour moi, la bonne cuisine, c'est quand on soulève le couvercle, que ça fume, que ça sent bon et qu'on peut se resservir », disait le grand cuisinier Paul Bocuse.\nPour les réseaux sociaux, c'est un plat qui en met plein la vue et qu'on vous sert sur écran plat.\nD'après Le Figaro.fr",
+      "question": "Qu’apprend-on dans cet article ?",
+      "questionTranslation": "What do we learn in this article?",
+      "options": [
+        "La réputation de restaurants touristiques est menacée par internet.",
+        "La technologie modifie la relation à la gastronomie.",
+        "Les grands chefs livrent leurs secrets sur des sites.",
+        "Les traditions culinaires peuvent se perpétuer grâce au numérique."
+      ],
+      "optionTranslations": [
+        "The reputation of tourist restaurants is threatened by the internet.",
+        "Technology modifies the relationship with gastronomy.",
+        "Great chefs deliver their secrets on sites.",
+        "Culinary traditions can be perpetuated thanks to digital technology."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Paris, le 13 mars\nMadame, Monsieur,\nCe courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre, car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\nAinsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\nDans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\nAndré Cellier",
+      "question": "Quel est l'objet de la lettre de Monsieur Cellier ?",
+      "questionTranslation": "What is the subject of Mr. Cellier's letter?",
+      "options": [
+        "Le remboursement de son article.",
+        "L’échange de son téléphone.",
+        "L’envoi de son téléphone par la poste.",
+        "Une réclamation sur son achat."
+      ],
+      "optionTranslations": [
+        "The refund of his item.",
+        "The exchange of his phone.",
+        "Sending his phone by post.",
+        "A complaint about his purchase."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t14-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Pendant un an, la journaliste allemande Greta Taubert a décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle a bu, mangé, s’est habillée sans payer : elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l’auto-stop. « Aujourd’hui, je suis contente de ne plus vivre aussi radicalement, c’était difficile, mais je cherche à intégrer dans mon quotidien ce que j’ai appris », explique-t-elle ?\nD'après linternaute.com",
+      "question": "Quel est le constat de Greta Taubert après cette expérience ?",
+      "questionTranslation": "What is Greta Taubert's observation after this experience?",
+      "options": [
+        "C’est possible à la campagne.",
+        "C’est possible avec du temps.",
+        "C’est possible, mais pénible.",
+        "C’est possible pour tous."
+      ],
+      "optionTranslations": [
+        "It is possible in the countryside.",
+        "It is possible with time.",
+        "It is possible, but arduous.",
+        "It is possible for everyone."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t14-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Éducation numérique\nIl n'y a presque plus aujourd'hui de manuel scolaire qui paraisse sans avoir une double traduction, numérique et en ligne. C'est devenu le standard de la production au terme d'une mutation très rapide. Mais cependant, nous restons en proximité forte avec le manuel classique. De nouvelles applications qui seraient déconnectées du livre papier ne nous paraissent pas encore à ce stade conformes à notre mission, ni répondre aux attentes de la majorité des enseignants. En outre, cela ne correspond pas à l'équipement de la très grande majorité des établissements. Autrement dit, les conditions d'un changement d'ensemble ne sont pas réunies.\nM. Huet, éditeur de manuels scolaires",
+      "question": "Quelle est la position de cet éditeur de manuels sur la croissance du support numérique ?",
+      "questionTranslation": "What is the position of this textbook editor regarding the growth of digital media?",
+      "options": [
+        "Il considère que l’ère du support papier est définitivement terminée",
+        "Il estime qu’il reste du travail à faire pour mieux préparer cette évolution",
+        "Il juge indispensable de n’utiliser que les supports électroniques",
+        "Il pense qu’il faut privilégier le contact des élèves avec l’outil internet"
+      ],
+      "optionTranslations": [
+        "He considers that the era of paper media is definitely over.",
+        "He estimates that work remains to be done to better prepare for this evolution.",
+        "He judges it essential to use only electronic supports.",
+        "He thinks that student contact with internet tools should be prioritized."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Fixer des limites strictes à la pêche, c’est l’action que va mener l’Australie afin de protéger la vie aquatique.\n« Il est temps que la planète franchisse une nouvelle étape dans la protection des océans », a déclaré le ministre australien de l’environnement.\nLa création d’un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui recevra 79,2 millions d’euros en contrepartie.\nLa fondation australienne pour la protection de l’environnement a qualifié cette annonce « historique », mais elle a souligné que plusieurs zones restaient menacées par l’exploitation humaine des ressources naturelles.",
+      "question": "Que projette le gouvernement australien ?",
+      "questionTranslation": "What does the Australian government plan?",
+      "options": [
+        "D’aménager des réserves restreignant la pêche",
+        "D’encourager une politique mondiale de la pêche",
+        "D’organiser des contrôles pour surveiller la pêche",
+        "De créer des taxes sur les produits de la pêche"
+      ],
+      "optionTranslations": [
+        "To set up reserves restricting fishing",
+        "To encourage a global fishing policy",
+        "To organize checks to monitor fishing",
+        "To create taxes on fishery products"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t14-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Dans cette belle institution qu’est l’Éducation nationale, ce sont les profs qui font tourner la boutique. Ce sont eux qui, chaque jour, nourrissent intellectuellement ceux qui feront la France de demain. Sans eux et leur amour du métier, l’école française se serait effondrée depuis belle lurette et ferait encore moins bien que ses résultats actuels. Notre journal veut donc leur dire merci en publiant quelques portraits et en vous demandant de nous signaler d’autres « héros de l’école ».\nENVOYEZ-NOUS VOS MESSAGES, NOUS LES PUBLIERONS.",
+      "question": "D’après le texte, quel rôle jouent les enseignants dans l’institution scolaire ?",
+      "questionTranslation": "According to the text, what role do teachers play in the school institution?",
+      "options": [
+        "Ils influencent les élèves au-delà de la classe.",
+        "Ils instillent le goût du travail en équipe.",
+        "Ils permettent au système de se maintenir.",
+        "Ils suscitent de nombreuses vocations."
+      ],
+      "optionTranslations": [
+        "They influence students beyond the classroom.",
+        "They instill a taste for teamwork.",
+        "They allow the system to maintain itself.",
+        "They spark numerous vocations."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t14-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Une enquête réalisée auprès de professeurs révèle que le manuel scolaire numérique est préféré pour l’étude d’images, de photos, de cartes… Au contraire, le papier est privilégié pour la réalisation d’exercices, l’étude de textes et les évaluations.\nLes professeurs choisissent ainsi l’outil le mieux adapté à leurs besoins.\nPar ailleurs, les enseignants voient le manuel numérique comme un moyen de capter l’attention des élèves et d’améliorer la participation en classe.",
+      "question": "Quelle information donne cette enquête sur les pratiques des enseignants ?",
+      "questionTranslation": "What information does this survey give about teachers' practices?",
+      "options": [
+        "Ils alternent les supports selon le type d’activité.",
+        "Ils hésitent à utiliser les techniques informatiques.",
+        "Ils optent toujours pour des ouvrages imprimés.",
+        "Ils tiennent compte des progrès des apprenants."
+      ],
+      "optionTranslations": [
+        "They alternate media according to the type of activity.",
+        "They hesitate to use computer techniques.",
+        "They always opt for printed works.",
+        "They take into account the learners' progress."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t14-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Renaissance : un mot porteur de sens à de nombreux égards.\nHistoriquement, elle symbolise le passage vers une ère nouvelle, créatrice, effervescente.\nUn retour aux sources et des artistes humanistes nourris par l’idée de temps nouveaux faits d’espoir et de confiance en l’homme.\nCes multiples lectures ont été source d’inspiration pour la nouvelle collection.\nC’est aussi l’énergie nouvelle, un regain de vitalité.\nAvec une ligne plus urbaine, hommes et femmes trouveront dans des coupes près du corps aux couleurs toniques des tenues à leurs mesures pour affronter l’hiver avec sourire et imagination.",
+      "question": "D’où est tiré ce texte ?",
+      "questionTranslation": "Where is this text taken from?",
+      "options": [
+        "D’un catalogue de styliste",
+        "D’un dictionnaire philosophique",
+        "D’un manuel d’histoire de l’art",
+        "D’une présentation de musée"
+      ],
+      "optionTranslations": [
+        "From a fashion designer's catalogue",
+        "From a philosophical dictionary",
+        "From an art history textbook",
+        "From a museum presentation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t14-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "L’huile de palme est l’huile la plus produite au monde.\nUn tiers de nos produits de consommation courante en contiennent.\nOr, on lui reproche beaucoup de choses.\nElle serait responsable du cholestérol.\nAutre problème, environnemental cette fois : la culture du palmier à huile étant très rentable, les surfaces de plantation ne cessent d’augmenter, souvent en lieu et place des forêts.\nIl existe pourtant d’autres huiles qui peuvent la remplacer mais c’est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.",
+      "question": "Pourquoi l’huile de palme est-elle produite massivement ?",
+      "questionTranslation": "Why is palm oil produced massively?",
+      "options": [
+        "C’est un produit recherché par les consommateurs",
+        "Elle valorise des méthodes agricoles traditionnelles",
+        "Ses qualités nutritionnelles sont reconnues",
+        "Son exploitation génère des revenus élevés"
+      ],
+      "optionTranslations": [
+        "It is a product sought after by consumers",
+        "It promotes traditional agricultural methods",
+        "Its nutritional qualities are recognized",
+        "Its exploitation generates high revenues"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t14-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Plus de 40 % des espèces d’insectes sont en déclin et un tiers sont menacés.\nLeur taux de mortalité est huit fois plus rapide que celui des mammifères. À ce rythme, s’inquiètent les scientifiques, les insectes pourraient disparaître d’ici un siècle. Cette prévision est préoccupante, car ils sont essentiels au bon fonctionnement de tous les écosystèmes. Ils pollinisent les plantes, recyclent les nutriments, et servent de nourriture aux autres animaux. Leur disparition « aura des conséquences catastrophiques à la fois pour les écosystèmes de la planète et pour la survie de l’humanité ».\n« Si les modes de production alimentaire ne changent pas, les insectes dans leur ensemble s’engageront sur la voie de l’extinction dans quelques décennies », écrivent les chercheurs.",
+      "question": "D’après l’article, qu’est-ce qui est à l’origine de la disparition des insectes ?",
+      "questionTranslation": "According to the article, what is the origin of the disappearance of insects?",
+      "options": [
+        "Les changements de climat.",
+        "Les méthodes de culture.",
+        "Les oiseaux prédateurs.",
+        "Les politiques publiques."
+      ],
+      "optionTranslations": [
+        "Climate changes.",
+        "Farming methods.",
+        "Predatory birds.",
+        "Public policies."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Paul Bocuse n’était pas le plus créatif, ni le meilleur technicien de cette génération de chefs d’exception qui a vu éclore des cuisiniers de renommée internationale.\nMais il avait une vision, du culot et un véritable talent de meneur.\nHistoire de donner une stature plus imposante aux cuisiniers, il a lancé la mode de la fameuse veste blanche « grand chef, avec le nom brodé sur la poitrine et le port de la toque démesurée qui évoque la coiffe des pharaons .»\nDès ses débuts, sa personnalité et son sens de la formule ont fait mouche auprès de la presse, qui a publié de nombreux portraits flatteurs, faisant affluer les clients dans son restaurant.",
+      "question": "D’après ce journaliste, quelle a été la clé du succès de Paul Bocuse ?",
+      "questionTranslation": "According to this journalist, what was the key to Paul Bocuse's success?",
+      "options": [
+        "Sa connaissance des médias",
+        "Sas méthodes ancestrales",
+        "Ses recettes originales",
+        "Son charisme incroyable"
+      ],
+      "optionTranslations": [
+        "His knowledge of media",
+        "His ancestral methods",
+        "His original recipes",
+        "His incredible charisma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t14-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Ma chère Amélie,\nMerci pour la lettre. Je suis contente que tu te plaises dans la nouvelle résidence. Il faut dire que le soleil et la proximité de la mer rendent la vie plus agréable. Ta proposition me fait plaisir et je pense pouvoir te rejoindre bientôt.\nCela ne me gêne pas que les travaux ne soient pas terminés dans la maison et je me réjouis de pouvoir profiter de la plage et de ton jardin.\nEncore mille mercis.\nFlorence",
+      "question": "Quelle information est absente de la lettre ?",
+      "questionTranslation": "Which information is absent from the letter?",
+      "options": [
+        "Amélie a déménagé récemment.",
+        "Amélie a invité Florence.",
+        "Florence a beaucoup de travail.",
+        "Florence aime le bord de mer."
+      ],
+      "optionTranslations": [
+        "Amélie moved recently.",
+        "Amélie invited Florence.",
+        "Florence has a lot of work.",
+        "Florence likes the seaside."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t14-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Dans le monde de la littérature jeunesse, Michèle Moreau est une référence. Les bénévoles de l’association Lire et faire lire l’ont écoutée raconter son parcours et son engagement au service de cette littérature, au cours d’un « atelier comptines ». Michèle Moreau a montré les constantes, l’universalité des comptines et histoires qu’elle a éditées. Elle a aussi défendu l’idée que la littérature jeunesse n’était pas « une sous-culture » :\n« L’idée qu’il existerait un répertoire réservé aux enfants m’est inconnue. Si l’on n’est pas d’abord ému en tant qu’adulte, les enfants ne le seront pas non plus. Un livre ou un livre-disque doit savoir parler autant aux enfants qu’aux adultes, c’est pour cela que musiques, textes et illustrations sont particulièrement",
+      "question": "soignés. » Selon Michèle Moreau, à quoi reconnaît-on un bon livre jeunesse ?",
+      "questionTranslation": "According to Michèle Moreau, how do we recognize a good children's book?",
+      "options": [
+        "Il a plus d’illustrations que d’écrit.",
+        "Il préserve l’imaginaire des enfants.",
+        "Il touche également les adultes.",
+        "Il valorise le patrimoine littéraire."
+      ],
+      "optionTranslations": [
+        "It has more illustrations than writing.",
+        "It preserves children's imagination.",
+        "It also touches adults.",
+        "It values literary heritage."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t14-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Cette année encore, les adeptes de la culture ne savent plus où donner de la tête et du porte-monnaie.\nEn nombre sans cesse croissant – notamment depuis que les collectivités territoriales (régions, départements...) ont compris le parti qu’elles pouvaient tirer de leur investissement en matière de communication – les festivals de musique foisonnent et les indicateurs sont au beau fixe, avec des rendez-vous emblématiques comme les Francofolies de La Rochelle et les Vieilles Charrues.\nL’année dernière, ils assuraient avoir battu des records de fréquentation.",
+      "question": "Dans cet article, qu'apprend-on sur les festivals ?",
+      "questionTranslation": "In this article, what do we learn about festivals?",
+      "options": [
+        "D’anciens artistes ont l’occasion de monter sur scène.",
+        "Les financements publics contribuent à leur expansion.",
+        "Les organisateurs s’adaptent aux nouvelles tendances.",
+        "Les tarifs proposés dépendant de la programmation."
+      ],
+      "optionTranslations": [
+        "Former artists have the opportunity to go on stage.",
+        "Public funding contributes to their expansion.",
+        "Organizers adapt to new trends.",
+        "The rates proposed depend on the programming."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Sur la côte de la Tanzanie, la petite bourgade de Pangani s’organise autour de son fleuve éponyme dont l’eau est de plus en plus viciée. Même s’il participe à lui donner des allures d’éden, le fleuve a pourtant été depuis des décennies la principale raison de vivre dans la région, fournissant eau fraîche et travail aux pêcheurs. Dans son reportage, Federico Romano dévoile son ambivalence. Alors que Pangani est paradisiaque, calme et bordée de palmiers, il y a comme un ennemi invisible : les gens y boivent tous l’eau du fleuve, parce qu’ils n’ont tout simplement pas d’autre solution, alors que celle-ci n’a plus rien à voir avec de",
+      "question": "l’eau douce. Que révèle-t-on sur ce fleuve ?",
+      "questionTranslation": "What is revealed about this river?",
+      "options": [
+        "Il constitue un bienfait autant qu’un problème.",
+        "Il est menacé d’assèchement.",
+        "Il pollue les terres avoisinantes.",
+        "Il représente un attrait touristique essentiel."
+      ],
+      "optionTranslations": [
+        "It constitutes a benefit as much as a problem.",
+        "It is threatened with drying up.",
+        "It pollutes the neighboring lands.",
+        "It represents an essential tourist attraction."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t14-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "L’homme est de noir vêtu. Son crâne, nu, joue avec la lumière. Tout est dit, tout est là, dans ce jeu d’ombre et de clarté qui fait d’un bâtisseur un poète. Jean Nouvel façonne le mystère pour insuffler du vivant aux édifices au cœur de pierre et bâtit sans dénaturer. Cet architecte éclairé n’érige rien, il convie cette émotion, suscite une apparition pour sa dernière création, il découvre une ville- musée aux formes douces, un dôme qui semble né des mains d’une dentellière.\nLe dôme repose sur quatre piliers pour gagner en légèreté et s’allier au paysage, trait d’union avec les nuages.",
+      "question": "Quelle particularité de Jean Nouvel est louée dans cet article ?",
+      "questionTranslation": "Which particularity of Jean Nouvel is praised in this article?",
+      "options": [
+        "Sa technique puise dans divers mouvements artistiques.",
+        "Ses œuvres se fondent dans leur environnement.",
+        "Son inspiration provient de ses nombreuses lectures.",
+        "Son savoir-faire met en valeur des procédés connus."
+      ],
+      "optionTranslations": [
+        "His technique draws from various artistic movements.",
+        "His works blend into their environment.",
+        "His inspiration comes from his numerous readings.",
+        "His expertise highlights known processes."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "On connaît Cézanne surtout pour ses paysages, mais le Musée d’Orsay montre, pour la première fois, une partie méconnue de l’œuvre de l’artiste.\nOn y croisera ainsi le visage de son épouse, seul motif autant étudié par le peintre que la montagne Sainte-Victoire.\nAu fil des versions, Hortense Fiquet devient l’objet d’une recherche plastique, de mise en scène et de géométrisation des formes.\nMais Cézanne peut aussi avoir le pinceau cruel.\nDès ses débuts, les figures de son père et de sa mère sont tourmentées.\nLui-même se représente à 27 ans, patibulaire, et le regard injecté de sang.\nÀ la fin de sa vie, Cézanne choisit des anonymes du monde rural.\nSes tableaux ne sont alors qu’une autre forme de paysage.",
+      "question": "Que souligne cette exposition sur Paul Cézanne ?",
+      "questionTranslation": "What does this exhibition highlight about Paul Cézanne?",
+      "options": [
+        "L’influence de ses contemporains.",
+        "La singularité de ses portraits.",
+        "Son engouement pour la nature.",
+        "Son travail post-impressionniste."
+      ],
+      "optionTranslations": [
+        "The influence of his contemporaries.",
+        "The singularity of his portraits.",
+        "His passion for nature.",
+        "His post-impressionist work."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Le monde de l’éducation a atteint son ambition : devenir la référence nationale en matière d’enseignement.\nUn succès confirmé par une récente enquête qui nous crédite d’un taux de satisfaction exceptionnellement élevé.\nMais nos abonnés sont souvent des établissements scolaires, où Le Monde de l’Éducation est le magazine français le plus « photocopié ».\nEnviron 4 000 exemplaires vendus pour plus d’un million cent mille lecteurs !\nUn écart vente-lectorat devenu insupportable.\nDepuis 1974, Le Monde de l’Éducation a accompli de nombreuses transformations.\nAprès 34 ans au service de l’éducation, votre magazine va vivre sa mue la plus importante.\nDe mensuel payant vendu en kiosques ou par abonnement, il va devenir un supplément gratuit proposé avec le quotidien.",
+      "question": "Qu’est-ce qui a justifié la transformation du Monde de l’Éducation ?",
+      "questionTranslation": "What justified the transformation of Le Monde de l’Éducation?",
+      "options": [
+        "Une adéquation avec l’attente des lecteurs",
+        "Une diffusion abusive de copies illégales",
+        "Une offre promotionnelle provisoire",
+        "Une perte croissante du nombre d’abonnés"
+      ],
+      "optionTranslations": [
+        "Alignment with reader expectations",
+        "An abusive dissemination of illegal copies",
+        "A temporary promotional offer",
+        "A growing loss of subscribers"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t14-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Inexorablement, la cravate perd de sa superbe. Un abandon progressif constaté par Serge Carreira, maître de conférences à Sciences Po Paris et spécialiste du luxe et de la mode : on l’impose de moins en moins de manière systématique à tout le monde au sein d’une entreprise. Toutefois, il existe des secteurs qui résistent à la tendance. Dans le monde de la finance, dans la haute administration, la cravate reste quelque chose de statutaire, estime Serge Carreira. C’est un symbole d’autorité et de respect vis-à-vis de ses interlocuteurs, de ses clients… Un formalisme qui n’est pas toujours très bien compris par les principaux intéressés : Josselin travaille pour une banque d’entreprise, il n’est pas en contact avec les clients et pourtant il doit se plier à la règle.",
+      "question": "Pourquoi certains continuent-ils à porter la cravate au travail ?",
+      "questionTranslation": "Why do some continue to wear the tie at work?",
+      "options": [
+        "C’est un accessoire d’élégance masculine.",
+        "C’est un signe de reconnaissance entre pairs.",
+        "C’est une coutume en réunion.",
+        "C’est une marque de courtoisie."
+      ],
+      "optionTranslations": [
+        "It is an accessory of masculine elegance.",
+        "It is a sign of recognition between peers.",
+        "It is a custom in meetings.",
+        "It is a mark of courtesy."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t14-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "J’ai la naïveté de penser qu’un peu d’imagination n’est pas totalement absurde lorsqu’on écrit des romans. Or, à mon sens, l’imagination est le but de deux choses fondamentales : l’ennui, à qui on donne trop souvent un mauvais rôle, et l’observation, qui n’est pas seulement un terme médical. Il s’avère que le téléphone intelligent, ce charmant objet, si nécessaire, si vital, fait peu à peu disparaître ces deux activités de fainéants du cerveau humain que sont l’ennui et l’observation. Pourquoi s’ennuyer quand on peut regarder des vidéos de chatons ou des notifications Facebook de la plus haute importance dans une salle d’attente ? En somme, grâce à ce téléphone intelligent. Vous pouvez regarder en permanence le résultat de l’imagination brillante des autres (au détriment de la vôtre).",
+      "question": "Quelle est l’attitude de l’auteur vis-à-vis du téléphone intelligent ?",
+      "questionTranslation": "What is the author's attitude towards the smartphone?",
+      "options": [
+        "Il reconnaît ses aspects pratiques.",
+        "Il remet en cause ses bienfaits.",
+        "Il s’inquiète de son usage abusif.",
+        "Il s’émerveille de sa technologie."
+      ],
+      "optionTranslations": [
+        "He recognizes its practical aspects.",
+        "He questions its benefits.",
+        "He worries about its abusive use.",
+        "He marvels at its technology. Retry test All tests"
+      ],
+      "correctIndex": 1,
+      "answerDisputed": true
+    }
+  ]
+}

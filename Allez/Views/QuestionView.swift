@@ -8,24 +8,50 @@ struct QuestionView: View {
     /// Turned off during timed tests, like the real exam.
     var showsTranslation = true
 
+    @State private var isTranslated = false
+
+    private var translationVisible: Bool { showsTranslation && isTranslated }
+
     var body: some View {
         VStack(alignment: .leading, spacing: 20) {
-            SkillTag(skill: question.skill, level: question.level)
-
-            if let passage = question.passage {
-                PassageCard(passage: passage, translation: showsTranslation ? question.passageTranslation : nil)
+            HStack {
+                SkillTag(skill: question.skill, level: question.level)
+                Spacer()
+                if showsTranslation && question.hasTranslation {
+                    Button {
+                        withAnimation(.easeInOut(duration: 0.2)) { isTranslated.toggle() }
+                    } label: {
+                        Label(isTranslated ? "Masquer" : "Traduction", systemImage: "character.bubble")
+                            .font(.footnote.weight(.bold))
+                    }
+                    .accessibilityLabel(isTranslated ? "Masquer la traduction" : "Voir la traduction")
+                }
             }
 
-            questionText
-                .font(.title3.weight(.bold))
-                .fixedSize(horizontal: false, vertical: true)
+            if let passage = question.passage {
+                PassageCard(passage: passage, translation: translationVisible ? question.passageTranslation : nil)
+            }
+
+            VStack(alignment: .leading, spacing: 6) {
+                questionText
+                    .font(.title3.weight(.bold))
+                    .fixedSize(horizontal: false, vertical: true)
+                if translationVisible, let translation = question.questionTranslation {
+                    TranslationText(text: translation)
+                }
+            }
 
             VStack(spacing: 12) {
                 ForEach(question.options.indices, id: \.self) { index in
                     Button {
                         selectedIndex = index
                     } label: {
-                        OptionLabel(letter: letter(for: index), text: question.options[index], state: state(for: index))
+                        OptionLabel(
+                            letter: letter(for: index),
+                            text: question.options[index],
+                            translation: translationVisible ? question.translation(ofOption: index) : nil,
+                            state: state(for: index)
+                        )
                     }
                     .buttonStyle(OptionButtonStyle(state: state(for: index)))
                     .allowsHitTesting(!isChecked)
@@ -82,10 +108,23 @@ private struct SkillTag: View {
     }
 }
 
+/// English shown under the French when translation is on.
+struct TranslationText: View {
+    let text: String
+
+    var body: some View {
+        Text(text)
+            .font(.callout)
+            .italic()
+            .foregroundStyle(.secondary)
+            .multilineTextAlignment(.leading)
+            .fixedSize(horizontal: false, vertical: true)
+    }
+}
+
 private struct PassageCard: View {
     let passage: String
     let translation: String?
-    @State private var showTranslation = false
 
     var body: some View {
         VStack(alignment: .leading, spacing: 12) {
@@ -94,18 +133,7 @@ private struct PassageCard: View {
                 .fixedSize(horizontal: false, vertical: true)
 
             if let translation {
-                Button(showTranslation ? "Masquer la traduction" : "Voir la traduction") {
-                    withAnimation { showTranslation.toggle() }
-                }
-                .font(.footnote.weight(.bold))
-
-                if showTranslation {
-                    Text(translation)
-                        .font(.callout)
-                        .italic()
-                        .foregroundStyle(.secondary)
-                        .fixedSize(horizontal: false, vertical: true)
-                }
+                TranslationText(text: translation)
             }
         }
         .padding()
@@ -117,6 +145,7 @@ private struct PassageCard: View {
 private struct OptionLabel: View {
     let letter: String
     let text: String
+    let translation: String?
     let state: OptionState
 
     var body: some View {
@@ -125,9 +154,19 @@ private struct OptionLabel: View {
                 .font(.subheadline.weight(.heavy))
                 .frame(width: 30, height: 30)
                 .background(RoundedRectangle(cornerRadius: 8).strokeBorder(lineWidth: 2).opacity(0.4))
-            Text(text)
-                .multilineTextAlignment(.leading)
-                .fixedSize(horizontal: false, vertical: true)
+            VStack(alignment: .leading, spacing: 2) {
+                Text(text)
+                    .multilineTextAlignment(.leading)
+                    .fixedSize(horizontal: false, vertical: true)
+                if let translation {
+                    Text(translation)
+                        .font(.footnote.weight(.regular))
+                        .italic()
+                        .opacity(0.7)
+                        .multilineTextAlignment(.leading)
+                        .fixedSize(horizontal: false, vertical: true)
+                }
+            }
             Spacer(minLength: 0)
             if state == .correct {
                 Image(systemName: "checkmark.circle.fill")

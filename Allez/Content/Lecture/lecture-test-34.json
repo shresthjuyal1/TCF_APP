@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-34",
+  "title": "Test 34",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t34-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "RENCONTRES INTERCULTURELLES\nASSOCIATION DEUX RIVES\n27-28 novembre\nFaites connaissance avec des gens du monde entier et découvrez d’autres cultures !\nAu programme : musique, repas, expositions ...\n15 € - 10 € (moins de 25 ans)\nInscrivez-vous avant le 15 novembre.\nVenez nombreux !",
+      "question": "Que propose cette association ?",
+      "questionTranslation": "What does this association propose?",
+      "options": [
+        "D’apprendre une nouvelle langue.",
+        "De participer à un concours.",
+        "De prendre des cours de cuisine.",
+        "De rencontrer des étrangers."
+      ],
+      "optionTranslations": [
+        "To learn a new language.",
+        "To participate in a contest.",
+        "To take cooking classes.",
+        "To meet foreigners."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t34-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "L’école Lingua Mobile vous offre plusieurs solutions modernes : vous pouvez suivre vos cours par internet, depuis chez vous ou de votre bureau.",
+      "question": "Quelle est la spécialité de Lingua Mobile ?",
+      "questionTranslation": "What is the specialty of Lingua Mobile?",
+      "options": [
+        "Ses leçons à distance.",
+        "Ses professeurs expérimentés.",
+        "Ses salles neuves connectées.",
+        "Ses tarifs bon marché."
+      ],
+      "optionTranslations": [
+        "Its distance lessons.",
+        "Its experienced teachers.",
+        "Its new connected classrooms.",
+        "Its cheap rates."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t34-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Nouveau message\nMonsieur,\nLe docteur Perez vous attend jeudi à 9 h. Merci d’arriver 15 minutes avant avec la liste des médicaments que vous prenez. Si vous ne pouvez pas venir, merci de prendre contact avec nous.\nLe secrétariat médical.",
+      "question": "Quel est le but de ce message ?",
+      "questionTranslation": "What is the purpose of this message?",
+      "options": [
+        "Demander de téléphoner.",
+        "Prendre des nouvelles.",
+        "Présenter des produits.",
+        "Rappeler un rendez-vous."
+      ],
+      "optionTranslations": [
+        "To ask to call.",
+        "To ask for news / check in.",
+        "To present products.",
+        "To remind of an appointment."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t34-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Bonjour Sophie,\nJe ne pourrai pas venir à notre soirée cinéma. Ma fille est malade, je dois rester à la maison. Si tu veux, Kevin est disponible. Je peux lui donner ma place.\nMartine.",
+      "question": "Pourquoi Martine envoie-t-elle un message à Sophie ?",
+      "questionTranslation": "Why is Martine sending a message to Sophie?",
+      "options": [
+        "A Pour annuler un diner.",
+        "Pour expliquer un problème.",
+        "Pour l’inviter chez elle.",
+        "Pour lui proposer de sortir"
+      ],
+      "optionTranslations": [
+        "To cancel a dinner.",
+        "To explain a problem.",
+        "To invite her to her place.",
+        "To propose going out."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Sophie et ses parents sont très heureux de vous annoncer la naissance d’Adrien,",
+      "question": "le 7 mai dernier. Qui écrit ce message ?",
+      "questionTranslation": "Who is writing this message?",
+      "options": [
+        "Les amis d’Adrien.",
+        "La famille d’Adrien.",
+        "Les médecins d’Adrien.",
+        "Les voisins d’Adrien."
+      ],
+      "optionTranslations": [
+        "Adrien's friends.",
+        "Adrien's family.",
+        "Adrien's doctors.",
+        "Adrien's neighbors."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Couleurs d’automne\nVous avez des idées pour proposer des plats originaux en choisissant des produits de saison, une décoration et des couleurs qui rappellent l’automne.\nInscrivez-vous au Parcours des chefs en remplissant le formulaire joint.",
+      "question": "Qu’est-ce qui est organisé ?",
+      "questionTranslation": "What is organized?",
+      "options": [
+        "Un atelier de peinture.",
+        "Un concours de cuisine",
+        "Un salon des plantes",
+        "Une course en forêt"
+      ],
+      "optionTranslations": [
+        "A painting workshop.",
+        "A cooking contest.",
+        "A plant fair.",
+        "A race in the forest."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Vous avez peur en avion ?\nVous n'êtes pas le seul ! Les statistiques montrent qu'un quart des passagers sont inquiets quand ils prennent l'avion !\nDes stages peuvent vous aider à monter dans un avion sans avoir peur !\nPour en savoir plus, contactez Airplus au 09 48 36 22 11.",
+      "question": "Que propose la société Airplus ?",
+      "questionTranslation": "What does the company Airplus offer?",
+      "options": [
+        "Des avions.",
+        "Des jeux.",
+        "Des stages.",
+        "Des statistiques."
+      ],
+      "optionTranslations": [
+        "Airplanes.",
+        "Games.",
+        "Courses.",
+        "Statistics."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t34-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Martine\nJe ne connaissais pas www.lamode.com, mais sur un forum, j’ai lu des avis positifs.\nAlors, je suis allée sur le site et j’ai trouvé une jolie robe pas chère du tout.\nJe l’ai commandée et je la portais 5 jours après.\nJe suis ravie !",
+      "question": "Qu'explique cette personne ?",
+      "questionTranslation": "What does this person explain?",
+      "options": [
+        "Comment elle a acheté un article en ligne.",
+        "Où elle a cherché un cadeau bon marché.",
+        "Pourquoi elle a eu un chèque de réduction.",
+        "Quand elle a échangé un vêtement soldé."
+      ],
+      "optionTranslations": [
+        "How she bought an item online.",
+        "Where she looked for a cheap gift.",
+        "Why she got a discount voucher.",
+        "When she exchanged a sale item."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t34-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Noël Approche !\nPour que vos colis arrivent avant les fêtes,nous vous proposons de les transporter en mode express.\nRenseignez-vous auprès de nos conseillers ou rendez-vous directement au",
+      "question": "guichet. À quoi sert ce service ?",
+      "questionTranslation": "What is this service used for?",
+      "options": [
+        "À acheter des cadeaux",
+        "À envoyer des paquets",
+        "À louer des camions",
+        "À réserver des billets"
+      ],
+      "optionTranslations": [
+        "To buy gifts",
+        "To send packages",
+        "To rent trucks",
+        "To book tickets"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "L’Union européenne va offrir une « Carte Jeunes » aux étudiants du continent qui ont vingt ans cette année.\nPendant un mois maximum, les jeunes pourront prendre le train gratuitement pour visiter plus de quinze pays.",
+      "question": "Qu’est-ce qui est proposé aux jeunes Européens ?",
+      "questionTranslation": "What is proposed to young Europeans?",
+      "options": [
+        "Des visites de musées.",
+        "Des voyages en Europe.",
+        "Un mois de vacances.",
+        "Un semestre d’études."
+      ],
+      "optionTranslations": [
+        "Museum visits.",
+        "Trips in Europe.",
+        "A month of vacation.",
+        "A semester of studies."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Message\nDaniel,\nMonsieur Dubois a appelé pendant votre déjeuner. Il ne peut pas venir au rendez-vous vendredi. Il préfère vous voir la semaine prochaine pour discuter du dossier. Vous devez lui envoyer un courriel demain avant 17 h pour confirmer.\nSarah.",
+      "question": "Que doit faire Daniel demain ?",
+      "questionTranslation": "What must Daniel do tomorrow?",
+      "options": [
+        "Aller déjeuner avec monsieur Dubois.",
+        "Ecrire un message à monsieur Dubois.",
+        "Envoyer un dossier à monsieur Dubois.",
+        "Rendre visite à monsieur Dubois."
+      ],
+      "optionTranslations": [
+        "Go to lunch with Mr. Dubois.",
+        "Write a message to Mr. Dubois.",
+        "Send a file to Mr. Dubois.",
+        "Visit Mr. Dubois."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Un salon automobile est un lieu de rêve, mais pas le salon de cette année.\nVoici mon classement des modèles les plus laids :\n1. La V210 : un aspirateur sur quatre roues.\n2. La Tata Aria : pas chère, mais pas belle non plus.\n3. Le cabriolet Aurus : plus large que haut.\nVivement l’année prochaine !",
+      "question": "Quel est le problème de ces voitures ?",
+      "questionTranslation": "What is the problem with these cars?",
+      "options": [
+        "Leur couleur",
+        "Leur forme",
+        "Leur prix",
+        "Leur taille"
+      ],
+      "optionTranslations": [
+        "Their color",
+        "Their shape",
+        "Their price",
+        "Their size"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Qu’ils soient étudiants ou salariés, de nombreux jeunes sont confrontés à des problèmes de logement.\nPendant ce temps, des retraités vivent dans une maison devenue trop grande pour eux, souvent seuls.\nFaire se rencontrer ces générations, c’est l’objectif de l’association Lien qui recherche des retraités qui ont chez eux une chambre pour accueillir un jeune entre 18 et 25 ans.\nEn contrepartie, le jeune peut effectuer…",
+      "question": "Quel est l’objectif de l’association Lien ?",
+      "questionTranslation": "What is the goal of the Lien association?",
+      "options": [
+        "Centraliser les demandes de location des retraités",
+        "Favoriser la cohabitation entre les générations.",
+        "Loger des jeunes en difficulté dans un studio.",
+        "Offrir une assistance médicale aux personnes âgées."
+      ],
+      "optionTranslations": [
+        "Centralize rental requests from retirees.",
+        "Promote cohabitation between generations.",
+        "House young people in difficulty in a studio.",
+        "Offer medical assistance to the elderly."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Plusieurs types de cours de natation sont proposés dans les piscines de la ville pour enfants et adultes toute l’année sauf pendant les vacances scolaires.\nIl n’y a pas besoin de réserver.\nLes tarifs dépendent des activités mais ils comprennent systématiquement le coût de l’entrée à la piscine et au sauna.\nAprès les cours, vous pourrez nager librement.",
+      "question": "Qu’est-ce que l’on apprend sur les cours de natation proposés ?",
+      "questionTranslation": "What do we learn about the swimming lessons offered?",
+      "options": [
+        "Ils doivent être réservés à l’avance.",
+        "Ils donnent accès au sauna.",
+        "Ils ont lieu pendant les vacances.",
+        "Ils sont gratuits pour les enfants."
+      ],
+      "optionTranslations": [
+        "They must be booked in advance.",
+        "They give access to the sauna.",
+        "They take place during the holidays.",
+        "They are free for children."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Parce que c’est important de rendre curieux et de faire rire, le théâtre Aktéon met en place toute l’année des séances scolaires sur demande.\nAu jour et à l’heure que vous souhaitez, vous pouvez assister avec votre classe à un spectacle privé dans votre établissement ! De nombreux collégiens et lycéens en ont profité l’an dernier.\nAprès le spectacle, l’équipe artistique propose d’échanger sur la pièce avec les élèves. Des rencontres toujours enrichissantes, parfois drôles !",
+      "question": "Source : brochure Que propose cette annonce ?",
+      "questionTranslation": "What does this announcement offer?",
+      "options": [
+        "Accueillir le théâtre à l’école.",
+        "Apprendre l’histoire du théâtre.",
+        "Connaitre les métiers du théâtre.",
+        "Suivre des cours de théâtre."
+      ],
+      "optionTranslations": [
+        "Host the theater at school.",
+        "Learn the history of theater.",
+        "Know the theater professions.",
+        "Take theater classes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t34-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Chère Sarah,\nJe suis de retour à la montagne. Les vacances étaient géniales : cette année, nous avons pris le train jusqu’à La Rochelle, puis nous avons pris un bateau jusqu’à l’île de Ré. Nous y avons passé toute la semaine.\nOn s’est déplacé à vélo, on a pêché et ramassé des coquillages. C’était magnifique.\nJe t’embrasse,\nPamela.",
+      "question": "Où est-ce que Pamela a passé ses vacances ?",
+      "questionTranslation": "Where did Pamela spend her vacation?",
+      "options": [
+        "À la montagne.",
+        "À La Rochelle.",
+        "Sur un bateau.",
+        "Sur une île."
+      ],
+      "optionTranslations": [
+        "In the mountains.",
+        "In La Rochelle.",
+        "On a boat.",
+        "On an island."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t34-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Internet est entré dans les habitudes de consommation et aucun secteur ne semble pouvoir échapper à cette pratique sauf peut-être le milieu pharmaceutique.\nAujourd’hui, les trois quarts des Français déclarent ne pas être prêts à acheter un médicament sur Internet.\nCar le médicament n’est pas une simple marchandise, et la personne qui entre dans une pharmacie n’y cherche pas seulement un remède, mais un accompagnement et une assurance à la fois de sécurité et de santé.",
+      "question": "Qu’apprend-on sur l’achat de médicaments en ligne ?",
+      "questionTranslation": "What do we learn about buying medicines online?",
+      "options": [
+        "C’est une pratique courante.",
+        "Les pharmaciens s’y opposent.",
+        "Leur paiement est sécurisé.",
+        "On s’en méfie en France."
+      ],
+      "optionTranslations": [
+        "It is a common practice.",
+        "Pharmacists oppose it.",
+        "Their payment is secure.",
+        "People are wary of it in France."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t34-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "L’expérience « cours le matin, sport l’après-midi », qui a commencé à la rentrée, concerne 7000 élèves dans 120 lycées.\nLes parents affirment que « la santé de leur enfant a peu varié par rapport à l’an dernier ».\nIls semblent avoir meilleur appétit et « ils parlent plus de leurs activités avec leurs parents ».\nIl n’y a pas « d’influence sur la concentration ou les résultats scolaires ».",
+      "question": "Quels sont les effets de cette expérience ?",
+      "questionTranslation": "What are the effects of this experiment?",
+      "options": [
+        "Les échanges en famille s’améliorent.",
+        "L’attention en classe est en hausse.",
+        "Les adolescents sont plus en forme.",
+        "La réussite aux examens augmente."
+      ],
+      "optionTranslations": [
+        "Family exchanges improve.",
+        "Attention in class is rising.",
+        "Teenagers are fitter.",
+        "Success in exams increases."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t34-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Recherche de partenaire pour un projet collaboratif par Internet.\nPour inscrire votre classe à ce projet, communiquez directement avec la personne responsable ou suivez la consigne indiquée, selon le cas.\nTitre : Comparaison des constellations entre les hémisphères nord et sud.\nPersonne responsable : Sandrine Grun.\nAdresse électronique : sandrine.grun@collegerenoir.fr.\nPays d’origine : France.\nDomaine concerné : astronomie/sciences de l’espace.\nDescription : un groupe d’élèves participant à un atelier d’astronomie avec leur professeur de sciences physiques souhaiterait comparer les constellations des hémisphères nord et sud et étudier leurs histoires.\nCes élèves recherchent un groupe d’élèves situé dans l’hémisphère sud, parlant français.\nIls voudraient commencer le projet entre élèves à la rentrée de septembre. Mais le travail entre professeurs pourrait commencer avant.",
+      "question": "En quoi consiste le projet décrit dans cette annonce ?",
+      "questionTranslation": "What does the project described in this ad consist of?",
+      "options": [
+        "Participer à un concours international d’astronomie.",
+        "Réaliser une étude d’observation des astres.",
+        "Se joindre à une formation d’enseignants en sciences.",
+        "Suivre un cours de rattrapage en sciences physiques."
+      ],
+      "optionTranslations": [
+        "Participate in an international astronomy contest.",
+        "Conduct a study of observing stars/celestial bodies.",
+        "Join a science teacher training.",
+        "Take a remedial physics class."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Situé au cœur d’un jardin tropical et en bordure d’une grande plage de sable fin, le Coralia est un hôtel-club de dernière génération, confortable et convivial.\nComplet et bien équipé, il satisfera les familles comme les sportifs.\nVous pourrez pratiquer tous les sports nautiques et vous détendre dans nos salles de musculation et de fitness.\nSon magnifique restaurant vous accueillera jusque très tard dans la nuit.\nL’un des rares hôtels de la région à proposer une animation 100 % francophone.",
+      "question": "Que propose cet hôtel ?",
+      "questionTranslation": "What does this hotel offer?",
+      "options": [
+        "Un club pour les jeunes enfants.",
+        "Un espace de remise en forme.",
+        "Une formule en pension complète.",
+        "Une offre de restauration vannée."
+      ],
+      "optionTranslations": [
+        "A club for young children.",
+        "A fitness area.",
+        "A full board package.",
+        "A varied catering offer."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Ralentissement du traitement de l’information, baisse de l’attention et de notre mémorisation à court terme…\nAvec l’âge, le vieillissement du cerveau semble inévitable.\nPourtant, notre santé cognitive dépend aussi de notre mode de vie.\nIl est ainsi primordial, après la soixantaine, de conserver une vie active, physiquement par une pratique sportive régulière et aussi intellectuellement en sollicitant nos fonctions mentales par un apprentissage permanent.\nPour cela, il est essentiel de garder une vie sociale riche d’interactions avec les autres et également de cultiver des activités, associatives ou sportives, par",
+      "question": "exemple. Quel est l’objectif des conseils donnés dans cet article ?",
+      "questionTranslation": "What is the objective of the advice given in this article?",
+      "options": [
+        "Améliorer des capacités physiques.",
+        "Découvrir de nouveaux types de sports.",
+        "Développer le cercle de ses relations sociales.",
+        "Maintenir les performances de la mémoire."
+      ],
+      "optionTranslations": [
+        "To improve physical capabilities.",
+        "To discover new types of sports.",
+        "To develop one's circle of social relations.",
+        "To maintain memory performances."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t34-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d’un genre inédit : coiffés d’un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes.\nDes données ressortent alors sous forme d’algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur.\nAinsi, des peintures virtuelles sont créées à partir des émotions de chacun.\nEt comme chaque histoire est unique, chaque œuvre l’est aussi !",
+      "question": "Quel est le rôle des participants à cette expérience ?",
+      "questionTranslation": "What is the role of the participants in this experiment?",
+      "options": [
+        "Effectuer un calcul.",
+        "Évoquer un fait divers.",
+        "Fournir un support.",
+        "Sélectionner un souvenir."
+      ],
+      "optionTranslations": [
+        "Perform a calculation.",
+        "Mention a news item.",
+        "Provide a support.",
+        "Select a memory."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t34-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Hier soir, lors du dernier concert du Festival de Jazz organisé par la ville de Nancy, une chanteuse lorraine, Mell, a enthousiasmé le public lors de la première partie.\nÀ tel point que le groupe prévu ensuite a dû décaler son horaire.\nEn effet, lorsque la chanteuse a quitté la scène, la salle, noire de monde, s’est mise à hurler afin de l’empêcher de partir.",
+      "question": "Comment le public a-t-il réagi lors du concert de Mell ?",
+      "questionTranslation": "How did the audience react during Mell's concert?",
+      "options": [
+        "Il a acclamé de toutes ses forces la chanteuse.",
+        "Il a demandé l’annulation du concert.",
+        "Il a invité le groupe suivant à partir.",
+        "Il l’a retenue prisonnière toute la nuit."
+      ],
+      "optionTranslations": [
+        "It acclaimed the singer with all its might.",
+        "It asked for the cancellation of the concert.",
+        "It invited the following group to leave.",
+        "It held her prisoner all night."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t34-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La crèche Tanger a rouvert ses portes.\nAprès un an de travaux, la crèche municipale Tanger accueille à nouveau depuis mai dernier des enfants de 3 mois à 3 ans. Elle a été complètement réaménagée et ses capacités d’accueil augmentées.\nElle reçoit à présent 52 enfants. Un passage permet aux « grands » d’accéder directement au jardin dont le revêtement au sol a été changé.\nLes enfants ont à leur disposition un nouveau toboggan et un double banc en forme de crocodile.",
+      "question": "Pourquoi la crèche était-elle en travaux ?",
+      "questionTranslation": "Why was the nursery under construction?",
+      "options": [
+        "Pour accueillir des enfants plus âgés.",
+        "Pour améliorer la sécurité du bâtiment.",
+        "Pour multiplier les activités artistiques.",
+        "Pour proposer davantage de places."
+      ],
+      "optionTranslations": [
+        "To welcome older children.",
+        "To improve the building's safety.",
+        "To increase artistic activities.",
+        "To offer more places."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t34-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le problème des grandes associations caritatives, c’est qu’elles n’ont pas de relation de proximité avec le public.\nLe Comité de la Charte rétablit ce lien et redonne confiance aux donateurs grâce à une charte de déontologie et à la nomination d’un censeur auprès de chaque organisation membre.\nLe système fonctionne comme un label :il faut se soumettre à ses contraintes.\nPour redonner confiance, il faut effectuer un travail pédagogique à destination des donateurs et leur donner des informations sur les moyens dont disposent les associations : elles fonctionnent, bien entendu.\nAvec des bénévoles, mais également avec des salariés et ceux-ci doivent être correctement rémunérés pour fournir un travail de qualité.",
+      "question": "Quel est l’objectif du Comité de la Charte?",
+      "questionTranslation": "What is the objective of the Charter Committee?",
+      "options": [
+        "Rationaliser la gestion des associations.",
+        "Élargir le recrutement à de nouveaux bénévoles.",
+        "Former les responsables des associations.",
+        "Mieux communiquer sur l’utilisation des fonds."
+      ],
+      "optionTranslations": [
+        "Rationalize the management of associations.",
+        "Expand recruitment to new volunteers.",
+        "Train the managers of the associations.",
+        "Communicate better on the use of funds."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t34-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Dans les familles, il y a des conflits entre les parents, tout simplement parce que chacun a son style éducatif, ses valeurs, son expérience et sa culture familiale.\nChacun a ses idées sur le rôle d’un père, d’une mère, la place d’un enfant. Et quand chacun veut les mettre en application, il se heurte à celles de l’autre et ça crée des disputes dans le couple.\nC’est inévitable, tout à fait normal et il n’y a pas à s’en inquiéter.\nOn peut parfaitement éduquer son enfant sans être d’accord sur tout, à une condition : que les parents s’entendent sur les valeurs fondamentales qu’ils veulent lui donner et qu’ils respectent les méthodes éducatives de l’autre même s’ils ne les approuvent pas.",
+      "question": "Selon cet article, que doivent faire les parents en matière d’éducation ?",
+      "questionTranslation": "According to this article, what must parents do regarding education?",
+      "options": [
+        "Dialoguer avec leurs enfants.",
+        "Prendre appui sur leur expérience.",
+        "S’affranchir de leur héritage familial.",
+        "Trouver des valeurs communes."
+      ],
+      "optionTranslations": [
+        "Talk with their children.",
+        "Rely on their experience.",
+        "Break free from their family heritage.",
+        "Find common values."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t34-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La ville de Montreuil impose de nouvelles règles aux projets immobiliers du centre-ville pour promouvoir l’installation de commerces et d’ateliers d’artistes sur les axes centraux de la ville.\nCette solution favorise la mixité des usages. En effet, la construction de logements est plus rentable que celle de locaux commerciaux ou artistiques, ce qui incite les promoteurs à ne construire que ce type de biens.\nRefusant de créer une ville-dortoir et décidée à préserver l’identité artistique de la ville, la municipalité entend soutenir l’installation de ces activités en rez-de- chaussée.",
+      "question": "Quel est l’objectif de la politique urbaine de Montreuil ?",
+      "questionTranslation": "What is the objective of Montreuil's urban policy?",
+      "options": [
+        "Développer la mixité sociale dans les quartiers.",
+        "Diversifier les activités en centre-ville.",
+        "Encourager la croissance du secteur immobilier.",
+        "Stabiliser le nombre de logements."
+      ],
+      "optionTranslations": [
+        "Develop social diversity in neighborhoods.",
+        "Diversify activities in the city center.",
+        "Encourage growth in the real estate sector.",
+        "Stabilize the number of housing units."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La désillusion de la jeunesse française d’aujourd’hui est un fait préoccupant. Elle est surtout due à la crise internationale, qui réduit les offres d’emploi, fait pression sur les salaires et raréfie les possibilités de promotion.\nMais on peut également l’attribuer à un conflit de génération larvé : il oppose la classe d’âge des « baby-boomers », devenus aujourd’hui « papy-boomers »\ntriomphants tout au long de leurs parcours, à celle de leurs enfants et",
+      "question": "maintenant de leurs petits-enfants. D’où vient la désillusion des jeunes en France ?",
+      "questionTranslation": "Where does the disillusionment of young people in France come from?",
+      "options": [
+        "De la concurrence des autres générations.",
+        "De la course à la compétitive.",
+        "De la situation économique tendue.",
+        "Des critiques émanant de leurs parents."
+      ],
+      "optionTranslations": [
+        "From competition from other generations.",
+        "From the race for competitiveness.",
+        "From the tense economic situation.",
+        "From criticisms coming from their parents."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t34-q29",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Deux mondes s’affrontent : ceux de l’ancienne agriculture et de la nouvelle.\nLe productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps.\nLes tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu’il n’existe pas d’autre solution.\nNotre enquête montre le contraire : l’alliance de la technologie et de l’écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous.\nC’est la voie de la sagesse autant que de la modernité.\nD’après Libération.fr.",
+      "question": "Que défend le journaliste ?",
+      "questionTranslation": "What does the journalist defend?",
+      "options": [
+        "L’accès universel à des aliments bon marché.",
+        "L’innovation des procédés de production.",
+        "Le développement du commerce équitable.",
+        "Le partage d’expériences traditionnelles."
+      ],
+      "optionTranslations": [
+        "Universal access to cheap food.",
+        "The innovation of production processes.",
+        "The development of fair trade.",
+        "The sharing of traditional experiences."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Chaque année, le 10 août, les habitants de l’île de la Guadeloupe se retrouvent à Pointe-à-Pitre pour célébrer Saint Laurent, leur patron.\nAprès une grande messe donnée à l’église de Saint Laurent, une procession de cuisinières vêtues de leurs plus beaux madras sillonne la ville avant de convier la population à un grand festin composé des meilleurs plats créoles.\nSituée dans le village du Gosier, à proximité de Pointe-à-Pitre, l’Auberge de la Vieille Tour, construite autour d’un moulin à vent du XVIIIe siècle, sera un lieu de séjour idéal pour assister à cette manifestation haute en couleur et pour goûter au vrai parfum des Antilles.",
+      "question": "La célébration de Saint Laurent à Pointe-à-Pitre…",
+      "questionTranslation": "The celebration of Saint Laurent in Pointe-à-Pitre...",
+      "options": [
+        "consiste en un grand évènement religieux.",
+        "permet de découvre les saveurs antillaises.",
+        "se réduit à une manifestation pour touristes.",
+        "se déroule dans un ancien monument restauré."
+      ],
+      "optionTranslations": [
+        "consists of a major religious event.",
+        "allows discovering Antillean flavors.",
+        "is reduced to an event for tourists.",
+        "takes place in an old restored monument."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Il ne viendrait à personne l’idée d’entrer dans un cinéma ou un théâtre sans payer sa place, ni à ces industries de ne pas rémunérer leurs auteurs.\nDe nombreux festivals ou lieux dédiés à la photographie se targuent pourtant de la gratuité de leurs expositions.\nD’autant plus que, dans la majorité des cas, il est admis qu’aucun budget ni aucun droit d’auteur ne soient prévus pour le photographe.\nMême si le motif initial de rendre la photographie accessible à tous est plus que légitime, ce qui choquerait pour tout autre secteur ou corps de métier n’offusque personne dès lors qu’il s’agit du photographe, pourtant producteur de la matière première de ces activités.",
+      "question": "Que constate l’auteur de l’article ?",
+      "questionTranslation": "What does the author of the article observe?",
+      "options": [
+        "C’est la photographie qui est la forme d’art la moins valorisée.",
+        "Il y a peu d’événements culturels consacrés à la photographie.",
+        "Les photographies sont commercialisées à bas prix.",
+        "N’importe qui peut s’improviser photographe."
+      ],
+      "optionTranslations": [
+        "It is photography that is the least valued form of art.",
+        "There are few cultural events dedicated to photography.",
+        "Photographs are marketed at low prices.",
+        "Anyone can improvise themselves as a photographer."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t34-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Le numérique bouleverse profondément l’enseignement, mais, d’après le philosophe Marcel Gauchet, on aura plus que jamais besoin de professeurs et d’écoles.\nExcellent moyen de stimuler la curiosité, le numérique pousse à chercher, à creuser encore.\nSurtout, il enseigne une chose essentielle : personne ne sait et, nulle part, il n’existe de détenteur ultime du savoir.\nAinsi, les élèves sont de plus en plus en contact avec des sources hétéroclites et cela constitue un changement majeur en termes pédagogiques.\nL’enseignant est alors celui qui va expliquer qu’il existe plusieurs versions d’une même chose et que savoir, c’est se confronter à l’incertitude et non réciter bêtement des connaissances.",
+      "question": "Selon Marcel Gauchet, quel va être le rôle de l’enseignant auprès des élèves ?",
+      "questionTranslation": "According to Marcel Gauchet, what will be the teacher's role with the students?",
+      "options": [
+        "Développer leur esprit critique.",
+        "Encourager les débats entre eux.",
+        "Enrichir leur capacité mémorielle.",
+        "Évaluer régulièrement leurs acquis."
+      ],
+      "optionTranslations": [
+        "Develop their critical thinking.",
+        "Encourage debates between them.",
+        "Enrich their memory capacity.",
+        "Regularly evaluate their acquisitions."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t34-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "En France, entre 200 000 et 500 000 cas de troubles psychiques sont liés au monde du travail.\nL’apparition de nouvelles méthodes de travail, plus intenses et contraignantes, serait à l’origine de l’augmentation des cas de syndrome d’épuisement professionnel.\nC’est le mal du siècle et pourtant, il n’est pas encore reconnu.\nLes salariés, prisonniers de l’idéologie ambiante, s’imaginent trop souvent, quand ils craquent, qu’un collègue plus solide qu’eux aurait été capable de résister.\nMais cela s’avère faux la plupart du temps. Une reconnaissance de la maladie obligerait les entreprises à réfléchir à leur fonctionnement et représenterait une réelle mesure d’utilité publique.",
+      "question": "Quel constat est dressé à propos de ce syndrome ?",
+      "questionTranslation": "What observation is made regarding this syndrome?",
+      "options": [
+        "Il inquiète les patrons des sociétés",
+        "Il touche les employés les plus faibles",
+        "Son existence doit être officialisée",
+        "Son traitement est peu efficace"
+      ],
+      "optionTranslations": [
+        "It worries company bosses",
+        "It affects the weakest employees",
+        "Its existence must be officialized",
+        "Its treatment is ineffective"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t34-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Je ne connais pas son prénom, mais il y a dans les Alpes une personne à la verve savoureuse.\nElle émaille la visite des gravures rupestres, dont les plus anciennes datent du Néolithique, de remises en perspective sur les prémices préhistoriques du capitalisme et de la domination masculine.\nElle chantera peut-être, à condition que vous ne l’applaudissiez pas, pour vous permettre de ressentir l’acoustique d’un cirque rocheux.\nElle vous proposera aussi de vous allonger et de fermer les yeux pour percevoir les vibrations du sol, riche en uranium.\nBref, elle guidera les êtres minuscules que vous êtes à travers les plis grandioses de l’écorce terrestre.",
+      "question": "Où exerce la personne décrite ?",
+      "questionTranslation": "Where does the described person work?",
+      "options": [
+        "Dans un centre de relaxation",
+        "Dans un laboratoire",
+        "Dans un musée archéologique",
+        "Dans un parc naturel"
+      ],
+      "optionTranslations": [
+        "In a relaxation center",
+        "In a laboratory",
+        "In an archaeological museum",
+        "In a natural park"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t34-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Un cabinet de conseil en énergie annonce que des coupures de courant sont à prévoir cet hiver dans l’Hexagone.\nEn effet, l’Allemagne, qui approvisionne la France en électricité, ne sera plus capable de faire face à la demande en raison de la fermeture de certains de ses réacteurs nucléaires.\nLe gouvernement pourrait appeler au « civisme » des Français, leur demandant de modérer la consommation électrique des foyers, qui atteignent des pics quotidiens autour de 19 h.\nPourtant, la France possède l’un des plus grands parcs nucléaires du monde, mais elle exporte la Quasi-totalité de l’énergie produite.",
+      "question": "Pourquoi y a-t-il des risques de coupures de courant ?",
+      "questionTranslation": "Why are there risks of power cuts?",
+      "options": [
+        "Parce que des tests sur les réacteurs nucléaires sont en cours.",
+        "Parce que l’approvisionnement en électricité est compromis.",
+        "Parce que la production française couvre à peine les besoins nationaux.",
+        "Parce que la régulation de la consommation d’énergie est inefficace."
+      ],
+      "optionTranslations": [
+        "Because tests on nuclear reactors are underway.",
+        "Because the electricity supply is compromised.",
+        "Because French production barely covers national needs.",
+        "Because the regulation of energy consumption is ineffective."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Dans l’intérêt de leurs peuples, les gouvernements doivent répondre à la fois à des enjeux de court et de long terme. Cet exercice est si difficile que l’on peut comprendre qu’une certaine cacophonie règne au niveau politique.\nPourtant, face aux périls, le mot « ensemble » est une arme souvent victorieuse.\nLes stratégies de développement durable des pays ont ainsi plus de chance de succès si elles s’harmonisent.\nPour commencer, cherchons à nous rapprocher entre Européens, pour mener de front transition économique et transition environnementale, afin de mettre un bémol au dérèglement climatique et à la perte de biodiversité.",
+      "question": "Hubert Reeves Quel point de vue défend l’auteur ?",
+      "questionTranslation": "What point of view does the author defend?",
+      "options": [
+        "L’écologie est avant tout une affaire d’État.",
+        "La concertation est la clé d’une action réussie.",
+        "Les mesures protectionnistes sont dépassées.",
+        "L’influence des lobbies est à prendre en compte."
+      ],
+      "optionTranslations": [
+        "Ecology is primarily a state affair.",
+        "Concertation is the key to successful action.",
+        "Protectionist measures are outdated.",
+        "The influence of lobbies must be taken into account."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Maintenant elles étaient là.\nNon plus en éveil, en méfiance, et rassemblées sous l’influence de la crainte par troupes, hardes, files et bandes, selon la race, la tribu, la famille, mais confondues et mêlées au sein d’une sécurité ineffable dans la trêve de l’eau.\nEn paix avec la brousse, elles-mêmes et l’aurore.\nÀ la distance où je me trouvais, il n’était pas possible de distinguer l’inflexion des mouvements, ou l’harmonie des couleurs.\nMais cette distance ne m’empêchait pas de voir que les bêtes se comptaient par centaines et centaines, que toutes les espèces voisinaient, et que cet instant de leur vie ne connaissait pas la peur ou la hâte.\nGazelles, antilopes, girafes, gnous, zèbres, rhinocéros, buffles, éléphants - les animaux s’arrêtaient ou se déplaçaient au pas du loisir au gré de la soif, au goût",
+      "question": "du hasard. Quelle phrase résume exactement cet extrait de roman ?",
+      "questionTranslation": "Which sentence exactly summarizes this novel excerpt?",
+      "options": [
+        "Je ressentais pleinement l’anxiété des bêtes.",
+        "Je percevais parfaitement la quiétude de cet instant.",
+        "Je découvrais inopinément un spectacle effrayant et inquiétant.",
+        "J’éprouvais un sentiment de crainte face à ces troupeaux d’animaux sauvages."
+      ],
+      "optionTranslations": [
+        "I fully felt the anxiety of the beasts.",
+        "I perfectly perceived the quietude of this moment.",
+        "I unexpectedly discovered a frightening and disturbing spectacle.",
+        "I felt a sense of fear facing these herds of wild animals."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t34-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "À Julien, qui nous interroge sur l’emploi du franglais dans notre magazine, nous pouvons assurer que nous cherchons à éviter les anglicismes, sans toutefois pouvoir les éradiquer.\nLes réactions de nos lecteurs nous confortent dans notre vigilance, mais nous considérons aussi qu’il est important de s’exprimer dans un langage commun.\nOr, dans ce langage commun, des mots étrangers ont trouvé leur place.\nPour être compris de tous,\nil est parfois plus logique de parler de check-list que d’une liste d’actions à cocher…\nEt, en comparaison à bien d’autres publications, la présence de si peu d’anglicismes dans nos colonnes devrait réjouir ???",
+      "question": "Quel est le point de vue de l’équipe de rédaction du magazine ?",
+      "questionTranslation": "What is the point of view of the magazine's editorial team?",
+      "options": [
+        "Il faut accepter l’évolution d’une langue.",
+        "Il faut bannir les termes anglais.",
+        "Il faut plaire à l’ensemble des lecteurs.",
+        "Il faut utiliser des mots basiques."
+      ],
+      "optionTranslations": [
+        "One must accept the evolution of a language.",
+        "One must ban English terms.",
+        "One must please all readers.",
+        "One must use basic words."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t34-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Aujourd’hui, de nombreux enfants cumulent les activités en dehors des cours.\nSelon une étude, l’origine de cette tendance serait liée aux mutations sociales contemporaines.\nAinsi, recourir à de telles activités serait un moyen pour les parents de pallier l’absence des mères — de plus en plus souvent actives — et de développer les compétences des enfants pour les armer face à la compétitivité du marché du travail.\nCependant, coûteuses en temps et en énergie, ces activités empiètent sur le quotidien de la maison et épuisent les enfants.\nElles n’en apparaissent pas moins aux parents comme des marqueurs de leur bonne parentalité.\nUn phénomène qui s’entretient par l’expansion constante de l’offre ainsi que par la surenchère qui s’instaure entre les foyers.",
+      "question": "Que veulent faire les parents ?",
+      "questionTranslation": "What do parents want to do?",
+      "options": [
+        "Améliorer les résultats scolaires.",
+        "Avoir plus de temps pour eux.",
+        "Resserrer les liens familiaux.",
+        "Se donner bonne conscience."
+      ],
+      "optionTranslations": [
+        "Improve school results.",
+        "Have more time for themselves.",
+        "Strengthen family ties.",
+        "Give themselves a clear conscience. Retry test All tests"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

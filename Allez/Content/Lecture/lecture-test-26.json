@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-26",
+  "title": "Test 26",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t26-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "La recette de mamie !\nSur la pâte, mettre des pommes coupées en morceaux avec du sucre.\nAjouter un peu de beurre.\nFaire cuire au four 30 minutes.\nLa tarte est prête !",
+      "question": "Qu’est-ce qu’on fait avec cette recette ?",
+      "questionTranslation": "What do we make with this recipe?",
+      "options": [
+        "Un dessert.",
+        "Une entrée.",
+        "Une salade.",
+        "Une soupe."
+      ],
+      "optionTranslations": [
+        "A dessert.",
+        "A starter.",
+        "A salad.",
+        "A soup."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t26-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Logement, études ou téléphone portable, tout coûte cher pour les jeunes à l’université.\nAlors 80% des parents aident leurs enfants.\nLe père d’Hamza, 18 ans, calcule combien ça lui coûtera: environ 8 % de son",
+      "question": "salaire. Qu’est-ce que cet article dit sur les jeunes ?",
+      "questionTranslation": "What does this article say about young people?",
+      "options": [
+        "Ils ont besoin de l’aide de leur famille.",
+        "Ils travaillent pour payer leur logement.",
+        "Ils veulent finir leurs études rapidement.",
+        "Ils vont à l’université dans une autre ville."
+      ],
+      "optionTranslations": [
+        "They need help from their family.",
+        "They work to pay for their housing.",
+        "They want to finish their studies quickly.",
+        "They go to university in another city."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t26-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Chers élèves,\nAttention !\nÀ partir de la semaine prochaine, les cours d’anglais du mardi et du jeudi avec M. Rutherford ne commenceront plus à 10 h 30, mais à 12 h 30.\nM. Rutherford vous attendra dans la même salle.",
+      "question": "Qu’est-ce qui est annoncé ?",
+      "questionTranslation": "What is announced?",
+      "options": [
+        "Un changement de lieu.",
+        "Un nouvel horaire.",
+        "Une absence de professeur.",
+        "Une rencontre entre étudiants."
+      ],
+      "optionTranslations": [
+        "A change of location.",
+        "A new schedule.",
+        "A teacher's absence.",
+        "A meeting between students."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t26-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Camille,\nJe ne peux pas te retrouver au concert ce soir, désolé.\nMes enfants sont malades et je dois rester avec eux.\nViens déjeuner à la maison dimanche.\nJe pars bientôt en voyage.\nJ’aimerais te voir avant mon départ.\nBises,\nDriss",
+      "question": "Qu’est-ce que Driss propose à son amie ?",
+      "questionTranslation": "What does Driss propose to his friend?",
+      "options": [
+        "D’aller à un concert.",
+        "D’organiser un voyage.",
+        "De déjeuner chez lui.",
+        "De garder ses enfants."
+      ],
+      "optionTranslations": [
+        "To go to a concert.",
+        "To organize a trip.",
+        "To have lunch at his place.",
+        "To look after his children."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q05",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "La comédienne franco-suisse Pascale Rocard part tourner un film à Paris.\nActrice et réalisatrice à succès, elle est aussi peintre et photographe.\nMère de deux enfants, elle vit à Verbier en Suisse.",
+      "question": "Que va faire Pascale Rocard ?",
+      "questionTranslation": "What is Pascale Rocard going to do?",
+      "options": [
+        "Avoir un bébé.",
+        "Déménager en France.",
+        "Jouer au cinéma.",
+        "Organiser une exposition."
+      ],
+      "optionTranslations": [
+        "Have a baby.",
+        "Move to France.",
+        "Act in the cinema.",
+        "Organize an exhibition."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Chers parents,\nLes élèves de l’école du Centre sont heureux de vous inviter à voir la pièce « Vive les vacances » qu’ils ont écrite et qu’ils joueront pour vous le vendredi 9 mars à 19 heures.",
+      "question": "Qu’est-ce qu’on propose aux parents ?",
+      "questionTranslation": "What is proposed to the parents?",
+      "options": [
+        "De préparer un voyage.",
+        "De regarder un spectacle.",
+        "De venir à une réunion.",
+        "De visiter une classe."
+      ],
+      "optionTranslations": [
+        "To prepare a trip.",
+        "To watch a show.",
+        "To come to a meeting.",
+        "To visit a class."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t26-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Vous voulez rire ?\nDécouvrez Mimiquette et Théophilou, des personnages de bande dessinée que tous les petits adorent parce qu’ils sont gais, aiment inventer des jeux et mettent souvent leurs parents en colère : comme tous les enfants !",
+      "question": "Comment sont les personnages de Mimiquette et Théophilou ?",
+      "questionTranslation": "What are the characters Mimiquette and Théophilou like?",
+      "options": [
+        "Beaux.",
+        "Calmes.",
+        "Courageux.",
+        "Joyeux."
+      ],
+      "optionTranslations": [
+        "Beautiful",
+        "Calm",
+        "Brave",
+        "Joyful"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t26-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "GRANDE MARCHE POUR DÉFENDRE NOS EMPLOIS MARDI 12 JUIN\nVENEZ NOMBREUX\nDÉPART PLACE DES NATIONS DEVANT LE CENTRE DES CONGRÈS À 10H.\nARRIVÉE PRÉVUE VERS MIDI DEVANT LA MAISON DES ENTREPRISES.\nBOULEVARD DES PLATANES.",
+      "question": "Qu’annonce cette affiche ?",
+      "questionTranslation": "What does this poster announce?",
+      "options": [
+        "Un salon des entrepreneurs",
+        "Une compétition sportive",
+        "Une conférence sur le chômage",
+        "Une manifestation sociale"
+      ],
+      "optionTranslations": [
+        "An entrepreneurs' fair",
+        "A sports competition",
+        "A conference on unemployment",
+        "A social demonstration"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t26-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "GRAND JEU JARDIMARCHÉ\nVous pensez avoir le plus beau jardin ? Envoyez une photo à grandjeu@jardimarche.com.\nTrois gagnants recevront un chèque de 500 euros valable dans tous nos",
+      "question": "magasins. Que propose Jardimarché ?",
+      "questionTranslation": "What does Jardimarché offer?",
+      "options": [
+        "D’acheter des plantes à bon prix.",
+        "De faire des courses en ligne.",
+        "De participer à un concours.",
+        "De recevoir des outils gratuits."
+      ],
+      "optionTranslations": [
+        "To buy plants at a good price.",
+        "To do shopping online.",
+        "To participate in a contest.",
+        "To receive free tools."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q10",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Vous avez entre 16 et 25 ans et vous souhaitez travailler rapidement ?\nVenez rencontrer des chefs d’entreprise et connaître les formations existantes au salon de l’entreprise, du 3 au 9 avril prochain.",
+      "question": "Qu’est-ce qu’on peut faire dans ce salon ?",
+      "questionTranslation": "What can one do at this fair?",
+      "options": [
+        "Participer à un stage de plusieurs jours",
+        "S’informer sur le monde professionnel",
+        "S’inscrire à un cours réservé aux jeunes",
+        "Trouver de l’aide pour écrire un CV"
+      ],
+      "optionTranslations": [
+        "Participate in a multi-day internship",
+        "Get information about the professional world",
+        "Register for a course reserved for young people",
+        "Find help writing a CV"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t26-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "À l’attention de tous les services :\nNous préparons une commande pour tous les bureaux. Merci de nous faire une liste : crayons, stylos, gommes, etc.\nAttention ! La commande d’encre et de papier d’imprimante est terminée.",
+      "question": "Que doivent faire les employés du service ?",
+      "questionTranslation": "What must the department employees do?",
+      "options": [
+        "Acheter des articles de bureau.",
+        "Commander une imprimante.",
+        "Demander de l’encre et du papier.",
+        "Lister leurs besoins de matériel."
+      ],
+      "optionTranslations": [
+        "Buy office items.",
+        "Order a printer.",
+        "Ask for ink and paper.",
+        "List their material needs."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t26-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Plus d’essence à la station-service : un exemple de ce que peuvent créer les réseaux sociaux.\nSamedi soir, dans une station-service de Pontivy, le prix de l’essence a chuté à la pompe, passant de 1,267 € à 1 €.\nCette baisse de prix était due à un problème informatique survenu au moment de la fermeture, lorsque les pompes sont devenues automatisées.\nLes clients se sont passés le mot via le bouche-à-oreille, les SMS et l’utilisation de Facebook.\nPendant la nuit, une file d’attente s’est constituée devant la pompe. Au matin, le réservoir de la station était vide.",
+      "question": "Que s’est-il passé pour les habitants de Pontivy ?",
+      "questionTranslation": "What happened for the inhabitants of Pontivy?",
+      "options": [
+        "Ils ont été invités à une fête en ville",
+        "Ils ont eu une coupure d’Internet.",
+        "Ils ont fait le plein à très bas prix.",
+        "Ils ont pu téléphoner gratuitement."
+      ],
+      "optionTranslations": [
+        "They were invited to a party in town.",
+        "They had an Internet outage.",
+        "They filled up at a very low price.",
+        "They were able to make free phone calls."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Selon les résultats d’un sondage, 7 Français sur 10 déclarent acheter régulièrement des produits bio.\nAvec, par ordre de préférence, les fruits et légumes, le lait et les produits laitiers, les œufs, l’épicerie, puis la viande.\nPour les deux tiers des personnes interrogées, la santé est l’argument prioritaire, devant les considérations écologiques.\nCe bond de la vente des produits bio doit beaucoup à l’intérêt des grandes surfaces pour ce marché qui rapporte, mais aussi au développement des enseignes spécialisées.\nCet appétit des Français a de quoi rassurer tous ceux qui pouvaient s’inquiéter des débouchés de la filière bio, suite aux nombreuses reconversions agricoles.",
+      "question": "D’après ce texte, pourquoi les Français consomment-ils des produits bio ?",
+      "questionTranslation": "According to this text, why do French people consume organic products?",
+      "options": [
+        "Pour éviter de tomber malades",
+        "Pour profiter de tarifs avantageux",
+        "Pour protéger l’environnement",
+        "Pour soutenir les paysans locaux"
+      ],
+      "optionTranslations": [
+        "To avoid getting sick",
+        "To take advantage of favorable prices",
+        "To protect the environment",
+        "To support local farmers"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t26-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Cher confrère,\nCi-joint notre catalogue de boissons pour cette année.\nEn espérant que vous pourrez satisfaire votre clientèle, nous vous remercions pour vos futurs achats.\nAvec nos salutations les plus cordiales,\nEntreprise Labayle et Chandon.",
+      "question": "Quel est l’objet de ce courrier ?",
+      "questionTranslation": "What is the purpose of this mail?",
+      "options": [
+        "Demander des informations sur des produits.",
+        "Passer une commande de produits.",
+        "Présenter de nouveaux produits.",
+        "Proposer une dégustation de produit."
+      ],
+      "optionTranslations": [
+        "To ask for information about products.",
+        "To place an order for products.",
+        "To present new products.",
+        "To propose a product tasting."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Amélie,\nPour le concert ce soir, on se retrouve à 19h30 devant le bar rue Daunou.\nIl y a un grand restaurant à côté, tout près du théâtre de l’Odéon.\nLe concert commence à 20 h 30.",
+      "question": "Sarah Que vont faire les deux femmes ce soir ?",
+      "questionTranslation": "What are the two women going to do tonight?",
+      "options": [
+        "Aller dans un bar.",
+        "Assister à un spectacle.",
+        "Dîner au restaurant.",
+        "Voir une pièce de théâtre."
+      ],
+      "optionTranslations": [
+        "Go to a bar.",
+        "Attend a show.",
+        "Dine at a restaurant.",
+        "See a play."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t26-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La Ville de Paris lance un concours mondial de créations urbaines innovantes.\nOuvert à tous, professionnels ou citoyens, du moment qu’un architecte est associé au projet, le concours a pour objectif d’imaginer le Paris de demain en innovant.\n« Faire autrement, explique l’adjoint en charge de l’urbanisme, c’est utiliser la matière de manière responsable pour consommer moins de matières premières, choisir de bons matériaux, tendre vers le zéro déchet, produire en co- construction la ville avec les citoyens en s’inspirant des idées qu’ils proposent. »",
+      "question": "Que propose la mairie de Paris au public ?",
+      "questionTranslation": "What does the Paris City Hall propose to the public?",
+      "options": [
+        "De développer des projets collectifs pour la ville.",
+        "De donner un avis sur les nouveaux bâtiments.",
+        "De participer à des débats sur l’environnement.",
+        "De visiter des expositions dans des lieux insolites."
+      ],
+      "optionTranslations": [
+        "To develop collective projects for the city.",
+        "To give an opinion on new buildings.",
+        "To participate in debates on the environment.",
+        "To visit exhibitions in unusual places."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t26-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Les termes « intelligence artificielle » entraînent généralement des inquiétudes.\nPourtant, une étude menée auprès de 14 078 salariés, dans onze pays différents et dans plusieurs secteurs d’activités (santé, transports, énergie…), tente de prouver que l’intelligence artificielle pourrait augmenter de 10 %, en moyenne, les effectifs des entreprises ayant investi dans cette technologie.\nDe plus, elle donnerait lieu à un changement radical de modèle et ouvrirait la possibilité pour les entreprises d’inventer des services et de s’ouvrir à de nouvelles opportunités.",
+      "question": "Selon cet article, quelle est l’une des possibilités offertes par l’intelligence artificielle ?",
+      "questionTranslation": "According to this article, what is one of the possibilities offered by artificial intelligence?",
+      "options": [
+        "Baisser les salaires.",
+        "Créer des emplois.",
+        "Diviser le travail.",
+        "Favoriser la recherche."
+      ],
+      "optionTranslations": [
+        "Lower salaries.",
+        "Create jobs.",
+        "Divide work.",
+        "Promote research."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t26-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Pipelettes, soyez fières de l’être !\nD’après les psychologues, ce charmant défaut n’en est finalement pas un.\nS’il irrite parfois notre conjoint, le bavardage peut libérer les tensions et s’avérer aussi efficace qu’une thérapie !\nPapoter avec sa voisine de table, la gardienne de l’immeuble ou sa coiffeuse, parler de tout et de rien, du beau temps qui s’en va et des vacances qui sont loin, ou encore des dernières tendances de la mode, cela n’a l’air de rien, mais c’est essentiel.\nCes bavardages nous permettent de nous évader du quotidien et d’établir le contact avec les autres.\nD’autre part, quand les confidences se font plus sérieuses, formuler nos soucis ou nos contrariétés nous aide à les relativiser : cela soulage.",
+      "question": "D’après ce texte, dans quelle mesure le bavardage est-il positif ?",
+      "questionTranslation": "According to this text, to what extent is chatting positive?",
+      "options": [
+        "Il encourage les initiatives",
+        "Il favorise le rendement au travail",
+        "Il permet d’être plus détendu",
+        "Il rend les gens plus cultivés"
+      ],
+      "optionTranslations": [
+        "It encourages initiatives",
+        "It favors work efficiency",
+        "It allows one to be more relaxed",
+        "It makes people more cultivated"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q19",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "L’exposition des sculptures de César s’est terminée hier.\nPour la première fois, les visiteurs ont pu voir une centaine d’œuvres de l’artiste, exposées pendant 3 semaines dans un large espace, au dernier étage du Centre Pompidou.",
+      "question": "Qu’est-ce qu’on apprend sur cette exposition ?",
+      "questionTranslation": "What do we learn about this exhibition?",
+      "options": [
+        "C’est un succès.",
+        "Elle changera de lieu.",
+        "Elle est déjà finie.",
+        "L’entrée est gratuite."
+      ],
+      "optionTranslations": [
+        "It is a success.",
+        "It will change location.",
+        "It is already finished.",
+        "Entry is free."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Dora Bruder, publié en 1997, est considéré comme l’un des meilleurs romans de Patrick Modiano.\nL’écrivain aime fouiller l’histoire de la capitale et fréquente de nombreuses bibliothèques.\nUn jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n« On recherche une jeune fille, Dora Bruder, 15 ans, 1m55, visage ovale, yeux gris marron, manteau sport gris. Adresse toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris. »\nModiano va alors s’attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18e arrondissement.",
+      "question": "Que fait le journaliste dans cet extrait ?",
+      "questionTranslation": "What is the journalist doing in this excerpt?",
+      "options": [
+        "Il cite un extrait d’une œuvre de Modiano.",
+        "Il explique l’idée de départ d’un livre de Modiano.",
+        "Il présente le métier de Modiano à ses débuts.",
+        "Il raconte la rencontre entre Modiano et sa femme."
+      ],
+      "optionTranslations": [
+        "He cites an excerpt from a work by Modiano.",
+        "He explains the starting idea of a book by Modiano.",
+        "He presents Modiano's job at his beginnings.",
+        "He tells the story of the meeting between Modiano and his wife."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t26-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les bons vieux bancs verts sur les trottoirs parisiens ont de la concurrence.\nDepuis le mois de décembre, sur certains boulevards, un nouveau mobilier urbain a fait son apparition, avec 12 modèles de banquettes, chaises et tabourets.\nPour la première fois, la ville de Paris recueille l’avis des usagers et des riverains.\nLe traditionnel banc en fonte et bois a-t-il encore de l’avenir au milieu de ce mobilier futuriste ?",
+      "question": "Quelle est l’originalité de ce projet ?",
+      "questionTranslation": "What is the originality of this project?",
+      "options": [
+        "La priorité donnée à l’aspect écologique.",
+        "La prise en compte de l’opinion publique.",
+        "Le caractère provisoire de l’installation",
+        "Le choix des matériaux de fabrication"
+      ],
+      "optionTranslations": [
+        "The priority given to the ecological aspect.",
+        "Taking public opinion into account.",
+        "The temporary nature of the installation.",
+        "The choice of manufacturing materials."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t26-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le smartphone participe à l’entretien d’un lien pathologique de plus en plus répandu, le désir de mainmise des parents sur les adolescents.\nLa crise d’adolescence confronte les parents au désir d’autonomie de l’adolescent, et les oblige à faire le deuil de leur position de parent.\nCela suppose qu’ils lâchent prise et fassent confiance à leur enfant.\nMais de plus en plus de parents souhaitent que leur ado reste à la maison.\nLe smartphone, qui permet de rester en lien avec ses copains, arrange donc les",
+      "question": "parents. Quel constat fait l’auteur à propos des smartphones ?",
+      "questionTranslation": "What observation does the author make about smartphones?",
+      "options": [
+        "Ils éloignent les jeunes du monde des adultes.",
+        "Ils entraînent des comportements de type addictif.",
+        "Ils ont tendance à couper les adolescents du réel.",
+        "Ils peuvent être utilisés comme outils de contrôle."
+      ],
+      "optionTranslations": [
+        "They distance young people from the adult world.",
+        "They lead to addictive behaviors.",
+        "They tend to cut adolescents off from reality.",
+        "They can be used as tools of control."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t26-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Changer de métier : éviter les aléas !\nChanger de métier ne doit pas être une décision prise à la légère.\nIl est important de prendre le temps de déterminer avec précision les raisons qui vous poussent à vouloir faire ce choix.\nIl est essentiel de bien s’orienter pour la recherche d’un nouveau travail, surtout si vous êtes dans le flou par rapport à vos envies.\nFaire le point sur vos compétences vous permettra de déterminer vers quels secteurs vous pouvez vous diriger.\nAvoir conscience de vos compétences sera également un plus au moment de vous vendre à un employeur potentiel.",
+      "question": "Que conseille cet article à ceux qui désirent changer de métier ?",
+      "questionTranslation": "What does this article advise those who wish to change careers?",
+      "options": [
+        "D’élargir leurs perspectives professionnelles",
+        "D’évaluer les possibilités d’évolution de leur carrière",
+        "De faire un bilan de leurs aptitudes",
+        "De privilégier leur épanouissement personnel"
+      ],
+      "optionTranslations": [
+        "To broaden their professional horizons",
+        "To evaluate their career progression possibilities",
+        "To assess their skills",
+        "To prioritize their personal fulfillment"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Une usine textile transformée en musée, un moulin converti en chambres d’hôtes, une gare devenue centrale de production d’énergie… Certains architectes ne manquent pas d’imagination.\nEt il leur en faut, car leur objectif n’est pas simplement de rénover des bâtiments usés par le temps, mais d’imaginer de nouveaux projets à partir de ce qui reste et qui est volontairement laissé en l’état.\nÀ leurs yeux, c’est une façon de conserver l’histoire et de garder des traces de bâtiments qui étaient destinés à disparaître.",
+      "question": "En quoi le travail de ces architectes est-il original ?",
+      "questionTranslation": "How is the work of these architects original?",
+      "options": [
+        "Ils élaborent de nouvelles techniques.",
+        "Ils emploient des procédés traditionnels.",
+        "Ils intègrent l’ancien à leurs constructions.",
+        "Ils restaurent à l’identique de vieux édifices."
+      ],
+      "optionTranslations": [
+        "They develop new techniques.",
+        "They employ traditional methods.",
+        "They integrate the old into their constructions.",
+        "They restore old buildings to their original state."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "LES HYPERMARCHÉS ONT 50 ANS\nSouvenir d’un internaute.\nL’ébahissement, tout d’abord en découvrant ces magasins géants, ensuite la sensation d’être sans points de repère, la tendance à acheter à tort et à travers.\nEt l’euphorie, en analysant à la maison le résultat des emplettes, convaincu d’avoir gagné le gros lot, avant de regarder la facture… Le lendemain, on fait ses emplettes chez les commerçants habituels, où, bien sûr, on est accueilli avec des « Bonjour, M. X. comment va le fiston ? », ou « Dites donc, une superbe bavette, ça vous tente ? ».\nAujourd’hui, ni bonjour, ni merci, on vous passe devant à la caisse, on achète des produits sans savoir ce qu’ils contiennent…\nEt quand on ressort dans la rue, on remarque : « T’as vu, le boucher a fermé. »",
+      "question": "Quel est le constat de l’auteur ?",
+      "questionTranslation": "What is the author's observation?",
+      "options": [
+        "Les courses représentent pour les ménages un budget en augmentation.",
+        "Les grandes surfaces provoquent la fin des petites boutiques de quartier.",
+        "Les prix pratiqués par la grande distribution défient toute concurrence.",
+        "Les relations de voisinage deviennent anonymes et dénuées de politesse."
+      ],
+      "optionTranslations": [
+        "Shopping represents an increasing budget for households.",
+        "Hypermarkets cause the end of small neighborhood shops.",
+        "Prices charged by mass retail defy all competition.",
+        "Neighborly relations are becoming anonymous and devoid of politeness."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t26-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "FILM DOCUMENTAIRE « TISSEUSES DE RÊVES »\nMères, filles, grand-mères, une poignée de femmes berbères travaillent dur aux tâches domestiques comme à la fabrication de tapis traditionnels.\nDans une économie autarcique, elles restent sans autonomie financière, ni reconnaissance de leur talent.\nElles veulent farouchement s’arracher à leur condition et offrir études et avenir à leurs enfants.\nD’Essaouira sur la côte atlantique, leur parviennent les nouvelles de femmes, semblables à elles, qui ont créé des coopératives de production d’huile d’argan et changé leurs vies.\nTaaborth et Erkia partent en exploratrices et, éblouies, rapportent à leurs sœurs les images de ce premier voyage hors de leurs montagnes et un espoir.",
+      "question": "De quoi traite le documentaire sur les femmes berbères ?",
+      "questionTranslation": "What is the documentary on Berber women about?",
+      "options": [
+        "De l’éducation des plus jeunes.",
+        "De la transmission d’un savoir-faire.",
+        "De la volanté d’émancipation.",
+        "Du rapport entre les générations."
+      ],
+      "optionTranslations": [
+        "The education of the youngest.",
+        "The transmission of know-how.",
+        "The will for emancipation.",
+        "The relationship between generations."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Selon plusieurs scientifiques, les nouvelles solutions « écologiques », comme la voiture électrique, tendent en fait à accroître l’activité économique et ne pourront pas préserver notre modèle de développement.\nAu-delà du double écueil de la fabrication des voitures électriques, qui est énergivore et génère beaucoup de déchets, le problème des technologies dites « vertes » est principalement dû à l’effet rebond, c’est-à-dire l’augmentation de l’activité globale qu’entraîne toute découverte ou amélioration technologique.\nAinsi, une véritable approche écologique devrait obligatoirement comporter une part de sobriété, grâce à laquelle le progrès technique servirait une réduction de la consommation.",
+      "question": "Que pense l’auteur des nouvelles solutions écologiques ?",
+      "questionTranslation": "What does the author think of the new ecological solutions?",
+      "options": [
+        "Il déconseille au grand public de les adopter.",
+        "Il estime qu’elles sont insuffisamment promues.",
+        "Il remet en question leurs retombées positives.",
+        "Il révèle qu’elles contribuent au déclin industriel."
+      ],
+      "optionTranslations": [
+        "He advises the general public against adopting them.",
+        "He believes they are insufficiently promoted.",
+        "He questions their positive repercussions.",
+        "He reveals that they contribute to industrial decline."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les conséquences de l’analphabétisme sont profondes, au point qu’elles peuvent mettre la vie en danger.\nElles s’enracinent dans le refus d’un droit humain fondamental : le droit à l’éducation.\nÀ l’échelle de la société, dénier le droit à l’éducation, c’est hypothéquer le progrès démocratique et social – et par conséquent, la paix et la sécurité internationales.\nEn empêchant les enfants de se développer pleinement, l’analphabétisme sème d’embûches leur chemin vers l’âge adulte et rend encore plus difficile leur compréhension du monde dans sa diversité aussi bien que des valeurs de paix et d’égalité entre les personnes.\nL’analphabétisme prive également l’individu d’autres joies, comme celles de la",
+      "question": "culture et de l’art en général. Selon ce texte, que favorise le respect du droit à l’éducation ?",
+      "questionTranslation": "According to this text, what does respect for the right to education favor?",
+      "options": [
+        "La constitution d’une culture nationale.",
+        "La stimulation de la croissance économique.",
+        "L’amélioration des comportements sanitaires.",
+        "Le développement d’une conscience civique."
+      ],
+      "optionTranslations": [
+        "The constitution of a national culture.",
+        "The stimulation of economic growth.",
+        "The improvement of health behaviors.",
+        "The development of a civic consciousness."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t26-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "L’association « Savoir-faire et expérience » a huit ans.\nSa philosophie : une personne handicapée n’est pas forcément une personne en fauteuil roulant.\nEt, de la même manière qu’il y a de nombreuses formes de handicap, il existe une multitude de métiers et de postes qui peuvent leur correspondre.\nC’est pourquoi cette association souhaite modifier la vision commune du handicap et encourager les entreprises à s’engager dans cette voie.\nC’est dans ce but qu’elle œuvre pour l’ouverture la plus large possible des dispositifs de formation professionnelle aux handicapés.\nPour qu’enfin, on regarde le savoir-faire et l’expérience avant le handicap.",
+      "question": "Quelle est la mission de l’association Savoir-faire et expérience ?",
+      "questionTranslation": "What is the mission of the association 'Savoir-faire et expérience'?",
+      "options": [
+        "Faire évoluer les mentalités au sujet du handicap au travail.",
+        "Permettre de modifier la législation sur le handicap au travail.",
+        "Recenser les discriminations dont sont victimes les handicapés.",
+        "Subventionner les entreprises qui recrutent des handicapés."
+      ],
+      "optionTranslations": [
+        "To change mentalities regarding disability at work.",
+        "To allow for modifying legislation on disability at work.",
+        "To list the discriminations that disabled people fall victim to.",
+        "To subsidize companies that recruit disabled people."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t26-q30",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Depuis plus de deux siècles, les violons fabriqués par le célèbre artisan Antonio Stradivari sont réputés pour la supériorité de leur sonorité.\nDes spécialistes ont voulu le vérifier par une petite expérience : ils ont demandé à des participants de fermer les yeux et d’écouter des musiciens jouer sur des violons.\nTrois étaient modernes et trois avaient été fabriqués par Stradivari.\nQue les participants aient ou non une expérience dans le domaine musical, tous ont préféré la sonorité des premiers.",
+      "question": "À quelle conclusion aboutit cette expérience ?",
+      "questionTranslation": "What conclusion does this experiment lead to?",
+      "options": [
+        "Ce sont les violons récents qui sont les plus estimés.",
+        "Il est difficile de maîtriser les violons anciens.",
+        "La qualité des violons évolue avec le temps.",
+        "Voir le violon modifier l’appréciation de l’auditeur."
+      ],
+      "optionTranslations": [
+        "Recent violins are the ones most esteemed.",
+        "It is difficult to master old violins.",
+        "The quality of violins evolves with time.",
+        "Seeing the violin modifies the listener's appreciation."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t26-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Les organisateurs du festival Rock Werchter envisagent de le déplacer dans la région de Limbourg.\nCette perspective inquiète le maire de la ville de Rotselaar, où le festival se tient depuis 1975.\n« La question d’un déménagement pèse sur la plaine du festival, comme un nuage sombre, a affirmé le maire.\nToutes les personnes impliquées dans le festival s’interrogent sur leur avenir.\nC’est très ennuyeux pour les professionnels du spectacle de la région qui s’investissent depuis des années et qui risquent d’être renvoyés.\nJ’espère que la clarté sera faite rapidement.\nMoi-même, je ne vois pas pourquoi le festival devrait déménager, cela se passe très bien ici.\nIl est même prévu de réviser le plan d’aménagement du territoire pour permettre d’accueillir plus de podiums et plus de monde. »",
+      "question": "Qu’est-ce qui inquiète le maire dans le projet d’évolution du festival ?",
+      "questionTranslation": "What worries the mayor in the festival's evolution project?",
+      "options": [
+        "La multiplication des nuisances sonores sur la commune.",
+        "L’accroissement du taux de chômage de ses administrés.",
+        "L’agrandissement de l’espace consacré aux spectacles",
+        "L’augmentation du prix des entrées pour les spectateurs."
+      ],
+      "optionTranslations": [
+        "The increase in noise pollution in the municipality.",
+        "The increase in the unemployment rate of his constituents.",
+        "The expansion of the space dedicated to shows.",
+        "The increase in ticket prices for spectators."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t26-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Désormais, c’est soi, son plaisir et les relations avec son environnement qui comptent.\nTel est le nouveau schéma de pensée des jeunes vis-à-vis de la société et de l’entreprise en particulier.\nUn jeune a appris à d’abord miser sur lui-même.\nCe n’est qu’en accumulant des compétences et des expériences qu’il pense pouvoir tirer son épingle du jeu.\nL’entreprise peut espérer le séduire en lui proposant un vrai métier et une stratégie d’accroissement de ses compétences.\nMais il sera de toute façon difficile de compter sur sa fidélité : le jour où vous ne lui proposez plus d’évoluer rapidement, il n’hésitera pas à vérifier si l’herbe n’est pas plus verte chez le voisin.\nIl a l’image de l’entreprise qui, dans un contexte économique difficile, ne s’engage plus envers le salarié.\nIl s’approprie cette logique de rentabilité et d’efficacité en la retournant à son avantage.\nDésormais, il ne compte plus sur une entreprise pour mener sa carrière.\nSon objectif sera de développer ses compétences en multipliant ses expériences afin de se valoriser sur le marché du travail.\nProfitant de toutes les opportunités, il quittera une entreprise sans aucun remords.",
+      "question": "Quel est le comportement des jeunes dans le monde de l’entreprise ?",
+      "questionTranslation": "What is the behavior of young people in the corporate world?",
+      "options": [
+        "Ils apprennent à être patients.",
+        "Ils évoluent selon l’ancienneté.",
+        "Ils saisissent toutes les occasions.",
+        "Ils tâchent de conserver leur emploi."
+      ],
+      "optionTranslations": [
+        "They learn to be patient.",
+        "They evolve according to seniority.",
+        "They seize all opportunities.",
+        "They try to keep their job."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t26-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "L’apprentissage en Europe\nÀ l’heure actuelle, l’utilisation des nouvelles technologies de l’information et de la communication (TIC) dans les salles de classe est rare.\nLes établissements travaillent encore selon un modèle ancien de l’éducation.\nCela signifie que les établissements n’ont pas pu se détacher d’une structure trop rigide : ils fondent leurs ressources d’enseignement sur des manuels, ont peu recours aux connaissances mises à leur portée grâce à la mondialisation et travaillent au sein d’espaces d’apprentissage très spécifiques.\nLes établissements appliquent toujours une philosophie plus caractéristique du XIXe siècle (industriel) que du XXIe siècle (informationnel).\nL’enseignement se caractérise actuellement par des établissements du XIXe siècle dans lesquels des enseignants du XXe siècle travaillent auprès d’étudiants",
+      "question": "du XXIe siècle. Que présente l’auteur de l’article ?",
+      "questionTranslation": "What does the author of the article present?",
+      "options": [
+        "Des méthodes innovantes sur l’usage des TIC.",
+        "Des pistes de recherche sur l’apprentissage.",
+        "Un état des lieux des ressources pédagogiques.",
+        "Une analyse du contexte socio-éducatif actuel."
+      ],
+      "optionTranslations": [
+        "Innovative methods on the use of ICT.",
+        "Research avenues on learning.",
+        "An inventory of pedagogical resources.",
+        "An analysis of the current socio-educational context."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t26-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "De plus en plus de scientifiques s’intéressent au fonctionnement du cerveau des tout-petits.\nEn effet, comprendre le développement normal du cerveau permettra d’aider les bébés touchés par des troubles.\nAu-delà, l’ambition est de découvrir les racines de l’intelligence humaine :\npourquoi l’homme, à la différence des autres espèces animales, peut parler, compter et même envoyer des fusées dans l’espace.\nPendant longtemps, ces capacités uniques ont été attribuées à la taille de notre encéphale.\nUne idée finalement battue en brèche : le cerveau du bébé est bien moins gros que le nôtre ou que celui de nombreux animaux.\nEt pourtant, les tout-petits apprennent beaucoup de choses, bien plus vite et bien plus facilement que n’importe quel animal ou même que les adultes.",
+      "question": "Qu’apprend-on sur le cerveau humain ?",
+      "questionTranslation": "What do we learn about the human brain?",
+      "options": [
+        "Sa structure est identique chez l’homme et l’animal.",
+        "Sa taille influe sur les compétences cognitives.",
+        "Son développement est ralenti les premiers mois.",
+        "Son fonctionnement est encore mystérieux."
+      ],
+      "optionTranslations": [
+        "Its structure is identical in humans and animals.",
+        "Its size influences cognitive skills.",
+        "Its development is slowed down in the first months.",
+        "Its functioning is still mysterious."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t26-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Je suis persuadée que tous les enfants possèdent en eux la volonté de mettre en route leur imaginaire qui les pousse naturellement vers la littérature.\nMais si elle n’est pas stimulée, cette force peut s’éteindre.\nC’est la mission de l’école que de sensibiliser les élèves aux grands textes classiques.\nMalheureusement, elle y a renoncé.\nTrop souvent, les enseignants ont tendance à penser qu’ils sont réservés à l’élite.\nAlors qu’au contraire, l’école devrait donner un accès à la haute culture aux élèves qui arrivent avec un bagage moins fourni que les autres.",
+      "question": "Selon l’auteur de ce texte, quelle ambition devraient avoir les enseignants ?",
+      "questionTranslation": "According to the author of this text, what ambition should teachers have?",
+      "options": [
+        "Aborder des œuvres réputées difficiles avec leurs élèves.",
+        "Encourager leurs élèves à écrire des textes littéraires.",
+        "Inviter régulièrement des écrivains célèbres dans leur classe.",
+        "Monter des pièces de théâtre d’auteurs classiques."
+      ],
+      "optionTranslations": [
+        "Tackle works deemed difficult with their students.",
+        "Encourage their students to write literary texts.",
+        "Regularly invite famous writers to their class.",
+        "Stage plays by classic authors."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t26-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Côté (BD)\nAdaptée d'un polar de Pierre Siniac, la bande dessinée « Le secret de l'étrangleur » de Jacques Tardi est un succès : sa version en feuilleton, cet été, sous la forme de cinq journaux, tirés à 50 000 exemplaires chacun, avait intrigué les premiers lecteurs, âgés de 15 à 35 ans.\nL'album, déjà vendu à 130 000 exemplaires, est remarquable par son originalité.\nEn effet, il faut découper les dernières pages du livre pour en connaître la fin, sachant que plusieurs dénouements sont possibles.",
+      "question": "Quelle est la particularité de cette BD ?",
+      "questionTranslation": "What is the particularity of this comic book?",
+      "options": [
+        "Elle a été adaptée pour la télévision.",
+        "Elle s’inspire de la vie des jeunes.",
+        "La clé de l’énigme sera éditée plus tard.",
+        "L’auteur a imaginé différents scenarios."
+      ],
+      "optionTranslations": [
+        "It was adapted for television.",
+        "It is inspired by the lives of young people.",
+        "The key to the riddle will be published later.",
+        "The author imagined different scenarios."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t26-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "La bioéthique fait l’objet d’une polémique qui confronte deux écoles.\nPour la première, composée de chercheurs et de rationalistes, le progrès scientifique ne saurait être limité : la recherche entraînera l’éradication des maladies génétiques et permettra même de les prévoir.\nOn en viendra à un eugénisme contrôlé qui améliorera l’espèce humaine et allègera les dépenses de santé publique.\nLa seconde école, des philosophes ou des ecclésiastiques, affirme ses craintes en ce qui concerne la pratique d’un eugénisme scientifique : il permettra la sélection efficace des embryons et ouvrira de plus en plus largement ses critères de choix à des exigences non pathologiques.\nPour eux, il est impossible de déterminer les tares inconciliables avec l’humain, puisque certains individus en ont fait l’origine même de leur génie.",
+      "question": "Sur quoi portent les réserves des partisans de la seconde école ?",
+      "questionTranslation": "What do the reservations of the partisans of the second school focus on?",
+      "options": [
+        "Le coût social élevé de prise en charge des maladies génétiques.",
+        "Le développement de traitements curatifs de pathologies génétiques.",
+        "Le mode de financement de la recherche génétique fondamentale.",
+        "Les dérives induites par l’amélioration du patrimoine génétique."
+      ],
+      "optionTranslations": [
+        "The high social cost of caring for genetic diseases.",
+        "The development of curative treatments for genetic pathologies.",
+        "The mode of financing fundamental genetic research.",
+        "The drifts induced by the improvement of genetic heritage."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t26-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre :\nrencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues.\nSauf qu’entre le jeune pompier Roméo et l’infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu’on décrit trop peu.\nIl y a chez eux une envie de dire, d’avouer ce qui fut trop longtemps caché.\nAinsi, l’histoire se fait-elle peu à peu libération et rédemption.\nAvec un art direct et familier de conteuse, l’auteure offre à ses personnages un espoir, un bonheur encore possible.",
+      "question": "D’après la critique, quel est l’atout principal du roman d’Agnès Ledig ?",
+      "questionTranslation": "According to the critique, what is the main asset of Agnès Ledig's novel?",
+      "options": [
+        "L’alternance entre le comique et le drame.",
+        "L’atmosphère énigmatique et inquiétante.",
+        "La présentation de particularités régionales.",
+        "L’émancipation des héros au cours du récit."
+      ],
+      "optionTranslations": [
+        "The alternation between comedy and drama.",
+        "The enigmatic and disturbing atmosphere.",
+        "The presentation of regional particularities.",
+        "The emancipation of the heroes during the story."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t26-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Les jeux vidéo sont souvent la hantise des parents craignant qu’ils éloignent leurs enfants de la vie réelle et notamment de la scolarité.\nÀ contre-courant, une expérience qui vise à utiliser ces jeux pour ramener à l’école les « décrocheurs scolaires » vient de commencer à Bordeaux.\nLe choix des jeux vidéo est une idée intéressante, parce qu’elle inscrit l’école dans l’univers de jeunes qui ont souvent l’impression que cette dernière se situe sur une planète à laquelle ils n’ont pas accès.\nPour autant, en matière de décrochage scolaire, il n’y a pas de gadget miracle :\nun outil n’est efficace que s’il s’inscrit dans le cadre d’une prise en charge des causes profondes du décrochage de chaque élève.",
+      "question": "Qu’exprime l’auteur de cet article à propos des jeux vidéo à l’école ?",
+      "questionTranslation": "What does the author of this article express about video games at school?",
+      "options": [
+        "Ils permettraient à des adolescents de renouer avec elle.",
+        "Ils pourraient servir à enseigner certaines disciplines.",
+        "Ils résoudraient des problèmes de violence en classe.",
+        "Ils seraient appropriés pour se détendre lors des pauses."
+      ],
+      "optionTranslations": [
+        "They would allow adolescents to reconnect with it [school].",
+        "They could serve to teach certain subjects.",
+        "They would solve violence problems in class.",
+        "They would be appropriate for relaxing during breaks. Retry test All tests"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

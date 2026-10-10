@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-24",
+  "title": "Test 24",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t24-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Chers amis,\nNous sommes heureux de vous annoncer l’arrivée d’un nouveau membre dans notre famille.\nIl se nomme Adnen et a vu le jour le 1er septembre au matin.\nBien à vous,\nAlina et Paul",
+      "question": "De quel évènement s’agit-il ?",
+      "questionTranslation": "What event is this about?",
+      "options": [
+        "D’un anniversaire.",
+        "D’un décès.",
+        "D’un mariage.",
+        "D’une naissance."
+      ],
+      "optionTranslations": [
+        "A birthday.",
+        "A death.",
+        "A wedding.",
+        "A birth."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "« DRÔLE ET TRÈS BEAU ! »\n« DES ACTEURS MAGNIFIQUES ! »\n« À VOIR ABSOLUMENT ! »",
+      "question": "De quoi parle la critique ?",
+      "questionTranslation": "What is the review about?",
+      "options": [
+        "D’un concert.",
+        "D’un film.",
+        "D’un livre.",
+        "D’un tableau."
+      ],
+      "optionTranslations": [
+        "A concert.",
+        "A movie.",
+        "A book.",
+        "A painting."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t24-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Évangélisa\n• Choux\n• Paris-Brest\n• Éclairs au café\n• Tartes aux pommes\nSur place ou à emporter. Faites votre choix !",
+      "question": "Que peut-on acheter à Évangélisa ?",
+      "questionTranslation": "What can one buy at Évangélisa?",
+      "options": [
+        "Des billets de train.",
+        "Des légumes.",
+        "Des pâtisseries.",
+        "Des vêtements."
+      ],
+      "optionTranslations": [
+        "Train tickets.",
+        "Vegetables.",
+        "Pastries.",
+        "Clothes."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t24-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Prière de n’emporter ni les draps de bain, ni les objets appartenant au bar de la chambre.\nNous vous remercions de votre compréhension.\nLa direction de l’hôtel",
+      "question": "À qui est destinée cette annonce ?",
+      "questionTranslation": "Who is this announcement intended for?",
+      "options": [
+        "Aux clients de l’hôtel.",
+        "Au service de nettoyage.",
+        "Au directeur de l’hôtel.",
+        "Aux serveurs du bar."
+      ],
+      "optionTranslations": [
+        "To the hotel guests.",
+        "To the cleaning service.",
+        "To the hotel manager.",
+        "To the bar waiters."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t24-q05",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Prière de ne pas toucher à la photocopieuse.\nLe réparateur arrive demain à la première heure. En attendant, donnez vos documents à ma secrétaire qui les photocopiera au bureau de la comptable.\nMerci,\nLe directeur.",
+      "question": "Qui va faire les photocopies pendant que la photocopieuse est en réparation ?",
+      "questionTranslation": "Who will do the photocopies while the photocopier is being repaired?",
+      "options": [
+        "La comptable.",
+        "La secrétaire.",
+        "Le directeur.",
+        "Le réparateur."
+      ],
+      "optionTranslations": [
+        "The accountant.",
+        "The secretary.",
+        "The director.",
+        "The repairman."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t24-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "ASSOCIATION En route pour l’école\nPour 92 euros, aidez des enfants à aller à l’école !\nPour beaucoup d’entre eux, le collège est très loin : ils se lèvent très tôt et rentrent tard.\nAvec une bicyclette, ils pourraient y aller plus facilement.\nFaites un don à notre association pour leur offrir une bicyclette !",
+      "question": "Qu’est-ce que cette association voudrait faire ?",
+      "questionTranslation": "What would this association like to do?",
+      "options": [
+        "Aider des familles en difficulté.",
+        "Donner un vélo à des élèves.",
+        "Ouvrir de nouveaux collèges.",
+        "Réparer de vieilles bicyclettes."
+      ],
+      "optionTranslations": [
+        "Help families in difficulty.",
+        "Give a bike to students.",
+        "Open new middle schools.",
+        "Repair old bicycles."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t24-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Chers locataires,\nLa société « Ville propre » nous demande de faire plus attention quand on jette nos déchets.\nIl faut séparer le plastique et le carton et les mettre dans les poubelles jaunes.\nVous pouvez jeter les autres déchets dans les poubelles grises.\nMerci,\nVotre gardien",
+      "question": "Pourquoi est-ce que le concierge écrit aux locataires ?",
+      "questionTranslation": "Why is the caretaker writing to the tenants?",
+      "options": [
+        "Pour annoncer un changement de couleur des poubelles.",
+        "Pour informer de l’ouverture du nouveau local poubelle.",
+        "Pour présenter l’entreprise de tri des poubelles.",
+        "Pour rappeler l’utilisation correcte des poubelles."
+      ],
+      "optionTranslations": [
+        "To announce a change in the color of the bins.",
+        "To inform about the opening of the new trash room.",
+        "To introduce the waste sorting company.",
+        "To remind about the correct use of the bins."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Votre bibliothèque vous invite à venir écouter une sélection de CD à l’occasion du festival de musique.\n« Le printemps du Jazz »\nqui commence le mois prochain dans tout le département.",
+      "question": "Que propose la bibliothèque ?",
+      "questionTranslation": "What does the library propose?",
+      "options": [
+        "De découvrir une sélection de livres.",
+        "De gagner des places pour un festival.",
+        "De participer à une discussion sur le jazz.",
+        "De passer un moment agréable en musique."
+      ],
+      "optionTranslations": [
+        "To discover a selection of books.",
+        "To win tickets for a festival.",
+        "To participate in a discussion about jazz.",
+        "To spend a pleasant moment in music."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Le soin d’origine naturelle « Nuit sommeil » est étudié pour les peaux fragiles.\nIl corrige les signes de fatigue et réveille votre visage.\nVotre peau est parfaite, même en plein hiver.",
+      "question": "Qu’est-ce que « Nuit Sommeil » ?",
+      "questionTranslation": "What is 'Nuit Sommeil'?",
+      "options": [
+        "Un savon pour le corps.",
+        "Un shampoing aux herbes.",
+        "Une boisson pour dormir.",
+        "Une crème de beauté."
+      ],
+      "optionTranslations": [
+        "A body soap.",
+        "An herbal shampoo.",
+        "A drink for sleeping.",
+        "A beauty cream."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Le saviez-vous ?\nLes Galeries Lafayette sont aujourd’hui le site le plus visité à Paris après le musée du Louvre !\nVous pouvez y trouver des vêtements à la mode, des objets pour la maison ou encore des articles de cuisine.",
+      "question": "Qu’est-ce qu’on apprend sur ce grand magasin ?",
+      "questionTranslation": "What do we learn about this department store?",
+      "options": [
+        "Beaucoup de personnes le visitent.",
+        "Il vend des articles bon marché.",
+        "Il y a un célèbre musée à l’intérieur.",
+        "On y donne des cours de cuisine."
+      ],
+      "optionTranslations": [
+        "Many people visit it.",
+        "It sells cheap items.",
+        "There is a famous museum inside.",
+        "Cooking classes are given there."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t24-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "À Perpignan, le vélo est bien pratique.\nLa « Maison de la bicyclette » encourage ce type de transport.\nElle a ouvert un atelier où les personnes parlent de vélos et peuvent les réparer gratuitement.\nIl y a aujourd’hui 800 personnes dans l’association.",
+      "question": "Pourquoi est-ce que les gens vont à la « Maison de la bicyclette » ?",
+      "questionTranslation": "Why do people go to the 'House of the Bicycle'?",
+      "options": [
+        "Pour échanger des conseils sur le vélo.",
+        "Pour échanger des promenades à vélo.",
+        "Pour s’entrainer aux courses de vélo.",
+        "Pour trouver des vélos bon marché."
+      ],
+      "optionTranslations": [
+        "To exchange advice on cycling.",
+        "To exchange bike rides.",
+        "To train for bike races.",
+        "To find cheap bikes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t24-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Fini les souvenirs de voyage trop flous.\nPour s'entraîner, direction Lyon pour un week-end.\nSur place, une jeune agence spécialisée vous propose un stage pour découvrir la ville autrement.\nL'objectif : sur une journée, travailler la photographie et découvrir en même temps avec un guide les monuments historiques de la ville.\nVous profitez toute la journée des conseils d'un professionnel qui vous montre les endroits secrets de Lyon.\nIl vous explique comment utiliser la lumière naturelle.",
+      "question": "Que propose cette agence ?",
+      "questionTranslation": "What does this agency propose?",
+      "options": [
+        "D’apprendre à s’orienter dans la ville",
+        "De se former au métier de guide",
+        "De visiter des expositions photo",
+        "De voir Lyon d’une façon différente"
+      ],
+      "optionTranslations": [
+        "To learn how to orient oneself in the city",
+        "To train for the profession of a guide",
+        "To visit photo exhibitions",
+        "To see Lyon in a different way"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Clément et Pierre vont participer au tour automobile 4L Trophy au Maroc.\nIls vont apporter 40 kg de matériel et 10 kg de nourriture à une école.\nLes deux amis recherchent des solutions pour payer leur voyage.\nVous voulez les aider : c&p@4Ltrophy.fr",
+      "question": "De quoi Clément et Pierre ont-ils besoin ?",
+      "questionTranslation": "What do Clément and Pierre need?",
+      "options": [
+        "D’argent pour la course",
+        "De livres pour les enfants",
+        "De produits pour les repas",
+        "D’une voiture pour le transport"
+      ],
+      "optionTranslations": [
+        "Money for the race",
+        "Books for the children",
+        "Products for meals",
+        "A car for transport"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t24-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La foire internationale de Nantes va fermer ses portes dimanche.\nL’occasion de ne rien manquer de ce rendez-vous populaire.\nLa foire, c’est une ambiance à part, où se mélangent trois grands univers :\nmaison, loisirs et gastronomie.\nCette année, la foire emmène le visiteur au pays du soleil levant, avec une très belle expo consacrée aux traditions japonaises et aussi de nombreuses animations en lien avec ce pays d’Asie.",
+      "question": "Quelle information ce texte donne-t-il sur la foire de Nantes ?",
+      "questionTranslation": "What information does this text give about the Nantes fair?",
+      "options": [
+        "Elle accueille plus de visiteurs cette année.",
+        "Pourquoi elle a eu un chèque de réduction.",
+        "Elle propose une découverte du Japon.",
+        "Elle s’est terminée dimanche dernier."
+      ],
+      "optionTranslations": [
+        "It is welcoming more visitors this year.",
+        "Why it got a discount check.",
+        "It offers a discovery of Japan.",
+        "It ended last Sunday."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t24-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Une page se tourne ou plutôt ne se tournera plus pour les députés.\nDes tablettes numériques remplacent désormais les épaisses liasses de papier.\nDepuis leur arrivée en juin, beaucoup de nouveaux députés se sont émus de la quantité de papier utilisée pendant l’examen des textes, avec des amendements systématiquement imprimés.\nAvec environ 52 000 paquets utilisés chaque année, l’Assemblée est gourmande en feuilles, même si ce chiffre a déjà énormément diminué depuis cinq ans avec la dématérialisation de certains travaux.",
+      "question": "Pourquoi les députés utilisent-ils des tablettes numériques ?",
+      "questionTranslation": "Why do the deputies use digital tablets?",
+      "options": [
+        "Pour diminuer l’empreinte carbone.",
+        "Pour donner une image moderne de l’Assemblée.",
+        "Pour étudier plus rapidement les amendements.",
+        "Pour faire des économies de papier."
+      ],
+      "optionTranslations": [
+        "To reduce the carbon footprint.",
+        "To give a modern image of the Assembly.",
+        "To study amendments more quickly.",
+        "To save paper."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Cher client,\nVotre achat en ligne est validé.\nVous pourrez aller dans un bureau de poste chercher votre commande dans deux à trois jours.\nN’oubliez pas votre carte d’identité et votre reçu.\nMerci d’avoir choisi notre site.\nLe service client.",
+      "question": "Qu’est-ce que ce message annonce ?",
+      "questionTranslation": "What does this message announce?",
+      "options": [
+        "Un lieu de livraison.",
+        "Un problème de colis.",
+        "Une date d’envoi.",
+        "Une facture à payer."
+      ],
+      "optionTranslations": [
+        "A delivery location.",
+        "A package problem.",
+        "A shipping date.",
+        "A bill to pay."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t24-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Dans les quartiers populaires de Kinshasa, il crée des tableaux en relief à partir des déchets trouvés dans la ville. Certains le prennent pour un fou, d’autres pour un génie. Yeux perçants, mains agiles, jambes déformées par la polio, Emmanuel Botalatala est appelé le « ministre des poubelles » ce poste n’est pas officiel, c’est son nom d’artiste. Le documentaire qui lui est consacré présente le rôle qu’un artiste et sa vision peuvent jouer dans une capitale en pleine mutation.",
+      "question": "De quoi est-il question dans cet article ?",
+      "questionTranslation": "What is this article about?",
+      "options": [
+        "D’un comédien qui tourne dans des bidonvilles.",
+        "D’un homme qui produit des œuvres originales.",
+        "De la santé d’un membre du gouvernement.",
+        "De mesure écologique prise par une mairie."
+      ],
+      "optionTranslations": [
+        "Of a comedian filming in shanty towns.",
+        "Of a man who produces original works.",
+        "Of the health of a government member.",
+        "Of an ecological measure taken by a town hall."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t24-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Lors des premiers pas de l’art urbain (connu aussi sous le nom de street art), il y a plus de cinquante ans, personne ne portait vraiment intérêt à cette expression artistique éphémère.\nLes tags étaient destinés à disparaître, mais avec le temps, cela a changé :\ndésormais on va jusqu’à découper les murs pour les vendre aux enchères et en garder une trace, car la conservation des œuvres d’art urbain dans l’espace public pose de sérieux défis.\nIl faut les protéger des agressions du temps, de la température, des dégradations humaines.\nOn peut mettre une protection en plexiglas, mais un jour le mur finira aussi peut-être par tomber.",
+      "question": "Qu’explique l’auteur à propos des œuvres d’art urbain ?",
+      "questionTranslation": "What does the author explain about urban art works?",
+      "options": [
+        "Des musées sont prêts à les accueillir.",
+        "Le marché voit sa cote grimper.",
+        "Leurs auteurs sont devenus célèbres.",
+        "On veut les préserver durablement."
+      ],
+      "optionTranslations": [
+        "Museums are ready to welcome them.",
+        "The market sees its value rising.",
+        "Their authors have become famous.",
+        "People want to preserve them permanently."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q19",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "L’exposition des sculptures de César s’est terminée hier.\nPour la première fois, les visiteurs ont pu voir une centaine d’œuvres de l’artiste, exposées pendant 3 semaines dans un large espace, au dernier étage du Centre Pompidou.",
+      "question": "Qu’est-ce qu’on apprend sur cette exposition ?",
+      "questionTranslation": "What do we learn about this exhibition?",
+      "options": [
+        "C’est un succès.",
+        "Elle changera de lieu.",
+        "Elle est déjà finie.",
+        "L’entrée est gratuite."
+      ],
+      "optionTranslations": [
+        "It is a success.",
+        "It will change location.",
+        "It is already finished.",
+        "Entry is free."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t24-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "À l'ère des réseaux sociaux, il n'y a pas une table où les convives ne dégainent leur smartphone pour « poster » immédiatement leur assiette. Peu importe qu'elle refroidisse, que ce soit bon ou pas.\nSur la toile, la cuisine est devenue « l'univers le plus plébiscité avec le voyage ».\nEt même si la vue des mets est un avant-goût du plaisir, réduire la cuisine à une galerie de natures mortes, aussi belles soient-elles, n'est pas sans interroger.\n« Pour moi, la bonne cuisine, c'est quand on soulève le couvercle, que ça fume, que ça sent bon et qu'on peut se resservir », disait le grand cuisinier Paul Bocuse.\nPour les réseaux sociaux, c'est un plat qui en met plein la vue et qu'on vous sert sur écran plat.\nD'après Le Figaro.fr",
+      "question": "Qu’apprend-on dans cet article ?",
+      "questionTranslation": "What do we learn in this article?",
+      "options": [
+        "La réputation de restaurants touristiques est menacée par internet.",
+        "La technologie modifie la relation à la gastronomie.",
+        "Les grands chefs livrent leurs secrets sur des sites.",
+        "Les traditions culinaires peuvent se perpétuer grâce au numérique."
+      ],
+      "optionTranslations": [
+        "The reputation of tourist restaurants is threatened by the internet.",
+        "Technology modifies the relationship with gastronomy.",
+        "Great chefs deliver their secrets on sites.",
+        "Culinary traditions can be perpetuated thanks to digital technology."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t24-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "SOCIÉTÉ\nPlus que jamais peut-être, des lycéens, étudiants, jeunes travailleurs sont nombreux à consacrer une partie de leur activité, souvent bénévolement, aux plus âgés.\nTout au long de la semaine, ils passent faire un brin de causette, histoire de tenir compagnie à ces personnes isolées, délaissées par leur famille.\nRencontrer des jeunes n’est-il pas le plus sûr moyen de conserver un semblant de vie sociale ?",
+      "question": "Pourquoi certains jeunes consacrent-ils du temps aux personnes âgées ?",
+      "questionTranslation": "Why do some young people devote time to the elderly?",
+      "options": [
+        "Pour créer un lien entre générations.",
+        "Pour compléter leurs études.",
+        "Pour améliorer leurs revenus.",
+        "Parce qu’ils ne veulent plus être seuls."
+      ],
+      "optionTranslations": [
+        "To create a link between generations.",
+        "To complete their studies.",
+        "To improve their income.",
+        "Because they don't want to be alone anymore."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t24-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d’un genre inédit : coiffés d’un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes.\nDes données ressortent alors sous forme d’algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur.\nAinsi, des peintures virtuelles sont créées à partir des émotions de chacun.\nEt comme chaque histoire est unique, chaque œuvre l’est aussi !",
+      "question": "Quel est le rôle des participants à cette expérience ?",
+      "questionTranslation": "What is the role of the participants in this experiment?",
+      "options": [
+        "Effectuer un calcul.",
+        "Évoquer un fait divers.",
+        "Fournir un support.",
+        "Sélectionner un souvenir."
+      ],
+      "optionTranslations": [
+        "Perform a calculation.",
+        "Mention a news item.",
+        "Provide a support.",
+        "Select a memory."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Hier soir, lors du dernier concert du Festival de Jazz organisé par la ville de Nancy, une chanteuse lorraine, Mell, a enthousiasmé le public lors de la première partie.\nÀ tel point que le groupe prévu ensuite a dû décaler son horaire.\nEn effet, lorsque la chanteuse a quitté la scène, la salle, noire de monde, s’est mise à hurler afin de l’empêcher de partir.",
+      "question": "Comment le public a-t-il réagi lors du concert de Mell ?",
+      "questionTranslation": "How did the audience react during Mell's concert?",
+      "options": [
+        "Il a acclamé de toutes ses forces la chanteuse.",
+        "Il a demandé l’annulation du concert.",
+        "Il a invité le groupe suivant à partir.",
+        "Il l’a retenue prisonnière toute la nuit."
+      ],
+      "optionTranslations": [
+        "It acclaimed the singer with all its might.",
+        "It asked for the cancellation of the concert.",
+        "It invited the following group to leave.",
+        "It held her prisoner all night."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t24-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Fixer des limites strictes à la pêche, c’est l’action que va mener l’Australie afin de protéger la vie aquatique.\n« Il est temps que la planète franchisse une nouvelle étape dans la protection des océans », a déclaré le ministre australien de l’environnement.\nLa création d’un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui recevra 79,2 millions d’euros en contrepartie.\nLa fondation australienne pour la protection de l’environnement a qualifié cette annonce « historique », mais elle a souligné que plusieurs zones restaient menacées par l’exploitation humaine des ressources naturelles.",
+      "question": "Que projette le gouvernement australien ?",
+      "questionTranslation": "What does the Australian government plan?",
+      "options": [
+        "D’aménager des réserves restreignant la pêche",
+        "D’encourager une politique mondiale de la pêche",
+        "D’organiser des contrôles pour surveiller la pêche",
+        "De créer des taxes sur les produits de la pêche"
+      ],
+      "optionTranslations": [
+        "To set up reserves restricting fishing",
+        "To encourage a global fishing policy",
+        "To organize checks to monitor fishing",
+        "To create taxes on fishery products"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t24-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Comment recruter la bonne personne, baby-sitter ou collaborateur ?\nSi le bouche-à-oreille ou les tests constituent des méthodes largement répandues, difficile pour autant d’être sûr à 100% que la personne choisie soit vraiment la bonne.\nC’est pourquoi, pour une somme modique, une entreprise californienne, Predictim, promet une analyse complète de la personnalité des candidats via les réseaux sociaux : grâce à un algorithme, toutes leurs publications sont étudiées en seulement quelques secondes.\nCependant, l’usage de l’intelligence artificielle pour la sélection de candidats a rapidement montré ses limites.\nL’entreprise Amazon, par exemple, a dû renoncer à son logiciel de recrutement, car celui-ci avait tendance à privilégier les hommes.",
+      "question": "Que devrait permettre l’intelligence artificielle dans le monde professionnel ?",
+      "questionTranslation": "What is artificial intelligence supposed to allow in the professional world?",
+      "options": [
+        "De protéger les droits du personnel.",
+        "De vérifier le profil des postulants.",
+        "D’encourager la création d’emplois.",
+        "D’éviter la discrimination à l’embauche."
+      ],
+      "optionTranslations": [
+        "To protect staff rights.",
+        "To verify applicants' profiles.",
+        "To encourage job creation.",
+        "To avoid hiring discrimination."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t24-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La rétrospective Mali Twist montre comment, par sa diversité et son éclat, l'œuvre de Malick Sidibé s’inscrit dans le champ contemporain de la photographie.\nTour à tour reporter et portraitiste, Malick Sidibé a construit, depuis l’ouverture de son studio à Bamako en 1962, un ensemble photographique en noir et blanc exceptionnel.\nMali Twist révèle son regard attentif et son talent pour mettre en lumière le meilleur de chacun, sa singularité. Malick Sidibé a fait de la photographie un art de l’échange. S’il a eu pour règle d’or d’embellir ses modèles, il témoigne aussi de la joie de vivre de la jeunesse bamakoise, peu après l’indépendance du Mali.\nEntre visages anonymes et corps en mouvement, poseurs élégants et flâneurs, Mali Twist offre plus de 250 photographies.",
+      "question": "Sur quoi repose le travail photographique de Malick Sidibé ?",
+      "questionTranslation": "What is Malick Sidibé's photographic work based on?",
+      "options": [
+        "Un engagement politique.",
+        "Une contemplation abstraite.",
+        "Une mise en valeur de l’autre.",
+        "Une technique de retouche."
+      ],
+      "optionTranslations": [
+        "A political commitment.",
+        "An abstract contemplation.",
+        "A highlighting of the other.",
+        "A retouching technique."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t24-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "En écrivant à la main chacun trouve sa manière de tracer son rythme et choisit son moment et ses mots.\nLe monde de la communication par textos, lui, est celui d’une communication homogène.\nAvec la numérisation des échanges, on ne connaît plus l’attente d’une lettre ou d’une carte postale.\nRendez-vous avec un ami : un SMS pour prévenir qu’on arrive dans cinq minutes, un autre dès qu’on est arrivé, un autre si on est en retard.\nBienvenue dans un monde sans attente, où tous les vides doivent être comblés.",
+      "question": "Qu’apprend-on sur la communication numérique ?",
+      "questionTranslation": "What do we learn about digital communication?",
+      "options": [
+        "Elle appauvrit le lexique courant",
+        "Elle modifie le rapport au temps",
+        "Elle provoque la fin du courrier postal",
+        "Elle transforme le geste graphique"
+      ],
+      "optionTranslations": [
+        "It impoverishes current vocabulary",
+        "It modifies the relationship to time",
+        "It causes the end of postal mail",
+        "It transforms the graphic gesture"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t24-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Elle écrivait récemment sa dernière chronique, lancée comme un appel à la résistance : « Je m’en vais et je pense que vous devriez me rejoindre. ».\nLa journaliste Kelly H. annonçait trois choses : qu’elle démissionnait après une longue carrière dans un prestigieux quotidien, qu’elle devenait professeure de mathématiques et qu’elle créait une fondation pour encourager d’anciens entrepreneurs à devenir enseignants.\n« Vous avez eu une carrière à succès. Maintenant, faites quelque chose de plus important ! Enseignez ! ».\nEn tant que journaliste, elle avait effectué des enquêtes sur la vie des cadres supérieurs, en ridiculisant le plus souvent l’engouement pour les concepts managériaux en vogue et en soulignant les crises existentielles des cadres.",
+      "question": "Quelle est la nouvelle priorité de Kelly H. ?",
+      "questionTranslation": "What is Kelly H.'s new priority?",
+      "options": [
+        "Changer la façon de gérer des équipes.",
+        "Compenser le manque de formateurs.",
+        "Réussir au sein d’une société.",
+        "Transmettre des connaissances."
+      ],
+      "optionTranslations": [
+        "Changing the way teams are managed.",
+        "Compensating for the lack of trainers.",
+        "Succeeding within a company.",
+        "Transmitting knowledge."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Vincent Van Gogh (1853-1890), un fou génial et sans le sou, s’est coupé l’oreille ; il n’a pas été reconnu de son vivant.\nVoilà à peu près l’image qu’on se fait du célèbre peintre néerlandais, du moins à en croire les livres, les films et les anecdotes dont il est le héros.\nUn mythe difficile à effacer s’est construit autour du peintre à partir d’une histoire romancée.\nOr, une étude approfondie de l’ensemble de la correspondance de Vincent Van Gogh - échangée essentiellement avec son frère Théo, mais aussi avec Gauguin - donne une impression beaucoup plus nuancée.\nVan Gogh n’était pas si pauvre, il n’était pas si fou et il a bénéficié d’une certaine notoriété de son vivant, même si ce n’était pas auprès du grand public.\nForte personnalité, dans ses lettres il savait raconter merveilleusement et de façon captivante ce qui l’occupait et pourquoi il peignait un sujet de telle ou",
+      "question": "telle manière. Qu’explique ce texte sur Vincent Van Gogh ?",
+      "questionTranslation": "What does this text explain about Vincent Van Gogh?",
+      "options": [
+        "Que sa biographie aide à mieux comprendre ses tableaux.",
+        "Que sa correspondance avec ses proches a influencé sa peinture.",
+        "Que ses écrits permettent de mieux cerner qu’il était.",
+        "Que ses textes confortent l’image que l’on avait de lui."
+      ],
+      "optionTranslations": [
+        "That his biography helps to better understand his paintings.",
+        "That his correspondence with his loved ones influenced his painting.",
+        "That his writings allow us to better identify who he was.",
+        "That his texts confirm the image we had of him."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t24-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Les chaînes d’information en continu nous montrent la vie en temps réel, comme si nous y étions.\nLes informations y sont plus vraies que nature, elles palpitent et nous prennent aux tripes, analyse le journaliste Hubert Huertas.\nAvec le direct, nous pouvons imaginer qu’il peut toujours se passer quelque chose.\nC’est plus fort que le différé et plus fort que la fiction : nous sommes dans le concret, en contact avec le monde, et cela devient addictif, ajoute Virginie Spies, spécialiste des médias.\nÀ cela s’ajoute une impression d’insécurité.\nLe direct présente dans ces moments un côté hypnotique et tient le téléspectateur en haleine.",
+      "question": "Qu’explique cet article à propos des chaînes d’informations en continu ?",
+      "questionTranslation": "What does this article explain about continuous news channels?",
+      "options": [
+        "Elles captivent l’instantanéité.",
+        "Elles exigent un sens du discernement.",
+        "Elles modifient le rapport au temps.",
+        "Elles nourrissent une curiosité naissance."
+      ],
+      "optionTranslations": [
+        "They captivate through immediacy.",
+        "They require a sense of discernment.",
+        "They modify the relationship to time.",
+        "They feed a budding curiosity."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t24-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Quarante terrains de football.\nC’est la superficie que les forêts perdent chaque minute à travers le monde.\nLa destruction de la forêt tropicale provoque chaque année plus de rejets dans l’atmosphère que l’ensemble du secteur des transports.\nL’imaginaire collectif rendrait volontiers le commerce du bois principal responsable de la déforestation, alors qu’il n’en est rien.\nL’acteur majeur de ce phénomène est l’agriculture, responsable à 80% des déboisements dans les zones tropicales.\nLe marché illégal du bois a aussi sa part de responsabilité.\nIl est un facteur déclenchant et s’alimente des autres activités.\nQuelque 1.6 milliard d’habitants dépendent directement des forêts, et contribuent pourtant à leur raréfaction, voire à leur disparition.",
+      "question": "Selon cet article, sur quoi la déforestation a-t-elle un impact ?",
+      "questionTranslation": "According to this article, what does deforestation impact?",
+      "options": [
+        "Sur l’industrie des bois rares.",
+        "Sur la démographie dans ces zones.",
+        "Sur la pollution atmosphérique.",
+        "Sur la progression des cultures tropicales."
+      ],
+      "optionTranslations": [
+        "On the rare wood industry.",
+        "On the demography in these areas.",
+        "On atmospheric pollution.",
+        "On the progression of tropical crops."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t24-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Dans le monde de l’entreprise, les jeunes et les seniors éprouvent des sentiments analogues d’éviction et de dévalorisation.\nPourtant, des actions de mentorat, menées par des seniors pour guider les jeunes sur le marché du travail ou lors de la création de leur entreprise, existent depuis de nombreuses années.\nPlus étonnant, est apparu récemment le mentorat renversé, où les jeunes habitués aux outils numériques initient les seniors à leur usage.\nLes seniors y gagnent de nouvelles compétences, et les jeunes élargissent leur réseau.\nEn période de crise, cette coopération peut constituer un moyen de désamorcer les tensions sociales.\nFavoriser les échanges intergénérationnels, c’est contribuer à établir des relations où chacun prend conscience qu’il peut apporter quelque chose à",
+      "question": "l’autre. Quel est l’intérêt des mentorats décrits ?",
+      "questionTranslation": "What is the interest of the described mentorships?",
+      "options": [
+        "Créer de nouvelles sources d’emploi.",
+        "Éviter la solitude des personnes âgées.",
+        "Instaurer des rapports de réciprocité.",
+        "Répondre à l’allongement de la durée de vie."
+      ],
+      "optionTranslations": [
+        "Create new sources of employment.",
+        "Avoid the loneliness of the elderly.",
+        "Establish reciprocal relationships.",
+        "Respond to the lengthening of life expectancy."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t24-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Le désintérêt pour la lecture chez un grand nombre d'enfants peut être expliqué par plusieurs facteurs.\nTout d'abord, beaucoup d'enfants abandonnent la lecture lorsqu'ils réalisent que d'autres élèves sont plus avancés qu'eux.\nDe plus, lorsqu'on demande à l'enfant non seulement de lire, mais aussi de comprendre, il peut perdre son intérêt. En général, l'absence de compréhension est associée à un manque de plaisir.\nCependant, la culture générale s'acquiert justement en lisant. Cela crée un cercle vicieux difficile à briser. Pour sortir de ce cercle vicieux, les psychologues recommandent de mettre à la disposition des enfants des livres adaptés à leur niveau de compréhension et à leurs centres d'intérêt.\nDe plus, il est important de proposer des méthodes d'enseignement de la lecture qui encouragent l'interaction entre les élèves.\nEnfin, il est important que les parents et les enseignants encouragent la lecture chez les enfants en leur offrant des livres adaptés à leur âge et à leur niveau de",
+      "question": "compréhension. Selon ce texte, quelle est l’une des raisons qui découragent les enfants de lire ?",
+      "questionTranslation": "According to this text, what is one of the reasons that discourage children from reading?",
+      "options": [
+        "La difficulté d’accéder au sens",
+        "La pression exercée par la famille",
+        "Les méthodes d’enseignement",
+        "Les moqueries de leurs camarades"
+      ],
+      "optionTranslations": [
+        "The difficulty of accessing meaning",
+        "Pressure exerted by the family",
+        "Teaching methods",
+        "Mockery from their classmates"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t24-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "De plus en plus de scientifiques s’intéressent au fonctionnement du cerveau des tout-petits.\nEn effet, comprendre le développement normal du cerveau permettra d’aider les bébés touchés par des troubles.\nAu-delà, l’ambition est de découvrir les racines de l’intelligence humaine :\npourquoi l’homme, à la différence des autres espèces animales, peut parler, compter et même envoyer des fusées dans l’espace.\nPendant longtemps, ces capacités uniques ont été attribuées à la taille de notre encéphale.\nUne idée finalement battue en brèche : le cerveau du bébé est bien moins gros que le nôtre ou que celui de nombreux animaux.\nEt pourtant, les tout-petits apprennent beaucoup de choses, bien plus vite et bien plus facilement que n’importe quel animal ou même que les adultes.",
+      "question": "Qu’apprend-on sur le cerveau humain ?",
+      "questionTranslation": "What do we learn about the human brain?",
+      "options": [
+        "Sa structure est identique chez l’homme et l’animal.",
+        "Sa taille influe sur les compétences cognitives.",
+        "Son développement est ralenti les premiers mois.",
+        "Son fonctionnement est encore mystérieux."
+      ],
+      "optionTranslations": [
+        "Its structure is identical in humans and animals.",
+        "Its size influences cognitive skills.",
+        "Its development is slowed down in the first months.",
+        "Its functioning is still mysterious."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Il faut se rendre à l’évidence :\nle « jour » n’est plus l’unité de temps d’un journal.\nUn quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les « news »\ndes grands serveurs diffusent les nouvelles du jour.\nAussi, au moment où il est en kiosques, se condamne-t-il à apparaître comme « le journal de la veille », perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n’y trouver que ce qu’ils savent déjà.",
+      "question": "Quelle est la position de l’auteur de l’article ?",
+      "questionTranslation": "What is the position of the article's author?",
+      "options": [
+        "Il conteste la fiabilité des sources d’internet",
+        "Il critique la surabondance de l’information",
+        "Il dénonce la médiocrité de la presse écrite",
+        "Il doute de l’intérêt des médias traditionnels"
+      ],
+      "optionTranslations": [
+        "He contests the reliability of internet sources.",
+        "He critiques the overabundance of information.",
+        "He denounces the mediocrity of the written press.",
+        "He doubts the interest of traditional media."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Il est rare que les journalistes de notre mensuel ou moi-même rentrions de reportage en renonçant à rédiger un article.\nLa plupart du temps, les découvertes que nous faisons sont comme de grands bols d’air : elles annihilent tout défaitisme, font disparaître la fatalité ambiante et ouvrent de nouveaux horizons.\nNous rencontrons des hommes et des femmes qui nous expliquent leurs envies, leurs rêves, leur utopie, et comment ils s’y prennent pour, à leur échelle, faire évoluer le monde.\nC’est simple, c’est lent, c’est « proprement humain ».\nIl est tellement jouissif de pouvoir se dire que nous allons pouvoir partager tous ces « petits riens » avec nos abonnés !",
+      "question": "Quel est le parti pris de ces journalistes ?",
+      "questionTranslation": "What is the stance of these journalists?",
+      "options": [
+        "Être au plus près de l’actualité.",
+        "Présenter des histoires positives.",
+        "Proposer des anecdotes amusantes.",
+        "Recenser les dérives de la société."
+      ],
+      "optionTranslations": [
+        "To be as close as possible to current events.",
+        "To present positive stories.",
+        "To propose amusing anecdotes.",
+        "To list the drifts of society."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t24-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Défenseurs et détracteurs de l’écriture inclusive, qui consiste à féminiser les mots en plaçant entre des points la terminaison du féminin, s’écharpent sur cet épineux sujet.\nPour Éliane Viennot, il est important de défendre l’écriture inclusive qui, en remaniant l’orthographe, vise à combattre les stéréotypes sexistes.\nSelon elle, la langue structure notre représentation du monde.\nApprendre aux plus jeunes que le masculin l’emporte sur le féminin ne peut guère contribuer à forger des consciences égalitaristes.\nElle rappelle de surcroît que la langue française a longtemps été plus égalitaire qu’elle ne l’est aujourd’hui : il y a eu une masculinisation délibérée du langage à partir du XVIIe siècle.\nCeux qui se piquaient alors de définir le bon usage en ont profité pour renforcer l’ordre masculin.",
+      "question": "Que pense Éliane Viennot de l’écriture inclusive ?",
+      "questionTranslation": "What does Éliane Viennot think of inclusive writing?",
+      "options": [
+        "Elle favorise l’évolution des mentalités.",
+        "Elle incarne une première historique.",
+        "Elle permet de moderniser le lexique.",
+        "Elle reflète les clivages de la société."
+      ],
+      "optionTranslations": [
+        "It favors the evolution of mentalities.",
+        "It embodies a historical first.",
+        "It allows modernizing the lexicon.",
+        "It reflects the divisions of society."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t24-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre :\nrencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues.\nSauf qu’entre le jeune pompier Roméo et l’infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu’on décrit trop peu.\nIl y a chez eux une envie de dire, d’avouer ce qui fut trop longtemps caché.\nAinsi, l’histoire se fait-elle peu à peu libération et rédemption.\nAvec un art direct et familier de conteuse, l’auteure offre à ses personnages un espoir, un bonheur encore possible.",
+      "question": "D’après la critique, quel est l’atout principal du roman d’Agnès Ledig ?",
+      "questionTranslation": "According to the critique, what is the main asset of Agnès Ledig's novel?",
+      "options": [
+        "L’alternance entre le comique et le drame.",
+        "L’atmosphère énigmatique et inquiétante.",
+        "La présentation de particularités régionales.",
+        "L’émancipation des héros au cours du récit."
+      ],
+      "optionTranslations": [
+        "The alternation between comedy and drama.",
+        "The enigmatic and disturbing atmosphere.",
+        "The presentation of regional particularities.",
+        "The emancipation of the heroes during the story."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t24-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "La révolution numérique aura, selon le philosophe Michel Serres, des effets au moins aussi considérables qu’en leur temps l’invention de l’écriture, puis celle de l’imprimerie.\nLes notions de temps et d’espace en sont transformées et les façons d’accéder à la connaissance profondément modifiées.\nÀ cet égard, chaque grande rupture dans l’histoire de l’humanité conduit à priver l’homme de facultés (« il perd »), mais chaque révolution lui en apporte de nouvelles (« il gagne »).\nPour chaque perte d’une part de mémoire et de capacité de traitement de l’information liée à la diffusion des technologies numériques, l’homme gagne une possibilité nouvelle de mise en relation (entre les individus et entre les savoirs) ainsi qu’une faculté décuplée d’invention et de création.",
+      "question": "Sur quoi Michel Serres attire-t-il l’attention ?",
+      "questionTranslation": "What does Michel Serres draw attention to?",
+      "options": [
+        "L’évolution des aptitudes mentales.",
+        "La mondialisation de la recherche scientifique.",
+        "La transformation des savoirs fondamentaux.",
+        "Le maintien du patrimoine culturel."
+      ],
+      "optionTranslations": [
+        "The evolution of mental aptitudes.",
+        "The globalization of scientific research.",
+        "The transformation of fundamental knowledge.",
+        "The maintenance of cultural heritage. Retry test All tests"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

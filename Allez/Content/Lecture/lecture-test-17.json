@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-17",
+  "title": "Test 17",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t17-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Salut Justine,\nEst-ce que tu es libre samedi ?\nJ’organise une soirée pour mes 25 ans.\nCe sera chez moi à partir de 20 h.\nIl y aura de la musique et on pourra danser !\nBastien\nPS : Est-ce que tu pourrais apporter un gâteau ?",
+      "question": "Où est invitée Justine ?",
+      "questionTranslation": "Where is Justine invited?",
+      "options": [
+        "À un cours de pâtisserie.",
+        "À un déjeuner chez un ami.",
+        "À une fête d’anniversaire.",
+        "À une sortie en discothèque."
+      ],
+      "optionTranslations": [
+        "To a pastry class.",
+        "To a lunch at a friend's.",
+        "To a birthday party.",
+        "To a nightclub outing."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t17-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Coucou Maman,\nJe suis bien arrivée à Cannes et il fait très chaud !\nHeureusement, j’ai pris des vêtements légers.\nAvec mon ami Tom, nous avons trouvé un hôtel pas cher à côté de la plage.\nHier soir, nous sommes allés au théâtre.\nAujourd’hui, nous visitons le musée du cinéma.\nBisous,\nClémence.",
+      "question": "Pourquoi est-ce que Clémence écrit à sa mère ?",
+      "questionTranslation": "Why is Clémence writing to her mother?",
+      "options": [
+        "Pour lui conseiller un film.",
+        "Pour lui demander des nouvelles.",
+        "Pour lui proposer une sortie.",
+        "Pour lui raconter ses vacances."
+      ],
+      "optionTranslations": [
+        "To recommend a film to her.",
+        "To ask her for news.",
+        "To propose an outing to her.",
+        "To tell her about her vacation."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t17-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Chers élèves,\nAttention !\nÀ partir de la semaine prochaine, les cours d’anglais du mardi et du jeudi avec M. Rutherford ne commenceront plus à 10 h 30, mais à 12 h 30.\nM. Rutherford vous attendra dans la même salle.",
+      "question": "Qu’est-ce qui est annoncé ?",
+      "questionTranslation": "What is announced?",
+      "options": [
+        "Un changement de lieu.",
+        "Un nouvel horaire.",
+        "Une absence de professeur.",
+        "Une rencontre entre étudiants."
+      ],
+      "optionTranslations": [
+        "A change of location.",
+        "A new schedule.",
+        "A teacher's absence.",
+        "A meeting between students."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t17-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Adrien,\nUrgent,\nVincent Jade a téléphoné à midi.\nRappelez-le aujourd’hui.\nIl part à 20 heures en Inde pour tout l’été.",
+      "question": "Quand est-ce qu’Adrien doit rappeler Vincent Jade ?",
+      "questionTranslation": "When must Adrien call Vincent Jade back?",
+      "options": [
+        "Avant ce soir.",
+        "Cette semaine.",
+        "Dans trois mois.",
+        "Pendant le déjeuner."
+      ],
+      "optionTranslations": [
+        "Before this evening.",
+        "This week.",
+        "In three months.",
+        "During lunch."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Salon gastronomique le 17 mars.\nVenez à la rencontre des agriculteurs, producteurs et chefs de votre région !\nVous pourrez discuter avec eux et goûter leurs délicieux produits : pommes, fromages, beurre, miel, etc. !\nParticipez au concours de la meilleure recette !",
+      "question": "Qu’est-ce qu’on peut faire dans ce salon ?",
+      "questionTranslation": "What can you do at this fair?",
+      "options": [
+        "Découvrir la nourriture locale.",
+        "Gagner un repas traditionnel.",
+        "Prendre un cours de cuisine.",
+        "Visiter une ferme française."
+      ],
+      "optionTranslations": [
+        "Discover local food.",
+        "Win a traditional meal.",
+        "Take a cooking class.",
+        "Visit a French farm."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Salut Éric !\nJ’ai fini les cours et je suis maintenant à Montpellier.\nJe suis serveuse dans un restaurant depuis une semaine.\nC’est fatigant, mais j’apprends beaucoup !\nJe serai à Paris à la fin des vacances d’été pour te voir avec les copains.\nCamille.",
+      "question": "Qu’est-ce que Camille explique ?",
+      "questionTranslation": "What is Camille explaining?",
+      "options": [
+        "Elle est en voyage à Montpellier.",
+        "Elle rencontre des amis à Paris.",
+        "Elle suit des cours à l’université.",
+        "Elle travaille dans un restaurant."
+      ],
+      "optionTranslations": [
+        "She is on a trip to Montpellier.",
+        "She is meeting friends in Paris.",
+        "She is taking classes at the university.",
+        "She is working in a restaurant."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t17-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "JE N’AI PLUS DE VOITURE… J’AI CITIZ.\nDes voitures en libre-service 24 h/ 24, pour 1 heure, 1 jour ou plus.\nUn service accessible à partir de 18 ans.\nEssence et assurance comprises, sans abonnement.\nPermis B obligatoire.",
+      "question": "Que propose Citiz ?",
+      "questionTranslation": "What does Citiz offer?",
+      "options": [
+        "D’apprendre à conduire.",
+        "De réparer des automobiles.",
+        "De voyager plus rapidement.",
+        "D’utiliser des véhicules."
+      ],
+      "optionTranslations": [
+        "To learn to drive.",
+        "To repair automobiles.",
+        "To travel faster.",
+        "To use vehicles."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t17-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Martine\nJe ne connaissais pas www.lamode.com, mais sur un forum, j’ai lu des avis positifs.\nAlors, je suis allée sur le site et j’ai trouvé une jolie robe pas chère du tout.\nJe l’ai commandée et je la portais 5 jours après.\nJe suis ravie !",
+      "question": "Qu'explique cette personne ?",
+      "questionTranslation": "What does this person explain?",
+      "options": [
+        "Comment elle a acheté un article en ligne.",
+        "Où elle a cherché un cadeau bon marché.",
+        "Pourquoi elle a eu un chèque de réduction.",
+        "Quand elle a échangé un vêtement soldé."
+      ],
+      "optionTranslations": [
+        "How she bought an item online.",
+        "Where she looked for a cheap gift.",
+        "Why she got a discount voucher.",
+        "When she exchanged a sale item."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "De : jean.Roussel@epicesexotiques.com\nÀ : georges.Rouault@epicesexotiques.com\nGeorges, je reste à Montélimar une semaine de plus parce que les ventes sur les marchés sont très bonnes.\nEst-ce que tu peux rencontrer les gens des magasins Biotopia à ma place ?\nAppelle-moi si tu as besoin.",
+      "question": "Jean Que va faire Jean Roussel ?",
+      "questionTranslation": "What is Jean Roussel going to do?",
+      "options": [
+        "Continuer ses ventes.",
+        "Déménager à Montélimar.",
+        "Rencontrer des clients.",
+        "Téléphoner à Biotopia."
+      ],
+      "optionTranslations": [
+        "Continue his sales.",
+        "Move to Montélimar.",
+        "Meet clients.",
+        "Phone Biotopia."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Rendez-vous à Londres !\n15 % de réduction sur nos vols Air France Paris-Londres en juillet !\nConsultez notre site www.airfrance.fr\n(Offre valable pour un départ aéroport Charles de Gaulle)",
+      "question": "Que propose cette publicité ?",
+      "questionTranslation": "What does this advertisement offer?",
+      "options": [
+        "Une visite de Londres.",
+        "Un billet d’avion.",
+        "Un séjour à Paris.",
+        "Un voyage en train."
+      ],
+      "optionTranslations": [
+        "A tour of London.",
+        "A plane ticket.",
+        "A stay in Paris.",
+        "A train trip."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t17-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "NE JETEZ PLUS VOS BOUTEILLES EN PLASTIQUE À LA POUBELLE, DONNEZ-LES À VOTRE VILLE ET ELLE VA EN FAIRE DES BICYCLETTES !\nAVEC DIX MILLIONS DE BOUTEILLES, ON PEUT FAIRE 1 BICYCLETTE !\nRENSEIGNEZ-VOUS SUR LE SITE INTERNET DE VOTRE MAIRIE !",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this announcement propose?",
+      "options": [
+        "De changer les poubelles.",
+        "De collecter du plastique.",
+        "De gagner une bicyclette.",
+        "De travailler pour la mairie."
+      ],
+      "optionTranslations": [
+        "To change the trash cans.",
+        "To collect plastic.",
+        "To win a bicycle.",
+        "To work for the city hall."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t17-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Connaître deux langues présente des avantages !\nLa gymnastique mentale du passage d’une langue à une autre est aussi une gymnastique des émotions et du comportement : quand on change de langue, on change de culture.\nQuand le bilingue utilise une langue, la deuxième est aussi activée dans le cerveau, comme pour une traduction.\nCette activité mentale est bénéfique pour le cerveau : elle aide à lutter contre",
+      "question": "certaines maladies. Selon cet article, qu’apporte la pratique de deux langues ?",
+      "questionTranslation": "According to this article, what does the practice of two languages bring?",
+      "options": [
+        "Elle est bonne pour la santé.",
+        "Elle facilite la socialisation.",
+        "Elle développe la mémoire.",
+        "Elle enrichit la personnalité."
+      ],
+      "optionTranslations": [
+        "It is good for health.",
+        "It facilitates socialization.",
+        "It develops memory.",
+        "It enriches personality."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Bonjour,\nJ’ai commandé une robe (réf. 35100) sur votre site « mamode.com » il y a deux mois.\nJe devais la recevoir le 5 octobre.\nOr nous sommes le 5 novembre et, malgré mes nombreuses réclamations, je ne l’ai toujours pas reçue.\nJe vous demande de me rembourser le plus rapidement possible.\nUn geste commercial sous la forme d’un cadeau serait bienvenu.",
+      "question": "Merci. Que veut la cliente ?",
+      "questionTranslation": "What does the client want?",
+      "options": [
+        "Annuler son achat.",
+        "Échanger son article.",
+        "Obtenir une réduction.",
+        "Rendre le vêtement."
+      ],
+      "optionTranslations": [
+        "Cancel her purchase.",
+        "Exchange her item.",
+        "Get a discount.",
+        "Return the clothing."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Après les cartes de cinéma illimitées, la carte Scène+ !\nParis est la première ville à tester cette formule : des places à tarifs réduits à utiliser quand on veut, dans quarante théâtres environ, pour aller voir plus de 150 pièces. On achète la carte, valable un mois ou un semestre et on peut aller dans les petites scènes de théâtre parisiennes qui accueillent surtout des comédies populaires plutôt que des pièces classiques.",
+      "question": "Que peut-on faire avec la carte Scène+ ?",
+      "questionTranslation": "What can one do with the Scène+ card?",
+      "options": [
+        "Assister à des spectacles",
+        "Obtenir de meilleures places",
+        "Rencontrer des comédiens",
+        "Suivre des visites guidées"
+      ],
+      "optionTranslations": [
+        "Attend shows",
+        "Get better seats",
+        "Meet actors",
+        "Follow guided tours"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Delphine Péras a enquêté sur les clubs de lecture pour notre magazine.\nElle a eu des difficultés à les trouver, car il s’agit souvent de groupes privés.\nIl fallait faire une liste des clubs durables, car beaucoup suivent la mode et ont une durée de vie très courte.\nCe n’est pas le cas de « Voix au Chapitre », qui existe depuis 1986 !\nLes rencontres fonctionnent suivant une formule simple : autour d’un café, chaque participant donne son avis sur un livre puis tous en discutent.",
+      "question": "Quelle difficulté Delphine Péras a-t-elle rencontrée lors de son enquête ?",
+      "questionTranslation": "What difficulty did Delphine Péras encounter during her investigation?",
+      "options": [
+        "Les clubs disparaissaient vite après leur création.",
+        "Les groupes concernés étaient trop nombreux.",
+        "Les lecteurs refusaient de parler à des journalistes.",
+        "Les rencontres se faisaient de manière irrégulière."
+      ],
+      "optionTranslations": [
+        "The clubs disappeared quickly after their creation.",
+        "The groups concerned were too numerous.",
+        "The readers refused to speak to journalists.",
+        "The meetings took place irregularly."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Pas facile de trouver le juste équilibre entre respect et liberté.\nLe principal du lycée Charles-de-Gaulle a décidé de demander à ses élèves de ne plus porter de vêtements de sport en cours.\nLe principal estime que c’est une question de respect et de propreté.\nUn survêtement, ce n’est pas assez habillé pour venir au lycée.\nLes élèves qui n’étaient pas du même avis n’ont pas été acceptés en cours.",
+      "question": "Pourquoi la direction de cet établissement interdit-elle la tenue de sport en classe ?",
+      "questionTranslation": "Why does the management of this establishment prohibit sportswear in class?",
+      "options": [
+        "Pour aider les élèves à ne pas s’enrhumer",
+        "Pour enseigner le droit à la tolérance",
+        "Pour respecter des normes d’hygiène",
+        "Pour supprimer les différences sociales"
+      ],
+      "optionTranslations": [
+        "To help students not catch a cold",
+        "To teach the right to tolerance",
+        "To respect hygiene standards",
+        "To eliminate social differences"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t17-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Mal de tête, de ventre ou de dos, allergies…\nCombien de fois ces petits désagréments du quotidien vous ont-ils conduit à consulter votre médecin ?\nUn neurochirurgien parisien a imaginé une application capable de fournir un pré-diagnostic et de conseiller la personne sur la marche à suivre à partir d’une série de questions.\n« Bien sûr, il ne s’agit pas de remplacer les médecins généralistes ou les spécialistes, rassure le créateur.\nL’idée est simplement de faire un tri entre les petits maux du quotidien, qui peuvent être traités par les gens eux-mêmes, et les maladies plus graves qui nécessitent une visite médicale.»",
+      "question": "Que permet cette application ?",
+      "questionTranslation": "What does this application allow?",
+      "options": [
+        "D’acheter des médicaments sans ordonnance.",
+        "D’avoir le choix entre différents spécialistes.",
+        "De prendre rapidement rendez-vous.",
+        "De traiter seul des affectations bénignes."
+      ],
+      "optionTranslations": [
+        "To buy medicines without a prescription.",
+        "To have a choice between different specialists.",
+        "To make an appointment quickly.",
+        "To treat benign conditions alone."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t17-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Spécial étudiant\nVous avez trouvé un logement (chambre, studio, deux-pièces…) ?\nN’oubliez pas de vous assurer.\nPromotion exceptionnelle, 3 mois d’assurance gratuite si vous vous inscrivez avant le 30 septembre.",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this ad offer?",
+      "options": [
+        "Un abonnement mensuel.",
+        "Un choix d’appartements.",
+        "Une location moins chère.",
+        "Une offre intéressante."
+      ],
+      "optionTranslations": [
+        "A monthly subscription.",
+        "A choice of apartments.",
+        "A cheaper rental.",
+        "An interesting offer."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t17-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La télévision, les jeux vidéo, les ordinateurs ont envahi les foyers.\nAlors, certains parents craignent le risque d’addiction pour leurs enfants. Quel est le quota d’heures quotidien devant les écrans à ne pas dépasser ?\nPour les psychologues, le critère à prendre en compte est celui de l’exclusivité.\nSi les jeux vidéo et internet sont l’unique source de relation et de distraction pour un adolescent, alors il faut s’inquiéter et agir.\nRéguler la consommation d’images, c’est le travail des parents qui doivent faire des écrans des objets d’échange familial et non un refuge individuel.",
+      "question": "Que devraient faire les parents concernant les jeux vidéo et internet ?",
+      "questionTranslation": "What should parents do regarding video games and the internet?",
+      "options": [
+        "Donner à ces activités une fonction éducative",
+        "Faire de ces boitiers des moments de partage",
+        "Fixer des plages horaires pour jouer en ligne",
+        "S’informer auprès des professionnels de santé"
+      ],
+      "optionTranslations": [
+        "Give these activities an educational function",
+        "Turn these devices into moments of sharing",
+        "Set time slots for playing online",
+        "Get informed by health professionals"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t17-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La Ligue de Football Professionnel vient d’annoncer que l’assistance vidéo sera prochainement introduite en première ligue.\nMais la polémique demeure sur sa nécessité.\n« Quand il y aura un but dans un stade, les gens devront attendre », s’inquiète un ancien défenseur de première ligue.\nPour lui, « on oublie l’essence même du football, qui est la joie, la folie.\nOn ne va même plus profiter des buts ».\nGénéralement, un arrêt de jeu ne doit pas dépasser 30 secondes, or « actuellement on est souvent à 50 secondes parce que le système n’est pas encore tout à fait performant ».",
+      "question": "Quelle est la conséquence de l’assistance vidéo pour le football ?",
+      "questionTranslation": "What is the consequence of video assistance for football?",
+      "options": [
+        "Un manque d’intérêt du grand public.",
+        "Un risque de déconcentration des joueurs.",
+        "Une moindre crédibilité des arbitres.",
+        "Une perte de spontanéité des matchs."
+      ],
+      "optionTranslations": [
+        "A lack of interest from the general public.",
+        "A risk of players losing focus.",
+        "Less credibility for referees.",
+        "A loss of spontaneity in matches."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t17-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Ralentissement du traitement de l’information, baisse de l’attention et de notre mémorisation à court terme…\nAvec l’âge, le vieillissement du cerveau semble inévitable.\nPourtant, notre santé cognitive dépend aussi de notre mode de vie.\nIl est ainsi primordial, après la soixantaine, de conserver une vie active, physiquement par une pratique sportive régulière et aussi intellectuellement en sollicitant nos fonctions mentales par un apprentissage permanent.\nPour cela, il est essentiel de garder une vie sociale riche d’interactions avec les autres et également de cultiver des activités, associatives ou sportives, par",
+      "question": "exemple. Quel est l’objectif des conseils donnés dans cet article ?",
+      "questionTranslation": "What is the objective of the advice given in this article?",
+      "options": [
+        "Améliorer des capacités physiques.",
+        "Découvrir de nouveaux types de sports.",
+        "Développer le cercle de ses relations sociales.",
+        "Maintenir les performances de la mémoire."
+      ],
+      "optionTranslations": [
+        "To improve physical capabilities.",
+        "To discover new types of sports.",
+        "To develop one's circle of social relations.",
+        "To maintain memory performances."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t17-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le tourisme en France a longtemps été perçu comme un filon, mais il pourrait à l’avenir se transformer en calamité : celle du « surtourisme ».\nCe phénomène résulte d’une mauvaise gestion de foules sans cesse plus nombreuses qui pourraient bientôt toucher la France, où nombre de sites mythiques sont inadaptés à une affluence en forte croissance, le Louvre et la tour Eiffel, à Paris, en tête.\n« L’objectif de 100 millions de touristes par an pourrait bien être atteint, précise un directeur d’agence organisant des séjours en France.\nMais, en l’absence de tout aménagement et alors que 20 % du pays accueillent 80 % des touristes, cela pourrait devenir un danger. »",
+      "question": "Qu’apprend-on au sujet du « surtourisme » ?",
+      "questionTranslation": "What do we learn about 'overtourism'?",
+      "options": [
+        "Il est à l’origine d’une politique de diminution des flux.",
+        "Il nécessite une réorganisation des lieux les plus visités.",
+        "Il permet de répartir les voyageurs sur tout le territoire.",
+        "Il suscite l’engagement des professionnels du secteur."
+      ],
+      "optionTranslations": [
+        "It is the origin of a policy to decrease flows.",
+        "It requires a reorganization of the most visited places.",
+        "It allows travelers to be distributed across the whole territory.",
+        "It arouses the commitment of professionals in the sector."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t17-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Vancouver s’affirme depuis plusieurs années comme un lieu de croisement inédit des humanismes et dispose de nombreuses connexions internationales, entre Shanghai et Tokyo, la Californie et l’Europe.\nLe colloque « L’avenir du contemporain » fait partie d’une série d’initiatives conduites par le consulat général de France à Vancouver pour renforcer les relations entre la France et l’Ouest canadien dans le domaine des arts.\nIl s’intéressera notamment aux nouveaux rôles des musées face aux contraintes et aux chances offertes, d’une part, par la mondialisation et d’autre part, par la circulation intensifiée des artistes et des œuvres.",
+      "question": "Quel atout de Vancouver l’auteur met-il en avant dans cet article ?",
+      "questionTranslation": "What asset of Vancouver does the author highlight in this article?",
+      "options": [
+        "Elle concentre une intense activité diplomatique.",
+        "C’est un carrefour culturel intercontinental.",
+        "C’est une plaque tournante du marché de l’art.",
+        "Elle héberge de multiples lieux d’exposition."
+      ],
+      "optionTranslations": [
+        "It concentrates intense diplomatic activity.",
+        "It is an intercontinental cultural crossroads.",
+        "It is a hub for the art market.",
+        "It hosts multiple exhibition venues."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t17-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "On réserve trop facilement le covoiturage aux étudiants sans un sou.\nLes clichés sont tenaces.\nPourtant, le temps de la petite annonce papier accrochée près de la machine à café est bel et bien terminé.\nLes nouveaux moyens de communication ont changé les choses.\nL’organisation d’un trajet entre plusieurs personnes qui se rendent dans la même direction est devenue si simple et si efficace avec les sites spécialisés que le covoiturage est en train d’élargir son public et de gagner son statut de mode de transport à part entière.",
+      "question": "Quel développement connaît le covoiturage ?",
+      "questionTranslation": "What development is carpooling experiencing?",
+      "options": [
+        "Il devient la solution idéale des voyages organisés à la dernière minute.",
+        "Il est accessible à un nombre croissant d’utilisateurs grâce à internet.",
+        "Il occupe une place grandissante dans les petites annonces des journaux.",
+        "Il s’impose comme le moyen de déplacement à la mode chez les jeunes."
+      ],
+      "optionTranslations": [
+        "It is becoming the ideal solution for trips organized at the last minute.",
+        "It is accessible to a growing number of users thanks to the internet.",
+        "It occupies a growing place in newspaper classified ads.",
+        "It establishes itself as the fashionable means of travel among young people."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t17-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "SEIS sera le premier sismomètre déployé sur un autre sol que celui de la Terre.\nSur Mars, cet instrument français va ausculter les séismes qui secouent la planète rouge et récolter des données qui permettront de déterminer si le noyau de la planète est liquide ou solide.\nMars a le même âge que la planète Terre, mais il y a 3 ou 4 milliards d’années, toute vie y a cessé et elle est devenue une planète morte.\nSi nous savons déjà de quoi sont constituées son atmosphère et sa surface, nous ignorons encore ce qui s’est produit à ce moment-là et ce qu’elle recèle dans son sous-sol.",
+      "question": "Pour quoi SEIS a-t-il été envoyé sur Mars ?",
+      "questionTranslation": "Why was SEIS sent to Mars?",
+      "options": [
+        "Pour comparer son histoire à celle de la Terre.",
+        "Pour évaluer les possibilités d’aller y vivre.",
+        "Pour expliquer son grand nombre de séismes.",
+        "Pour obtenir des données sur sa composition."
+      ],
+      "optionTranslations": [
+        "To compare its history to Earth's.",
+        "To evaluate the possibilities of living there.",
+        "To explain its large number of earthquakes.",
+        "To obtain data on its composition."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t17-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La revue Science et Avenir cite une étude de l’université de Cambridge dans laquelle des chercheurs en psychologie et en éducation rapportaient les attitudes des écoliers à l’égard des mathématiques.\nLes scientifiques décrivent chez les petits Britanniques un sentiment de dégoût, de frustration ou de peur.\nDes observations qui reflètent exactement ce qui se passe en France.\nDe nombreux enfants sont confrontés à un véritable blocage en manifestant tous les signes du stress, ce qui entraîne des effets négatifs sur les fonctions cognitives.\nSelon certains professeurs, les mathématiques apparaissent beaucoup trop techniques et déconnectées du monde qui nous entoure, alors que pour réconcilier les écoliers avec les maths, il faudrait les enseigner comme un outil de réflexion ancré dans le quotidien.",
+      "question": "Qu’explique ce texte à propos de l’enseignement des mathématiques ?",
+      "questionTranslation": "What does this text explain about the teaching of mathematics?",
+      "options": [
+        "De nouvelles pédagogies semblent nécessaires.",
+        "Il conviendrait d’améliorer les résultats des élèves.",
+        "L’Europe doit engager une réforme des programmes.",
+        "Un soutien scolaire journalier serait bénéfique."
+      ],
+      "optionTranslations": [
+        "New teaching methods seem necessary.",
+        "It would be appropriate to improve student results.",
+        "Europe must engage in a curriculum reform.",
+        "Daily academic support would be beneficial."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Pourrait-on nourrir les 9 milliards d’humains que comptera la Terre en 2050 uniquement par l’agriculture biologique ?\nOui, répondent certains chercheurs.\nMais selon eux, la tâche sera difficile, car pour se défaire des pesticides, des engrais de synthèse et des OGM, il faudrait absolument diminuer la consommation de viande et le gaspillage alimentaire.\nEt même à ces conditions, il resterait encore des obstacles au « tout bio ».\nAlors, agriculture biologique ou conventionnelle ?\nLes incertitudes scientifiques demeurent quant à leurs réels impacts sur les rendements et les prédictions sur ce sujet sont encore floues.",
+      "question": "Sur quoi insiste l’auteur de ce texte ?",
+      "questionTranslation": "What does the author of this text insist on?",
+      "options": [
+        "Les conséquences d’un régime végétarien.",
+        "Les doutes sur les méthodes de production.",
+        "Les effets de l’usage de produits chimiques.",
+        "Les problèmes causés par la surpopulation."
+      ],
+      "optionTranslations": [
+        "The consequences of a vegetarian diet.",
+        "The doubts about production methods.",
+        "The effects of the use of chemical products.",
+        "The problems caused by overpopulation."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t17-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Avez-vous déjà observé des familles en train de remplir des sachets de bonbons sur un stand de confiserie ?\nUn chercheur américain a montré qu’elles en achètent plus quand les bonbons sont de couleurs différentes.\nDe nombreuses observations similaires prouvent que les entreprises agroalimentaires connaissent nos comportements et la manière dont nous prenons certaines de nos décisions.\nPar exemple, elles exploitent notre préférence innée pour le sucre, à tous les âges.\nElles savent que l’éducation nutritionnelle des enfants et des jeunes est défaillante dans certaines familles et en profitent.",
+      "question": "Que dénonce l’auteur de cet article ?",
+      "questionTranslation": "What does the author of this article denounce?",
+      "options": [
+        "La manipulation des clients par les industriels",
+        "L’attitude imprévisible des consommateurs",
+        "L’uniformisation des saveurs et des goûts",
+        "L’utilisation abusive des produits de synthèse"
+      ],
+      "optionTranslations": [
+        "The manipulation of customers by industrialists",
+        "The unpredictable attitude of consumers",
+        "The standardization of flavors and tastes",
+        "The abusive use of synthetic products"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "L’association « Savoir-faire et expérience » a huit ans.\nSa philosophie : une personne handicapée n’est pas forcément une personne en fauteuil roulant.\nEt, de la même manière qu’il y a de nombreuses formes de handicap, il existe une multitude de métiers et de postes qui peuvent leur correspondre.\nC’est pourquoi cette association souhaite modifier la vision commune du handicap et encourager les entreprises à s’engager dans cette voie.\nC’est dans ce but qu’elle œuvre pour l’ouverture la plus large possible des dispositifs de formation professionnelle aux handicapés.\nPour qu’enfin, on regarde le savoir-faire et l’expérience avant le handicap.",
+      "question": "Quelle est la mission de l’association Savoir-faire et expérience ?",
+      "questionTranslation": "What is the mission of the association 'Savoir-faire et expérience'?",
+      "options": [
+        "Faire évoluer les mentalités au sujet du handicap au travail.",
+        "Permettre de modifier la législation sur le handicap au travail.",
+        "Recenser les discriminations dont sont victimes les handicapés.",
+        "Subventionner les entreprises qui recrutent des handicapés."
+      ],
+      "optionTranslations": [
+        "To change mentalities regarding disability at work.",
+        "To allow for modifying legislation on disability at work.",
+        "To list the discriminations that disabled people fall victim to.",
+        "To subsidize companies that recruit disabled people."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Les recherches actuelles sur la motivation indiquent que la confiance en ses capacités permet d’agir efficacement et joue un rôle crucial dans l’engagement et les performances d’un élève.\nCette confiance peut varier d’un domaine à l’autre ainsi que d’une matière scolaire à l’autre.\nTout comme on peut se sentir très à l’aise avec des instruments de musique, mais maladroit sur un terrain de basket, on peut se sentir très compétent en français, mais peu brillant en mathématiques.\nLes recherches ont montré que les élèves confiants en leurs capacités dans une matière choisissent de préférence des activités présentant pour eux un défi et leur donnant l’occasion de développer leurs habiletés.\nInversement, ils ont tendance à se désintéresser des activités dans lesquelles ils se sentent peu efficaces.",
+      "question": "Comment réagissent les élèves qui sont à l’aise dans certaines disciplines ?",
+      "questionTranslation": "How do students react who are comfortable in certain disciplines?",
+      "options": [
+        "Ils finissent par maîtriser l’ensemble des matières.",
+        "Ils font des efforts dans les autres matières étudiées.",
+        "Ils négligent les matières trop faciles pour eux.",
+        "Ils se fixent des objectifs élevés dans ces matières."
+      ],
+      "optionTranslations": [
+        "They end up mastering all subjects.",
+        "They make efforts in the other subjects studied.",
+        "They neglect subjects that are too easy for them.",
+        "They set high goals in these subjects."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t17-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Il ne viendrait à personne l’idée d’entrer dans un cinéma ou un théâtre sans payer sa place, ni à ces industries de ne pas rémunérer leurs auteurs.\nDe nombreux festivals ou lieux dédiés à la photographie se targuent pourtant de la gratuité de leurs expositions.\nD’autant plus que, dans la majorité des cas, il est admis qu’aucun budget ni aucun droit d’auteur ne soient prévus pour le photographe.\nMême si le motif initial de rendre la photographie accessible à tous est plus que légitime, ce qui choquerait pour tout autre secteur ou corps de métier n’offusque personne dès lors qu’il s’agit du photographe, pourtant producteur de la matière première de ces activités.",
+      "question": "Que constate l’auteur de l’article ?",
+      "questionTranslation": "What does the author of the article observe?",
+      "options": [
+        "C’est la photographie qui est la forme d’art la moins valorisée.",
+        "Il y a peu d’événements culturels consacrés à la photographie.",
+        "Les photographies sont commercialisées à bas prix.",
+        "N’importe qui peut s’improviser photographe."
+      ],
+      "optionTranslations": [
+        "It is photography that is the least valued form of art.",
+        "There are few cultural events dedicated to photography.",
+        "Photographs are marketed at low prices.",
+        "Anyone can improvise themselves as a photographer."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Au début de l’adolescence, vers 11-12 ans, les enfants aspirent à l’autonomie.\nC’est à cette période que les écrans jouent un rôle important au niveau de leur intégration sociale, mais aussi que les risques d’excès se profilent.\n« Les parents doivent abandonner leur position de prescription et passer à une position d’accompagnement. »\nLe docteur Huerre leur recommande donc d’explorer avec leur enfant les jeux qui l’intéressent et la manière qu’il a de circuler sur la toile, afin de faciliter les échanges.\n« Au lieu d’avoir peur des jeux vidéo, demandez-lui de vous les montrer et n’hésitez pas à jouer avec lui. Certains procurent un réel plaisir visuel et esthétique », conseille-t-il.",
+      "question": "Que préconise le médecin aux parents ?",
+      "questionTranslation": "What does the doctor recommend to parents?",
+      "options": [
+        "De participer à l’exploration du monde numérique",
+        "De restreindre le temps consacré aux jeux vidéo",
+        "De sélectionner des contenus adaptés aux enfants",
+        "De surveiller la navigation des jeunes sur la toile"
+      ],
+      "optionTranslations": [
+        "To participate in the exploration of the digital world",
+        "To restrict the time devoted to video games",
+        "To select content adapted to children",
+        "To monitor young people's navigation on the web"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "En France, entre 200 000 et 500 000 cas de troubles psychiques sont liés au monde du travail.\nL’apparition de nouvelles méthodes de travail, plus intenses et contraignantes, serait à l’origine de l’augmentation des cas de syndrome d’épuisement professionnel.\nC’est le mal du siècle et pourtant, il n’est pas encore reconnu.\nLes salariés, prisonniers de l’idéologie ambiante, s’imaginent trop souvent, quand ils craquent, qu’un collègue plus solide qu’eux aurait été capable de résister.\nMais cela s’avère faux la plupart du temps. Une reconnaissance de la maladie obligerait les entreprises à réfléchir à leur fonctionnement et représenterait une réelle mesure d’utilité publique.",
+      "question": "Quel constat est dressé à propos de ce syndrome ?",
+      "questionTranslation": "What observation is made regarding this syndrome?",
+      "options": [
+        "Il inquiète les patrons des sociétés",
+        "Il touche les employés les plus faibles",
+        "Son existence doit être officialisée",
+        "Son traitement est peu efficace"
+      ],
+      "optionTranslations": [
+        "It worries company bosses",
+        "It affects the weakest employees",
+        "Its existence must be officialized",
+        "Its treatment is ineffective"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t17-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Un nouveau mot se banalise sur les campus américains : « microagression ».\nQualifiant les blessures subtiles qui affectent les individus exposés à une forme de dévalorisation par le langage, il alimente le débat sur la liberté d’expression.\nForgé dans les années 1970, le terme a été développé à partir de 2007 par Derald Wing Sue qui le définit ainsi : des insultes ou attitudes intentionnelles ou non qui communiquent des messages hostiles ou méprisants envers des personnes sur la seule base de leur appartenance à un groupe marginalisé.\nDes universités ont mis en place des mécanismes de prévention et de dénonciation de ces microagressions, mais certains redoutent que l’excès de précaution ne vienne tuer le débat d’idées.",
+      "question": "Qu’apprend-on sur les microagressions ?",
+      "questionTranslation": "What do we learn about microaggressions?",
+      "options": [
+        "Ce sont des blessures corporelles superficielles.",
+        "Elles sont commises par des groupes minoritaires.",
+        "Les autorités universitaires s’en préoccupent peu.",
+        "Lutter contre elle peut nuire à certaines libertés."
+      ],
+      "optionTranslations": [
+        "They are superficial physical injuries.",
+        "They are committed by minority groups.",
+        "University authorities care little about them.",
+        "Fighting against them can harm certain freedoms."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t17-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Je suis persuadée que tous les enfants possèdent en eux la volonté de mettre en route leur imaginaire qui les pousse naturellement vers la littérature.\nMais si elle n’est pas stimulée, cette force peut s’éteindre.\nC’est la mission de l’école que de sensibiliser les élèves aux grands textes classiques.\nMalheureusement, elle y a renoncé.\nTrop souvent, les enseignants ont tendance à penser qu’ils sont réservés à l’élite.\nAlors qu’au contraire, l’école devrait donner un accès à la haute culture aux élèves qui arrivent avec un bagage moins fourni que les autres.",
+      "question": "Selon l’auteur de ce texte, quelle ambition devraient avoir les enseignants ?",
+      "questionTranslation": "According to the author of this text, what ambition should teachers have?",
+      "options": [
+        "Aborder des œuvres réputées difficiles avec leurs élèves.",
+        "Encourager leurs élèves à écrire des textes littéraires.",
+        "Inviter régulièrement des écrivains célèbres dans leur classe.",
+        "Monter des pièces de théâtre d’auteurs classiques."
+      ],
+      "optionTranslations": [
+        "Tackle works deemed difficult with their students.",
+        "Encourage their students to write literary texts.",
+        "Regularly invite famous writers to their class.",
+        "Stage plays by classic authors."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t17-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "On connaît Cézanne surtout pour ses paysages, mais le Musée d’Orsay montre, pour la première fois, une partie méconnue de l’œuvre de l’artiste.\nOn y croisera ainsi le visage de son épouse, seul motif autant étudié par le peintre que la montagne Sainte-Victoire.\nAu fil des versions, Hortense Fiquet devient l’objet d’une recherche plastique, de mise en scène et de géométrisation des formes.\nMais Cézanne peut aussi avoir le pinceau cruel.\nDès ses débuts, les figures de son père et de sa mère sont tourmentées.\nLui-même se représente à 27 ans, patibulaire, et le regard injecté de sang.\nÀ la fin de sa vie, Cézanne choisit des anonymes du monde rural.\nSes tableaux ne sont alors qu’une autre forme de paysage.",
+      "question": "Que souligne cette exposition sur Paul Cézanne ?",
+      "questionTranslation": "What does this exhibition highlight about Paul Cézanne?",
+      "options": [
+        "L’influence de ses contemporains.",
+        "La singularité de ses portraits.",
+        "Son engouement pour la nature.",
+        "Son travail post-impressionniste."
+      ],
+      "optionTranslations": [
+        "The influence of his contemporaries.",
+        "The singularity of his portraits.",
+        "His passion for nature.",
+        "His post-impressionist work."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t17-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "La bataille de Bouvines, remportée le 27 juillet 1214 par le roi de France Philippe Auguste sur un empereur allemand, est l’un des actes fondateurs de la dynastie capétienne et l’un des épisodes les plus célèbres du « roman national » français.\nDu XIIIe siècle à nos jours, elle a été à l’origine de multiples légendes que le spécialiste du monde médiéval, Dominique Barthélemy, confronte à la réalité des faits.\nÀ l’issue d’une enquête approfondie, il décrit un affrontement plus modeste et moins épique que celui construit et enrichi au gré des nécessités politiques.\nAinsi, il nous invite à poursuivre la réflexion sur l’idée que les Français se font",
+      "question": "d’eux-mêmes. Selon cet article, que fait Dominique Barthélemy ?",
+      "questionTranslation": "According to this article, what does Dominique Barthélemy do?",
+      "options": [
+        "Il analyse l’établissement d’une dynastie royale.",
+        "Il explique l’origine d’une légende médiévale.",
+        "Il explore la construction identitaire des Français.",
+        "Il renforce le mythe de la bataille de Bouvines."
+      ],
+      "optionTranslations": [
+        "He analyzes the establishment of a royal dynasty.",
+        "He explains the origin of a medieval legend.",
+        "He explores the identity construction of the French.",
+        "He reinforces the myth of the Battle of Bouvines."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t17-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Faire cohabiter vie citadine haletante et déconnexion en pleine nature sur le même emploi du temps : voilà ce que propose le concept de micro-aventure popularisé par l’aventurier britannique Alastair Humphreys.\nCe terme caractérise une aventure courte et accessible, pour « les gens qui ont des vies normales ».\nLe concept est simple : plutôt que de tirer un trait sur sa soif de voyage, il est envisageable d’en réduire l’échelle pour bousculer son quotidien.\nOuvrir la porte et partir à l’aventure, passer une nuit ou deux dehors, suffirait même si on habite en ville.\nPour ceux qui persistent à croire que la véritable aventure se trouve à l’autre bout du monde, ce concept représente une douce piqûre de rappel.",
+      "question": "Que démontre Alastair Humphreys, avec le concept de micro-aventure ?",
+      "questionTranslation": "What does Alastair Humphreys demonstrate with the concept of micro-adventure?",
+      "options": [
+        "Il est déconseillé de rester enfermé chez soi.",
+        "Il est inutile de partir loin pour être dépaysé.",
+        "Il faut organiser les voyages avec des proches.",
+        "Il suffit d’apprendre à profiter du quotidien."
+      ],
+      "optionTranslations": [
+        "It is inadvisable to stay locked up at home.",
+        "It is unnecessary to go far to experience a change of scenery.",
+        "Trips must be organized with loved ones.",
+        "It is enough to learn to enjoy daily life."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t17-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Aujourd’hui, de nombreux enfants cumulent les activités en dehors des cours.\nSelon une étude, l’origine de cette tendance serait liée aux mutations sociales contemporaines.\nAinsi, recourir à de telles activités serait un moyen pour les parents de pallier l’absence des mères — de plus en plus souvent actives — et de développer les compétences des enfants pour les armer face à la compétitivité du marché du travail.\nCependant, coûteuses en temps et en énergie, ces activités empiètent sur le quotidien de la maison et épuisent les enfants.\nElles n’en apparaissent pas moins aux parents comme des marqueurs de leur bonne parentalité.\nUn phénomène qui s’entretient par l’expansion constante de l’offre ainsi que par la surenchère qui s’instaure entre les foyers.",
+      "question": "Que veulent faire les parents ?",
+      "questionTranslation": "What do parents want to do?",
+      "options": [
+        "Améliorer les résultats scolaires.",
+        "Avoir plus de temps pour eux.",
+        "Resserrer les liens familiaux.",
+        "Se donner bonne conscience."
+      ],
+      "optionTranslations": [
+        "Improve school results.",
+        "Have more time for themselves.",
+        "Strengthen family ties.",
+        "Give themselves a clear conscience. Retry test All tests"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

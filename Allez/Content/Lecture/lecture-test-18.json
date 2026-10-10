@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-18",
+  "title": "Test 18",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t18-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "La bibliothèque de Chatou vous invite à passer un moment parent-enfant mercredi prochain.\nVenez avec votre enfant écrire une histoire avec des dessins.\nÀ la fin de la journée, nous imprimerons ces histoires et vous pourrez repartir avec un petit livre !",
+      "question": "Qu’est-ce que la bibliothèque de Chatou organise ?",
+      "questionTranslation": "What does the Chatou library organize?",
+      "options": [
+        "La décoration de ses salles.",
+        "La lecture d’un roman jeunesse.",
+        "Une activité à faire en famille.",
+        "Une rencontre avec un auteur."
+      ],
+      "optionTranslations": [
+        "The decoration of its rooms.",
+        "The reading of a youth novel.",
+        "An activity to do as a family.",
+        "A meeting with an author."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "La société des transports T2C offre plusieurs moyens de transport publics :\ntrente-quatre stations de tramway, de train et de métro en journée, 23 lignes de bus, dont une de nuit.\nPlus de renseignements sur notre site www.t2c.fr !",
+      "question": "Quel transport circule après 23h ?",
+      "questionTranslation": "Which transport runs after 11 PM?",
+      "options": [
+        "Le bus.",
+        "Le métro.",
+        "Le train.",
+        "Le tramway."
+      ],
+      "optionTranslations": [
+        "The bus.",
+        "The metro.",
+        "The train.",
+        "The tramway."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t18-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Salut Anthony,\nJe t’annonce une bonne nouvelle : j’ai trouvé un poste de vendeur pour cet été !\nC’est dans une boutique du centre-ville de Bordeaux.\nC’est un peu loin de la maison, mais en voiture j’y serai en 20 minutes.\nOn fêtera ça samedi !\nSimon",
+      "question": "Qu’est-ce que Simon va faire ?",
+      "questionTranslation": "What is Simon going to do?",
+      "options": [
+        "Acheter une voiture.",
+        "Aller chez Anthony.",
+        "Faire des courses samedi.",
+        "Travailler à Bordeaux."
+      ],
+      "optionTranslations": [
+        "Buy a car.",
+        "Go to Anthony's place.",
+        "Go shopping on Saturday.",
+        "Work in Bordeaux."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t18-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Images\nVous êtes passionné de photographie et vous voulez partager vos créations?\nInscrivez-vous au prix du « Petit Reporter »: envoyez une photo sur le thème de l'amitié au club «Images » ! Un appareil photo à gagner!\nInscription:\nwww.clublmages.fr/Prix PetitReporter",
+      "question": "Que propose le club « Images » ?",
+      "questionTranslation": "What does the \"Images\" club propose?",
+      "options": [
+        "D’acheter du matériel en soldes.",
+        "De participer à un concours.",
+        "De rencontre des professionnels.",
+        "De suivre des cours débutants."
+      ],
+      "optionTranslations": [
+        "To buy equipment on sale.",
+        "To participate in a contest.",
+        "To meet professionals.",
+        "To take beginner courses."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t18-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "SAMEDI 29 JUIN,\nVENEZ COURIR 10KM POUR AIDER L’ASSOCIATION « TOUT ENSEMBLE POUR LA PAIX ».\nRENDEZ-VOUS À 10H, AU PARC DE VINCENNES.\nAMBIANCE SYMPATHIQUE ET REPAS OFFERT POUR LES SPORTIFS.\nVENEZ NOMBREUX !",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this announcement propose?",
+      "options": [
+        "D’aider à organiser une fête.",
+        "De devenir membre d’une association.",
+        "De distribuer des repas gratuits.",
+        "De participer à un événement sportif."
+      ],
+      "optionTranslations": [
+        "Helping to organize a party.",
+        "Becoming a member of an association.",
+        "Distributing free meals.",
+        "Participating in a sports event."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t18-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "De : cannelle@lilo.com\nÀ : Elke@mail.com\nSalut Elke,\nC’est bientôt la fête de nos 20 ans de mariage !\nBeaucoup d’invités viendront avec leurs enfants.\nComme tu adores les petits, pourrais-tu t’occuper d’eux en journée ?\nQuand ils seront couchés, nous pourrons danser tous ensemble.\nMerci, bisous.",
+      "question": "Cannelle Que demande Cannelle à son amie ?",
+      "questionTranslation": "What does Cannelle ask her friend?",
+      "options": [
+        "D’écrire aux invités.",
+        "D’organiser la fête.",
+        "De garder des enfants.",
+        "De préparer des danses."
+      ],
+      "optionTranslations": [
+        "To write to the guests.",
+        "To organize the party.",
+        "To look after children.",
+        "To prepare dances."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Chers professeurs, chers étudiants, Venez rencontrer les nouveaux étudiants de la semaine !\nCe mardi, de 8 h 30 à 10 h 30.\nRendez-vous salle « Les Mimosas ».\nJ. Lebon, directrice\nÉcole de langues ABC.",
+      "question": "Pourquoi Madame Lebon écrit-elle cette annonce ?",
+      "questionTranslation": "Why is Madame Lebon writing this announcement?",
+      "options": [
+        "Pour changer un horaire.",
+        "Pour organiser une fête.",
+        "Pour présenter des élèves.",
+        "Pour proposer une sortie."
+      ],
+      "optionTranslations": [
+        "To change a schedule.",
+        "To organize a party.",
+        "To introduce students.",
+        "To propose an outing."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Madame Chanmont,\nVous avez participé à notre concours et vous avez gagné un séjour d’une semaine tout compris (transport, hébergement, restauration) pour deux personnes en Italie.\nPrenez contact par courriel avec notre service clientèle pour avoir toutes les informations.\nLe service commercial.",
+      "question": "Que doit faire Madame Chanmont ?",
+      "questionTranslation": "What must Madame Chanmont do?",
+      "options": [
+        "Écrire un message.",
+        "Prendre un billet d’avion.",
+        "Réserver un hôtel.",
+        "S’inscrire à un jeu."
+      ],
+      "optionTranslations": [
+        "Write a message.",
+        "Get a plane ticket.",
+        "Book a hotel.",
+        "Register for a game."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t18-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Vous avez une expérience dans l’éducation ?\nVous avez du temps libre et vous avez envie d’aider des élèves en difficulté ?\nOffrez vos services de soutien scolaire dans notre association de quartier.\nÉcrivez-nous à : avotreservice@mandarine.fr",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this ad propose?",
+      "options": [
+        "De donner des cours.",
+        "De garder des enfants.",
+        "De rencontre des voisins.",
+        "De suivre des formations."
+      ],
+      "optionTranslations": [
+        "To give lessons.",
+        "To look after children.",
+        "To meet neighbors.",
+        "To take training courses."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t18-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Marché facile est une application pour téléphone portable qui vous conseille les bons fruits et légumes de saison dans les supermarchés.\nElle donne aussi des informations sur le fromage, la viande et le poisson.",
+      "question": "À quoi sert cette application ?",
+      "questionTranslation": "What is this application used for?",
+      "options": [
+        "À acheter sur internet.",
+        "À choisir ses produits.",
+        "À noter les magasins.",
+        "À trouver des recettes."
+      ],
+      "optionTranslations": [
+        "To buy on the internet.",
+        "To choose one's products.",
+        "To rate stores.",
+        "To find recipes."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t18-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Montréal, la plus grande ville du Québec, figure en tête de liste des métropoles francophones.\nPartons à la découverte de ce morceau du Vieux Continent intégré au Nouveau Monde !\nOn la décrit comme la cité la plus européenne d’Amérique, mais surtout comme la plus américaine des francophones.\nEt c’est d’abord cet aspect-là qui surprend les Européens tout juste arrivés dans cette ville pleine d’énergie et de caractère.",
+      "question": "Pourquoi cette ville est-elle particulière ?",
+      "questionTranslation": "Why is this city particular?",
+      "options": [
+        "C’est la destination préférée des touristes français.",
+        "De plus en plus de jeunes souhaitent s’y installer.",
+        "Elle réunit les caractéristiques de deux continents.",
+        "On y entend des langues du monde entier."
+      ],
+      "optionTranslations": [
+        "It is the favorite destination of French tourists.",
+        "More and more young people wish to settle there.",
+        "It brings together characteristics of two continents.",
+        "Languages from all over the world are heard there."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "SAUVEZ DES VIES\nTous les samedis pendant l’été, vous pouvez donner votre sang pour les malades et les blessés.\nOù ?\nDans un camion spécialisé garé devant la mairie.\nNOUS AVONS BESOIN DE VOUS !",
+      "question": "Que propose cette annonce ?",
+      "questionTranslation": "What does this announcement propose?",
+      "options": [
+        "D’aider des malades.",
+        "De faire un don.",
+        "De s’informer à la mairie.",
+        "De travailler l’été."
+      ],
+      "optionTranslations": [
+        "To help the sick.",
+        "To make a donation.",
+        "To get information at the town hall.",
+        "To work during the summer."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t18-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Nous cherchons des acteurs sportifs entre 18 et 45 ans.\nExpérience comme chanteur et danseur souhaitée.\nLe tournage se fera à Limoges.\nSi vous êtes intéressé(e), envoyez votre CV à casting@art.com.",
+      "question": "Quelle activité est proposée dans cette annonce ?",
+      "questionTranslation": "What activity is proposed in this ad?",
+      "options": [
+        "Écrire une pièce.",
+        "Jouer dans un film.",
+        "Organiser un concert.",
+        "Participer à une course."
+      ],
+      "optionTranslations": [
+        "Writing a play.",
+        "Acting in a film.",
+        "Organizing a concert.",
+        "Participating in a race."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t18-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "VOUS MANGEZ ITALIEN, D AD AD AD ANSEZ LE FLAMENCO OU APPRENEZ LE SUÉDOIS ?\nPartagez vos images qui montrent que l’Europe fait partie de votre vie.\nParticipez au concours « Fenêtres sur l’Europe ».\nÀ gagner : un séjour à Bruxelles ou un atelier cuisine.",
+      "question": "Que propose ce concours ?",
+      "questionTranslation": "What does this contest propose?",
+      "options": [
+        "De découvrir une langue",
+        "De faire un spectacle",
+        "D’envoyer des photos",
+        "Inventer une recette"
+      ],
+      "optionTranslations": [
+        "To discover a language",
+        "To put on a show",
+        "To send photos",
+        "To invent a recipe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Lundi prochain, en France, les librairies organisent une soirée du livre de jeunesse.\nAu programme, des activités pour enfants et des dégustations de desserts.\nOn pourra aussi voir sur grand écran les princes et princesses du cinéma.",
+      "question": "Que pourra-t-on faire aux soirées du livre de jeunesse ?",
+      "questionTranslation": "What will people be able to do at the youth book evenings?",
+      "options": [
+        "Écouter des chansons.",
+        "Gagner des cadeaux.",
+        "Goûter des recettes.",
+        "Jouer dans un film."
+      ],
+      "optionTranslations": [
+        "Listen to songs.",
+        "Win gifts.",
+        "Taste recipes.",
+        "Act in a movie."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Et si on partait vivre à la campagne ?\nBeaucoup d’habitants de la ville rêvent d’une maison, d’un jardin potager.\nEn justement, de plus en plus de régions et de villes s’organisent pour attirer ces candidats et leur famille au départ.\nUn salon est organisé sur cette question aujourd’hui à Paris.\nSelon un sondage, 30% des habitants de l’agglomération parisienne seraient prêts à partir.\nS’ils pouvaient pratiquer une activité professionnelle qui leur plaît, ils partiraient",
+      "question": "sans hésiter. Selon cet article, à quelle condition les gens quitteraient la ville ?",
+      "questionTranslation": "According to this article, on what condition would people leave the city?",
+      "options": [
+        "Avoir un logement spacieux.",
+        "Exercer un travail satisfaisant.",
+        "Modifier le rythme quotidien.",
+        "Se rapprocher du monde agricole."
+      ],
+      "optionTranslations": [
+        "Have spacious housing.",
+        "Exercise a satisfying job.",
+        "Change the daily rhythm.",
+        "Get closer to the agricultural world."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t18-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La ville de Nantes a de quoi séduire grâce à son dynamisme culturel.\nSon renouveau, débuté il y a plus de deux décennies, est exceptionnel.\nElle a retrouvé le goût du risque, un grain de folie et un peu de naïveté.\nNantes, la bourgeoise cité des ducs de Bretagne est une vraie boîte à idées, toujours en quête de nouvelles manières de conjuguer le « vivre ensemble ».\nPas étonnant qu’elle connaisse une des plus fortes croissances des métropoles de France.",
+      "question": "Qu’est-ce qui attire les gens à Nantes ?",
+      "questionTranslation": "What attracts people to Nantes?",
+      "options": [
+        "Sa position géographique.",
+        "Ses traditions régionales.",
+        "Son ambiance créative.",
+        "Son économie stable."
+      ],
+      "optionTranslations": [
+        "Its geographical position.",
+        "Its regional traditions.",
+        "Its creative atmosphere.",
+        "Its stable economy."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "PEDAGOGIE\nTwitter dès l’école primaire, pour donner le goût d’écrire, de lire et de l’orthographe.\nUn instituteur raconte: « J’utilise Twitter dans ma classe depuis un an. Les productions d’élèves sont de plus en plus intéressantes. Grâce à Twitter, je peux approfondir les notions de façon concrète.\nLes activités scolaires paraissent artificielles, hors contexte voire dénuées de sens. Pourquoi essayer de maîtriser l’écriture ? Les enfants n’y songent même pas, car leurs travaux sont cantonnés à des cahiers, eux-mêmes enfermés dans des casiers ou des cartables.\nIls n’ont pas l’occasion de partager leurs productions, de les confronter,",
+      "question": "d’argumenter leurs choix. » D’après cet article, qu’apporte l’utilisation de Twitter aux élèves ?",
+      "questionTranslation": "According to this article, what does the use of Twitter bring to the students?",
+      "options": [
+        "Ils apprennent à se servir correctement des réseaux sociaux.",
+        "Ils communiquent plus facilement avec l’instituteur.",
+        "Ils comprennent mieux l’intérêt des apprentissages proposés.",
+        "Ils sont attentifs après un moment de détente."
+      ],
+      "optionTranslations": [
+        "They learn to use social networks correctly.",
+        "They communicate more easily with the teacher.",
+        "They better understand the interest of the proposed learnings.",
+        "They are attentive after a moment of relaxation."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Les recherches sur le cerveau et le numérique n’en sont qu’à leurs débuts.\nSi le cerveau reste génétiquement constant, il s’adapte culturellement aux innovations de l’époque.\nAinsi, depuis que nous utilisons les objets connectés, notre rapport à la mémoire a changé.\nQuant à la concentration, trois facteurs perturbent son fonctionnement : le fait de tenter de faire plusieurs tâches à la fois, celui d’être bombardé d’informations, et enfin celui d’être interrompu fréquemment par des notifications.\nPar conséquent, les apprentissages, l’assimilation des informations et la capacité d’enchaîner les tâches s’en trouvent ralentis.",
+      "question": "Qu’explique ce texte au sujet des outils numériques ?",
+      "questionTranslation": "What does this text explain about digital tools?",
+      "options": [
+        "Ils améliorent l’efficacité au travail.",
+        "Ils dérèglent les rythmes biologiques.",
+        "Ils fluidifient les relations sociales.",
+        "Ils modifient les aptitudes mentales."
+      ],
+      "optionTranslations": [
+        "They improve work efficiency.",
+        "They disrupt biological rhythms.",
+        "They make social relationships smoother.",
+        "They modify mental aptitudes."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t18-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Il y a quelque chose de rare dans « Normandie nue » : ce film est résolument léger, tout en ayant du fond.\nÀ travers une histoire qui sert de fil conducteur cocasse et insolite - celle d’un artiste américain qui veut photographier des paysans dévêtus -, « Normandie nue » aborde la crise des éleveurs avec beaucoup d’humanité, notamment grâce au maire du village qui voit dans la venue du photographe l’occasion de faire valoir sa cause aux yeux de la planète.\nParfois un peu maladroite, cette comédie amuse en caricaturant gentiment les médias, les artistes et les bobos parisiens en mal de verdure.",
+      "question": "Quelle est l’opinion du journaliste sur le film « Normandie nue » ?",
+      "questionTranslation": "What is the journalist's opinion on the film 'Normandie nue'?",
+      "options": [
+        "Il est facile de s’identifier aux personnages.",
+        "Les lieux de tournage sont authentiques.",
+        "On y dresse un portrait juste de la société.",
+        "Son humour fait passer un message sérieux."
+      ],
+      "optionTranslations": [
+        "It is easy to identify with the characters.",
+        "The filming locations are authentic.",
+        "A fair portrait of society is drawn there.",
+        "Its humor conveys a serious message."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t18-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale : provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région.\n« Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir », explique Mathieu.\nLa société Roquefort leur a fourni les fromages. Ils ont raconté leurs aventures dans un blog de voyage.",
+      "question": "Quel était l’objectif de Mathieu et Élodie ?",
+      "questionTranslation": "What was Mathieu and Élodie's objective?",
+      "options": [
+        "Découvrir des recettes locales",
+        "Entrer en contact avec les gens",
+        "Réaliser une opération publicitaire",
+        "Vendre des spécialités françaises"
+      ],
+      "optionTranslations": [
+        "To discover local recipes",
+        "To get in contact with people",
+        "To carry out an advertising campaign",
+        "To sell French specialties"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t18-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Dans le monde de l’éducation, la mode est au « ludique »\nPas une description d’un nouveau matériel informatique sans l’utilisation de cet adjectif miraculeux.\nN’ayant rien de mieux à offrir, les publications insistent sur le côté « ludique » et neutre de leur matériel, sous-entendant ainsi que les difficultés des enfants sont liées uniquement au côté poussiéreux de la présentation d’exercice et à l’ennui qu’ils suscitent.\nEn changeant l’apparence, on suscitera l’intérêt et la réussite sera assurée.\nLa rééducation risque d’être perçue comme la modernisation de la pédagogie sans autre questionnement sur l’échec de la pédagogie traditionnelle.",
+      "question": "Que reproche l’auteur du texte à la mode du ludique ?",
+      "questionTranslation": "What does the author of the text criticize about the 'playful' trend?",
+      "options": [
+        "Elle demande des connaissances techniques poussées",
+        "Elle empêche les jeunes utilisateurs de se concentrer",
+        "Elle masque les problèmes pédagogiques essentiels",
+        "Elle sert sans succès d’argument commercial"
+      ],
+      "optionTranslations": [
+        "It requires advanced technical knowledge",
+        "It prevents young users from concentrating",
+        "It masks essential pedagogical problems",
+        "It serves unsuccessfully as a commercial argument"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Elle devait être démolie et un nouveau lieu de culte reconstruit à l’arrière de l’église actuelle, le long du boulevard.\nLe projet, qui prévoyait la restructuration complète de l’îlot avec la création de logements sociaux, ne verra finalement pas le jour.\nLa Ville et le diocèse ont pris la décision de conserver l’église Sainte-Madeleine considérant avec certains experts que sa démolition aurait causé la perte regrettable d’un élément important du patrimoine nantais.\nDes travaux d’urgence vont être réalisés avant le lancement d’un véritable programme de restauration et de mise en valeur du bâtiment.",
+      "question": "Selon cet article, quelle décision a été prise ?",
+      "questionTranslation": "According to this article, what decision was taken?",
+      "options": [
+        "Bâtir une église identique dans le quartier",
+        "Débuter le réaménagement du boulevard",
+        "Entreprendre une rénovation du lieu",
+        "Réhabiliter les logements sociaux existants"
+      ],
+      "optionTranslations": [
+        "Build an identical church in the neighborhood",
+        "Begin the redevelopment of the boulevard",
+        "Undertake a renovation of the place",
+        "Rehabilitate existing social housing"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La charte des Jeux olympiques est sans ambiguïté : les deux langues officielles du comité international olympique sont le français et l’anglais.\nUne étude permettant d’identifier la place et le statut de la langue française dans les organisations sportives internationales a été lancée en 2008.\nLes francophones sont présents dans les instances des fédérations sportives internationales, mais en nombre insuffisant aux postes de décision.\nLes documents officiels étant rarement rédigés en français, priorité a donc été accordée à l’aide à la traduction des textes et à la mobilisation des francophones dans leur ensemble, afin qu’ils s’entraident à accéder aux postes décisionnels.",
+      "question": "À quel constat a abouti l’enquête sur la place de la francophonie dans le mouvement sportif mondial ?",
+      "questionTranslation": "What conclusion did the survey reach regarding the place of the Francophonie in the global sports movement?",
+      "options": [
+        "La langue française et l’anglais jouissent d’un statut équitable.",
+        "Les ligues sportives internationales comptent peu de francophones.",
+        "Les textes officiels et les règlements sont traduits en langue française.",
+        "Très peu de francophones occupent des fonctions à responsabilité."
+      ],
+      "optionTranslations": [
+        "The French language and English enjoy an equitable status.",
+        "International sports leagues count few Francophones.",
+        "Official texts and regulations are translated into the French language.",
+        "Very few Francophones hold positions of responsibility."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t18-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les villes se montrent soucieuses d’améliorer leur qualité de l’air. Une solution :\nla plantation d’arbres.\nEn effet, les arbres filtrent les particules contenues dans l’atmosphère.\nMais la plantation d’arbres doit être réfléchie.\nIl est pertinent de mettre des arbres le long des axes de circulation pour protéger les habitations des polluants, mais aussi dans les zones piétonnes.\nLe choix des arbres a aussi son importance.\nLes espèces d’arbres plantées il y a 50 ans ne répondent pas aux besoins d’aujourd’hui, car elles forment un couvercle retenant au sol la pollution.\nEn revanche, les arbres aux feuilles poilues sont, eux, efficaces.",
+      "question": "À quelle condition les arbres peuvent-ils aider à combattre la pollution urbaine ?",
+      "questionTranslation": "Under what condition can trees help combat urban pollution?",
+      "options": [
+        "S’ils appartiennent à une espèce adéquate.",
+        "S’ils ont des feuilles persistantes en hiver.",
+        "S’ils ont été plantés il y a longtemps.",
+        "S’ils se trouvent loin des zones de logement."
+      ],
+      "optionTranslations": [
+        "If they belong to an adequate species.",
+        "If they have evergreen leaves in winter.",
+        "If they were planted a long time ago.",
+        "If they are located far from housing areas."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t18-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les bénéfices du bio pour la santé et pour l’environnement sont aujourd’hui prouvés.\nMais pour ses détracteurs, ce type de production ne serait pas viable, faute de rendements suffisants pour subvenir aux besoins d’une planète à la démographie galopante.\nUne idée répandue que réfutent des chercheurs européens qui affirment qu’il est possible de nourrir plus de 9 milliards d’êtres humains en 2050 avec 100% d’agriculture biologique, à deux conditions : réduire le gaspillage alimentaire et limiter la consommation de produits d’origine animale.\nUn défi de taille, alors que le bio ne représente que 1% de la surface agricole utile dans le monde.",
+      "question": "De quel défi est-il question ?",
+      "questionTranslation": "What challenge is discussed?",
+      "options": [
+        "Augmenter la surface des terres agricoles.",
+        "Garantir la qualité des aliments pour animaux.",
+        "Généraliser l’agriculture biologique.",
+        "Lutter contre la démographie galopante."
+      ],
+      "optionTranslations": [
+        "Increase the surface area of agricultural land.",
+        "Ensure the quality of animal feed.",
+        "Generalize organic farming.",
+        "Fight against galloping demographics."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Paris veut réduire de 30% l’exposition aux ondes des antennes-relais pour devenir la métropole la plus protectrice d’Europe.\nMaîtriser l’exposition des Parisiens aux ondes, tout en continuant à faire de Paris une capitale numérique, c’est le double objectif de la nouvelle charte de téléphonie mobile que la maire soumettra fin mars au Conseil de Paris.\nIl s’agit de trouver un équilibre entre préoccupations de santé publique et bonne qualité du service de téléphonie mobile.",
+      "question": "Quel est l’objectif de la ville de Paris ?",
+      "questionTranslation": "What is the goal of the city of Paris?",
+      "options": [
+        "Améliorer la puissance de la réception.",
+        "Diminuer les risques sanitaires.",
+        "Limiter les dépenses de la ville.",
+        "Respecter les normes internationales."
+      ],
+      "optionTranslations": [
+        "Improve reception power.",
+        "Decrease health risks.",
+        "Limit city expenses.",
+        "Respect international standards."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t18-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les conséquences de l’analphabétisme sont profondes, au point qu’elles peuvent mettre la vie en danger.\nElles s’enracinent dans le refus d’un droit humain fondamental : le droit à l’éducation.\nÀ l’échelle de la société, dénier le droit à l’éducation, c’est hypothéquer le progrès démocratique et social – et par conséquent, la paix et la sécurité internationales.\nEn empêchant les enfants de se développer pleinement, l’analphabétisme sème d’embûches leur chemin vers l’âge adulte et rend encore plus difficile leur compréhension du monde dans sa diversité aussi bien que des valeurs de paix et d’égalité entre les personnes.\nL’analphabétisme prive également l’individu d’autres joies, comme celles de la",
+      "question": "culture et de l’art en général. Selon ce texte, que favorise le respect du droit à l’éducation ?",
+      "questionTranslation": "According to this text, what does respect for the right to education favor?",
+      "options": [
+        "La constitution d’une culture nationale.",
+        "La stimulation de la croissance économique.",
+        "L’amélioration des comportements sanitaires.",
+        "Le développement d’une conscience civique."
+      ],
+      "optionTranslations": [
+        "The constitution of a national culture.",
+        "The stimulation of economic growth.",
+        "The improvement of health behaviors.",
+        "The development of a civic consciousness."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t18-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Plus de 40 % des espèces d’insectes sont en déclin et un tiers sont menacés.\nLeur taux de mortalité est huit fois plus rapide que celui des mammifères. À ce rythme, s’inquiètent les scientifiques, les insectes pourraient disparaître d’ici un siècle. Cette prévision est préoccupante, car ils sont essentiels au bon fonctionnement de tous les écosystèmes. Ils pollinisent les plantes, recyclent les nutriments, et servent de nourriture aux autres animaux. Leur disparition « aura des conséquences catastrophiques à la fois pour les écosystèmes de la planète et pour la survie de l’humanité ».\n« Si les modes de production alimentaire ne changent pas, les insectes dans leur ensemble s’engageront sur la voie de l’extinction dans quelques décennies », écrivent les chercheurs.",
+      "question": "D’après l’article, qu’est-ce qui est à l’origine de la disparition des insectes ?",
+      "questionTranslation": "According to the article, what is the origin of the disappearance of insects?",
+      "options": [
+        "Les changements de climat.",
+        "Les méthodes de culture.",
+        "Les oiseaux prédateurs.",
+        "Les politiques publiques."
+      ],
+      "optionTranslations": [
+        "Climate changes.",
+        "Farming methods.",
+        "Predatory birds.",
+        "Public policies."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t18-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Deux mondes s’affrontent : ceux de l’ancienne agriculture et de la nouvelle.\nLe productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps.\nLes tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu’il n’existe pas d’autre solution.\nNotre enquête montre le contraire : l’alliance de la technologie et de l’écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous.\nC’est la voie de la sagesse autant que de la modernité.\nD’après Libération.fr.",
+      "question": "Que défend le journaliste ?",
+      "questionTranslation": "What does the journalist defend?",
+      "options": [
+        "L’accès universel à des aliments bon marché.",
+        "L’innovation des procédés de production.",
+        "Le développement du commerce équitable.",
+        "Le partage d’expériences traditionnelles."
+      ],
+      "optionTranslations": [
+        "Universal access to cheap food.",
+        "The innovation of production processes.",
+        "The development of fair trade.",
+        "The sharing of traditional experiences."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t18-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "« Il faut te le dire en quelle langue ? »\nCette question, que des milliers de mères posent à leur enfant lorsqu’elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères).\nDes travaux scientifiques récents ont en effet démontré une réalité étonnante :\nnous réfléchissons et prenons des décisions différemment lorsque nous traitons l’information dans une autre langue que notre langue maternelle.\nNous comprenons tout aussi bien l’idée ou le problème, mais lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l’utilité.",
+      "question": "Que permet l’utilisation d’une langue autre que la langue maternelle ?",
+      "questionTranslation": "What does the use of a language other than the native language allow?",
+      "options": [
+        "D’attirer l’attention de l’interlocuteur.",
+        "D’imaginer des solutions originales.",
+        "De solliciter davantage la raison.",
+        "De trouver des réponses rapides."
+      ],
+      "optionTranslations": [
+        "To attract the interlocutor's attention.",
+        "To imagine original solutions.",
+        "To solicit reason more.",
+        "To find quick answers."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Depuis un an, l’association du Théâtre de la poudrerie, située à Sevran, à quelques kilomètres de Paris, organise des représentations gratuites à domicile d’une pièce inédite.\nPour cela, l’association a convié une auteure professionnelle à venir en résidence pour l’écrire.\nElle a recueilli le témoignage d’une trentaine d’habitantes sur le thème du pouvoir féminin, puis écrit son texte à partir de cette matière première.\nL’enjeu pour cette association est que les spectateurs s’approprient la pièce :\nquand il y a un phénomène d’identification, la parole se libère lors de la rencontre qui suit la représentation.\nCe phénomène est amplifié par ce cadre intimiste qui favorise le rapprochement des spectateurs et des comédiens.",
+      "question": "Quel objectif poursuit cette association avec ce projet ?",
+      "questionTranslation": "What goal is this association pursuing with this project?",
+      "options": [
+        "Encourager le dialogue avec le public.",
+        "Former des acteurs en banlieue.",
+        "Réaliser une œuvre à plusieurs mains.",
+        "Sensibiliser à l’égalité des sexes."
+      ],
+      "optionTranslations": [
+        "Encourage dialogue with the public.",
+        "Train actors in the suburbs.",
+        "Create a work with multiple hands (collaboratively).",
+        "Raise awareness about gender equality."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t18-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Le stress est l’ennemi numéro 1 du bien-être.\nQuand il prend le dessus, on perd sa motivation et on manque continuellement d’énergie.\nLes médecins sont formels : le stress est souvent à l’origine de dysfonctionnements physiques.\nC’est aussi une cause directe du vieillissement prématuré.\nUne personne stressée se replie sur elle-même et renonce progressivement à profiter de certaines de ses capacités mentales.\nVoici comment canaliser ce stress pour le transformer en énergie positive :\napprendre à bien respirer, ne plus gaspiller ses forces à réfléchir aux actions du passé, changer les mauvaises habitudes et finalement savoir se ménager au",
+      "question": "quotidien. Qu’apprend-on sur le stress dans cet article ?",
+      "questionTranslation": "What do we learn about stress in this article?",
+      "options": [
+        "C’est un handicap qui peut se transformer en atout.",
+        "Il décuple l’ensemble des aptitudes cérébrales.",
+        "Il est officiellement reconnu comme une maladie.",
+        "Ses effets touchent plus particulièrement les seniors."
+      ],
+      "optionTranslations": [
+        "It is a handicap that can be transformed into an asset.",
+        "It increases all brain skills tenfold.",
+        "It is officially recognized as a disease.",
+        "Its effects affect seniors in particular."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t18-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Souvent critiquée pour la qualité de son service, la société berlinoise des transports en commun a fait parler d’elle en proposant 500 paires de « chaussures-billets » aux couleurs des banquettes du métro berlinois.\nVendues 180 euros, ces baskets incluent un abonnement annuel métro-bus- tram (hors trains de banlieue), contre 761 euros pour un forfait classique.\nLes consommateurs séduits par ce concept commercial qui permet de voyager presque gratuitement sur une partie du réseau ont formé une longue file d’attente.\nCertains ont même tenté de revendre en ligne leur paire « collector », à un tarif de base quintuplé.",
+      "question": "Quel est l’objectif de la société berlinoise des transports ?",
+      "questionTranslation": "What is the objective of the Berlin transport company?",
+      "options": [
+        "Attirer l’attention grâce à un coup de publicité.",
+        "Concurrencer les autres moyens de locomotion.",
+        "Multiplier le nombre de souscripteurs par internet.",
+        "Permettre de voyager extramuros à moindres frais."
+      ],
+      "optionTranslations": [
+        "To attract attention thanks to a publicity stunt.",
+        "To compete with other means of locomotion.",
+        "To multiply the number of subscribers via the internet.",
+        "To allow travel outside the city at lower costs."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t18-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "« Un produit qui ne s’userait pas serait une tragédie pour les affaires », lisait-on dans une ancienne revue américaine.\nDes années plus tard, le concept d’obsolescence programmée n’a pas pris une ride !\nIl s’agit pour les fabricants de réduire volontairement la durée de vie ou d’emploi d’un produit afin d’en augmenter le taux de remplacement.\nIci se cache le cœur de la course à la consommation.\nLe bilan écologique est également sans appel : les matières que contiennent nos appareils finissent en grande partie en déchets incinérés ou enfouis.\nL’exemple du téléphone portable en dit long : dans un rapport, une sénatrice souligne que « la conception des téléphones est délibérément défavorable au réemploi et au recyclage ».",
+      "question": "Que constate ce journaliste à propos des articles proposés par les fabricants ?",
+      "questionTranslation": "What does this journalist observe about the items offered by manufacturers?",
+      "options": [
+        "Ils se détériorent après un certain temps.",
+        "Ils sont dangereux pour la santé.",
+        "Ils sont nuisibles pour l’environnement.",
+        "Ils sont vendus à des prix élevés."
+      ],
+      "optionTranslations": [
+        "They deteriorate after a certain time.",
+        "They are dangerous for health.",
+        "They are harmful to the environment.",
+        "They are sold at high prices."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t18-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Le Sénat a adopté une proposition de loi visant à lutter contre l’exposition précoce des enfants aux écrans.\nElle prévoit qu’un message avertissant des dangers des écrans chez les enfants de moins de 3 ans devra apparaître sur les emballages des outils et jeux numériques.\nCette initiative salutaire n’a rien d’un gadget : de nombreux psychologues et pédopsychiatres considèrent que l’exposition aux écrans avant 3 ans peut être nocive pour un cerveau en construction, notamment parce qu’elle parasite l’interaction avec autrui.\nVerra-t-on bientôt un autocollant « à utiliser avec modération » ?\nSur les consoles de jeu et les tablettes ?",
+      "question": "D’après cet article, quel est l’objectif de cette loi ?",
+      "questionTranslation": "According to this article, what is the objective of this law?",
+      "options": [
+        "Encadrer le marché du numérique.",
+        "Prévenir l’addiction aux jeux vidéo.",
+        "Protéger les enfants des ondes.",
+        "Restreindre l’impact des écrans."
+      ],
+      "optionTranslations": [
+        "Regulate the digital market.",
+        "Prevent addiction to video games.",
+        "Protect children from waves.",
+        "Restrict the impact of screens."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t18-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Maintenant elles étaient là.\nNon plus en éveil, en méfiance, et rassemblées sous l’influence de la crainte par troupes, hardes, files et bandes, selon la race, la tribu, la famille, mais confondues et mêlées au sein d’une sécurité ineffable dans la trêve de l’eau.\nEn paix avec la brousse, elles-mêmes et l’aurore.\nÀ la distance où je me trouvais, il n’était pas possible de distinguer l’inflexion des mouvements, ou l’harmonie des couleurs.\nMais cette distance ne m’empêchait pas de voir que les bêtes se comptaient par centaines et centaines, que toutes les espèces voisinaient, et que cet instant de leur vie ne connaissait pas la peur ou la hâte.\nGazelles, antilopes, girafes, gnous, zèbres, rhinocéros, buffles, éléphants - les animaux s’arrêtaient ou se déplaçaient au pas du loisir au gré de la soif, au goût",
+      "question": "du hasard. Quelle phrase résume exactement cet extrait de roman ?",
+      "questionTranslation": "Which sentence exactly summarizes this novel excerpt?",
+      "options": [
+        "Je ressentais pleinement l’anxiété des bêtes.",
+        "Je percevais parfaitement la quiétude de cet instant.",
+        "Je découvrais inopinément un spectacle effrayant et inquiétant.",
+        "J’éprouvais un sentiment de crainte face à ces troupeaux d’animaux sauvages."
+      ],
+      "optionTranslations": [
+        "I fully felt the anxiety of the beasts.",
+        "I perfectly perceived the quietude of this moment.",
+        "I unexpectedly discovered a frightening and disturbing spectacle.",
+        "I felt a sense of fear facing these herds of wild animals."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t18-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Les études le montrent : loin de disparaître, la pause-déjeuner reste un moment sacré pour une très grande majorité du personnel.\nEt pas seulement pour se restaurer et recharger ses batteries.\nCette coupure rituelle est aussi l’occasion de partager un moment avec ses collègues, d’échanger, de nouer des liens de convivialité.\nImmuable, la pause-déjeuner connaît pourtant depuis quelques années d’importantes mutations.\nLa crise économique a évidemment eu ses effets, en pesant sur le budget du consommateur.\nMais les bouleversements vont au-delà de ces aspects purement financiers et s’étendent au domaine alimentaire.\nAutrefois prépondérant, le souci de quantité a laissé la place à la sélection, gage selon les consommateurs de plus de qualité.\nDans les restaurants d’entreprises, les salariés vont privilégier une offre moins large, mais mieux choisie.",
+      "question": "Qu’apprend-on sur la pause-déjeuner au travail ?",
+      "questionTranslation": "What do we learn about the lunch break at work?",
+      "options": [
+        "Elle engendre une baisse du rendement du personnel.",
+        "Elle est en partie prise en charge par les entreprises.",
+        "Les employés sont attachés à l’origine des aliments.",
+        "Les salariés ont tendance à la prendre à l’extérieur."
+      ],
+      "optionTranslations": [
+        "It causes a drop in staff performance.",
+        "It is partly covered by companies.",
+        "Employees are attached to the origin of the foods.",
+        "Employees tend to take it outside."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t18-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "La créativité instinctive, qui serait naturelle, est souvent opposée à la créativité plus rationalisée, cérébrale et éduquée, notamment en musique.\nLes musiciens ont tendance à surestimer la première, avec l’idée que moins on en sait, mieux c’est.\nComme si la connaissance risquait de mettre des œillères et d’enfermer la créativité dans un cadre, à la manière d’un adulte qui s’autoriserait moins à imaginer des choses fantaisistes qu’un enfant.\nCe n’est pas impossible, mais la créativité est la capacité du cerveau à faire des associations mentales originales et cohérentes.\nUne éducation musicale, associée à l’intelligence, peut faciliter ces associations puisqu’elle nourrit le cerveau d’expériences, notamment esthétiques pour les artistes, et d’idées que l’on peut ensuite lier.",
+      "question": "Que souligne ce journaliste à propos du processus de création musicale ?",
+      "questionTranslation": "What does this journalist emphasize regarding the musical creation process?",
+      "options": [
+        "Il mobilise une zone spécifique du cerveau.",
+        "Il s’avère plus spontané chez les enfants.",
+        "Il s’enrichit des connaissances théoriques.",
+        "Il semble réservé aux esprits imaginatifs."
+      ],
+      "optionTranslations": [
+        "It mobilizes a specific zone of the brain.",
+        "It proves to be more spontaneous in children.",
+        "It is enriched by theoretical knowledge.",
+        "It seems reserved for imaginative minds. Retry test All tests"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

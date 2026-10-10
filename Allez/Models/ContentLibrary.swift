@@ -42,8 +42,14 @@ struct ContentLibrary {
 
     var allQuestions: [Question] { sets.flatMap(\.questions) }
 
+    /// Questions for practice. Tests reuse many questions, so repeats are only counted once.
     func questions(for skill: Skill, level: Level? = nil) -> [Question] {
-        allQuestions.filter { $0.skill == skill && (level == nil || $0.level == level) }
+        var seen = Set<String>()
+        return allQuestions.filter { question in
+            question.skill == skill
+                && (level == nil || question.level == level)
+                && seen.insert(question.contentKey).inserted
+        }
     }
 
     func tests(for skill: Skill) -> [QuestionSet] {

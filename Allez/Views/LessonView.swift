@@ -157,12 +157,30 @@ private struct FeedbackBar: View {
                 .foregroundStyle(color)
             }
 
-            if let explanation = question.explanation {
-                Text(explanation)
-                    .font(.subheadline)
-                    .foregroundStyle(.primary.opacity(0.8))
-                    .fixedSize(horizontal: false, vertical: true)
+            ScrollView {
+                VStack(alignment: .leading, spacing: 8) {
+                    if let explanation = question.explanation {
+                        Text(explanation)
+                    } else if let questionTranslation = question.questionTranslation {
+                        // No explanation yet: show the question and answer in English instead.
+                        Text(questionTranslation).bold()
+                            + Text(question.correctAnswerTranslation.map { " → " + $0 } ?? "")
+                    } else if let answer = question.correctAnswerTranslation {
+                        Text(answer)
+                    }
+                    if question.answerDisputed == true {
+                        Label("Cette réponse est contestée par d'autres candidats.", systemImage: "exclamationmark.triangle.fill")
+                            .font(.footnote.weight(.semibold))
+                            .foregroundStyle(Theme.gold)
+                    }
+                }
+                .font(.subheadline)
+                .foregroundStyle(.primary.opacity(0.8))
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .fixedSize(horizontal: false, vertical: true)
             }
+            .scrollBounceBehavior(.basedOnSize)
+            .frame(maxHeight: 160)
 
             Button("Continuer", action: onContinue)
                 .buttonStyle(ChunkyButtonStyle(

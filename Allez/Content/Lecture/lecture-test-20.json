@@ -1,0 +1,828 @@
+{
+  "id": "tcf-lecture-20",
+  "title": "Test 20",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t20-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "La société des transports T2C offre plusieurs moyens de transport publics :\ntrente-quatre stations de tramway, de train et de métro en journée, 23 lignes de bus, dont une de nuit.\nPlus de renseignements sur notre site www.t2c.fr !",
+      "question": "Quel transport circule après 23h ?",
+      "questionTranslation": "Which transport runs after 11 PM?",
+      "options": [
+        "Le bus.",
+        "Le métro.",
+        "Le train.",
+        "Le tramway."
+      ],
+      "optionTranslations": [
+        "The bus.",
+        "The metro.",
+        "The train.",
+        "The tramway."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Visite d’un musée des beaux-arts vendredi prochain.\nMerci de donner deux tickets de métro à votre enfant.\nLe professeur.",
+      "question": "Qu’est-ce que les parents payent pour cette activité ?",
+      "questionTranslation": "What do the parents pay for this activity?",
+      "options": [
+        "L’entrée",
+        "Le guide",
+        "Le repas",
+        "Le transport"
+      ],
+      "optionTranslations": [
+        "The admission",
+        "The guide",
+        "The meal",
+        "The transportation"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t20-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "À louer : logement très lumineux de trois pièces avec une cuisine équipée, parfait pour des parents avec enfants.\nSitué au deuxième étage d’un bel immeuble avec ascenseur, dans un quartier calme, proche des commerces.\n10 minutes à pied de l’université.",
+      "question": "Qu’est-ce qu’on peut louer ?",
+      "questionTranslation": "What is available for rent?",
+      "options": [
+        "Un appartement familial.",
+        "Un logement étudiant.",
+        "Une chambre en colocation.",
+        "Une maison de campagne."
+      ],
+      "optionTranslations": [
+        "A family apartment.",
+        "Student housing.",
+        "A room in a shared flat.",
+        "A country house."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Collège S. Veil - Concert Chant et Musique pour tous.\nLe 20 mai à 20h00, venez écouter vos enfants et leurs professeurs de musique chanter et jouer de leurs instruments.\nEntrée : minimum 5€.\nL’argent des entrées financera une visite de l’opéra pour les classes du collège.\nVenez nombreux.",
+      "question": "Qui est invité ?",
+      "questionTranslation": "Who is invited?",
+      "options": [
+        "Les artistes.",
+        "Les élèves.",
+        "Les enseignants.",
+        "Les familles."
+      ],
+      "optionTranslations": [
+        "The artists.",
+        "The students.",
+        "The teachers.",
+        "The families."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t20-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "SAMEDI 29 JUIN,\nVENEZ COURIR 10KM POUR AIDER L’ASSOCIATION « TOUT ENSEMBLE POUR LA PAIX ».\nRENDEZ-VOUS À 10H, AU PARC DE VINCENNES.\nAMBIANCE SYMPATHIQUE ET REPAS OFFERT POUR LES SPORTIFS.\nVENEZ NOMBREUX !",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this announcement propose?",
+      "options": [
+        "D’aider à organiser une fête.",
+        "De devenir membre d’une association.",
+        "De distribuer des repas gratuits.",
+        "De participer à un événement sportif."
+      ],
+      "optionTranslations": [
+        "Helping to organize a party.",
+        "Becoming a member of an association.",
+        "Distributing free meals.",
+        "Participating in a sports event."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t20-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Salut Éric !\nJ’ai fini les cours et je suis maintenant à Montpellier.\nJe suis serveuse dans un restaurant depuis une semaine.\nC’est fatigant, mais j’apprends beaucoup !\nJe serai à Paris à la fin des vacances d’été pour te voir avec les copains.\nCamille.",
+      "question": "Qu’est-ce que Camille explique ?",
+      "questionTranslation": "What is Camille explaining?",
+      "options": [
+        "Elle est en voyage à Montpellier.",
+        "Elle rencontre des amis à Paris.",
+        "Elle suit des cours à l’université.",
+        "Elle travaille dans un restaurant."
+      ],
+      "optionTranslations": [
+        "She is on a trip to Montpellier.",
+        "She is meeting friends in Paris.",
+        "She is taking classes at the university.",
+        "She is working in a restaurant."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t20-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Un cinéma historique en centre-ville, c’est exceptionnel !\nLa famille propriétaire de ce monument n’a pas changé depuis son ouverture en 1911.\nDans ses sept salles, vous trouverez des films internationaux et des événements de qualité chaque semaine.",
+      "question": "Qu’est-ce qu’on apprend sur ce cinéma ?",
+      "questionTranslation": "What do we learn about this cinema?",
+      "options": [
+        "C’est un bâtiment ancien.",
+        "Il se trouve en banlieue.",
+        "On peut y rencontrer des acteurs.",
+        "Ses fils sont en noir et blanc."
+      ],
+      "optionTranslations": [
+        "It is an old building.",
+        "It is located in the suburbs.",
+        "One can meet actors there.",
+        "Its films are in black and white."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "La France est le pays d’Europe où il y a le plus d’animaux par habitant.\nChien, chat, poisson, cheval ou même serpent, les Français adorent s’occuper d’eux, les nourrir, les sortir et vivre à leurs côtés.",
+      "question": "Qu’apprend-on sur les Français et les animaux ?",
+      "questionTranslation": "What do we learn about the French and animals?",
+      "options": [
+        "Ils aiment en voir dans la nature.",
+        "Ils les regardent à la télévision.",
+        "Ils sont nombreux à en avoir.",
+        "Ils vont les voir dans les zoos."
+      ],
+      "optionTranslations": [
+        "They like seeing them in nature.",
+        "They watch them on television.",
+        "Many of them have them.",
+        "They go to see them in zoos."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t20-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Le saviez-vous ?\nLes Galeries Lafayette sont aujourd’hui le site le plus visité à Paris après le musée du Louvre !\nVous pouvez y trouver des vêtements à la mode, des objets pour la maison ou encore des articles de cuisine.",
+      "question": "Qu’est-ce qu’on apprend sur ce grand magasin ?",
+      "questionTranslation": "What do we learn about this department store?",
+      "options": [
+        "Beaucoup de personnes le visitent.",
+        "Il vend des articles bon marché.",
+        "Il y a un célèbre musée à l’intérieur.",
+        "On y donne des cours de cuisine."
+      ],
+      "optionTranslations": [
+        "Many people visit it.",
+        "It sells cheap items.",
+        "There is a famous museum inside.",
+        "Cooking classes are given there."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Marché facile est une application pour téléphone portable qui vous conseille les bons fruits et légumes de saison dans les supermarchés.\nElle donne aussi des informations sur le fromage, la viande et le poisson.",
+      "question": "À quoi sert cette application ?",
+      "questionTranslation": "What is this application used for?",
+      "options": [
+        "À acheter sur internet.",
+        "À choisir ses produits.",
+        "À noter les magasins.",
+        "À trouver des recettes."
+      ],
+      "optionTranslations": [
+        "To buy on the internet.",
+        "To choose one's products.",
+        "To rate stores.",
+        "To find recipes."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t20-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Notre association sportive organise un stage « enfants » pendant les vacances de printemps.\nNous cherchons un animateur/une animatrice avec un bon niveau en tennis pour entraîner les enfants.",
+      "question": "Qu’est-ce que cette annonce propose ?",
+      "questionTranslation": "What does this announcement propose?",
+      "options": [
+        "Un travail avec des enfants.",
+        "Une colonie de vacances.",
+        "Une compétition de sport.",
+        "Une formation d’entraîneur."
+      ],
+      "optionTranslations": [
+        "A job with children.",
+        "A holiday camp.",
+        "A sports competition.",
+        "A coach training course."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Depuis le début de l’année, l’enseigne Devigne a multiplié les offres promotionnelles.\nAu rayon frais, toutes ses plus grandes marques, Dania, Actoveet, ont été bradées.\nMême tendance pour les boissons, avec des offres du type « trois paquets pour le prix de deux ».\nRésultat : cette année, 25 % des ventes de Devigne se feront grâce à ces soldes.\nFranck Ribaud, le patron de Devigne, a donc l’intention de prolonger cette stratégie.\nMieux vaut, dit-il, diminuer les prix que fermer les usines.",
+      "question": "Quelle stratégie commerciale est utilisée par les magasins ?",
+      "questionTranslation": "What commercial strategy is being used by the stores?",
+      "options": [
+        "Baisser certains tarifs.",
+        "Faire plus de publicité.",
+        "Multiplier les produits.",
+        "Ouvrir d’autres magasins."
+      ],
+      "optionTranslations": [
+        "Lower certain prices.",
+        "Do more advertising.",
+        "Increase the number of products.",
+        "Open other stores."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Du 30 décembre au 15 janvier, dans les magasins Jouons à tous les âges, les produits des rayons vélos et jeux vidéo sont à -50 %.\nPour chaque achat, 2 euros seront donnés à Apprendre mieux à l’école, une association qui s’occupe d’enfants de 6 à 15 ans.",
+      "question": "Qu’est-ce que cette publicité annonce ?",
+      "questionTranslation": "What does this advertisement announce?",
+      "options": [
+        "De l’aide pour une association.",
+        "De nouveaux rayons jouets.",
+        "Un concours de jeux vidéo.",
+        "Une remise de 2 euros par article."
+      ],
+      "optionTranslations": [
+        "Help for an association.",
+        "New toy sections.",
+        "A video game competition.",
+        "A discount of 2 euros per item."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "VOUS VOULEZ FAIRE LE TOUR DE FRANCE EN UN APRÈS-MIDI ?\nVenez au parc FRANCE MINI !\nVous y verrez des bâtiments de toute la France, en plus petit.\nVous pourrez passer de la Tour Eiffel au Mont Saint-Michel en quelques minutes.\nEntrée : adulte, 7 € et enfant à partir de 6 ans, 5 €.",
+      "question": "Qu’est-ce qu’on peut faire dans ce parc ?",
+      "questionTranslation": "What can one do in this park?",
+      "options": [
+        "Acheter des souvenirs bon marché.",
+        "Découvrir des monuments connus.",
+        "Se promener à vélo en famille.",
+        "Suivre des visites avec un guide."
+      ],
+      "optionTranslations": [
+        "Buy cheap souvenirs.",
+        "Discover known monuments.",
+        "Ride bikes as a family.",
+        "Follow tours with a guide."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t20-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Trouver le bon diplôme.\nLa validation des acquis de l’expérience est un dispositif qui permet d’obtenir un diplôme après trois années d’activité.\nL’activité exercée doit être en rapport avec le diplôme demandé et le bénévolat dans la vie associative est pris en compte.\nOn peut valider son expérience quel que soit le niveau d’étude et il est possible de bénéficier d’un congé spécial pour présenter son dossier.\nMalheureusement, l’employeur peut le repousser pour raison de service.",
+      "question": "Pour obtenir un diplôme, il faut avoir à son actif :",
+      "questionTranslation": "To obtain a diploma, one must have to their credit:",
+      "options": [
+        "Trois années d’études rémunérées.",
+        "Une période courte sans emploi.",
+        "Un niveau d’études universitaires minimum.",
+        "Trois ans d’expérience professionnelle."
+      ],
+      "optionTranslations": [
+        "Three years of paid studies.",
+        "A short period without employment.",
+        "A minimum university study level.",
+        "Three years of professional experience."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t20-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Cette maison a été achetée en 1709 par la famille de Montgrand qui l’a conservée jusqu’en 1801.\nJules Cantini, entrepreneur qui a construit de nombreux bâtiments civils et religieux à Marseille, en a été le dernier propriétaire.\nEn 1916, il a fait don de sa collection et de sa maison à la ville de Marseille afin d’en faire un musée consacré à l’art de son époque, le modernisme.\nY sont réunis des tableaux d’artistes adeptes de ce mouvement.",
+      "question": "Que peut-on voir au musée Cantini de Marseille ?",
+      "questionTranslation": "What can be seen at the Cantini Museum in Marseille?",
+      "options": [
+        "Les objets de la vie quotidienne d’autrefois.",
+        "Les œuvres de peintres du début du 20e siècle.",
+        "Les pièces de mobilier du dernier propriétaire.",
+        "Les plans de plusieurs églises marseillaises."
+      ],
+      "optionTranslations": [
+        "Objects of daily life from the past.",
+        "Works by painters from the beginning of the 20th century.",
+        "Pieces of furniture from the last owner.",
+        "Plans of several Marseille churches."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t20-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La région a décidé de sensibiliser les enfants du territoire au développement durable, grâce au programme Eco-mômes sur l’environnement lancé avec les centres de loisirs.\nPendant toute l’année scolaire, les enfants vont participer à des projets créatifs, en réalisant une exposition sur les économies d’eau, en apprenant à cuisiner sans trop jeter et en faisant une chasse au gaspillage d’eau dans les centres de loisirs.\nLe but final est de leur apporter les connaissances et l’autonomie nécessaires à tout éco-citoyen.",
+      "question": "Que vont faire les enfants qui participent à ce programme ?",
+      "questionTranslation": "What will the children participating in this program do?",
+      "options": [
+        "Apprendre des gestes pour protéger l’environnement.",
+        "Dessiner des affiches contre le gaspillage alimentaire.",
+        "Participer à un concours sur le développement durable.",
+        "Sensibiliser leur entourage aux dangers de la pollution."
+      ],
+      "optionTranslations": [
+        "Learn actions to protect the environment.",
+        "Draw posters against food waste.",
+        "Participate in a sustainable development contest.",
+        "Raise awareness among their entourage about pollution dangers."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Pour trouver des personnalités sortant du lot à fort potentiel d’évolution, un cabinet de recrutement organise des entretiens individuels sans consulter au préalable le dossier des candidats.\nConfrontés à une étude de cas, une discussion d’idées ou un questionnaire croisé, ils peuvent se démarquer grâce à leur savoir-être ou à un talent particulier.\nLes entretiens n’ont pas pour enjeu de poste précis, ils visent à constituer une réserve de talents, dans laquelle il sera possible de puiser.\nUn cadre ayant testé ce système voit le recrutement différemment : « On se retrouve en position d’égal à égal ».",
+      "question": "Quelle est la méthode de recrutement retenue par le cabinet ?",
+      "questionTranslation": "What is the recruitment method adopted by the firm?",
+      "options": [
+        "Auditionner plusieurs candidats en même temps.",
+        "Faire mener l’entrevue des candidats par un futur collègue.",
+        "Laisser les candidats s’exprimer sans les interrompe.",
+        "Rencontrer les candidats sans rien savoir d’eux."
+      ],
+      "optionTranslations": [
+        "Audition several candidates at the same time.",
+        "Have the interview conducted by a future colleague.",
+        "Let candidates speak without interrupting them.",
+        "Meet candidates without knowing anything about them."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t20-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Des études de marché récentes montrent que les frites signent leur grand retour. Leur côte de popularité ne se dément pas, mais elles doivent être préparées dans les règles de l’art : pour des frites dorées, moelleuses dedans, croquantes dehors, il faut les cuire puis les frire en deux temps.\nSi la Belgique et la France se disputent la paternité, on n’en a toujours pas trouvé l’origine, avec le bond spectaculaire du burger dont elles sont l’accompagnement idéal, les frites sont fortement consommées au restaurant.",
+      "question": "Que révèle cet article sur les frites ?",
+      "questionTranslation": "What does this article reveal about fries?",
+      "options": [
+        "L’origine historique de la recette.",
+        "Le secret d’une bonne préparation.",
+        "Les adresses où les consommer.",
+        "Les raisons de leur popularité."
+      ],
+      "optionTranslations": [
+        "The historical origin of the recipe.",
+        "The secret of a good preparation.",
+        "The addresses where to consume them.",
+        "The reasons for their popularity."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t20-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les jours rallongent, la température monte, les arbres sont en fleurs, bref… l’été approche, et les grandes vacances aussi.\nMais savez-vous déjà comment vos enfants vont passer ces deux mois ?\nIls ont un besoin vital de se détendre et ils sont curieux de tout.\nDe votre côté, vous cherchez des solutions pratiques et des vacances intelligentes et sûres.\nNous vous proposons des ateliers scientifiques passionnants dans des centres de vacances rigoureusement sélectionnés.\nAlors, appelez-nous vite !",
+      "question": "Qu’offrent ces centres de vacances ?",
+      "questionTranslation": "What do these holiday centers offer?",
+      "options": [
+        "Des cours de rattrapage scolaires en sciences.",
+        "Des activités de découverte de la nature.",
+        "Des stages de travail en laboratoire.",
+        "Des séjours alliant détente et découvertes."
+      ],
+      "optionTranslations": [
+        "Remedial school courses in sciences.",
+        "Nature discovery activities.",
+        "Work internships in a laboratory.",
+        "Stays combining relaxation and discoveries."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t20-q21",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La ville de Nantes a de quoi séduire grâce à son dynamisme culturel.\nSon renouveau, débuté il y a plus de deux décennies, est exceptionnel.\nElle a retrouvé le goût du risque, un grain de folie et un peu de naïveté.\nNantes, la bourgeoise cité des ducs de Bretagne est une vraie boîte à idées, toujours en quête de nouvelles manières de conjuguer le « vivre ensemble ».\nPas étonnant qu’elle connaisse une des plus fortes croissances des métropoles de France.",
+      "question": "Qu’est-ce qui attire les gens à Nantes ?",
+      "questionTranslation": "What attracts people to Nantes?",
+      "options": [
+        "Sa position géographique.",
+        "Ses traditions régionales.",
+        "Son ambiance créative.",
+        "Son économie stable."
+      ],
+      "optionTranslations": [
+        "Its geographical position.",
+        "Its regional traditions.",
+        "Its creative atmosphere.",
+        "Its stable economy."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t20-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "En quelques années, le camping est devenu le premier mode d’hébergement touristique, devant les hôtels, les résidences et les villages de vacances.\n« Les familles qui louaient des villas ou partaient à l’hôtel choisissent de plus en plus ce type de séjour en plein air et tout compris », déclare un expert.\nCes nouveaux adeptes du camping, souvent plus fortunés, se tournent vers les tentes meublées, chalets et mobil-homes classés 3 à 5 étoiles qui existaient peu auparavant.\nIl y a quelques années, certains avaient honte de dire : « Je suis allé au camping.\n» Aujourd’hui, ce n’est plus vrai.",
+      "question": "Que constate l’expert à propos du camping ?",
+      "questionTranslation": "What does the expert observe about camping?",
+      "options": [
+        "Le confort a été très nettement amélioré.",
+        "Le mode d’hébergement est écologique.",
+        "Les prestations proposées sont inédites.",
+        "Les prix deviennent de plus en plus attractifs."
+      ],
+      "optionTranslations": [
+        "Comfort has been significantly improved.",
+        "The accommodation mode is ecological.",
+        "The services offered are unprecedented.",
+        "Prices are becoming more and more attractive."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le « moustique urbain », c'est son nom, qui hibernait depuis octobre, s'est réveillé plus tôt.\nEt une fois d'attaque, les mâles sont immédiatement allés féconder les femelles, qui pondent dans les eaux stagnantes usées qui leur servent de nurseries et que, plus il fait chaud, plus il y a de quoi profiter.\nCe qui donne des moustiques de taille XXL…",
+      "question": "Pourquoi les moustiques sont-ils plus gros que d'habitude ?",
+      "questionTranslation": "Why are the mosquitoes bigger than usual?",
+      "options": [
+        "Parce qu’il y a eu des pluies importantes.",
+        "Parce que les femelles ont moins pondu.",
+        "Parce que les larves ont beaucoup mangé.",
+        "Parce qu’ils ont hiberné plus longtemps."
+      ],
+      "optionTranslations": [
+        "Because there was heavy rain.",
+        "Because the females laid fewer eggs.",
+        "Because the larvae ate a lot.",
+        "Because they hibernated longer."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t20-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le château de la Bussière est une demeure du 17e siècle située dans le Loiret.\nSurnommé « le château des pêcheurs », il possède des collections d’objets rares sur la pêche.\nSans oublier un superbe parc.\nAujourd’hui, ce monument est confronté à un fléau :\nun champignon ronge ses édifices.\nLes propriétaires ont déjà lancé une campagne de restauration, mais le champignon s’attaque aussi à d’autres parties du domaine.\nLes maîtres des lieux souhaitent que le bâtiment retrouve son éclat en sollicitant les internautes.\nÀ partir de 15€, les contributeurs pourront recevoir des entrées gratuites, l’inscription de leur nom sur une plaque dans le château ou bien encore un dîner avec les propriétaires.",
+      "question": "D’après l’article, à quoi les internautes sont-ils encouragés ?",
+      "questionTranslation": "According to the article, what are internet users encouraged to do?",
+      "options": [
+        "À aider à la rénovation en travaillant au château",
+        "À entrer en contact avec les occupants du château",
+        "À financer les travaux au château par un don",
+        "À visiter le château, ses jardins et expositions"
+      ],
+      "optionTranslations": [
+        "To help with the renovation by working at the castle",
+        "To get in touch with the occupants of the castle",
+        "To finance the works at the castle via a donation",
+        "To visit the castle, its gardens and exhibitions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t20-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Naya a rejoint le lycée agricole de Valdoie en janvier.\nCette chienne, appartenant au directeur de l’établissement, est l’un des seuls animaux de compagnie présents en France en milieu scolaire.\nSi elle est dans les locaux du lycée, ce n’est pas par hasard : l’établissement a décidé de l’associer à part entière à son projet pédagogique.\n« Elle apporte une présence apaisante et permet aux élèves de tisser un lien. Au lieu d’être sur leur téléphone portable, ils dialoguent beaucoup avec elle. »\nD’autre part, Naya s’est fait des copains pour se promener, pour jouer, pour être câlinée, pour causer… et tous respectent son sommeil.\nC’est une belle carrière qui se dessine pour Naya. Nous en sommes très heureux et nous souhaitons qu’elle apporte beaucoup de satisfaction aux élèves… et à ses maîtres.",
+      "question": "Quel est l’intérêt de la présence de Naya ?",
+      "questionTranslation": "What is the benefit of Naya's presence?",
+      "options": [
+        "Aider les élèves en situation de handicap.",
+        "Améliorer les relations au sein du lycée.",
+        "Expérimenter une méthode pédagogique.",
+        "Renforcer la sécurité de l’établissement."
+      ],
+      "optionTranslations": [
+        "Help students with disabilities.",
+        "Improve relationships within the high school.",
+        "Experiment with a teaching method.",
+        "Strengthen the establishment's security."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t20-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Dans les familles, il y a des conflits entre les parents, tout simplement parce que chacun a son style éducatif, ses valeurs, son expérience et sa culture familiale.\nChacun a ses idées sur le rôle d’un père, d’une mère, la place d’un enfant. Et quand chacun veut les mettre en application, il se heurte à celles de l’autre et ça crée des disputes dans le couple.\nC’est inévitable, tout à fait normal et il n’y a pas à s’en inquiéter.\nOn peut parfaitement éduquer son enfant sans être d’accord sur tout, à une condition : que les parents s’entendent sur les valeurs fondamentales qu’ils veulent lui donner et qu’ils respectent les méthodes éducatives de l’autre même s’ils ne les approuvent pas.",
+      "question": "Selon cet article, que doivent faire les parents en matière d’éducation ?",
+      "questionTranslation": "According to this article, what must parents do regarding education?",
+      "options": [
+        "Dialoguer avec leurs enfants.",
+        "Prendre appui sur leur expérience.",
+        "S’affranchir de leur héritage familial.",
+        "Trouver des valeurs communes."
+      ],
+      "optionTranslations": [
+        "Talk with their children.",
+        "Rely on their experience.",
+        "Break free from their family heritage.",
+        "Find common values."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t20-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Prendre le métro à Lyon est devenu compliqué pour celui qui ne veut pas se faire racoler.\nEn découvrant l’écran publicitaire géant installé à la station Bellecour, j’ai été sidéré.\nLe publicitaire qui a reçu la bénédiction des élus pour installer cet écran géant et près de cent écrans de télévision de 2 m² sur les quais, peut être fier de lui.\nIl se félicite d’ailleurs, sur son site internet, de « susciter encore plus d’émotion ».\nGénérer des sentiments, de la peur ou de la joie, c’est s’assurer que le message publicitaire aura plus d’impact.\nIl pourra alors vendre plus cher aux marques le droit d’accaparer toujours plus notre attention.",
+      "question": "Quelle est l’attitude de l’auteur vis-à-vis de cette campagne publicitaire ?",
+      "questionTranslation": "What is the author's attitude towards this advertising campaign?",
+      "options": [
+        "Il critique son concept.",
+        "Il dénonce son coût élevé.",
+        "Il doute se son efficacité.",
+        "Il prédit son échec."
+      ],
+      "optionTranslations": [
+        "He criticizes its concept.",
+        "He denounces its high cost.",
+        "He doubts its effectiveness.",
+        "He predicts its failure."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Supprimer les concours des grandes écoles ?\nChanger nos élites ?\nLe débat a ouvert grand la porte aux envies de bousculer la formation de la jeunesse.\nPendant longtemps, on a cru que les concours étaient d’indépassables garants de l’idéal républicain d’égalité.\nOn a mis beaucoup de temps à se rendre compte qu’ils pouvaient entretenir la reproduction des élites.\nOu écarter insidieusement une partie des jeunes, en fonction de leur origine sociale, voire ethnique.\nDe ce constat, certains déduisent qu’il faut introduire des discriminations positives au sein des concours existants.\nMais il existe une alternative pour répondre rapidement à cette nécessité de démocratisation : reconnaître d’autres compétences dans les processus de sélection comme l’esprit d’entraide, de solidarité et de coopération.",
+      "question": "Qu’apprend-on sur les concours ?",
+      "questionTranslation": "What do we learn about the competitive exams?",
+      "options": [
+        "Ils perpétuent une forme d’exclusion.",
+        "Le nombre de candidats s’amenuise.",
+        "Leur niveau d’exigence diminue.",
+        "On les réforme régulièrement."
+      ],
+      "optionTranslations": [
+        "They perpetuate a form of exclusion.",
+        "The number of candidates is shrinking.",
+        "Their level of requirement is decreasing.",
+        "They are reformed regularly."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Plus de 40 % des espèces d’insectes sont en déclin et un tiers sont menacés.\nLeur taux de mortalité est huit fois plus rapide que celui des mammifères. À ce rythme, s’inquiètent les scientifiques, les insectes pourraient disparaître d’ici un siècle. Cette prévision est préoccupante, car ils sont essentiels au bon fonctionnement de tous les écosystèmes. Ils pollinisent les plantes, recyclent les nutriments, et servent de nourriture aux autres animaux. Leur disparition « aura des conséquences catastrophiques à la fois pour les écosystèmes de la planète et pour la survie de l’humanité ».\n« Si les modes de production alimentaire ne changent pas, les insectes dans leur ensemble s’engageront sur la voie de l’extinction dans quelques décennies », écrivent les chercheurs.",
+      "question": "D’après l’article, qu’est-ce qui est à l’origine de la disparition des insectes ?",
+      "questionTranslation": "According to the article, what is the origin of the disappearance of insects?",
+      "options": [
+        "Les changements de climat.",
+        "Les méthodes de culture.",
+        "Les oiseaux prédateurs.",
+        "Les politiques publiques."
+      ],
+      "optionTranslations": [
+        "Climate changes.",
+        "Farming methods.",
+        "Predatory birds.",
+        "Public policies."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t20-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "À l’ère de l’écran généralisé, les images ont pris une place déterminante dans notre culture visuelle.\nEn quelques années, elles ont connu une double évolution : d’une part, leur multiplication industrielle ; d’autre part, leur cumul et leur circulation planétaire grâce à internet.\nCette réalité pose des questions de plus en plus importantes en termes d’éducation à l’image et plus généralement aux médias.\nEn effet, malgré un nombre presque illimité d’informations disponibles, seules quelques-unes nous sont diffusées en boucle.\nIl est donc absolument nécessaire de développer des médias relais et d’éclairer le public par une pédagogie visant à savoir choisir et interpréter les médias et",
+      "question": "leurs images. Quel problème évoque le journaliste ?",
+      "questionTranslation": "What problem does the journalist mention?",
+      "options": [
+        "L’information est trio rarement contrôlé à sa source.",
+        "La population est insuffisamment formée aux médias.",
+        "Les fausses nouvelles facilement diffusées en ligne.",
+        "Les images influencent en permanence les consommateurs."
+      ],
+      "optionTranslations": [
+        "Information is too rarely controlled at its source.",
+        "The population is insufficiently trained in media.",
+        "Fake news is easily spread online.",
+        "Images constantly influence consumers."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t20-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Là où leurs prédécesseurs rêvaient d'un contrat à durée indéterminée, les Millennials (génération née entre 1980 et 2000) sont en quête d'expériences diversifiées.\nBeaucoup ont déjà connu le chômage et ont conscience de l'obsolescence de leurs compétences et de leur diplôme, d'où leur sentiment de n'avoir rien à perdre.\nL'heure n'est plus à la relation de subordination, mais à la coopération.\nAu quotidien, il y a de quoi déconcerter les managers.\nUn Millennial accepte qu'on lui explique le sens du travail, mais pas la manière de le faire.\nFace à ces collaborateurs qui font rimer le bien-être professionnel avec connexion, confiance, autonomie et flexibilité, il faut en finir avec le syndrome de la hiérarchie pyramidale.",
+      "question": "Qu’apprend-on sur les Millennials dans le monde du travail ?",
+      "questionTranslation": "What do we learn about Millennials in the world of work?",
+      "options": [
+        "Ils bouleversent les rapports d’autorité.",
+        "Ils évitent les postes à responsabilité.",
+        "Ils sont moins motivés que leurs aînés.",
+        "Ils tiennent à la stabilité de l’emploi."
+      ],
+      "optionTranslations": [
+        "They disrupt authority relationships.",
+        "They avoid positions of responsibility.",
+        "They are less motivated than their elders.",
+        "They value job stability."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Depuis un an, l’association du Théâtre de la poudrerie, située à Sevran, à quelques kilomètres de Paris, organise des représentations gratuites à domicile d’une pièce inédite.\nPour cela, l’association a convié une auteure professionnelle à venir en résidence pour l’écrire.\nElle a recueilli le témoignage d’une trentaine d’habitantes sur le thème du pouvoir féminin, puis écrit son texte à partir de cette matière première.\nL’enjeu pour cette association est que les spectateurs s’approprient la pièce :\nquand il y a un phénomène d’identification, la parole se libère lors de la rencontre qui suit la représentation.\nCe phénomène est amplifié par ce cadre intimiste qui favorise le rapprochement des spectateurs et des comédiens.",
+      "question": "Quel objectif poursuit cette association avec ce projet ?",
+      "questionTranslation": "What goal is this association pursuing with this project?",
+      "options": [
+        "Encourager le dialogue avec le public.",
+        "Former des acteurs en banlieue.",
+        "Réaliser une œuvre à plusieurs mains.",
+        "Sensibiliser à l’égalité des sexes."
+      ],
+      "optionTranslations": [
+        "Encourage dialogue with the public.",
+        "Train actors in the suburbs.",
+        "Create a work with multiple hands (collaboratively).",
+        "Raise awareness about gender equality."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Les néo-nomades ont souvent moins de 30 ans et vivent dans leur camion ou d’anciens cars scolaires transformés en caravane ou camping-car.\nCes nouveaux voyageurs intermittents vont d’un lieu à l’autre, au gré des impératifs de leur travail, souvent saisonnier, et forment une population hétérogène.\nIls résolvent la difficulté d’accéder à un logement lorsque l’on n’a pas de travail permanent en se posant en marge de notre paysage contemporain : aux abords des routes secondaires, dans la périphérie des villes, le long des rails, sur des friches ou des terrains privés.\nLes néo-nomades forment de fait une entité structurée au cœur de notre société individualiste.",
+      "question": "Selon le journaliste, quelle est l’origine du néo-nomadisme ?",
+      "questionTranslation": "According to the journalist, what is the origin of neo-nomadism?",
+      "options": [
+        "L’attirance pour les espaces naturels.",
+        "L’insécurité des zones urbaines.",
+        "La précarité du monde professionnel.",
+        "Le désir de vivre en communauté."
+      ],
+      "optionTranslations": [
+        "Attraction to natural spaces.",
+        "Insecurity of urban zones.",
+        "The precariousness of the professional world.",
+        "The desire to live in a community."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t20-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Un nouveau mot se banalise sur les campus américains : « microagression ».\nQualifiant les blessures subtiles qui affectent les individus exposés à une forme de dévalorisation par le langage, il alimente le débat sur la liberté d’expression.\nForgé dans les années 1970, le terme a été développé à partir de 2007 par Derald Wing Sue qui le définit ainsi : des insultes ou attitudes intentionnelles ou non qui communiquent des messages hostiles ou méprisants envers des personnes sur la seule base de leur appartenance à un groupe marginalisé.\nDes universités ont mis en place des mécanismes de prévention et de dénonciation de ces microagressions, mais certains redoutent que l’excès de précaution ne vienne tuer le débat d’idées.",
+      "question": "Qu’apprend-on sur les microagressions ?",
+      "questionTranslation": "What do we learn about microaggressions?",
+      "options": [
+        "Ce sont des blessures corporelles superficielles.",
+        "Elles sont commises par des groupes minoritaires.",
+        "Les autorités universitaires s’en préoccupent peu.",
+        "Lutter contre elle peut nuire à certaines libertés."
+      ],
+      "optionTranslations": [
+        "They are superficial physical injuries.",
+        "They are committed by minority groups.",
+        "University authorities care little about them.",
+        "Fighting against them can harm certain freedoms."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t20-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Que pensent les Français de la mobilité territoriale ?\nSi la mobilité n’est ni bonne, ni mauvaise en soi, elle peut être perçue de manière radicalement différente en fonction des circonstances dans lesquelles elle se réalise et surtout du fait d’être choisie ou non.\nDes mobilités personnelles, professionnelles et spatiales, voulues et recherchées, peuvent être un facteur d’épanouissement individuel et professionnel pour certains groupes favorisés, alors qu’elles peuvent être un facteur de précarité pour les groupes défavorisés, notamment si elles sont subies.",
+      "question": "Quand une mobilité territoriale est-elle bien vécue ?",
+      "questionTranslation": "When is territorial mobility experienced well?",
+      "options": [
+        "Si c’est une occasion d’élargir son réseau social.",
+        "Si c’est une opportunité de changer de mode de vie.",
+        "Si c’est la possibilité de trouver un emploi.",
+        "Si c’est le fruit d’une décision personnelle."
+      ],
+      "optionTranslations": [
+        "If it is an occasion to expand one's social network.",
+        "If it is an opportunity to change one's lifestyle.",
+        "If it is the possibility of finding a job.",
+        "If it is the result of a personal decision."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t20-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Il est rare que les journalistes de notre mensuel ou moi-même rentrions de reportage en renonçant à rédiger un article.\nLa plupart du temps, les découvertes que nous faisons sont comme de grands bols d’air : elles annihilent tout défaitisme, font disparaître la fatalité ambiante et ouvrent de nouveaux horizons.\nNous rencontrons des hommes et des femmes qui nous expliquent leurs envies, leurs rêves, leur utopie, et comment ils s’y prennent pour, à leur échelle, faire évoluer le monde.\nC’est simple, c’est lent, c’est « proprement humain ».\nIl est tellement jouissif de pouvoir se dire que nous allons pouvoir partager tous ces « petits riens » avec nos abonnés !",
+      "question": "Quel est le parti pris de ces journalistes ?",
+      "questionTranslation": "What is the stance of these journalists?",
+      "options": [
+        "Être au plus près de l’actualité.",
+        "Présenter des histoires positives.",
+        "Proposer des anecdotes amusantes.",
+        "Recenser les dérives de la société."
+      ],
+      "optionTranslations": [
+        "To be as close as possible to current events.",
+        "To present positive stories.",
+        "To propose amusing anecdotes.",
+        "To list the drifts of society."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t20-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Défenseurs et détracteurs de l’écriture inclusive, qui consiste à féminiser les mots en plaçant entre des points la terminaison du féminin, s’écharpent sur cet épineux sujet.\nPour Éliane Viennot, il est important de défendre l’écriture inclusive qui, en remaniant l’orthographe, vise à combattre les stéréotypes sexistes.\nSelon elle, la langue structure notre représentation du monde.\nApprendre aux plus jeunes que le masculin l’emporte sur le féminin ne peut guère contribuer à forger des consciences égalitaristes.\nElle rappelle de surcroît que la langue française a longtemps été plus égalitaire qu’elle ne l’est aujourd’hui : il y a eu une masculinisation délibérée du langage à partir du XVIIe siècle.\nCeux qui se piquaient alors de définir le bon usage en ont profité pour renforcer l’ordre masculin.",
+      "question": "Que pense Éliane Viennot de l’écriture inclusive ?",
+      "questionTranslation": "What does Éliane Viennot think of inclusive writing?",
+      "options": [
+        "Elle favorise l’évolution des mentalités.",
+        "Elle incarne une première historique.",
+        "Elle permet de moderniser le lexique.",
+        "Elle reflète les clivages de la société."
+      ],
+      "optionTranslations": [
+        "It favors the evolution of mentalities.",
+        "It embodies a historical first.",
+        "It allows modernizing the lexicon.",
+        "It reflects the divisions of society."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t20-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Il est incroyable que la perspective d’avoir à lire son propre livre en public n’ait jamais fait renoncer un écrivain à l’écrire.\nRien n’est extravagant comme ces émissions littéraires où ils sont régulièrement requis de sacrifier à ce rituel qui suppose tout de même une habitude, une habileté, pour ne pas dire une technique, qui ne sont pas données à tous les romanciers.\nLa plupart n’osent pas refuser, en quoi ils ont tort.\nPour les convaincre de renoncer à ce dernier avatar de leur vanité, il suffirait de les emmener, un soir, écouter des comédiens lire leur livre.\nEn principe, si l’on est lucide et de bonne foi, on ne se remet pas d’une telle",
+      "question": "épreuve. Que pense cet écrivain de la lecture publique d’un roman par son auteur ?",
+      "questionTranslation": "What does this writer think of the public reading of a novel by its author?",
+      "options": [
+        "Elle demande de posséder des talents d’acteur.",
+        "Elle dessert le travail d’écriture du romancier.",
+        "Elle est particulièrement adaptée au petit écran.",
+        "Elle rend les émissions littéraires prétentieuses."
+      ],
+      "optionTranslations": [
+        "It requires possessing acting talents.",
+        "It disserves the novelist's writing work.",
+        "It is particularly adapted to the small screen.",
+        "It makes literary shows pretentious."
+      ],
+      "correctIndex": 0,
+      "answerDisputed": true
+    },
+    {
+      "id": "t20-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "De nombreuses destinations prisées des touristes s’inquiètent des foules sans cesse plus denses qui viennent les envahir.\nDégradation et usure des sites, exclusion des populations locales : la manne financière apportée par ces hordes de visiteurs ne suffit plus à calmer les mécontents, et la sensibilité croissante au gâchis énergétique allonge l’acte d’accusation.\nLe tourisme de masse avait accompagné et symbolisé la démocratisation des loisirs et le rapprochement des peuples.\nIl se trouve désormais dans une impasse après avoir pris la forme de monstrueuses migrations dont le principe n’est plus de découvrir et de s’ouvrir, mais de se désennuyer.\nLe voyage n’est plus le lent cheminement de ceux qui cherchaient à apprendre, mais l’expression d’une quête de sens désespérée de populations culturellement",
+      "question": "désorientées. Selon l’article, que recherchent ceux qui font du tourisme ?",
+      "questionTranslation": "According to the article, what are those who engage in tourism looking for?",
+      "options": [
+        "A diminuer leur emprunte écologique.",
+        "A échapper à la banalité du quotidien.",
+        "A participer à l’essor économique des pays visités.",
+        "A s’enrichir au contact de nouvelles civilisations."
+      ],
+      "optionTranslations": [
+        "To decrease their ecological footprint.",
+        "To escape the banality of daily life.",
+        "To participate in the economic growth of visited countries.",
+        "To enrich themselves through contact with new civilizations. Retry test All tests"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

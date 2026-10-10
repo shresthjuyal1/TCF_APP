@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-19",
+  "title": "Test 19",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t19-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Perdu chat gris avec un collier jaune.\nAppelez Stéphanie 06 42 58 96 31.",
+      "question": "Qu’est-ce que Stéphanie cherche ?",
+      "questionTranslation": "What is Stéphanie looking for?",
+      "options": [
+        "Un animal.",
+        "Un bijou.",
+        "Un sac.",
+        "Un téléphone."
+      ],
+      "optionTranslations": [
+        "An animal.",
+        "A piece of jewelry.",
+        "A bag.",
+        "A phone."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "PIÈCE DE THÉÂTRE\nLe Rhinocéros\n19h 00, salle des fêtes de Versailles.",
+      "question": "Que présente l’affiche ?",
+      "questionTranslation": "What does the poster present?",
+      "options": [
+        "Un cours.",
+        "Une fête.",
+        "Un match.",
+        "Un spectacle."
+      ],
+      "optionTranslations": [
+        "A class.",
+        "A party.",
+        "A match.",
+        "A show."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t19-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Vie pratique\nConsommez cinq fruits et légumes par jour.\nLimitez la quantité de viande rouge, de beurre, de sucre et de sel, et buvez au moins huit verres d'eau par jour !",
+      "question": "Vous ferez le plein d'énergie ! Que permet le conseil de « Vie pratique » ?",
+      "questionTranslation": "What does the advice from 'Practical Life' enable you to do?",
+      "options": [
+        "De faire des économies.",
+        "De pratiquer un sport.",
+        "De rester en bonne santé.",
+        "De trouver des produits bios."
+      ],
+      "optionTranslations": [
+        "To save money.",
+        "To practice a sport.",
+        "To stay in good health.",
+        "To find organic products."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t19-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Bonjour Jean-Eudes,\nC’est mon anniversaire samedi et j’ai encore beaucoup de choses à faire.\nTu pourrais m’aider s’il te plaît ? Il faut décorer la salle du restaurant et je sais que tu as toujours de bonnes idées !\nEn plus, c’est à cinq minutes de ton appartement.\nMerci d’avance.\nEmma",
+      "question": "Qu’est-ce qu’Emma demande à Jean-Eudes ?",
+      "questionTranslation": "What is Emma asking Jean-Eudes to do?",
+      "options": [
+        "De choisir une salle pour la fête.",
+        "De s’occuper de la décoration.",
+        "De trouver un bon restaurant.",
+        "D’organiser son anniversaire chez lui."
+      ],
+      "optionTranslations": [
+        "To choose a room for the party.",
+        "To take care of the decoration.",
+        "To find a good restaurant.",
+        "To organize her birthday at his place."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t19-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Françoise,\nPouvons-nous nous rencontrer dans ton bureau demain matin ?\nAriane.",
+      "question": "Pourquoi Ariane écrit-elle ce message ?",
+      "questionTranslation": "Why is Ariane writing this message?",
+      "options": [
+        "Elle doit partir une journée.",
+        "Elle propose un déjeuner.",
+        "Elle souhaite parler à Françoise.",
+        "Elle veut visiter une entreprise."
+      ],
+      "optionTranslations": [
+        "She has to leave for a day.",
+        "She is proposing a lunch.",
+        "She wishes to speak to Françoise.",
+        "She wants to visit a company."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t19-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Vous avez peur en avion ?\nVous n'êtes pas le seul ! Les statistiques montrent qu'un quart des passagers sont inquiets quand ils prennent l'avion !\nDes stages peuvent vous aider à monter dans un avion sans avoir peur !\nPour en savoir plus, contactez Airplus au 09 48 36 22 11.",
+      "question": "Que propose la société Airplus ?",
+      "questionTranslation": "What does the company Airplus offer?",
+      "options": [
+        "Des avions.",
+        "Des jeux.",
+        "Des stages.",
+        "Des statistiques."
+      ],
+      "optionTranslations": [
+        "Airplanes.",
+        "Games.",
+        "Courses.",
+        "Statistics."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t19-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Devenez reporter pour le mensuel de notre ville !\nEnvoyez-nous votre article sur les thèmes suivants : vie du quartier,sport,cuisine,poésie…\nS'il est sélectionné,il sera publiéle mois prochain.\nNotre contact:publications@nanterre.fr",
+      "question": "Qui aécrit cette proposition ?",
+      "questionTranslation": "Who wrote this proposal?",
+      "options": [
+        "Un journal.",
+        "Un restaurant.",
+        "Une association.",
+        "Une école."
+      ],
+      "optionTranslations": [
+        "A newspaper.",
+        "A restaurant.",
+        "An association.",
+        "A school."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Monsieur Giannorsi,\nNous vous informons que votre commande est arrivée à la poste.\nVous pouvez venir la retirer du lundi au vendredi, de 8h à 18h.\nN’oubliez pas de prendre votre pièce d’identité.\nNous vous remercions pour votre commande chez Culture et Compagnie !",
+      "question": "Qu’est-ce que M. Giannorsi doit faire ?",
+      "questionTranslation": "What must Mr. Giannorsi do?",
+      "options": [
+        "Aller chercher un colis.",
+        "Échanger son achat.",
+        "Envoyer une lettre.",
+        "Réserver son article."
+      ],
+      "optionTranslations": [
+        "Go get a parcel.",
+        "Exchange his purchase.",
+        "Send a letter.",
+        "Reserve his item."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "La France est le pays d’Europe où il y a le plus d’animaux par habitant.\nChien, chat, poisson, cheval ou même serpent, les Français adorent s’occuper d’eux, les nourrir, les sortir et vivre à leurs côtés.",
+      "question": "Qu’apprend-on sur les Français et les animaux ?",
+      "questionTranslation": "What do we learn about the French and animals?",
+      "options": [
+        "Ils aiment en voir dans la nature.",
+        "Ils les regardent à la télévision.",
+        "Ils sont nombreux à en avoir.",
+        "Ils vont les voir dans les zoos."
+      ],
+      "optionTranslations": [
+        "They like seeing them in nature.",
+        "They watch them on television.",
+        "Many of them have them.",
+        "They go to see them in zoos."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t19-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Que puis-je dire de ce documentaire, moi qui pleure depuis tant d’années sur le manque de saveur de ce que je mange ?\nJe me rappelle du bon goût des pêches et des abricots !\nJe comprends mieux la majorité des agriculteurs : ils ne mangeraient pas ce qu’ils vendent, c’est fou !\nJ’ai apprécié d’avoir le point de vue des différentes personnes concernées :\nagriculteurs, consommateurs, enseignants, cuisiniers.",
+      "question": "Quel est le thème du documentaire ?",
+      "questionTranslation": "What is the theme of the documentary?",
+      "options": [
+        "L’alimentation",
+        "L’éducation",
+        "La cuisine",
+        "Le commerce"
+      ],
+      "optionTranslations": [
+        "Food",
+        "Education",
+        "Cooking",
+        "Commerce"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Pierre,\nCe soir, je rentre tard.\nPeux-tu acheter du pain et du fromage pour le dîner ?\nAnne",
+      "question": "Que doit faire Pierre ?",
+      "questionTranslation": "What must Pierre do?",
+      "options": [
+        "Aller chercher Anne",
+        "Faire des courses",
+        "Préparer le repas",
+        "Se coucher tôt"
+      ],
+      "optionTranslations": [
+        "Go pick up Anne",
+        "Do some shopping",
+        "Prepare the meal",
+        "Go to bed early"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t19-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La semaine dernière, les écoles de commerce ont organisé leur traditionnel rendez-vous « Avenir jeunesse ».\nComme tous les ans, son objectif a été de favoriser la rencontre entre les entreprises qui recrutent et les élèves.\nCes derniers ont pu se renseigner sur les différents secteurs d’activité et déposer leur candidature pour les postes qui les intéressent.\nDes ateliers conseil étaient animés par des professionnels.",
+      "question": "Quel était le but de l’événement « Avenir jeunesse »?",
+      "questionTranslation": "What was the goal of the 'Youth Future' event?",
+      "options": [
+        "Accueillir les étudiants étrangers.",
+        "Faciliter la recherche d’emploi.",
+        "Préparer la rentrée universitaire.",
+        "Présenter de nouvelles formations."
+      ],
+      "optionTranslations": [
+        "Welcome foreign students.",
+        "Facilitate job searching.",
+        "Prepare for the start of the university year.",
+        "Present new training courses."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t19-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Nous vivons dans une grande maison à 15 minutes du centre de Marseille.\nNos enfants ont quitté la maison et nous souhaitons louer une chambre à un(e) étudiant(e) pour 150€ par mois.\nSi vous êtes intéressé(e), écrivez-nous à « alouer@mailnet.com ».",
+      "question": "Qu’est-ce qui est proposé dans cette annonce ?",
+      "questionTranslation": "What is proposed in this ad?",
+      "options": [
+        "Un échange de maison.",
+        "Un studio en centre-ville.",
+        "Une chambre chez l’habitant.",
+        "Une colocation entre étudiants."
+      ],
+      "optionTranslations": [
+        "A house exchange.",
+        "A studio in the city center.",
+        "A room in a private home.",
+        "A flatshare between students."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t19-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Madame,\nNous vous informons que vous pouvez consulter, sur notre site internet, votre facture de téléphone du mois de juin.\nSon montant est de 25,90 €.\nNous vous remercions de votre confiance.\nLe responsable commercial de Telecombleu.",
+      "question": "Que peut faire la personne qui reçoit cette lettre ?",
+      "questionTranslation": "What can the person who receives this letter do?",
+      "options": [
+        "Changer d’abonnement.",
+        "Choisis un appareil.",
+        "Payer une commande.",
+        "Vérifier sa consommation."
+      ],
+      "optionTranslations": [
+        "Change subscription.",
+        "Choose a device.",
+        "Pay for an order.",
+        "Check their consumption."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t19-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "INFORMATION VOYAGEURS\nLes bus de la ligne 25 ne circulent pas cette semaine à cause de réparations sur les routes.\nLes métros et tramways fonctionnent normalement.\nPour plus d’informations, présentez-vous aux guichets.\nMerci de votre compréhension.",
+      "question": "Qu’est-ce qui est annoncé ?",
+      "questionTranslation": "What is being announced?",
+      "options": [
+        "Des pannes d’autobus.",
+        "Des travaux sur la ligne.",
+        "Un accident de circulation.",
+        "Une grève des transports."
+      ],
+      "optionTranslations": [
+        "Bus breakdowns.",
+        "Works on the line.",
+        "A traffic accident.",
+        "A transport strike."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t19-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Venez découvrir la beauté du Haut-Rhin grâce à Marie-Dominique, qui vous reçoit dans sa chaleureuse famille pour une ou deux nuits à petit prix.\nElle vous fait goûter les spécialités de cette région, par exemple les fromages ou les charcuteries faits maison.",
+      "question": "De quoi le texte fait-il la publicité ?",
+      "questionTranslation": "What is the text advertising?",
+      "options": [
+        "D’un lieu d’accueil.",
+        "D’un monument historique.",
+        "D’une épicerie familiale.",
+        "D’un restaurant traditionnel."
+      ],
+      "optionTranslations": [
+        "A place of welcome/accommodation.",
+        "A historical monument.",
+        "A family grocery store.",
+        "A traditional restaurant."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Le sport arrive largement en tête des nombreuses activités extrascolaires proposées aux 12-16 ans.\nLes parents se font une obligation sociale d’inscrire leurs enfants à ces activités et de montrer aux autres qu’ils sont de « bons parents » qui veillent à l’épanouissement global de leurs enfants.\nIls leur permettent ainsi de se divertir, de se dépenser, et de s’initier à un sport individuel ou collectif.\nC’est également l’occasion pour les enfants de découvrir et d’accepter leurs propres limites.",
+      "question": "Qu’est-ce qui incite les parents à inscrire leurs enfants à des activités sportives ?",
+      "questionTranslation": "What motivates parents to enroll their children in sports activities?",
+      "options": [
+        "La pression de la société,",
+        "La réputation des clubs.",
+        "Les bienfaits pour la santé.",
+        "Les envies des adolescents."
+      ],
+      "optionTranslations": [
+        "Society's pressure.",
+        "The reputation of clubs.",
+        "The benefits for health.",
+        "The desires of adolescents."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Parcourir un roman n’est pas qu’une distraction.\nVotre cerveau a besoin de stimulation pour garder ses pleines capacités.\nCertaines études montrent d’ailleurs que cela diminue le risque de déclenchement de la maladie d’Alzheimer.\nCe passe-temps offre aussi un remède au stress, car lire vous éloigne de vos soucis et détend.\nC’est d’ailleurs souvent un agréable prélude au sommeil.\nÉvidemment, lire accroît aussi votre vocabulaire, votre orthographe et votre culture générale : des atouts qui font la différence dans votre vie professionnelle.\nCela permet aussi de renforcer vos capacités d’analyse, de mémorisation et de concentration tout comme votre capacité à reconnaître les émotions des",
+      "question": "autres. Que démontre l’auteur de cet article à propos de la lecture ?",
+      "questionTranslation": "What does the author of this article demonstrate about reading?",
+      "options": [
+        "C’est une activité qui enrichit l’imagination.",
+        "Elle permet d’améliorer ses performances.",
+        "Il est difficile de s’y livrer si on est angoissé.",
+        "Sa pratique exige des connaissances variées."
+      ],
+      "optionTranslations": [
+        "It is an activity that enriches imagination.",
+        "It allows improving one's performance.",
+        "It is difficult to engage in it if one is anxious.",
+        "Its practice requires varied knowledge."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t19-q19",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Il y a quelque chose de rare dans « Normandie nue » : ce film est résolument léger, tout en ayant du fond.\nÀ travers une histoire qui sert de fil conducteur cocasse et insolite - celle d’un artiste américain qui veut photographier des paysans dévêtus -, « Normandie nue » aborde la crise des éleveurs avec beaucoup d’humanité, notamment grâce au maire du village qui voit dans la venue du photographe l’occasion de faire valoir sa cause aux yeux de la planète.\nParfois un peu maladroite, cette comédie amuse en caricaturant gentiment les médias, les artistes et les bobos parisiens en mal de verdure.",
+      "question": "Quelle est l’opinion du journaliste sur le film « Normandie nue » ?",
+      "questionTranslation": "What is the journalist's opinion on the film 'Normandie nue'?",
+      "options": [
+        "Il est facile de s’identifier aux personnages.",
+        "Les lieux de tournage sont authentiques.",
+        "On y dresse un portrait juste de la société.",
+        "Son humour fait passer un message sérieux."
+      ],
+      "optionTranslations": [
+        "It is easy to identify with the characters.",
+        "The filming locations are authentic.",
+        "A fair portrait of society is drawn there.",
+        "Its humor conveys a serious message."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t19-q20",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Parents mode d’emploi.\nSérie télévisée – Du lundi au vendredi à 20 h 40.\nNous découvrons le quotidien de Gaby et Isa, les personnages principaux, quadragénaires d’aujourd’hui, qui cherchent un mode d’emploi pour être de bons parents !\nIls essaient de contrôler la situation et seraient même prêts à nous donner des conseils, mais comme tous les parents, ils font de grosses erreurs… Ce qui nous amuse et nous fait rire, pour notre plus grand plaisir !",
+      "question": "Quel est l’objectif de cette série télévisée ?",
+      "questionTranslation": "What is the goal of this TV series?",
+      "options": [
+        "Informer sur de nouvelles méthodes éducatives.",
+        "Montrer la vie de tous les jours d’un jeune couple.",
+        "Présenter les relations familiales avec humour.",
+        "Proposer des solutions à des situations de crise."
+      ],
+      "optionTranslations": [
+        "Inform about new educational methods.",
+        "Show the daily life of a young couple.",
+        "Present family relationships with humor.",
+        "Propose solutions to crisis situations."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t19-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Envie de faire le clown ?\nPendant les vacances de Pâques, l’équipe d’animateurs du centre de loisirs dessinera chaque jour sur les joues des enfants des animaux marins :\nhippocampes, phoques, manchots, poissons-clowns…",
+      "question": "Quelle activité proposera-t-on aux enfants pendant les vacances de Pâques ?",
+      "questionTranslation": "What activity will be proposed to the children during the Easter holidays?",
+      "options": [
+        "Un spectacle de cirque.",
+        "Une activité de maquillage.",
+        "Une rencontre avec un clown.",
+        "Une sortie au zoo."
+      ],
+      "optionTranslations": [
+        "A circus show.",
+        "A face painting activity.",
+        "A meeting with a clown.",
+        "A trip to the zoo."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t19-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Outre-Manche, une jeune députée a attiré l’attention des médias et des photographes en proposant un décret qui imposerait la mention « retouchée numériquement » sur toutes les photos corrigées.\nLe parti libéral démocratique a d’ailleurs approuvé cette proposition.\n« Je ne veux pas interdire aux publicitaires de recourir à des mannequins plus beaux que la femme de tous les jours, mais il y a une différence entre choisir la beauté et retoucher cette beauté pour atteindre des proportions impossibles en ce qui concerne, par exemple, la taille des jambes », s’insurge la députée.",
+      "question": "Que propose cette députée à propos des publicités mettant en scène des femmes ?",
+      "questionTranslation": "What does this MP propose regarding advertisements featuring women?",
+      "options": [
+        "D’interdire les photos portant atteinte à leur dignité.",
+        "De diversifier le type de femmes prises pour modèles.",
+        "De mentionner les références précises des produits.",
+        "De signaler sur les photos les modifications effectuées."
+      ],
+      "optionTranslations": [
+        "To ban photos infringing on their dignity.",
+        "To diversify the type of women used as models.",
+        "To mention precise references of the products.",
+        "To indicate on the photos the modifications made."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t19-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "En quelques années, le camping est devenu le premier mode d’hébergement touristique, devant les hôtels, les résidences et les villages de vacances.\n« Les familles qui louaient des villas ou partaient à l’hôtel choisissent de plus en plus ce type de séjour en plein air et tout compris », déclare un expert.\nCes nouveaux adeptes du camping, souvent plus fortunés, se tournent vers les tentes meublées, chalets et mobil-homes classés 3 à 5 étoiles qui existaient peu auparavant.\nIl y a quelques années, certains avaient honte de dire : « Je suis allé au camping.\n» Aujourd’hui, ce n’est plus vrai.",
+      "question": "Que constate l’expert à propos du camping ?",
+      "questionTranslation": "What does the expert observe about camping?",
+      "options": [
+        "Le confort a été très nettement amélioré.",
+        "Le mode d’hébergement est écologique.",
+        "Les prestations proposées sont inédites.",
+        "Les prix deviennent de plus en plus attractifs."
+      ],
+      "optionTranslations": [
+        "Comfort has been significantly improved.",
+        "The accommodation mode is ecological.",
+        "The services offered are unprecedented.",
+        "Prices are becoming more and more attractive."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Certaines grandes surfaces ont désigné un coach antigaspi au sein du personnel, ont cassé les prix des produits à date de péremption proche, ont réduit le nombre d’articles en rayon et ont proposé les fruits et légumes en vrac.\nCes mesures ont permis de réduire les pertes alimentaires de 22 % en trois mois !\nLes solutions pour lutter contre le gaspillage en grande distribution existent donc bel et bien.\nDes initiatives similaires, dont les résultats devraient paraître prochainement, sont en cours dans d’autres secteurs (industries agroalimentaires, producteurs,",
+      "question": "etc.). Selon cet article, quel type d’action faudrait-il poursuivre ?",
+      "questionTranslation": "According to this article, what type of action should be pursued?",
+      "options": [
+        "De nouvelles pratiques de vente.",
+        "Des comportements d’achat différents.",
+        "Des habitudes alimentaires saines.",
+        "Des modes de recyclage innovants."
+      ],
+      "optionTranslations": [
+        "New sales practices.",
+        "Different purchasing behaviors.",
+        "Healthy eating habits.",
+        "Innovative recycling modes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "MARCO LENO\n139 avenue d’Italie\n75013 Paris\nSociété immobilière\n30 boulevard Raspail\n75007 Paris\nParis, le 26 janvier\nMonsieur,\nJe vous écris pour vous faire part des nuisances sonores provoquées par les locataires du 7ème étage.\nIls écoutent de la musique jusque tard dans la nuit à un volume qui ne permet pas de dormir dans de bonnes conditions. Je leur ai demandé plusieurs fois de baisser le son et de faire attention à l’heure, mais ils ne m’ont pas écouté.\nJe vous demande de bien vouloir agir afin qu’ils changent de comportement au plus vite.\nCordialement,",
+      "question": "Marco Leno Quel est l’objet de ce courrier ?",
+      "questionTranslation": "What is the purpose of this letter?",
+      "options": [
+        "C’est un dépôt de plainte destiné aux services de police.",
+        "C’est une lettre de menace destinée à des voisins bruyants.",
+        "C’est une mise en demeure destinée à un propriétaire.",
+        "C’est une réclamation destinée au gérant d’un immeuble."
+      ],
+      "optionTranslations": [
+        "It is a complaint filed with the police services.",
+        "It is a threat letter intended for noisy neighbors.",
+        "It is a formal notice intended for a landlord.",
+        "It is a complaint intended for a building manager."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t19-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Futur manager, soyez gentil !\nDepuis les scandales des traders, les grandes écoles ont été mises au banc des accusés :\nCe qu’elles transmettaient se limitait à du savoir technique directement exploitable par les entreprises.\nMyopie sociale et absence d’esprit critique menaçaient les futurs managers du monde économique.\nL’éthique est maintenant à la mode dans toutes les grandes écoles de management.\nIl n’y est question que de « social business » ou de « développement durable ».\nÀ côté des activités associatives traditionnelles, les actions humanitaires ont fleuri et de plus en plus d’étudiants s’y investissent chaque année.\nDésormais, un étudiant doit avoir fait du soutien scolaire en banlieue ou monté du microcrédit en Afrique.",
+      "question": "D’après ce texte, quelle est la nouvelle orientation des grandes écoles ?",
+      "questionTranslation": "According to this text, what is the new orientation of the elite schools?",
+      "options": [
+        "Créer des partenaires avec le milieu associatif",
+        "Former des jeunes défavorisés au management",
+        "Intégrer des valeurs sociales et environnementales",
+        "Préparer des techniciens aux dangers de la finance"
+      ],
+      "optionTranslations": [
+        "Creating partners with the voluntary/non-profit sector",
+        "Training disadvantaged youth in management",
+        "Integrating social and environmental values",
+        "Preparing technicians for the dangers of finance"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t19-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "DIRECTION L’ITALIE POUR DÉCOUVRIR LA BRIGADE DES FROMAGES Un département entier de policiers situé à Rome traque les imitations alimentaires et notamment celle du plus célèbre des fromages italiens, le parmesan.\nIls ont, en effet, fort à faire avec des meules de parmesan AOP (Appellation d’Origine Protégée) qui peuvent valoir plusieurs milliers d’euros.\nLe parmesan représente 900 ans de tradition concentrés entre les mains de 350 fabricants dans le nord de la péninsule, un savoir fièrement défendu par cette",
+      "question": "brigade. Quel est l’objectif de cette brigade spéciale ?",
+      "questionTranslation": "What is the objective of this special brigade?",
+      "options": [
+        "Contrôler la qualité sanitaire des fromages.",
+        "Empêcher le trafic des fromages de contrebande.",
+        "Enquêter sur les vols de fromages de luxe.",
+        "Protéger les secrets d’élaboration des fromages."
+      ],
+      "optionTranslations": [
+        "To control the sanitary quality of cheeses.",
+        "To prevent the trafficking of contraband cheeses.",
+        "To investigate thefts of luxury cheeses.",
+        "To protect the secrets of cheese making."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t19-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La sonorité naturelle qui berce l’océan depuis des millions d’années a presque disparu, éclipsée par les bruits artificiels générés depuis l’ère industrielle.\nLe bioacousticien Michel André alerte sur cette nuisance invisible qui menace la vie marine : la cacophonie engendrée par les activités humaines.\nÀ la différence de la lumière qui ne pénètre qu’à quelques mètres sous l’eau et n’est d’aucune utilité pour transmettre des informations sur de longues distances, le son, lui, se propage à des centaines de kilomètres.\nHeureusement, le bruit, dès qu’on le coupe, n’a plus aucun effet. Si nous travaillons sur des méthodes pour éliminer ces sons produits par les êtres humains, la nuisance pourrait être diminuée.",
+      "question": "De quoi est-il question dans cet article ?",
+      "questionTranslation": "What is this article about?",
+      "options": [
+        "D’un moyen de communication inédit.",
+        "D’un système de guidage par ondes.",
+        "D’une innovation technologique.",
+        "D’une pollution imperceptible."
+      ],
+      "optionTranslations": [
+        "A novel means of communication.",
+        "A wave guidance system.",
+        "A technological innovation.",
+        "An imperceptible pollution."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t19-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les gens empilaient les objets dans les chariots de métal, avec frénésie.\nIls avaient des visages sérieux, contractés, et leurs paupières battaient de façon anormalement lente.\nLes femmes tendaient les mains vers les étals.\nOn aurait dit que les gens ne savaient plus ce qu'ils faisaient.\nComment l'auraient-ils su ? Ce n'étaient pas eux qui saisissaient la marchandise.\nC'est la marchandise qui se collait d'elle-même à leurs mains, elle entrait directement dans les caddies.\nLa nourriture n'était plus que des formes et des couleurs.\nLes yeux dévoraient les couleurs rouges, blanche, verte, orange ; les yeux avaient faim de sphères et de pyramides, faim de plastiques lisses et de capsules de fer-blanc.",
+      "question": "Dans cet extrait, qu’apprend-on sur les acheteurs ?",
+      "questionTranslation": "In this excerpt, what do we learn about the buyers?",
+      "options": [
+        "Ils donnent l’impression de vénérer les produits",
+        "Ils ont l’air éblouis par le gigantisme des magasins",
+        "Ils paraissent manipulés par une force supérieure",
+        "Ils semblent perdus dans le labyrinthe des rayons"
+      ],
+      "optionTranslations": [
+        "They give the impression of worshipping the products",
+        "They seem dazzled by the gigantic size of the stores",
+        "They seem manipulated by a superior force",
+        "They seem lost in the labyrinth of aisles"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t19-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Paul Bocuse n’était pas le plus créatif, ni le meilleur technicien de cette génération de chefs d’exception qui a vu éclore des cuisiniers de renommée internationale.\nMais il avait une vision, du culot et un véritable talent de meneur.\nHistoire de donner une stature plus imposante aux cuisiniers, il a lancé la mode de la fameuse veste blanche « grand chef, avec le nom brodé sur la poitrine et le port de la toque démesurée qui évoque la coiffe des pharaons .»\nDès ses débuts, sa personnalité et son sens de la formule ont fait mouche auprès de la presse, qui a publié de nombreux portraits flatteurs, faisant affluer les clients dans son restaurant.",
+      "question": "D’après ce journaliste, quelle a été la clé du succès de Paul Bocuse ?",
+      "questionTranslation": "According to this journalist, what was the key to Paul Bocuse's success?",
+      "options": [
+        "Sa connaissance des médias",
+        "Sas méthodes ancestrales",
+        "Ses recettes originales",
+        "Son charisme incroyable"
+      ],
+      "optionTranslations": [
+        "His knowledge of media",
+        "His ancestral methods",
+        "His original recipes",
+        "His incredible charisma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t19-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Deux petites saisons et puis s’en vont.\nSur les plates-formes de streaming vidéo par abonnement, les séries ont beau être reines, elles n’en sont pas moins soumises à rude concurrence.\nEt leur durée de vie peut se révéler bien plus courte que sur les chaînes traditionnelles.\nCette stratégie ne doit rien au hasard.\nDans leur objectif de conquête de nouveaux abonnés, les plates-formes accordent en effet plus de vertus à la nouveauté qu’à la longévité.\nQuitte à décevoir certains fans qui payent un service de streaming spécialisé dont le baromètre de satisfaction devrait en théorie être plus important que celui de l’audimat.",
+      "question": "D’après l’article, que privilégient les plates-formes de streaming ?",
+      "questionTranslation": "According to the article, what do streaming platforms favor?",
+      "options": [
+        "La longévité des programmes.",
+        "La qualité des services offerts.",
+        "Le changement régulier des séries.",
+        "Le contentement de leurs abonnés."
+      ],
+      "optionTranslations": [
+        "The longevity of programs.",
+        "The quality of services offered.",
+        "The regular changing of series.",
+        "The satisfaction of their subscribers."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t19-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Le numérique bouleverse profondément l’enseignement, mais, d’après le philosophe Marcel Gauchet, on aura plus que jamais besoin de professeurs et d’écoles.\nExcellent moyen de stimuler la curiosité, le numérique pousse à chercher, à creuser encore.\nSurtout, il enseigne une chose essentielle : personne ne sait et, nulle part, il n’existe de détenteur ultime du savoir.\nAinsi, les élèves sont de plus en plus en contact avec des sources hétéroclites et cela constitue un changement majeur en termes pédagogiques.\nL’enseignant est alors celui qui va expliquer qu’il existe plusieurs versions d’une même chose et que savoir, c’est se confronter à l’incertitude et non réciter bêtement des connaissances.",
+      "question": "Selon Marcel Gauchet, quel va être le rôle de l’enseignant auprès des élèves ?",
+      "questionTranslation": "According to Marcel Gauchet, what will be the teacher's role with the students?",
+      "options": [
+        "Développer leur esprit critique.",
+        "Encourager les débats entre eux.",
+        "Enrichir leur capacité mémorielle.",
+        "Évaluer régulièrement leurs acquis."
+      ],
+      "optionTranslations": [
+        "Develop their critical thinking.",
+        "Encourage debates between them.",
+        "Enrich their memory capacity.",
+        "Regularly evaluate their acquisitions."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Les néo-nomades ont souvent moins de 30 ans et vivent dans leur camion ou d’anciens cars scolaires transformés en caravane ou camping-car.\nCes nouveaux voyageurs intermittents vont d’un lieu à l’autre, au gré des impératifs de leur travail, souvent saisonnier, et forment une population hétérogène.\nIls résolvent la difficulté d’accéder à un logement lorsque l’on n’a pas de travail permanent en se posant en marge de notre paysage contemporain : aux abords des routes secondaires, dans la périphérie des villes, le long des rails, sur des friches ou des terrains privés.\nLes néo-nomades forment de fait une entité structurée au cœur de notre société individualiste.",
+      "question": "Selon le journaliste, quelle est l’origine du néo-nomadisme ?",
+      "questionTranslation": "According to the journalist, what is the origin of neo-nomadism?",
+      "options": [
+        "L’attirance pour les espaces naturels.",
+        "L’insécurité des zones urbaines.",
+        "La précarité du monde professionnel.",
+        "Le désir de vivre en communauté."
+      ],
+      "optionTranslations": [
+        "Attraction to natural spaces.",
+        "Insecurity of urban zones.",
+        "The precariousness of the professional world.",
+        "The desire to live in a community."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t19-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Une exposition de l’Institut d’Art Contemporain de Villeurbanne est consacrée à l’Américain Jimmie Durham et à la Brésilienne Marie Thereza Alves.\nDepuis vingt ans, ils parcourent, au fil de leurs déplacements, le territoire méditerranéen et sont réunis au sein de cette exposition à la forme inédite.\nLe parcours se veut éloigné de tout didactisme, laissant assez d’espace au spectateur pour construire son propre récit autour d’une mer connue pour être le berceau fertile des civilisations.\nDans un jeu de matières, de couleurs et d’objets, tous tangibles. Durham et Alves tentent de décrypter une certaine pensée historique et mythologique, notamment en déjouant les codes classiques utilisés dans les musées.",
+      "question": "Qu’est-ce qui fait la singularité de cette exposition ?",
+      "questionTranslation": "What makes this exhibition unique?",
+      "options": [
+        "La liberté accordée aux visiteurs.",
+        "La simplicité des moyens artistiques",
+        "Le classicisme de sa présentation.",
+        "Le discours politique des plasticiens."
+      ],
+      "optionTranslations": [
+        "The freedom granted to visitors.",
+        "The simplicity of artistic means.",
+        "The classicism of its presentation.",
+        "The political discourse of the visual artists."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Que pensent les Français de la mobilité territoriale ?\nSi la mobilité n’est ni bonne, ni mauvaise en soi, elle peut être perçue de manière radicalement différente en fonction des circonstances dans lesquelles elle se réalise et surtout du fait d’être choisie ou non.\nDes mobilités personnelles, professionnelles et spatiales, voulues et recherchées, peuvent être un facteur d’épanouissement individuel et professionnel pour certains groupes favorisés, alors qu’elles peuvent être un facteur de précarité pour les groupes défavorisés, notamment si elles sont subies.",
+      "question": "Quand une mobilité territoriale est-elle bien vécue ?",
+      "questionTranslation": "When is territorial mobility experienced well?",
+      "options": [
+        "Si c’est une occasion d’élargir son réseau social.",
+        "Si c’est une opportunité de changer de mode de vie.",
+        "Si c’est la possibilité de trouver un emploi.",
+        "Si c’est le fruit d’une décision personnelle."
+      ],
+      "optionTranslations": [
+        "If it is an occasion to expand one's social network.",
+        "If it is an opportunity to change one's lifestyle.",
+        "If it is the possibility of finding a job.",
+        "If it is the result of a personal decision."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t19-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Instaurer un grand oral pour réformer le baccalauréat est un nouveau défi à relever pour le système éducatif français.\nL’oral a autant d’importance que l’écrit. Il a ses règles propres et ses méthodes d’apprentissage : selon moi, une quinzaine d’heures suffit avec douze élèves pour arriver à parler debout devant les autres de façon argumentée.\nBien loin d’être un discriminant social, l’oral peut être une formidable opportunité de réussite pour tous les élèves, à condition qu’il s’agisse bien d’une épreuve orale et non d’un écrit transposé à l’oral.\nContrairement aux idées reçues, je ne pense pas que l’oral demande quasiment pas de prérequis ni un quelconque talent de naissance venu d’une fée - y compris sociale - qui se serait penchée sur le bureau.",
+      "question": "Selon l’auteur, quel est l’intérêt d’une épreuve orale au baccalauréat ?",
+      "questionTranslation": "According to the author, what is the benefit of an oral exam at the baccalaureate?",
+      "options": [
+        "Elle favorise l’égalité des chances.",
+        "Elle prépare à la vie professionnelle.",
+        "Elle remplace l’évaluation continue.",
+        "Elle simplifie le travail des enseignants."
+      ],
+      "optionTranslations": [
+        "It favors equality of opportunity.",
+        "It prepares for professional life.",
+        "It replaces continuous assessment.",
+        "It simplifies the work of teachers."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "L’avenir est dans la formation de la jeunesse, dans l’innovation, dans la recherche.\nPour prendre pleinement ses responsabilités, l’université de Nantes propose un nouveau modèle universitaire en France, décloisonné, qui rassemble les acteurs de l’enseignement supérieur et de la recherche (grandes écoles, organismes de recherche, centre hospitalier universitaire…).\nCe nouveau modèle remet au centre des préoccupations la question de l’accès à un enseignement supérieur qualitatif pour le plus grand nombre.\nIl a l’ambition de créer les conditions de réussite et d’épanouissement pour tous ses étudiants et de permettre des innovations majeures.\nAu travers de ce projet de nouvelle université, le président et son équipe défendent une vision innovante et proposent un nouveau modèle qui conjugue exigence et main tendue, excellence et lien social.",
+      "question": "Quel est l’objectif de cette université ?",
+      "questionTranslation": "What is the objective of this university?",
+      "options": [
+        "Attirer davantage d’étudiants brillants.",
+        "Être à la pointe de la technologie.",
+        "Ouvrir ses cours à un public élargi.",
+        "Proposer des disciplines inédites."
+      ],
+      "optionTranslations": [
+        "Attract more brilliant students.",
+        "Be at the cutting edge of technology.",
+        "Open its courses to a wider public.",
+        "Propose unseen disciplines."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t19-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Le stress, la fatigue, les troubles du sommeil : voilà ce qui menace notre organisme à la suite d’une exposition excessive à une lumière artificielle.\nAu contraire, la lumière naturelle influence notre comportement et régit nos processus physiologiques, notre efficacité au quotidien, nos humeurs, jouant donc un rôle fondamental sur notre métabolisme.\nAinsi, par une diminution des effets de fatigue, de stress et par un accroissement de la concentration, nous sommes alors plus réceptifs et attentifs aux différents stimuli que notre organisme pourra plus facilement assimiler.\nEn entreprise, un aménagement adéquat des bureaux, de préférence dans un environnement préservant au maximum la lumière naturelle, est donc un atout pour nos performances journalières.",
+      "question": "Sur quoi insiste l’auteur de cet article ?",
+      "questionTranslation": "What does the author of this article insist on?",
+      "options": [
+        "L’importance des agencements intérieurs.",
+        "L’insuffisance des plages de repos.",
+        "Les bienfaits d’un éclairage électrique optimal.",
+        "Les effets du surmenage sur la santé."
+      ],
+      "optionTranslations": [
+        "The importance of interior layouts.",
+        "The insufficiency of rest periods.",
+        "The benefits of optimal electric lighting.",
+        "The effects of overwork on health."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t19-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Treize jeunes cinéastes, achevant leur formation dans les plus prestigieuses écoles d’animation, ont planché sur quelques vers de Paul Éluard, livrant leur vision originale de son univers poétique.\nS’inscrivant dans la suite des programmes de courts-métrages dédiés à Prévert et Apollinaire, ce nouveau florilège de la série En sortant de l’école met en lumière l’œuvre d’un « apparenté surréaliste » dont la notoriété est souvent, hélas, réduite au seul - et incontournable - poème Liberté.\nSa délicatesse, en amour comme en fantaisie, s’avère un combustible merveilleux pour de jeunes cinéastes.",
+      "question": "Selon cette critique, quel est l’apport de ce dernier ensemble de courts-métrages ?",
+      "questionTranslation": "According to this critique, what is the contribution of this latest set of short films?",
+      "options": [
+        "Il constitue une création artistique novatrice",
+        "Il établit des ponts avec d’autres auteurs",
+        "Il fait connaître les travaux d’un écrivain",
+        "Il ouvre la voie à de prochaines réalisations"
+      ],
+      "optionTranslations": [
+        "It constitutes an innovative artistic creation",
+        "It builds bridges with other authors",
+        "It makes the works of a writer known",
+        "It paves the way for future productions Retry test All tests"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

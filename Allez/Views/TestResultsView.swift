@@ -157,6 +157,12 @@ private struct AnswerReviewRow: View {
                     Text("Bonne réponse : \(question.correctAnswer)")
                         .foregroundStyle(Theme.correct)
                 }
+                if let translation = question.questionTranslation {
+                    Text(translation + (question.correctAnswerTranslation.map { " → " + $0 } ?? ""))
+                        .font(.footnote)
+                        .italic()
+                        .foregroundStyle(.secondary)
+                }
                 if let explanation = question.explanation {
                     Text(explanation)
                         .font(.footnote)
@@ -167,6 +173,11 @@ private struct AnswerReviewRow: View {
                         .font(.footnote)
                         .italic()
                         .foregroundStyle(.secondary)
+                }
+                if question.answerDisputed == true {
+                    Label("Réponse contestée par d'autres candidats.", systemImage: "exclamationmark.triangle.fill")
+                        .font(.footnote.weight(.semibold))
+                        .foregroundStyle(Theme.gold)
                 }
             }
         }

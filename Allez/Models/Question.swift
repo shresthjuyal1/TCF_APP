@@ -66,12 +66,33 @@ struct Question: Identifiable, Codable, Hashable {
     var passageTranslation: String?
     var audioFile: String?
     let question: String
+    var questionTranslation: String?
     let options: [String]
+    /// English for each option, in the same order as `options`.
+    var optionTranslations: [String]?
     let correctIndex: Int
     var explanation: String?
     var vocabulary: [VocabItem]?
+    /// True when the source marked the official answer as disputed by other learners.
+    var answerDisputed: Bool?
 
     var correctAnswer: String { options[correctIndex] }
+
+    var correctAnswerTranslation: String? { translation(ofOption: correctIndex) }
+
+    func translation(ofOption index: Int) -> String? {
+        guard let optionTranslations, optionTranslations.indices.contains(index) else { return nil }
+        return optionTranslations[index]
+    }
+
+    var hasTranslation: Bool {
+        passageTranslation != nil || questionTranslation != nil || optionTranslations != nil
+    }
+
+    /// Identifies the same question appearing in several tests, ignoring spacing and punctuation.
+    var contentKey: String {
+        ((passage ?? "") + question).lowercased().filter { $0.isLetter || $0.isNumber }
+    }
 }
 
 /// One circle on the home path.

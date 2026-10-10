@@ -1,0 +1,828 @@
+{
+  "id": "tcf-lecture-15",
+  "title": "Test 15",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t15-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "SERVICE DES VISAS Ouvert du lundi au vendredi.\nDe 8h à 13h.",
+      "question": "Quand pouvez-vous demander un visa ?",
+      "questionTranslation": "When can you apply for a visa?",
+      "options": [
+        "Le jeudi soir.",
+        "Le mardi matin.",
+        "Le mercredi après-midi.",
+        "Le samedi midi."
+      ],
+      "optionTranslations": [
+        "Thursday evening.",
+        "Tuesday morning.",
+        "Wednesday afternoon.",
+        "Saturday noon."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t15-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Lucas,\nEst-ce que tu viens voir avec moi le dernier film de Doillon, lundi à 20 h 00 ?\nLa place est à quatre euros seulement !\nJérémy",
+      "question": "Quelle information est-ce que Jérémy donne dans ce message ?",
+      "questionTranslation": "What information does Jérémy give in this message?",
+      "options": [
+        "La durée du spectacle.",
+        "Le nom du cinéma.",
+        "Le prix du billet.",
+        "Le titre du film."
+      ],
+      "optionTranslations": [
+        "The duration of the show.",
+        "The name of the cinema.",
+        "The price of the ticket.",
+        "The title of the film."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t15-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Vie pratique\nConsommez cinq fruits et légumes par jour.\nLimitez la quantité de viande rouge, de beurre, de sucre et de sel, et buvez au moins huit verres d'eau par jour !",
+      "question": "Vous ferez le plein d'énergie ! Que permet le conseil de « Vie pratique » ?",
+      "questionTranslation": "What does the advice from 'Practical Life' enable you to do?",
+      "options": [
+        "De faire des économies.",
+        "De pratiquer un sport.",
+        "De rester en bonne santé.",
+        "De trouver des produits bios."
+      ],
+      "optionTranslations": [
+        "To save money.",
+        "To practice a sport.",
+        "To stay in good health.",
+        "To find organic products."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t15-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Prière de n’emporter ni les draps de bain, ni les objets appartenant au bar de la chambre.\nNous vous remercions de votre compréhension.\nLa direction de l’hôtel",
+      "question": "À qui est destinée cette annonce ?",
+      "questionTranslation": "Who is this announcement intended for?",
+      "options": [
+        "Aux clients de l’hôtel.",
+        "Au service de nettoyage.",
+        "Au directeur de l’hôtel.",
+        "Aux serveurs du bar."
+      ],
+      "optionTranslations": [
+        "To the hotel guests.",
+        "To the cleaning service.",
+        "To the hotel manager.",
+        "To the bar waiters."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t15-q05",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Prière de ne pas toucher à la photocopieuse.\nLe réparateur arrive demain à la première heure. En attendant, donnez vos documents à ma secrétaire qui les photocopiera au bureau de la comptable.\nMerci,\nLe directeur.",
+      "question": "Qui va faire les photocopies pendant que la photocopieuse est en réparation ?",
+      "questionTranslation": "Who will do the photocopies while the photocopier is being repaired?",
+      "options": [
+        "La comptable.",
+        "La secrétaire.",
+        "Le directeur.",
+        "Le réparateur."
+      ],
+      "optionTranslations": [
+        "The accountant.",
+        "The secretary.",
+        "The director.",
+        "The repairman."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t15-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Le Forum de Paris s'adresse aux jeunes de moins de trente ans, avec ou sans diplôme.\nDes milliers d'offres sont disponibles dans près de 300 métiers.\nChaque année, un grand nombre de jeunes signent un contrat de travail lors du salon.",
+      "question": "Pourquoi le Forum de Paris est-il utile aux jeunes ?",
+      "questionTranslation": "Why is the Paris Forum useful for young people?",
+      "options": [
+        "Il les renseigne sur des informations",
+        "Il leur permet de trouver un emploi",
+        "Il leur présente des stages en entreprise",
+        "Il leur propose des logements étudiants"
+      ],
+      "optionTranslations": [
+        "It provides them with information",
+        "It allows them to find a job",
+        "It presents them with company internships",
+        "It offers them student housing"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t15-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "GRANDE MARCHE POUR DÉFENDRE NOS EMPLOIS MARDI 12 JUIN\nVENEZ NOMBREUX\nDÉPART PLACE DES NATIONS DEVANT LE CENTRE DES CONGRÈS À 10H.\nARRIVÉE PRÉVUE VERS MIDI DEVANT LA MAISON DES ENTREPRISES.\nBOULEVARD DES PLATANES.",
+      "question": "Qu’annonce cette affiche ?",
+      "questionTranslation": "What does this poster announce?",
+      "options": [
+        "Un salon des entrepreneurs",
+        "Une compétition sportive",
+        "Une conférence sur le chômage",
+        "Une manifestation sociale"
+      ],
+      "optionTranslations": [
+        "An entrepreneurs' fair",
+        "A sports competition",
+        "A conference on unemployment",
+        "A social demonstration"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t15-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Bonjour,\nEst-ce que vous pouvez dire à vos enfants qu’il est interdit de jouer avec l’ascenseur ?\nIl est souvent en panne, car ils s’amusent avec les boutons.\nJe suis obligé de monter et de descendre les 5 étages à pied.\nMerci de votre compréhension.\nM. Deroulède, 5e gauche",
+      "question": "Pourquoi M. Deroulède est-il mécontent ?",
+      "questionTranslation": "Why is Mr. Deroulède unhappy?",
+      "options": [
+        "C’est lui qui appelle le réparateur.",
+        "Il doit utiliser les escaliers.",
+        "Ses voisins sont bruyants.",
+        "Son logement est au dernier étage."
+      ],
+      "optionTranslations": [
+        "He is the one who calls the repairman.",
+        "He has to use the stairs.",
+        "His neighbors are noisy.",
+        "His apartment is on the top floor."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t15-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Vous mangez italien, dansez le flamenco ou apprenez le suédois ?\nPartagez vos prises de vue (portraits, paysages, etc.) qui montrent que l’Europe fait partie de votre vie.\nParticipez au concours « Europe en images ».\nÀ GAGNER : un séjour à Bruxelles ou un atelier cuisine.",
+      "question": "Que propose ce concours ?",
+      "questionTranslation": "What does this contest propose?",
+      "options": [
+        "D’envoyer des photos.",
+        "D’inventer une recette.",
+        "De créer un spectacle.",
+        "De découvrir une langue."
+      ],
+      "optionTranslations": [
+        "To send photos.",
+        "To invent a recipe.",
+        "To create a show.",
+        "To discover a language."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t15-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "L’école Jean Monnet organise sa « Journée portes ouvertes » samedi prochain, de 9h00 à 16h00.\nTous les parents d’élèves sont invités.\nCe sera l’occasion de rencontrer les professeurs et l’équipe administrative qui se tient prête à répondre à vos questions.\nLa direction de l’école J. Monnet",
+      "question": "Que pourront faire les parents pendant cette journée ?",
+      "questionTranslation": "What will parents be able to do during this day?",
+      "options": [
+        "Dialoguer avec le personnel enseignant.",
+        "Écouter une présentation du directeur.",
+        "Participer à une conférence sur l’éducation.",
+        "Répondre à un questionnaire sur les cours."
+      ],
+      "optionTranslations": [
+        "Speak with the teaching staff.",
+        "Listen to a presentation by the director.",
+        "Participate in a conference on education.",
+        "Answer a questionnaire about the courses."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t15-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Vous voulez faire connaître votre entreprise ?\nNous vous proposons de très bons prix pour mettre une annonce sur notre site Internet.\nEnvoyez-nous votre texte, nous vous contacterons pour vous informer sur nos prix.",
+      "question": "Que propose cette annonce aux entreprises ?",
+      "questionTranslation": "What does this ad offer to companies?",
+      "options": [
+        "Un service de création de site",
+        "Une aide informatique rapide",
+        "Une formation sur Internet",
+        "Une publicité à faible coût"
+      ],
+      "optionTranslations": [
+        "A website creation service",
+        "Quick IT support",
+        "Internet training",
+        "Low-cost advertising"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t15-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La ville de Londres s’est offert une tour, emblème des Jeux Olympiques.\nCette sculpture urbaine accueille ses visiteurs dans un restaurant et ceux-ci peuvent également profiter de la vue, sur la plateforme panoramique.\nCette tour est très critiquée, elle a déjà été qualifiée de « trombone géant » ou de « gigantesque gribouillis » par un journaliste du Times.\nMais ce qui choque surtout, c’est le prix du monument : 21 millions d’euros, financés à hauteur de 18 millions par un groupe privé et ses 3 millions restants par la mairie de Londres.",
+      "question": "Sur quoi portent les critiques de la tour ?",
+      "questionTranslation": "What are the criticisms of the tower about?",
+      "options": [
+        "Sur l’architecte qui l’a conçue.",
+        "Sur l’emplacement qui a été choisi.",
+        "Sur la somme qu’elle a coûtée.",
+        "Sur le symbole qu’elle représente."
+      ],
+      "optionTranslations": [
+        "On the architect who designed it.",
+        "On the location that was chosen.",
+        "On the sum it cost.",
+        "On the symbol it represents."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t15-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "HÔTEL - MINUTE\nIncroyable, mais vrai : cinq jours et seize heures.\nC’est le temps qu’il a fallu pour bâtir un hôtel de 16 étages et 50 mètres de haut.\nLe « Art Hôtel » a été assemblé à partir de pièces détachées métalliques fabriquées en usine.\nD’après l’architecte, le bâtiment doit résister aux tremblements de terre et a été conçu dans le respect de l’environnement (consommation d’énergie, bruit, etc.).",
+      "question": "Qu’est-ce qui fait l’originalité de cet hôtel ?",
+      "questionTranslation": "What makes this hotel original?",
+      "options": [
+        "L’aménagement des lieux.",
+        "La rapidité de sa construction.",
+        "Le choix de son emplacement.",
+        "Le coût des matériaux utilisés."
+      ],
+      "optionTranslations": [
+        "The arrangement of the premises.",
+        "The speed of its construction.",
+        "The choice of its location.",
+        "The cost of materials used."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t15-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Vous avez besoin d’aller à l’aéroport de Marseille ?\nLe parking coûte trop cher ?\nAvec notre société, payez seulement le nombre de kilomètres nécessaires.\nAppelez-nous tous les jours, 24h sur 24.",
+      "question": "Quel service propose cette société ?",
+      "questionTranslation": "What service does this company offer?",
+      "options": [
+        "Acheter un billet d’avion.",
+        "Organiser des vacances.",
+        "Réserver un parking.",
+        "Transporter des personnes."
+      ],
+      "optionTranslations": [
+        "Buy a plane ticket.",
+        "Organize vacations.",
+        "Reserve a parking space.",
+        "Transport people."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t15-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Delphine Péras a enquêté sur les clubs de lecture pour notre magazine.\nElle a eu des difficultés à les trouver, car il s’agit souvent de groupes privés.\nIl fallait faire une liste des clubs durables, car beaucoup suivent la mode et ont une durée de vie très courte.\nCe n’est pas le cas de « Voix au Chapitre », qui existe depuis 1986 !\nLes rencontres fonctionnent suivant une formule simple : autour d’un café, chaque participant donne son avis sur un livre puis tous en discutent.",
+      "question": "Quelle difficulté Delphine Péras a-t-elle rencontrée lors de son enquête ?",
+      "questionTranslation": "What difficulty did Delphine Péras encounter during her investigation?",
+      "options": [
+        "Les clubs disparaissaient vite après leur création.",
+        "Les groupes concernés étaient trop nombreux.",
+        "Les lecteurs refusaient de parler à des journalistes.",
+        "Les rencontres se faisaient de manière irrégulière."
+      ],
+      "optionTranslations": [
+        "The clubs disappeared quickly after their creation.",
+        "The groups concerned were too numerous.",
+        "The readers refused to speak to journalists.",
+        "The meetings took place irregularly."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t15-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "LE PROGRAMME DESCARTES\nLe programme Descartes s’adresse aux élèves français et allemands.\nLes Français séjournent dans une famille d’accueil allemande pendant 6 mois et accueillent leur correspondant allemand en France les 6 mois suivants.\nLes élèves Descartes fréquentent l’école de leur partenaire.\nL’objectif est d’approfondir leurs connaissances linguistiques dans la langue du pays d’accueil et leurs connaissances culturelles sur le pays.\nLes jeunes gagnent aussi en autonomie, ouverture d’esprit et tolérance.\nL’élève reçoit une aide pour les transports et 250 € pour les dépenses",
+      "question": "culturelles. Que permet le programme Descartes ?",
+      "questionTranslation": "What does the Descartes program allow?",
+      "options": [
+        "D’améliorer rapidement les résultats scolaires.",
+        "De délivrer des bourses d’études à l’étranger.",
+        "De proposer des circuits touristiques complets.",
+        "D’organiser des échanges de longue durée."
+      ],
+      "optionTranslations": [
+        "To improve school results quickly.",
+        "To deliver study scholarships abroad.",
+        "To propose complete tourist circuits.",
+        "To organize long-term exchanges."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t15-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "« Un pour un » est une association de Brest qui propose un service de soutien scolaire individualisé.\n« Un pour un », c’est un adulte qui aide bénévolement un élève en difficulté à raison d’une séance par semaine pendant l’année scolaire, en liaison avec sa famille et son professeur.\nLe dispositif est ouvert à tous les élèves des établissements de la ville.\nSi vous aussi, vous souhaitez devenir tuteur, rejoignez notre équipe !\nEnvoyez-nous vos coordonnées à :\nUn pour un\n34, rue Champion",
+      "question": "29200 Brest Que propose cette association ?",
+      "questionTranslation": "What does this association offer?",
+      "options": [
+        "Des ateliers pendant les vacances.",
+        "Des cours particuliers payants.",
+        "Un accompagnement personnalisé.",
+        "Un suivi psychologique gratuit."
+      ],
+      "optionTranslations": [
+        "Workshops during the holidays.",
+        "Paid private lessons.",
+        "Personalized support.",
+        "Free psychological follow-up."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t15-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Draisienne du XXIe siècle\nÀ 88 ans, Jacques Blosseville est le participant le plus âgé de la 100e édition du concours Lépine, qui récompense les inventeurs.\nIl a choisi de transformer la draisienne, un vélo sans pédale pour enfant inventé au début du XIXe siècle.\n« Il y a trois ans, j’ai commencé à me déplacer avec peine.\nOn m’a proposé une canne, puis un fauteuil roulant, mais ça ne me convenait pas.\nLa draisienne vous permet de ne pas avoir à supporter votre poids », explique le",
+      "question": "concurrent. Dans quel but Jacques Blosseville a-t-il modernisé la draisienne ?",
+      "questionTranslation": "For what purpose did Jacques Blosseville modernize the balance bike?",
+      "options": [
+        "Pour éviter de conduire.",
+        "Pour faire rêver les enfants.",
+        "Pour marcher sans souffrir.",
+        "Pour porter des objets lourds."
+      ],
+      "optionTranslations": [
+        "To avoid driving.",
+        "To make children dream.",
+        "To walk without suffering.",
+        "To carry heavy objects."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t15-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "L’AGRICULTURE BIOLOGIQUE, TOUT LE MONDE EN VEUT, MAIS L’AGRICULTURE FRANÇAISE LA BOUDE.\n64 % des Français ont acheté bio au moins une fois.\nDevant l’insuffisance de certaines productions, notamment de fruits et légumes, il faut importer 32 % des produits labellisés.\nLe bio en France ne concerne qu’un million d’hectares.\nD’ambitieux objectifs ont été fixés, mais le ministre de l’Agriculture s’est contenté de viser un doublement des surfaces d’ici à la fin du quinquennat.\n« Ces objectifs sont modestes, mais atteignables au moins », indique le président de la Fédération nationale d’agriculture biologique (FN AN AN AN AB).",
+      "question": "Quel est l’objectif des mesures gouvernementales en matière d’agriculture biologique ?",
+      "questionTranslation": "What is the objective of the governmental measures regarding organic agriculture?",
+      "options": [
+        "Exporter davantage de produits biologiques nationaux.",
+        "Inciter à la consommation de produits biologiques.",
+        "Satisfaire la demande en produits biologiques locaux.",
+        "Simplifier la certification des produits biologiques."
+      ],
+      "optionTranslations": [
+        "Export more national organic products.",
+        "Encourage the consumption of organic products.",
+        "Satisfy the demand for local organic products.",
+        "Simplify the certification of organic products."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t15-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Pour exprimer notre conception du temps, nous utilisons des métaphores spatiales.\nDans toutes les langues connues, le passé est associé à l’espace situé derrière l’individu, et le futur à l’espace situé devant lui.\nSauf dans la langue aymara, parlée dans une partie de la Bolivie, du Pérou et du Chili : associé à ce qui est connu par la vue, le passé est situé devant, tandis que le futur, inconnu, est derrière soi.\nUne enquête de terrain, qui a recoupé les mots et les gestes des locuteurs, a permis de confirmer qu’il s’agit bien d’une façon de penser inversée de la nôtre.",
+      "question": "De quelle particularité de la langue aymara est-il question dans ce texte ?",
+      "questionTranslation": "What particularity of the Aymara language is discussed in this text?",
+      "options": [
+        "Le temps chronologique est impossible à représenter.",
+        "La notion de projection spatiale a disparu au fil du temps.",
+        "Les différentes expressions du temps ont la même forme linguistique.",
+        "L’expression du temps est opposée à la représentation habituelle."
+      ],
+      "optionTranslations": [
+        "Chronological time is impossible to represent.",
+        "The notion of spatial projection has disappeared over time.",
+        "Different expressions of time have the same linguistic form.",
+        "The expression of time is opposite to the usual representation."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t15-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le jour viendra où un fonds de pension ou un groupe alimentaire mondial investira dans l’entreprise d’un cuisinier reconnu pour orchestrer son développement international.\nBien sûr, on ne peut qu’avoir de la nostalgie pour les temps héroïques où une bande de copains inventait les codes de la nouvelle cuisine.\nAujourd’hui, n’importe quel jeune cuisinier est prêt à payer très cher pour le privilège d’un stage de six mois chez un « Grand chef ».\nIl rentabilisera vite cet investissement en s’autoproclamant élève de, car les marques des grands chefs ne cessent de prendre de la valeur.",
+      "question": "Qu’apprend-on sur les grands chefs ?",
+      "questionTranslation": "What do we learn about great chefs?",
+      "options": [
+        "Leur conception de la cuisine est passée de mode",
+        "Leur créativité leur assure une célébrité mondiale",
+        "Leur nom s’est transformé en label de prestige",
+        "Leurs établissements sont cotes en bourse"
+      ],
+      "optionTranslations": [
+        "Their conception of cooking is out of fashion",
+        "Their creativity assures them worldwide fame",
+        "Their name has turned into a prestigious label",
+        "Their establishments are listed on the stock exchange"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t15-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Monsieur Lereux,\nJ’ai l’honneur de vous informer que votre nom a été sélectionné pour 《Magasins en fête》 !\nDès à présent, rendez-vous dans votre magasin, un bulletin de participation vous sera remis en caisse à partir de 25 euros d’achat !C’est la dernière étape, alors n’attendez plus, venez remplir ce bulletin et gagnez un voyage de rêve, ou bien l’un de nos nombreux autres cadeaux.",
+      "question": "Pourquoi Monsieur Lereux doit-il se rendre en magasin ?",
+      "questionTranslation": "Why must Mr. Lereux go to the store?",
+      "options": [
+        "Pour bénéficier d’une promotion",
+        "Pour participer à la finale d’un jeu",
+        "Pour recevoir un coupon de voyage",
+        "Pour tenir un chèque cadeau"
+      ],
+      "optionTranslations": [
+        "To benefit from a promotion",
+        "To participate in the final of a game",
+        "To receive a travel coupon",
+        "To get/hold a gift voucher"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t15-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Où en est la propreté de Paris ?\nSelon le maire, la propreté est un enjeu majeur de la vie quotidienne : « Depuis plusieurs mois, de gros efforts ont été entrepris, car nous avons davantage de moyens humains et techniques que par le passé.\nNéanmoins, il y a toujours trop de salissures en tous genres.\nLe civisme n’est pas toujours au rendez-vous.\nEn dehors de la capacité à nettoyer, il est fondamental de dissuader les gens de salir.\nPendant quatre jours, nous serons sur le terrain pour aller à la rencontre des riverains et les sensibiliser aux enjeux de la propreté. »",
+      "question": "Le maire de Paris a décidé…",
+      "questionTranslation": "The mayor of Paris decided...",
+      "options": [
+        "De lutter contre la saleté dans la capitale.",
+        "De proposer plus de moyens à l’avenir.",
+        "De récompenser le civisme des gens.",
+        "D’écouter les plaintes des riverains."
+      ],
+      "optionTranslations": [
+        "To fight against dirtiness in the capital.",
+        "To propose more resources in the future.",
+        "To reward people's civic-mindedness.",
+        "To listen to residents' complaints."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t15-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Localiser un boucher, trouver un hôtel, calculer son itinéraire, observer sa maison par satellite…\nLes cartes fleurissent sur le web et les internautes y sont accros.\nPlus de 13 millions de Français consultent régulièrement des sites de localisation Internet.\nSans oublier le succès phénoménal des photos-satellites mises en ligne.\nCes services gratuits pour les internautes cachent un véritable business.\nDe grandes sociétés rémunèrent les sites de localisation pour être bien placées sur les cartes.\nC’est d’autant plus efficace que les utilisateurs ne perçoivent pas immédiatement ces liens sponsorisés comme une publicité, mais comme un service.",
+      "question": "Qu’apprend-on sur les services de localisation sur Internet ?",
+      "questionTranslation": "What do we learn about online location services?",
+      "options": [
+        "Ce sont des réseaux de commerçants qui les ont créés.",
+        "Ils sont financés discrètement par des entreprises.",
+        "Les prestations qu’ils proposent sont payantes.",
+        "Leur maintenance est assurée par des bénévoles."
+      ],
+      "optionTranslations": [
+        "It was networks of merchants that created them.",
+        "They are discreetly funded by companies.",
+        "The services they propose are paid services.",
+        "Their maintenance is ensured by volunteers."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t15-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Futur manager, soyez gentil !\nDepuis les scandales des traders, les grandes écoles ont été mises au banc des accusés :\nCe qu’elles transmettaient se limitait à du savoir technique directement exploitable par les entreprises.\nMyopie sociale et absence d’esprit critique menaçaient les futurs managers du monde économique.\nL’éthique est maintenant à la mode dans toutes les grandes écoles de management.\nIl n’y est question que de « social business » ou de « développement durable ».\nÀ côté des activités associatives traditionnelles, les actions humanitaires ont fleuri et de plus en plus d’étudiants s’y investissent chaque année.\nDésormais, un étudiant doit avoir fait du soutien scolaire en banlieue ou monté du microcrédit en Afrique.",
+      "question": "D’après ce texte, quelle est la nouvelle orientation des grandes écoles ?",
+      "questionTranslation": "According to this text, what is the new orientation of the elite schools?",
+      "options": [
+        "Créer des partenaires avec le milieu associatif",
+        "Former des jeunes défavorisés au management",
+        "Intégrer des valeurs sociales et environnementales",
+        "Préparer des techniciens aux dangers de la finance"
+      ],
+      "optionTranslations": [
+        "Creating partners with the voluntary/non-profit sector",
+        "Training disadvantaged youth in management",
+        "Integrating social and environmental values",
+        "Preparing technicians for the dangers of finance"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t15-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les bénéfices du bio pour la santé et pour l’environnement sont aujourd’hui prouvés.\nMais pour ses détracteurs, ce type de production ne serait pas viable, faute de rendements suffisants pour subvenir aux besoins d’une planète à la démographie galopante.\nUne idée répandue que réfutent des chercheurs européens qui affirment qu’il est possible de nourrir plus de 9 milliards d’êtres humains en 2050 avec 100% d’agriculture biologique, à deux conditions : réduire le gaspillage alimentaire et limiter la consommation de produits d’origine animale.\nUn défi de taille, alors que le bio ne représente que 1% de la surface agricole utile dans le monde.",
+      "question": "De quel défi est-il question ?",
+      "questionTranslation": "What challenge is discussed?",
+      "options": [
+        "Augmenter la surface des terres agricoles.",
+        "Garantir la qualité des aliments pour animaux.",
+        "Généraliser l’agriculture biologique.",
+        "Lutter contre la démographie galopante."
+      ],
+      "optionTranslations": [
+        "Increase the surface area of agricultural land.",
+        "Ensure the quality of animal feed.",
+        "Generalize organic farming.",
+        "Fight against galloping demographics."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t15-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Une étude récente révèle que la concentration de déchets plastiques flottant à la surface du Pacifique nord a été multipliée par cent en quarante ans.\nCe constat, émis par les pêcheurs en haute mer, est alarmant, car cette pollution a des conséquences écologiques.\nLa gigantesque plaque de déchets flottant sur l’océan Pacifique, épaisse par endroits de plusieurs dizaines de mètres, constitue un milieu favorable à la reproduction d’une espèce d’araignée d’eau.\nCet insecte est en train de se multiplier dans le Pacifique nord.\nSi la densité des plastiques continue à augmenter, certaines espèces pourraient continuer à se multiplier, risquant de déséquilibrer l’écosystème du Pacifique.",
+      "question": "Quel danger représentent ces déchets ?",
+      "questionTranslation": "What danger does this waste represent?",
+      "options": [
+        "Un obstacle pour les bateaux de pêche.",
+        "Un réchauffement dramatique des eaux.",
+        "Un risque d’intoxication des populations du Pacifique.",
+        "Une diminution de la diversité de la faune océanique."
+      ],
+      "optionTranslations": [
+        "An obstacle for fishing boats.",
+        "A dramatic warming of the waters.",
+        "A risk of poisoning the populations of the Pacific.",
+        "A decrease in the diversity of oceanic fauna."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t15-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "DRAGONS CHINOIS À PARIS\nC’est avec enthousiasme que le départ des festivités pour célébrer le Nouvel An chinois a été donné hier à 14 h 30 sur la place de l’Hôtel de Ville.\nDevant une foule joyeuse, éclairés par de petites lumières rouges, les dragons et les tigres ont commencé leur danse rythmée par les tambours.\nSi vous avez manqué ce défilé coloré, vous pourrez toujours vous rattraper aujourd’hui car il y en a un autre de prévu à 11 h 30 au métro Belleville.\nD’après Le Parisien.",
+      "question": "Qu’a-t-on pu voir place de l’Hôtel de Ville ?",
+      "questionTranslation": "What could be seen at the Hôtel de Ville square?",
+      "options": [
+        "Un marché traditionnel",
+        "Un spectacle de cirque.",
+        "Une cérémonie officielle",
+        "Une manifestation culturelle"
+      ],
+      "optionTranslations": [
+        "A traditional market",
+        "A circus show",
+        "An official ceremony",
+        "A cultural event"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t15-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Durant les investigations journalistiques, le recours à la caméra cachée est de plus en plus fréquent.\nMais souvent, son utilisation n’est aussi qu’un cache-misère, un moyen de compenser l’absence d’informations dans les reportages, de remplir le vide par des scènes un peu spectaculaires.\nC’est une manière pour certains aussi de faire des économies.\nPar ailleurs, cette pratique pose une autre question :\ncelle du statut de la personne filmée à son insu.\nLa filmer en caméra cachée, n’est-ce pas supposer qu’elle a quelque chose à se reprocher avant d’avoir commencé à parler ?",
+      "question": "D’après ce texte, pourquoi les journalistes utilisent-ils des caméras cachées ?",
+      "questionTranslation": "According to this text, why do journalists use hidden cameras?",
+      "options": [
+        "Pour améliorer la qualité des documentaires",
+        "Pour dissimuler la pauvreté des contenus",
+        "Pour moderniser leurs méthodes de travail",
+        "Pour saper les gens visés par les enquêtes"
+      ],
+      "optionTranslations": [
+        "To improve the quality of documentaries",
+        "To hide the poverty of content",
+        "To modernize their working methods",
+        "To undermine the people targeted by the investigations"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t15-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Les recherches actuelles sur la motivation indiquent que la confiance en ses capacités permet d’agir efficacement et joue un rôle crucial dans l’engagement et les performances d’un élève.\nCette confiance peut varier d’un domaine à l’autre ainsi que d’une matière scolaire à l’autre.\nTout comme on peut se sentir très à l’aise avec des instruments de musique, mais maladroit sur un terrain de basket, on peut se sentir très compétent en français, mais peu brillant en mathématiques.\nLes recherches ont montré que les élèves confiants en leurs capacités dans une matière choisissent de préférence des activités présentant pour eux un défi et leur donnant l’occasion de développer leurs habiletés.\nInversement, ils ont tendance à se désintéresser des activités dans lesquelles ils se sentent peu efficaces.",
+      "question": "Comment réagissent les élèves qui sont à l’aise dans certaines disciplines ?",
+      "questionTranslation": "How do students react who are comfortable in certain disciplines?",
+      "options": [
+        "Ils finissent par maîtriser l’ensemble des matières.",
+        "Ils font des efforts dans les autres matières étudiées.",
+        "Ils négligent les matières trop faciles pour eux.",
+        "Ils se fixent des objectifs élevés dans ces matières."
+      ],
+      "optionTranslations": [
+        "They end up mastering all subjects.",
+        "They make efforts in the other subjects studied.",
+        "They neglect subjects that are too easy for them.",
+        "They set high goals in these subjects."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t15-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Le jeunisme n’est certes pas un concept nouveau.\nIl y a toujours eu des adultes pour croire qu’ils pouvaient jouer « en douce dans la cour des jeunes ».\nOn s’en moquait alors et ils ne trompaient personne, à commencer par eux- mêmes.\nLa nouvelle donne est différente : les intéressés ne cherchent même pas à « se faire jeunes ».\nIls le sont.\nSans effort apparent ni ridicule particulier.\nFinies, les demandes humbles et ringardes aux enfants d’Internet, pour se faire expliquer telle ou telle subtilité d’Internet.\nTout va bien, merci, les ex-vieux ont appris à se servir de leurs joujoux technos, tous seuls comme des grands !\nIls se tiennent d’ailleurs parfois aussi mal que des ados, envoyant des SMS à table ou bondissant à la moindre sonnerie.",
+      "question": "Dans quel sens évoluent les adultes d’après l’auteur ?",
+      "questionTranslation": "In which direction are adults evolving according to the author?",
+      "options": [
+        "Ils résistent aux comportements de la société du tout numérique.",
+        "Ils se remettent à niveau pour utiliser les téléphones portables.",
+        "Ils se sentent désorientés face aux outils technologies.",
+        "Ils sont parfaitement à l’aise avec les derniers outils multimédias."
+      ],
+      "optionTranslations": [
+        "They resist the behaviors of the all-digital society.",
+        "They are getting up to speed to use mobile phones.",
+        "They feel disoriented facing technological tools.",
+        "They are perfectly at ease with the latest multimedia tools."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t15-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Après avoir été fermée au public pendant douze ans, la grotte préhistorique d’Atlantica, située en Espagne, doit rouvrir ses portes, mais de manière expérimentale.\nIl s’agit d’une expérience réservée à un groupe de cinq personnes tirées au hasard parmi les visiteurs du musée du site, qui vont pouvoir contempler les peintures rupestres originales.\nCette expérience se déroulera une fois par semaine pendant huit mois afin de permettre à une équipe de scientifiques d’évaluer l’impact des visites sur l’ensemble du site et de donner son avis sur une réouverture complète.",
+      "question": "Qu’évoque-t-on dans cet article ?",
+      "questionTranslation": "What is being discussed in this article?",
+      "options": [
+        "L’inauguration d’une exposition temporaire",
+        "L’inscription d’une œuvre au patrimoine mondial",
+        "L’ouverture au public d’une zone dangereuse",
+        "L’accès réglementé à un emplacement protégé"
+      ],
+      "optionTranslations": [
+        "The inauguration of a temporary exhibition",
+        "The listing of a work as world heritage",
+        "The opening to the public of a dangerous zone",
+        "Regulated access to a protected location"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t15-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Plutôt que de multiplier les tests et les mises en situation, certaines entreprises choisissent de déléguer la responsabilité du recrutement à leurs salariés.\n« Personnellement, je suis très favorable à la cooptation, affirme ce responsable.\nSi vous avez un bon élément dans votre équipe, vous avez une excellente chance qu’il vous amène un autre bon élément, ça permet de limiter les risques. »\nSigne des temps : la « cooptation » est aujourd’hui acceptée et revendiquée par tous.\nDans certaines entreprises, elle est même encouragée par une prime : 4000 euros sont versés à tout employé ayant recommandé un candidat recruté à son tour.",
+      "question": "En adoptant la cooptation pour le recrutement, que recherchent les entreprises ?",
+      "questionTranslation": "By adopting cooptation for recruitment, what are companies looking for?",
+      "options": [
+        "À gagner du temps.",
+        "À minimiser les aléas.",
+        "À réduire les frais.",
+        "À simplifier les procédures"
+      ],
+      "optionTranslations": [
+        "To save time.",
+        "To minimize hazards (risks).",
+        "To reduce costs.",
+        "To simplify procedures."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t15-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Un cabinet de conseil en énergie annonce que des coupures de courant sont à prévoir cet hiver dans l’Hexagone.\nEn effet, l’Allemagne, qui approvisionne la France en électricité, ne sera plus capable de faire face à la demande en raison de la fermeture de certains de ses réacteurs nucléaires.\nLe gouvernement pourrait appeler au « civisme » des Français, leur demandant de modérer la consommation électrique des foyers, qui atteignent des pics quotidiens autour de 19 h.\nPourtant, la France possède l’un des plus grands parcs nucléaires du monde, mais elle exporte la Quasi-totalité de l’énergie produite.",
+      "question": "Pourquoi y a-t-il des risques de coupures de courant ?",
+      "questionTranslation": "Why are there risks of power cuts?",
+      "options": [
+        "Parce que des tests sur les réacteurs nucléaires sont en cours.",
+        "Parce que l’approvisionnement en électricité est compromis.",
+        "Parce que la production française couvre à peine les besoins nationaux.",
+        "Parce que la régulation de la consommation d’énergie est inefficace."
+      ],
+      "optionTranslations": [
+        "Because tests on nuclear reactors are underway.",
+        "Because the electricity supply is compromised.",
+        "Because French production barely covers national needs.",
+        "Because the regulation of energy consumption is ineffective."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t15-q35",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Sexistes, les jeux vidéo ? Peut-être que oui, peut-être que non.\nEn tout cas, à parcourir les allées de la Paris Games Week, l'œil avisé aura lui- même bien du mal à trouver un personnage principal féminin de jeu vidéo.\nIl y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure pour plaire à un certain nombre de joueurs masculins.\nPour le reste, circulez, il n'y a - presque - rien d'autre à voir, si l'on balaye d'un coup de manette de jeu, au mieux, les princesses à sauver, au pire, les call-girls de mafioso.\nPourtant, l'industrie du jeu vidéo a pris conscience ces dernières années du potentiel du marché des joueuses.",
+      "question": "Quel constat est dressé sur les jeux vidéo ?",
+      "questionTranslation": "What observation is made about video games?",
+      "options": [
+        "La quasi-absence d’héroïnes.",
+        "L’appel constant à la violence.",
+        "L’atténuation des clichés.",
+        "L’uniformité des scénarios."
+      ],
+      "optionTranslations": [
+        "The near-absence of heroines.",
+        "The constant appeal to violence.",
+        "The mitigation of clichés.",
+        "The uniformity of scenarios."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t15-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Histoires d’école\nBernard Martin\nLongtemps, l’auteur de ce livre fut un objet de stupeur pour sa famille :\nincapable d’apprendre l’alphabet, détestant les majuscules, les noms propres et les listes de vocabulaire à retenir.\n« D’où venait mon ânerie ? », se demande-t-il dans cet ouvrage qui en réconfortera plus d’un.\nCar ce romancier jubilatoire fut un mauvais élève, terrassé par l’école.\nIl fut aussi professeur de français, histoire de contredire le destin.\nCe récit est à la fois un manuel de pédagogie et un recueil de souvenirs.\nUn beau témoignage à offrir à tous ceux qui n’ont pas la science infuse.\nÀ tout le monde, donc.",
+      "question": "Selon l'auteur de cette critique, en quoi ce livre est-il réjouissant ?",
+      "questionTranslation": "According to the author of this review, what makes this book delightful?",
+      "options": [
+        "Il permet d’apprendre à lire et à écrire de façon ludique.",
+        "Il raconte les aventures d’un professeur d’histoire.",
+        "Il ravive l’intérêt des littéraires pour les matières scientifiques.",
+        "Il retrace l’improbable parcours de vie d’un ancien cancre."
+      ],
+      "optionTranslations": [
+        "It allows learning to read and write in a playful way.",
+        "It tells the adventures of a history teacher.",
+        "It revives the interest of literary students in scientific subjects.",
+        "It retraces the improbable life path of a former dunce."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t15-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Dans le Val-d’Oise, une grande entreprise immobilière envisage de bâtir un complexe commercial sur des terres agricoles parmi les plus fertiles de la région parisienne.\nCe serait ainsi 80 hectares de champs qui disparaîtraient sous le béton pour laisser place à un grand temple de la consommation : locaux destinés à la culture (salle de spectacle, etc.), aux loisirs (manèges, etc.) et aux magasins en tout genre.\nL’ouvrage pharaonique ne devra son succès qu’à son gigantisme : les promoteurs expliquent en effet qu’ils pensent attirer les clients du fait que ce centre commercial sera encore plus grand que ses cousins.\nCe n’est pas avec ce genre de raisonnement que le rythme d’artificialisation des terres va baisser, ni que la France diminuera ses émissions de CO2.",
+      "question": "Que déplore l’auteur ?",
+      "questionTranslation": "What does the author deplore?",
+      "options": [
+        "La démesure du complexe imaginé.",
+        "La flambée des prix de l’immobilier.",
+        "La lenteur de la construction du centre.",
+        "Le manque d’inventivité des promoteurs."
+      ],
+      "optionTranslations": [
+        "The excessiveness of the imagined complex.",
+        "The skyrocketing real estate prices.",
+        "The slowness of the center's construction.",
+        "The lack of inventiveness of the developers."
+      ],
+      "correctIndex": 0,
+      "answerDisputed": true
+    },
+    {
+      "id": "t15-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Stella Baruk est une fée des chiffres.\nUne magicienne aux pouvoirs d’autant plus étonnants qu’ils donnent vie à la matière la plus redoutée — ou la plus détestée — par beaucoup d’entre nous : les mathématiques.\nHaut fait de cette enseignante : l’invention d’une méthode simple qui donne aux enfants le goût de cette discipline réputée austère et leur permet de réussir.\nPrincipe de base : si les maths, comme tout savoir, font appel à une langue spécifique, il faut aider les enfants qui n’entendent pas ce que dit le prof ou entendent autre chose — sans comprendre souvent l’énoncé du problème — à entrer dans le sens de cette langue, en multipliant les ponts avec le langage ordinaire.\nComme tout scientifique, c’est sur le terrain que lui vient une révélation.\n« J’avais préparé un cours que je pensais très bien. À la fin, un élève m’a fait cette remarque qui m’a sidérée : “6 est le double de 5 parce que le 6, tu comprends, il double le 5. Il lui passe juste devant.” Comment avait-il pu entendre cela ? »\nDe cet incident naît une démarche patiente, exigeante et iconoclaste.\nStella Baruk cerne l’inefficacité de nos méthodes et construit la sienne, fondée sur les mots, la langue, le sens, une vraie compréhension des opérations et des nombres, car les mathématiques sont un langage spécifique.\nC’est l’incapacité à le comprendre qui fonde les raisons plausibles et logiques",
+      "question": "des erreurs des élèves. Quelle est la solution à l’échec en mathématiques selon Stella Baruk ?",
+      "questionTranslation": "What is the solution to failure in mathematics according to Stella Baruk?",
+      "options": [
+        "Redonner un côté ludique aux mathématiques.",
+        "Inventer un nouveau langage mathématique.",
+        "Rendre intelligible le langage mathématique.",
+        "Trouver une explication logique aux erreurs."
+      ],
+      "optionTranslations": [
+        "Restore a playful side to mathematics.",
+        "Invent a new mathematical language.",
+        "Make mathematical language intelligible.",
+        "Find a logical explanation for errors."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t15-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "C’est un fait : le football en France ne fait pas déplacer grand monde.\nCertains s’en étonnent ; or c’est l’inverse qui devrait étonner.\nAu fond, quel intérêt y a-t-il à aller au stade ?\nPour de véritables supporters, c’est le désir de manifester son amour à une équipe soutenue, de se fondre dans une masse plus ou moins chaleureuse et grégaire.\nMais pour les autres ?\nEn fait, d’un point de vue strictement footballistique, on ne voit pas.\nLes tribunes font ressentir le drôle de paradoxe de se trouver très près de l’événement, plus près qu’on ne l’a jamais été au point d’entendre les joueurs s’exclamer contre une décision arbitrale, tout en se sentant complètement à l’écart de l’action, orphelin des plans serrés et des ralentis étoffés de commentaires parfois éclaircissants.",
+      "question": "Selon cet article, qu’est-ce qui explique la baisse de fréquentation des stades ?",
+      "questionTranslation": "According to this article, what explains the drop in stadium attendance?",
+      "options": [
+        "La concurrence de reportages en direct.",
+        "La défaillance récurrente de l’arbitrage.",
+        "La diminution du nombre de fans.",
+        "Le rajeunissement des spectateurs."
+      ],
+      "optionTranslations": [
+        "The competition from live coverage.",
+        "The recurring failure of refereeing.",
+        "The decrease in the number of fans.",
+        "The rejuvenation of spectators. Retry test All tests"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

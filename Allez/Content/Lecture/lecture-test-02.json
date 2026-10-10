@@ -1,0 +1,861 @@
+{
+  "id": "tcf-lecture-02",
+  "title": "Test 2",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t02-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Vous voulez découvrir d’autres cultures ?\nVous voulez parler anglais, français, espagnol ?\nLeçons à la maison ou au centre Bemardisilmo.\nInformation au 01 03 02 06 65.",
+      "question": "Qu’est-ce que propose cette publicité ?",
+      "questionTranslation": "What does this advertisement offer?",
+      "options": [
+        "Des cours",
+        "Des emplois",
+        "Des livres",
+        "Des voyages"
+      ],
+      "optionTranslations": [
+        "Courses",
+        "Jobs",
+        "Books",
+        "Trips"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text explicitly offers 'Leçons' (lessons) for learning languages, which means it proposes 'Des cours' (courses). 1. The text starts by asking if you want to discover other cultures or speak languages like English, French, and Spanish. 2. It explicitly states 'Leçons à la maison' (Lessons at home) or at a center. 3. The word 'Leçons' (lessons) is a direct synonym for 'Cours' (courses). 4. Options regarding jobs, books, or trips are not supported by the text, which focuses on language learning services.",
+      "vocabulary": [
+        {
+          "french": "découvrir",
+          "english": "discover"
+        },
+        {
+          "french": "leçons",
+          "english": "lessons"
+        },
+        {
+          "french": "publicité",
+          "english": "advertisement"
+        },
+        {
+          "french": "cours",
+          "english": "courses"
+        }
+      ]
+    },
+    {
+      "id": "t02-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Faites confiance à l’entreprise pour tous vos envois urgents.\nNous prenons vos paquets à domicile ou dans les bureaux de poste et nous les envoyons dans le monde entier.",
+      "question": "Que propose cette entreprise ?",
+      "questionTranslation": "What does this company offer?",
+      "options": [
+        "De stocker des marchandises",
+        "De transporter des colis",
+        "De vendre des cartons",
+        "De voyager à l’étranger"
+      ],
+      "optionTranslations": [
+        "To store goods",
+        "To transport parcels",
+        "To sell cardboard boxes",
+        "To travel abroad"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text explicitly says they take 'paquets' (packages) and send them worldwide, which defines transporting parcels. The text states the company handles 'envois urgents' (urgent shipments) and 'nous les envoyons' (we send them), referring to 'paquets' (packages). The word 'paquets' is a synonym for 'colis' (parcels). The service described involves picking up items and sending them worldwide, which constitutes transporting parcels. There is no mention of storage (stocker), selling boxes (vendre des cartons), or personal travel (voyager).",
+      "vocabulary": [
+        {
+          "french": "envois",
+          "english": "shipments"
+        },
+        {
+          "french": "paquets",
+          "english": "packages"
+        },
+        {
+          "french": "domicile",
+          "english": "home"
+        }
+      ]
+    },
+    {
+      "id": "t02-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Je suis bien arrivé chez moi.\nJe t'appelle demain pour aller voir le film.\nJe t'embrasse.\nCristian.",
+      "question": "Où est Cristian ?",
+      "questionTranslation": "Where is Cristian?",
+      "options": [
+        "À la gare",
+        "À la maison",
+        "Au cinéma",
+        "Au travail"
+      ],
+      "optionTranslations": [
+        "At the train station",
+        "At home",
+        "At the cinema",
+        "At work"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t02-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Pierre, n’oubliez pas notre déjeuner au restaurant.\nJe vous attends devant l’ascenseur.\nAlice.",
+      "question": "Pourquoi est-ce qu’Alice attend Pierre ?",
+      "questionTranslation": "Why is Alice waiting for Pierre?",
+      "options": [
+        "Pour des courses",
+        "Pour un repas",
+        "Pour un travail",
+        "Pour une réunion"
+      ],
+      "optionTranslations": [
+        "For shopping",
+        "For a meal",
+        "For work",
+        "For a meeting"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t02-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Françoise,\nPouvons-nous nous rencontrer dans ton bureau demain matin ?\nAriane.",
+      "question": "Pourquoi Ariane écrit-elle ce message ?",
+      "questionTranslation": "Why is Ariane writing this message?",
+      "options": [
+        "Elle doit partir une journée.",
+        "Elle propose un déjeuner.",
+        "Elle souhaite parler à Françoise.",
+        "Elle veut visiter une entreprise."
+      ],
+      "optionTranslations": [
+        "She has to leave for a day.",
+        "She is proposing a lunch.",
+        "She wishes to speak to Françoise.",
+        "She wants to visit a company."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Le Forum de Paris s'adresse aux jeunes de moins de trente ans, avec ou sans diplôme.\nDes milliers d'offres sont disponibles dans près de 300 métiers.\nChaque année, un grand nombre de jeunes signent un contrat de travail lors du salon.",
+      "question": "Pourquoi le Forum de Paris est-il utile aux jeunes ?",
+      "questionTranslation": "Why is the Paris Forum useful for young people?",
+      "options": [
+        "Il les renseigne sur des informations",
+        "Il leur permet de trouver un emploi",
+        "Il leur présente des stages en entreprise",
+        "Il leur propose des logements étudiants"
+      ],
+      "optionTranslations": [
+        "It provides them with information",
+        "It allows them to find a job",
+        "It presents them with company internships",
+        "It offers them student housing"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t02-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Jardin de la Fontaine\nOuverture-Fermeture\nDu 1er septembre au 31 mars : 7 h 30 - 18 h 30 Du 1er avril au 30 juin : 7 h 30 - 20 h 30 Du 1er juillet au 31 août : 7 h 00 - 22 h 30",
+      "question": "Quand peut-on se promener dans le parc après 18 h 30 ?",
+      "questionTranslation": "When can one take a walk in the park after 6:30 pm (18:30)?",
+      "options": [
+        "En décembre",
+        "En février",
+        "En mai",
+        "En mars"
+      ],
+      "optionTranslations": [
+        "In December",
+        "In February",
+        "In May",
+        "In March"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "1kg de pommes Salade\nMouchoirs en papier",
+      "question": "Où trouve-t-on ces produits ?",
+      "questionTranslation": "Where can one find these products?",
+      "options": [
+        "Dans une boucherie",
+        "Dans une boulangerie",
+        "Dans une épicerie",
+        "Dans une poissonnerie"
+      ],
+      "optionTranslations": [
+        "In a butcher shop",
+        "In a bakery",
+        "In a grocery store",
+        "In a fish shop"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Bonjour Ahmed,\nCe message pour te rappeler la réunion de lundi.\nNous commanderons des paniers-repas pour le midi car la séance peut durer longtemps, les dossiers à traiter sont nombreux.\nPeux-tu en informer les personnes des services concernés ?\nMerci d’avance. À lundi.\nPierre",
+      "question": "Que demande Pierre à Ahmed ?",
+      "questionTranslation": "What does Pierre ask Ahmed?",
+      "options": [
+        "D’apporter le déjeuner",
+        "D’avancer le rendez-vous",
+        "De consulter les documents",
+        "De prévenir ses collègues"
+      ],
+      "optionTranslations": [
+        "To bring lunch",
+        "To move the appointment earlier",
+        "To consult the documents",
+        "To notify his colleagues"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t02-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Madame, Monsieur,\nEn raison de travaux rue Paul Vaillant, l’accès à la piscine municipale se fera côté boulevard Camélines, du 15 au 25 mars inclus.\nVeuillez nous excuser pour la gêne occasionnée.\nLe service municipal.",
+      "question": "Quelle information est donnée au sujet de la piscine ?",
+      "questionTranslation": "What information is given regarding the pool?",
+      "options": [
+        "Elle sera fermée au mois de mars.",
+        "Il y aura des travaux à l’intérieur.",
+        "L’entrée se fera par une autre porte.",
+        "Le service municipal réparera les lieux."
+      ],
+      "optionTranslations": [
+        "It will be closed in March.",
+        "There will be construction work inside.",
+        "The entry will be via another door.",
+        "The municipal service will repair the premises."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q11",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Chers amis,\nNous aimerions vous avoir à notre soirée pour fêter la nouvelle année.\nSoyez là pour 21 h 00 en tenue décontractée, nous sommes entre amis.\nCéline et Redha",
+      "question": "Pourquoi Céline et Radha invitent-ils des amis ?",
+      "questionTranslation": "Why are Céline and Radha inviting friends?",
+      "options": [
+        "Pour un anniversaire",
+        "Pour un mariage",
+        "Pour un réveillon",
+        "Pour un spectacle"
+      ],
+      "optionTranslations": [
+        "For a birthday",
+        "For a wedding",
+        "For a New Year's Eve party",
+        "For a show"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Clément et Pierre vont participer au tour automobile 4L Trophy au Maroc.\nIls vont apporter 40 kg de matériel et 10 kg de nourriture à une école.\nLes deux amis recherchent des solutions pour payer leur voyage.\nVous voulez les aider : c&p@4Ltrophy.fr",
+      "question": "De quoi Clément et Pierre ont-ils besoin ?",
+      "questionTranslation": "What do Clément and Pierre need?",
+      "options": [
+        "D’argent pour la course",
+        "De livres pour les enfants",
+        "De produits pour les repas",
+        "D’une voiture pour le transport"
+      ],
+      "optionTranslations": [
+        "Money for the race",
+        "Books for the children",
+        "Products for meals",
+        "A car for transport"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t02-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "NOUVEAU MESSAGE\nDE: Ressources humaines\nA: Tout le personnel\nMessage :\nChers collègues,\nVeuillez rendre au plus tard vendredi midi votre feuille deu demande de congés.\nNous vous rappelons qu'il est essentiel pour le bon fonctionnement de notre société pendant la période estivale et pour satisfaire toutes vos demandes que ces feuilles soient dûment complétées et remises le plus tôt possible à votre responsable.\nNous vous remercions de votre collaboration et nous vous souhaitons une bonne semaine.\nLa direction des ressources humaines.",
+      "question": "Dans ce message électronique, quedemande-t-on aux employés ?",
+      "questionTranslation": "In this email message, what is asked of the employees?",
+      "options": [
+        "De participer à la vie de l’entreprise.",
+        "De poser leurs jours de vacances.",
+        "De remplir un formulaire en ligne.",
+        "De respecter les règles de sécurité."
+      ],
+      "optionTranslations": [
+        "To participate in the life of the company.",
+        "To request their vacation days.",
+        "To fill out an online form.",
+        "To respect safety rules."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t02-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "« L’internaute.fr » vous informe sur la protection de l’environnement.\nChaque année, c’est environ un million de tonnes de courriers non adressés qui arrivent dans les boîtes aux lettres des Français.\nCes courriers sont des publicités de supermarchés ou des journaux gratuits.\nOr, il vaudrait mieux limiter la production de papier inutile.\nLa meilleure méthode consiste à poser un autocollant « Stop Pub », disponible gratuitement sur le site du ministère de l’Écologie.\nLorsqu’il s’agit de courrier adressé à votre nom, vous pouvez solliciter la liste Robinson pour demander de ne plus recevoir de courrier envoyé par les listes de marketing.",
+      "question": "Quel est l’objectif de l’article de « L’internaute.fr » ?",
+      "questionTranslation": "What is the objective of the \"L’internaute.fr\" article?",
+      "options": [
+        "Alerter les clients sur les fausses publicités des magasins",
+        "Donner des conseils pour arrêter de recevoir des publicités",
+        "Présenter le résumé d’une étude sur les effets de la publicité",
+        "Vendre l’autocollant « Stop Pub » du ministère de l’Écologie"
+      ],
+      "optionTranslations": [
+        "Alert customers about fake store advertisements",
+        "Give advice on how to stop receiving advertisements",
+        "Present the summary of a study on the effects of advertising",
+        "Sell the 'Stop Ads' sticker from the Ministry of Ecology"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t02-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Des ingénieurs travaillent très sérieusement à la réalisation d’un bus, semblable à un tramway tunnel qui circulera au-dessus des files de voitures pour dégager le trafic dans les zones urbaines.\nL’engin sera entièrement électrique et pourra transporter 1200 personnes à une vitesse de 60 km/heure.\nPour que les automobilistes « au-dessous » évoluent sans danger, des feux placés dans la partie inférieure du bus signaleront ses changements de",
+      "question": "direction. Quel sera l’atout de ce moyen de transport ?",
+      "questionTranslation": "What will be the advantage of this means of transport?",
+      "options": [
+        "Il modifiera son parcours à la demande des usagers",
+        "Il permettra d’éviter les embouteillages en ville",
+        "Il sera équipé d’un nouveau système de sécurité",
+        "Il sera très facile d’entretien et peu coûteux"
+      ],
+      "optionTranslations": [
+        "It will modify its route at the request of users.",
+        "It will allow avoiding traffic jams in the city.",
+        "It will be equipped with a new security system.",
+        "It will be very easy to maintain and inexpensive."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t02-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Pas facile de trouver le juste équilibre entre respect et liberté.\nLe principal du lycée Charles-de-Gaulle a décidé de demander à ses élèves de ne plus porter de vêtements de sport en cours.\nLe principal estime que c’est une question de respect et de propreté.\nUn survêtement, ce n’est pas assez habillé pour venir au lycée.\nLes élèves qui n’étaient pas du même avis n’ont pas été acceptés en cours.",
+      "question": "Pourquoi la direction de cet établissement interdit-elle la tenue de sport en classe ?",
+      "questionTranslation": "Why does the management of this establishment prohibit sportswear in class?",
+      "options": [
+        "Pour aider les élèves à ne pas s’enrhumer",
+        "Pour enseigner le droit à la tolérance",
+        "Pour respecter des normes d’hygiène",
+        "Pour supprimer les différences sociales"
+      ],
+      "optionTranslations": [
+        "To help students not catch a cold",
+        "To teach the right to tolerance",
+        "To respect hygiene standards",
+        "To eliminate social differences"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Courir les 42.195 km du marathon de Paris ne s'improvise pas.\nC'est une course qui nécessite de s'entraîner régulièrement et d'être capable de surmonter le « mur de douleur » qui survient chez tous les marathoniens entre le 32e et 37e kilomètre.\nPour espérer terminer l'épreuve, il faut courir depuis au moins un an et dans les dix dernières semaines, faire trois à quatre heures d'entrainement hebdomadaires réparties en autant de séances », insiste un organisateur de stage de préparation.",
+      "question": "Quel est le conseil de cet organisateur avant de participer au marathon ?",
+      "questionTranslation": "What is this organizer's advice before participating in the marathon?",
+      "options": [
+        "Avoir comme seul objectif de terminer l’épreuve",
+        "Pratiquer la course à pied plusieurs fois par semaine",
+        "Prendre régulièrement des médicaments anti-douleur",
+        "Se donner de longues périodes de récupération"
+      ],
+      "optionTranslations": [
+        "Have finishing the event as the only goal",
+        "Practice running several times a week",
+        "Regularly take painkillers",
+        "Give yourself long periods of recovery"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t02-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Pour trouver des personnalités sortant du lot à fort potentiel d’évolution, un cabinet de recrutement organise des entretiens individuels sans consulter au préalable le dossier des candidats.\nConfrontés à une étude des cas, une discussion d’idées ou un questionnaire croisé, ils peuvent se démarquer grâce à leur savoir-être ou à un talent particulier.\nLes entretiens n’ont pas pour enjeu de poste précis, ils visent à constituer une réserve de talents, dans laquelle il sera possible de puiser.",
+      "question": "Quelle est la méthode de recrutement retenue par le cabinet ?",
+      "questionTranslation": "What is the recruitment method chosen by the firm?",
+      "options": [
+        "Auditionner plusieurs candidats en même temps",
+        "Faire mener l’entrevue des candidats par un futur collègue",
+        "Laisser les candidats s’exprimer sans les interrompre",
+        "Rencontrer les candidats sans rien savoir d’eux"
+      ],
+      "optionTranslations": [
+        "Audition several candidates at the same time",
+        "Have the interview conducted by a future colleague",
+        "Let candidates speak without interrupting them",
+        "Meet candidates without knowing anything about them"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t02-q19",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Avis de Sonia sur www.village.vacances.fr :\nC’était notre première expérience en Villages Vacances.\nNous avons découvert un produit complet : (hébergement, restauration, activités et services.)\nDes activités sont prévues durant la journée pour les parents et les enfants.\nNotre petite Mathilde a fait gratuitement de la natation et du cheval !",
+      "question": "Que proposent les Villages Vacances aux enfants ?",
+      "questionTranslation": "What do the Holiday Villages offer to children?",
+      "options": [
+        "De découvrir la région",
+        "De goûter des spécialités",
+        "De pratiquer un sport",
+        "D’organiser un spectacle"
+      ],
+      "optionTranslations": [
+        "To discover the region",
+        "To taste specialties",
+        "To practice a sport",
+        "To organize a show"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le piment d’Espelette, qui célèbre actuellement sa fête, est probablement aujourd’hui le produit le plus emblématique du Pays basque.\nIl a pourtant failli devenir un produit banal, c’est-à-dire le contraire absolu de ce qu’il est vraiment.\nAu début des années 90, on trouvait en effet et en produisant du piment, dit d’Espelette, en Afrique du Nord, en Corse, en Espagne… Bref partout où on aime ce goût puissant et peu piquant qui fait sa légitime réputation.\nOr, les Basques n’aiment pas se faire voler leurs traditions.\nIls ont donc obtenu en juin 2000 l’appellation d’origine contrôlée (AOC) interdisant tout plagiat.\nAujourd’hui le diamant rouge d’Espelette est particulièrement apprécié de certains grands chefs qui l’utilisent pour faire « exploser » les saveurs.",
+      "question": "L’appellation d’origine contrôlée accordée au piment d’Espelette permet aux Basques…",
+      "questionTranslation": "The controlled designation of origin granted to the Espelette pepper allows the Basques to...",
+      "options": [
+        "De lutter contre les imitations",
+        "D’en accroitre la production",
+        "De développer sa saveur",
+        "De le faire davantage connaitre"
+      ],
+      "optionTranslations": [
+        "To fight against imitations",
+        "To increase its production",
+        "To develop its flavor",
+        "To make it better known"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t02-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Théo, la poupée « inter-affective ».\nThéo a deux ans.\nIl mesure 52cm et communique spontanément avec sa maman.\nLancé par Berchet, ce robot est bourré d’électronique et de capteurs pour interagir avec l’enfant.\nAinsi, Théo dort lorsqu’il fait nuit, se réveille au lever du jour, réclame à manger ou à boire et même à aller au pot.\nSa voix numérisée est d’un naturel confondant.\nSurtout, il s’adapte aux capacités de jeux de chaque enfant :\nplus il manifestera son désir de jouer, plus le jouet sera réactif.",
+      "question": "La voix numérisée de Théo est d’un « naturel confondant », ce qui signifie qu’elle…",
+      "questionTranslation": "Théo's digitized voice is of an 'astounding naturalness' ('naturel confondant'), which means that it...",
+      "options": [
+        "A un timbre qui n’existe pas naturellement",
+        "Se confond avec la voix de l’enfant qui joue",
+        "Enregistre et reproduis les voix entendues",
+        "Imite à la perfection la voix d’un enfant"
+      ],
+      "optionTranslations": [
+        "Has a timbre that does not exist naturally",
+        "Blends with the voice of the child playing",
+        "Records and reproduces heard voices",
+        "Imitates perfectly the voice of a child"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t02-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Erasmus, le programme d’échange d’étudiants entre les universités européennes, a du plomb dans l’aile.\nAu point qu’en France près de quatre mille bourses n’ont pas trouvé preneur.\nCe phénomène n’est pas spécifique à la France puisqu’une baisse de dix pour cent aurait été enregistrée dans une dizaine de pays.\nToutes les études traduisent une absence de désir de mobilité chez les jeunes.\nParmi les explications avancées, le coût, mais surtout une préférence marquée pour les stages en entreprise.\nVoilà le grand concurrent d’Erasmus depuis quelques années :\nl’attention portée à l’insertion professionnelle.",
+      "question": "Qu’explique le texte au sujet du programme Erasmus ?",
+      "questionTranslation": "What does the text explain about the Erasmus program?",
+      "options": [
+        "Il est financé par des universités publiques",
+        "Il est remplacé par un autre programme",
+        "Il facilite l’accès au monde de l’entreprise",
+        "Son succès auprès des étudiants se dégrade"
+      ],
+      "optionTranslations": [
+        "It is funded by public universities",
+        "It is replaced by another program",
+        "It facilitates access to the corporate world",
+        "Its success with students is degrading"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t02-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Savoir opter pour la bonne route n’est pas tout.\nL’ultime clé pour gagner la course de la route du Rhum, c’est la connaissance de soi et tout particulièrement de ses rythmes de sommeil.\nC’est un des aspects les plus méconnus de la voile de compétition, mais c’est sur la faculté de récupération que peut se jouer le podium.\nAinsi, Alain Gautier reconnaît avoir perdu la dernière route du Rhum parce qu’il n’a pas su, dès les premiers jours de la course, gérer correctement ses phases de repos.\n« À la fin, j’ai manqué de lucidité et j’ai commis des erreurs », avoue-t-il après sa défaite.",
+      "question": "Quel conseil donne le journaliste pour remporter la course ?",
+      "questionTranslation": "What advice does the journalist give to win the race?",
+      "options": [
+        "Connaitre ses adversaires",
+        "Cultiver sa concentration",
+        "Dormir efficacement",
+        "Ménager ses efforts"
+      ],
+      "optionTranslations": [
+        "Know one's opponents",
+        "Cultivate one's concentration",
+        "Sleep effectively",
+        "Spare one's efforts"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le château de la Bussière est une demeure du 17e siècle située dans le Loiret.\nSurnommé « le château des pêcheurs », il possède des collections d’objets rares sur la pêche.\nSans oublier un superbe parc.\nAujourd’hui, ce monument est confronté à un fléau :\nun champignon ronge ses édifices.\nLes propriétaires ont déjà lancé une campagne de restauration, mais le champignon s’attaque aussi à d’autres parties du domaine.\nLes maîtres des lieux souhaitent que le bâtiment retrouve son éclat en sollicitant les internautes.\nÀ partir de 15€, les contributeurs pourront recevoir des entrées gratuites, l’inscription de leur nom sur une plaque dans le château ou bien encore un dîner avec les propriétaires.",
+      "question": "D’après l’article, à quoi les internautes sont-ils encouragés ?",
+      "questionTranslation": "According to the article, what are internet users encouraged to do?",
+      "options": [
+        "À aider à la rénovation en travaillant au château",
+        "À entrer en contact avec les occupants du château",
+        "À financer les travaux au château par un don",
+        "À visiter le château, ses jardins et expositions"
+      ],
+      "optionTranslations": [
+        "To help with the renovation by working at the castle",
+        "To get in touch with the occupants of the castle",
+        "To finance the works at the castle via a donation",
+        "To visit the castle, its gardens and exhibitions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Sandrine Mercier et Michel Fonivicn ont le voyage dans la peau.\nLes deux journalistes ont longtemps exploré le monde avant d’écrire un livre ensemble.\nIls sont partis vivre ailleurs est constitué des histoires d’une trentaine d’expatriés et d’autant de destins et de trajectoires.\nLes auteurs sont allés chercher des personnages tous très différents, mais toujours touchants et sincères en racontant leurs parcours lointains :\nrappel du large, les premiers pas, les déceptions, le rapport à la France, la découverte des autres… C’est certainement ce qui unit tous ces Français du bout du monde ; par-delà leurs différences et leurs expériences :\nune ouverture d’esprit, une volonté de partager et, au final, une richesse et une joie de vivre communicative.",
+      "question": "D’après l’auteur de cet article, quelle est la particularité de cet ouvrage ?",
+      "questionTranslation": "According to the author of this article, what is the particularity of this work?",
+      "options": [
+        "L’originalité des pays visités",
+        "La description des habitudes quotidiennes",
+        "La diversité des portraits présentés",
+        "Les qualités littéraires des écrivains"
+      ],
+      "optionTranslations": [
+        "The originality of the countries visited",
+        "The description of daily habits",
+        "The diversity of the portraits presented",
+        "The literary qualities of the writers"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Longtemps délaissées, les algues semblent peu à peu séduire les consommateurs.\nEn raison de leur confusion avec les algues vertes qui polluent le littoral, ces légumes de mer sont parfois mal considérés.\nPourtant, si les algues ne font pas encore partie de notre univers culturel alimentaire, leur consommation est en progression.\n« Les occidentaux sont-ils prêts à en faire un produit courant ?\n» questionne le docteur Arnaud Cacoul.\nPas sûr.\n« Malgré leurs bienfaits nutritionnels, leur consommation restera sans doute limitée », estime ce nutritionniste.",
+      "question": "Quelle place occupent les algues en France ?",
+      "questionTranslation": "What place do algae occupy in France?",
+      "options": [
+        "Elles font partie de la gastronomie régionale.",
+        "Les gens en mangent plus que par le passé.",
+        "Les médecins conseillent leur usage en cuisine",
+        "Leur culture augmente rapidement sur les côtes."
+      ],
+      "optionTranslations": [
+        "They are part of regional gastronomy.",
+        "People eat more of them than in the past.",
+        "Doctors advise their use in cooking.",
+        "Their cultivation is increasing rapidly on the coasts."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t02-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Depuis plusieurs années, Thierry Marc, un grand chef français, intervient pour donner des cours de cuisine en prison.\nFaire découvrir à ce public, contraint de vivre en milieu fermé, qu’une profession, quelle qu’elle soit, peut être épanouissante, est une tâche qui le passionne et nécessite très naturellement une grande énergie.\nLe désir de rallumer cette lueur d’espoir, de montrer qu’« après », il peut y avoir une réinsertion réussie et que chacun la porte en lui, est un moteur pour relever ce défi.",
+      "question": "Pourquoi Thierry Marc intervient-il dans les prisons ?",
+      "questionTranslation": "Why does Thierry Marc intervene in prisons?",
+      "options": [
+        "Pour améliorer les méthodes de travail de la cantine",
+        "Pour encourager la création des formations professionnelles",
+        "Pour faire naitre l’envie de s’invertir dans un métier",
+        "Pour sensibiliser le grand public à la réalité de la vie carcérale"
+      ],
+      "optionTranslations": [
+        "To improve the canteen's working methods",
+        "To encourage the creation of vocational training",
+        "To give birth to the desire to invest oneself in a trade",
+        "To raise public awareness about the reality of prison life"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la « société civile » n’aura de cesse de vouloir assujettir l’école à ses demandes particulières.\nIl faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison.\nCar l’enfant n’y est plus seulement un enfant, il y est un élève.\nÀ l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant.\nOn s’adresse à l’intelligence de l’élève.\nLe rapport maître/élève n’est d’ailleurs pas un rapport affectif :\non ne demande pas à un professeur d’être sympathique.\nOn lui demande d’être exigeant et juste.",
+      "question": "Quelle est l’opinion de l’auteur ?",
+      "questionTranslation": "What is the author's opinion?",
+      "options": [
+        "L’ambiance de l’école doit être calquée sur le modèle familial",
+        "L’autorité du professeur doit être compensée par sa gentillesse",
+        "L’épanouissement de l’enfant doit primer sur sa réussite",
+        "L’impartialité doit être l’une des qualités principales d’un maitre"
+      ],
+      "optionTranslations": [
+        "The atmosphere of the school must be modeled on the family model",
+        "The authority of the teacher must be compensated by his kindness",
+        "The fulfillment of the child must take precedence over his success",
+        "Impartiality must be one of the main qualities of a master"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t02-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Durant les investigations journalistiques, le recours à la caméra cachée est de plus en plus fréquent.\nMais souvent, son utilisation n’est aussi qu’un cache-misère, un moyen de compenser l’absence d’informations dans les reportages, de remplir le vide par des scènes un peu spectaculaires.\nC’est une manière pour certains aussi de faire des économies.\nPar ailleurs, cette pratique pose une autre question :\ncelle du statut de la personne filmée à son insu.\nLa filmer en caméra cachée, n’est-ce pas supposer qu’elle a quelque chose à se reprocher avant d’avoir commencé à parler ?",
+      "question": "D’après ce texte, pourquoi les journalistes utilisent-ils des caméras cachées ?",
+      "questionTranslation": "According to this text, why do journalists use hidden cameras?",
+      "options": [
+        "Pour améliorer la qualité des documentaires",
+        "Pour dissimuler la pauvreté des contenus",
+        "Pour moderniser leurs méthodes de travail",
+        "Pour saper les gens visés par les enquêtes"
+      ],
+      "optionTranslations": [
+        "To improve the quality of documentaries",
+        "To hide the poverty of content",
+        "To modernize their working methods",
+        "To undermine the people targeted by the investigations"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t02-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Trouver un logement dans une ville étudiante est un parcours du combattant pour un grand nombre d’inscrits dans l’enseignement supérieur.\nLa barrière est parfois infranchissable.\nNon seulement les loyers sont élevés, mais la sélection des candidats par les propriétaires est très dure, souvent basée sur le niveau de revenus des garants.\nPour lever ce frein, la caution locative étudiante (CLE) vient d’être généralisée à l’ensemble du territoire national après avoir été expérimentée dans quatre régions pendant un an.\nAvec ce dispositif, c’est l’État qui se porte garant du versement des loyers des étudiants en cas de non-paiement.",
+      "question": "Quel est le principal obstacle à l’accès au logement des étudiants selon cette analyse ?",
+      "questionTranslation": "What is the main obstacle to student housing access according to this analysis?",
+      "options": [
+        "La méfiance des propriétaires",
+        "La rareté des offres de ce logement",
+        "L’absence d’engagement de l’État",
+        "Le montant de la caution exigée"
+      ],
+      "optionTranslations": [
+        "The mistrust of landlords",
+        "The scarcity of housing offers",
+        "The absence of State commitment",
+        "The amount of the security deposit required"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t02-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Après avoir été fermée au public pendant douze ans, la grotte préhistorique d’Atlantica, située en Espagne, doit rouvrir ses portes, mais de manière expérimentale.\nIl s’agit d’une expérience réservée à un groupe de cinq personnes tirées au hasard parmi les visiteurs du musée du site, qui vont pouvoir contempler les peintures rupestres originales.\nCette expérience se déroulera une fois par semaine pendant huit mois afin de permettre à une équipe de scientifiques d’évaluer l’impact des visites sur l’ensemble du site et de donner son avis sur une réouverture complète.",
+      "question": "Qu’évoque-t-on dans cet article ?",
+      "questionTranslation": "What is being discussed in this article?",
+      "options": [
+        "L’inauguration d’une exposition temporaire",
+        "L’inscription d’une œuvre au patrimoine mondial",
+        "L’ouverture au public d’une zone dangereuse",
+        "L’accès réglementé à un emplacement protégé"
+      ],
+      "optionTranslations": [
+        "The inauguration of a temporary exhibition",
+        "The listing of a work as world heritage",
+        "The opening to the public of a dangerous zone",
+        "Regulated access to a protected location"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t02-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Pas de clash ni de portes qui claquent.\nÀ l’issue de la deuxième conférence sociale, le gouvernement peut au moins se réjouir de ce résultat.\nLes représentants du patronat et des syndicats n’ont pas applaudi à tout rompre l’intervention du Premier ministre, mais il n’y avait pas non plus eu de fâcherie comme celle qui avait marqué la première conférence.\nSi certains se sont dits déçus par la minceur des annonces que le Premier ministre a dévoilées ou par les zones de flou qui règnent sur plusieurs dossiers brûlants - les retraites en tête - personne n’a non plus eu vent de colères.\nIl faut dire que pendant deux jours, ministres et conseillers se sont échinés à repousser les points qui fâchent à plus tard.",
+      "question": "Quel a été l’aboutissement de la conférence ?",
+      "questionTranslation": "What was the outcome of the conference?",
+      "options": [
+        "L’affrontement entre partenaires sociaux",
+        "L’avancée majeure en termes de fiscalité",
+        "La proclamation de réformes importantes",
+        "L’absence de prise de décisions effectives"
+      ],
+      "optionTranslations": [
+        "The confrontation between social partners",
+        "Major progress in terms of taxation",
+        "The proclamation of important reforms",
+        "The absence of effective decision-making"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t02-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "« Des taxes vertes » ou taxes carbone sont envisagées pour faire face aux financements nécessaires d’énergies non polluantes.\nLes mécanismes prévus dans le protocole de Kyoto concernent notamment un crédit carbone qui représente un volume d’émission de gaz à effet de serre (GES) évité et des permis d’émission négociables.\nLe crédit carbone est doté d’une valeur marchande et s’échange entre pays industrialisés.\nUn pays n’arrivant pas à atteindre son objectif de réduction des GES pourrait acheter des crédits carbone à un autre qui aurait dépassé son objectif.\nCe système a été parfois qualifié de permis à polluer, car un pays riche pourrait acheter le droit de polluer à un autre ayant réellement réduit ses émissions.",
+      "question": "Quel est le paradoxe de la taxe carbone ?",
+      "questionTranslation": "What is the paradox of the carbon tax?",
+      "options": [
+        "Elle concerne uniquement les économies fortes",
+        "Elle freine l’utilisation de ressources renouvelables",
+        "Elle permet le dépassement des normes édictées",
+        "Elle ralentit le progrès dans les états émergents"
+      ],
+      "optionTranslations": [
+        "It concerns only strong economies",
+        "It slows down the use of renewable resources",
+        "It allows exceeding the enacted standards",
+        "It slows progress in emerging states"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t02-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Quel visage Paris pourrait-il prendre en 2100 ?\nC’est ce que le collectif d’architectes « Et alors » a imaginé au travers de vingt cartes postales géantes, exposées à Paris.\nCe qui donne un résultat surprenant, parfois utopique, parfois réaliste.\nAinsi l’idée d’une centrale hydrothermique pour chauffer et refroidir tout un quartier, projet de la compagnie parisienne du chauffage urbain.\nDes potagers « partagés » au pied des immeubles en plein centre-ville, cela ressemble plus à un clin d’œil malicieux… Le vélo a également la part belle :\nles architectes imaginent des voies rapides sur les toits de Paris, au milieu de toitures végétalisées et de jardins.",
+      "question": "Quel projet est présenté comme réaliste ?",
+      "questionTranslation": "Which project is presented as realistic?",
+      "options": [
+        "L’extension d’un système de climatisation à tout un quartier",
+        "L’installation des parcs sur les toits des bâtiments parisiens",
+        "La construction de pistes cyclables au sommet des immeubles",
+        "La création de jardins communs pour planter des légumes"
+      ],
+      "optionTranslations": [
+        "The extension of an air conditioning system to a whole neighborhood",
+        "The installation of parks on the roofs of Parisian buildings",
+        "The construction of bike lanes on top of buildings",
+        "The creation of shared gardens for planting vegetables"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t02-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Il faut se rendre à l’évidence :\nle « jour » n’est plus l’unité de temps d’un journal.\nUn quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les « news »\ndes grands serveurs diffusent les nouvelles du jour.\nAussi, au moment où il est en kiosques, se condamne-t-il à apparaître comme « le journal de la veille », perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n’y trouver que ce qu’ils savent déjà.",
+      "question": "Quelle est la position de l’auteur de l’article ?",
+      "questionTranslation": "What is the position of the article's author?",
+      "options": [
+        "Il conteste la fiabilité des sources d’internet",
+        "Il critique la surabondance de l’information",
+        "Il dénonce la médiocrité de la presse écrite",
+        "Il doute de l’intérêt des médias traditionnels"
+      ],
+      "optionTranslations": [
+        "He contests the reliability of internet sources.",
+        "He critiques the overabundance of information.",
+        "He denounces the mediocrity of the written press.",
+        "He doubts the interest of traditional media."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t02-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Un vingt-sixième album de François Hardy, La pluie sans parapluie, est forcément un événement.\nOn sait que le public qui achète encore des disques passe volontairement à la caisse, pour montrer sa fidélité, ou simplement son envie de vibrer avec cette voix unique et si familière avec laquelle elle semble d’ailleurs plus en confiance que jamais.\nElle module, appuie, interprète, joue avec souplesse de son phrasé, alors que les aficionados se contenteraient juste de ce grain unique et révéré.\nC’est un album pour ceux qui ont le temps, qui ne consomment pas la musique en tant qu’application sonore de la vie actuelle.\nIl faut se retrancher pour en saisir la saveur et la goûter.\nUn disque comme autrefois, avec un son soigné et de l’émotion.\nMais surtout une élégance comme on n’en fait plus !",
+      "question": "Selon le journaliste, quel type de public pourrait s’intéresser au dernier album de F.Hardy ?",
+      "questionTranslation": "According to the journalist, what type of audience might be interested in F. Hardy's latest album?",
+      "options": [
+        "Les acheteurs opposés au téléchargement illégal",
+        "Les amateurs de subtilité et de raffinement musical",
+        "Les admirateurs inconditionnels de l’interprète",
+        "Les curieux en mal de musique expérimentale"
+      ],
+      "optionTranslations": [
+        "Buyers opposed to illegal downloading",
+        "Lovers of subtlety and musical refinement",
+        "Unconditional admirers of the performer",
+        "Curious people looking for experimental music"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t02-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l’indicible.\nLe modèle est celui que Kafka rédigea à l’intention de son père, et qu’il préféra ranger dans un tiroir tant l’accusation portée était peu amène.\nAvec L’autre fille, missive adressée à sa sœur aînée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique.\nRejetant le terme d’autofiction, l’écrivain se dit fascinée par la réalité, partant à la recherche d’une vérité sur une mort que ses parents lui ont toujours cachée.\nEn demandant à des auteurs de se libérer d’un vieux tourment, la collection souhaite réhabiliter un genre littéraire oublié.",
+      "question": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux ?",
+      "questionTranslation": "To what result does participating in this collection lead Annie Ernaux?",
+      "options": [
+        "À s’acquitter d’un engagement moral",
+        "À s’affranchir d’une histoire ancienne",
+        "À se justifier d’une action peu culpabilité",
+        "À se justifier d’une action peu glorieuse"
+      ],
+      "optionTranslations": [
+        "To fulfill a moral commitment",
+        "To free herself from an ancient history",
+        "To justify an action involving little guilt",
+        "To justify an inglorious action"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t02-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Les méfiances à l’égard de la gratuité des transports collectifs demeurent fortes.\nSans surprise, l’Union des transports publics affiche son hostilité.\nTrop onéreuse, ne facilitant pas le report de la voiture vers les transports collectifs, menaçant la qualité de service, la gratuité pour tous ne répondrait pas aux objectifs de développement d’un réseau de transport.\nSelon l’UTP, la gratuité est une « fausse bonne idée » qui « induit des déplacements inutiles, encourage l’étalement urbain et prive de ressources le système de transport au moment où la clientèle augmente et où les recettes fiscales des collectivités diminuent ».\nElle lui préfère le système de tarification spéciale pour les jeunes, les sans- emplois ou les familles nombreuses.",
+      "question": "Pourquoi la gratuité des transports publics est-elle critiquée ?",
+      "questionTranslation": "Why is free public transport criticized?",
+      "options": [
+        "Ce choix creuse les inégalités sociales",
+        "Ce projet omet des questions de sécurité",
+        "Cette démarche déresponsabilise les usagers",
+        "Cette initiative coûte beaucoup trop cher"
+      ],
+      "optionTranslations": [
+        "This choice widens social inequalities",
+        "This project omits security issues",
+        "This approach makes users less responsible",
+        "This initiative costs way too much"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t02-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Depuis l’adolescence, je fréquente assidûment les dictionnaires.\nChaque fois que je bute sur un mot, que je suis dans le flou culturel, ils m’apportent la réponse et ouvrent de nouveaux horizons à ma curiosité en me renvoyant souvent à d’autres ouvrages.\nJ’en possède une centaine et chacun est une bibliothèque à lui seul.\nTous sont autant de béquilles de ma culture.\nPar exemple, quand vous cherchez le mot juste, rien de tel qu’un dictionnaire des synonymes !\nOn ouvre un dictionnaire pour se renseigner sur une question précise comme on lirait la notice d’un produit pharmaceutique destiné à soigner ceci ou cela.\nC’est le self-service de la pensée !\nJean-Claude Simon, éditeur",
+      "question": "Pourquoi Jean-Claude Simon aime-t-il les dictionnaires ?",
+      "questionTranslation": "Why does Jean-Claude Simon like dictionaries?",
+      "options": [
+        "Pour découvrir de nouvelles références",
+        "Pour posséder une bibliothèque fournie",
+        "Pour s’évader vers des horizons lointains",
+        "Pour trouver des remèdes à ses maux"
+      ],
+      "optionTranslations": [
+        "To discover new references",
+        "To possess a well-stocked library",
+        "To escape to distant horizons",
+        "To find remedies for his ailments Retry test All tests"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

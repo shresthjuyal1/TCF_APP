@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-07",
+  "title": "Test 7",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t07-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Je suis dans le métro J’arrive dans 20 minutes au bureau.\nCommencez la réunion de travail.\nSans moi. Merci",
+      "question": "Jean Pour qui est ce message de Jean ?",
+      "questionTranslation": "Who is this message from Jean for?",
+      "options": [
+        "Ses amis",
+        "Ses collègues",
+        "Ses enfants",
+        "Ses voisins"
+      ],
+      "optionTranslations": [
+        "His friends",
+        "His colleagues",
+        "His children",
+        "His neighbors"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Évangélisa\n• Choux\n• Paris-Brest\n• Éclairs au café\n• Tartes aux pommes\nSur place ou à emporter. Faites votre choix !",
+      "question": "Que peut-on acheter à Évangélisa ?",
+      "questionTranslation": "What can one buy at Évangélisa?",
+      "options": [
+        "Des billets de train.",
+        "Des légumes.",
+        "Des pâtisseries.",
+        "Des vêtements."
+      ],
+      "optionTranslations": [
+        "Train tickets.",
+        "Vegetables.",
+        "Pastries.",
+        "Clothes."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "De : satoltcourriel.fr\nAu : clients\nObjet : Nouvelles coordonnées\nMadame, Monsieur,\nVoici les nouvelles coordonnées de l’entreprise SATO Merci d’écrire maintenant au :\n10, rue Lalou\n34110 Frontignan\nEntreprise Sato\nwww.sato.fr\nTel : 01 43 82 67 42",
+      "question": "Quelle information a changé ?",
+      "questionTranslation": "What information has changed?",
+      "options": [
+        "L’adresse postale",
+        "Le courrier électronique",
+        "Le numéro de téléphone",
+        "Le site internet"
+      ],
+      "optionTranslations": [
+        "The postal address",
+        "The email address",
+        "The phone number",
+        "The website"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t07-q04",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "VISITE DU CHÂTEAU\nGratuit pour les moins de 12 ans.",
+      "question": "Quelle est l’information affichée sur ce panneau?",
+      "questionTranslation": "What information is displayed on this sign?",
+      "options": [
+        "Une adresse.",
+        "Une date.",
+        "Un horaire.",
+        "Un tarif."
+      ],
+      "optionTranslations": [
+        "An address.",
+        "A date.",
+        "A schedule.",
+        "A rate/price."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t07-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Examen de biologie Juin à 15h30 en salle4545",
+      "question": "Quelle information manque au sujet de cetexamen?",
+      "questionTranslation": "What information is missing regarding this exam?",
+      "options": [
+        "La date",
+        "La matière",
+        "Le lieu",
+        "L’heure"
+      ],
+      "optionTranslations": [
+        "The date",
+        "The subject",
+        "The place",
+        "The time"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t07-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Le restaurant « L’Esquinade » a réussi son pari :\nIntroduire l’atmosphère espagnole dans ses plats.\nSi vous voulez goûter à l’Espagne contemporaine pour votre pause déjeuner, cet endroit est pour vous !\nTapas, cœurs de canard, jambon serrano et foie gras s’y rencontrent dans une ambiance chaleureuse,\nnous faisant voyager entre le sud-ouest de la France et l’Espagne.",
+      "question": "Que propose ce restaurant ?",
+      "questionTranslation": "What does this restaurant offer?",
+      "options": [
+        "D’apprendre à cuisiner des plats étrangers",
+        "D’organiser des repas-spectacles à thèmes",
+        "De gagner un voyage à la fin du repas",
+        "De goûter des spécialités franco-espagnoles"
+      ],
+      "optionTranslations": [
+        "To learn how to cook foreign dishes",
+        "To organize themed dinner-shows",
+        "To win a trip at the end of the meal",
+        "To taste Franco-Spanish specialties"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t07-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Jardin de la Fontaine\nOuverture-Fermeture\nDu 1er septembre au 31 mars : 7 h 30 - 18 h 30 Du 1er avril au 30 juin : 7 h 30 - 20 h 30 Du 1er juillet au 31 août : 7 h 00 - 22 h 30",
+      "question": "Quand peut-on se promener dans le parc après 18 h 30 ?",
+      "questionTranslation": "When can one take a walk in the park after 6:30 pm (18:30)?",
+      "options": [
+        "En décembre",
+        "En février",
+        "En mai",
+        "En mars"
+      ],
+      "optionTranslations": [
+        "In December",
+        "In February",
+        "In May",
+        "In March"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Pour fêter la retraite de Jean-Louis après 15 ans dans l’entreprise, nous vous proposons de nous retrouver autour d’un verre à 18 heures en salle 6.",
+      "question": "Que célèbre-t-on ?",
+      "questionTranslation": "What is being celebrated?",
+      "options": [
+        "Le début des vacances",
+        "Le déménagement de l’entreprise",
+        "Le départ d’un collègue",
+        "Les résultats de l’équipe"
+      ],
+      "optionTranslations": [
+        "The start of the holidays",
+        "The company's move",
+        "A colleague's departure",
+        "The team's results"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Studio Céline\nL’école de danse « Studio Céline » ouvre ses portes au public le 16 septembre.\nC’EST GRATUIT : venez essayer nos cours toute la journée.\nAu programme : salsa, tango, danse moderne et un goûter (boissons et gâteaux) !",
+      "question": "Qu’est-ce que cette école de danse propose ?",
+      "questionTranslation": "What does this dance school offer?",
+      "options": [
+        "De participer à un concours",
+        "De tester des activités",
+        "De s’inscrire à un stage",
+        "De voir un spectacle"
+      ],
+      "optionTranslations": [
+        "To participate in a competition",
+        "To test activities",
+        "To register for a workshop",
+        "To see a show"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Chers amis,\nNous aimerions vous avoir à notre soirée pour fêter la nouvelle année.\nSoyez là pour 21 h 00 en tenue décontractée, nous sommes entre amis.\nCéline et Redha",
+      "question": "Pourquoi Céline et Radha invitent-ils des amis ?",
+      "questionTranslation": "Why are Céline and Radha inviting friends?",
+      "options": [
+        "Pour un anniversaire",
+        "Pour un mariage",
+        "Pour un réveillon",
+        "Pour un spectacle"
+      ],
+      "optionTranslations": [
+        "For a birthday",
+        "For a wedding",
+        "For a New Year's Eve party",
+        "For a show"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q11",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Marché facile est une application pour téléphone portable qui vous conseille les bons fruits et légumes de saison dans les supermarchés.\nElle donne aussi des informations sur le fromage, la viande et le poisson.",
+      "question": "À quoi sert cette application ?",
+      "questionTranslation": "What is this application used for?",
+      "options": [
+        "À acheter sur internet.",
+        "À choisir ses produits.",
+        "À noter les magasins.",
+        "À trouver des recettes."
+      ],
+      "optionTranslations": [
+        "To buy on the internet.",
+        "To choose one's products.",
+        "To rate stores.",
+        "To find recipes."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "La Compagnie des transports urbains recrute des héros comme vous et moi !\nVous pourrez protéger, assister, sécuriser les voyageurs et les agents de l’entreprise et intervenir en cas de besoin.\nVotre sens de l’observation et vos qualités relationnelles sont vos meilleurs atouts pour réussir dans votre mission.\nÂgé(e) de 21 à 35 ans, vous mesurez au moins 1 m 75 pour les hommes et 1 m 65 pour les femmes, vous êtes en excellente condition physique.\nVous remplissez les conditions d’obtention d’un port d’armes.\nSalaire mensuel : 1650 euros brut, en poste après formation.",
+      "question": "Quel type de métier est proposé ?",
+      "questionTranslation": "What type of job is proposed?",
+      "options": [
+        "Agent secouriste",
+        "Agent commercial",
+        "Agent de sécurité",
+        "Agent de circulation"
+      ],
+      "optionTranslations": [
+        "First aid agent",
+        "Commercial agent",
+        "Security agent",
+        "Traffic agent"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "VOUS MANGEZ ITALIEN, D AD AD AD ANSEZ LE FLAMENCO OU APPRENEZ LE SUÉDOIS ?\nPartagez vos images qui montrent que l’Europe fait partie de votre vie.\nParticipez au concours « Fenêtres sur l’Europe ».\nÀ gagner : un séjour à Bruxelles ou un atelier cuisine.",
+      "question": "Que propose ce concours ?",
+      "questionTranslation": "What does this contest propose?",
+      "options": [
+        "De découvrir une langue",
+        "De faire un spectacle",
+        "D’envoyer des photos",
+        "Inventer une recette"
+      ],
+      "optionTranslations": [
+        "To discover a language",
+        "To put on a show",
+        "To send photos",
+        "To invent a recipe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Adoptées séparément à la naissance, des jumelles indonésiennes se sont retrouvées 29 ans plus tard en Suède.\nElles habitaient à 40 km l’une de l’autre mais ne le savaient pas.\nLeurs parents adoptifs avaient été informés de leur lien de parenté mais avaient arrêté leurs recherches.\nC’est un message posté sur Facebook par l’une des jumelles qui a permis leur rencontre.\nElles sont l’une et l’autre enseignantes!",
+      "question": "Qu’est-ce que ces jumelles ont en commun ?",
+      "questionTranslation": "What do these twins have in common?",
+      "options": [
+        "Elles adorent utiliser Facebook",
+        "Elles enseignent dans la même école",
+        "Elles habitent dans le même pays",
+        "Elles ont la même famille adoptive"
+      ],
+      "optionTranslations": [
+        "They love using Facebook",
+        "They teach in the same school",
+        "They live in the same country",
+        "They have the same adoptive family"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "« Avec un Master Commerce en poche, je ne pensais pas qu’il serait à ce point difficile de trouver mon premier emploi.\nEt pourtant, quel chemin semé d’embûches !\nTout le monde me disait : “Ne t’inquiète pas, dans deux ou trois mois tu auras trouvé !”\nSept mois plus tard, toujours rien en vue.\nÀ 26 ans, je me retrouve sans emploi, toujours chez mes parents.\nL’avenir ? Je le vois ailleurs, je prépare activement mon départ pour l’Angleterre.\n»\nAmandine n’est pas une exception chez les jeunes.\nLes diplômes ne suffisent plus à assurer une situation stable en France et beaucoup de jeunes décident de partir à l’étranger pour obtenir un emploi.",
+      "question": "De quoi est-il question dans cet article ?",
+      "questionTranslation": "What is this article about?",
+      "options": [
+        "La difficulté de trouver un stage à travailler",
+        "La nécessite de s’exiler pour pouvoir travailler",
+        "Le manque de formation des jeunes diplômés",
+        "Le niveau trop faible des salaires proposés"
+      ],
+      "optionTranslations": [
+        "The difficulty of finding an internship to work",
+        "The necessity to go into exile to be able to work",
+        "The lack of training among young graduates",
+        "The level of offered salaries being too low"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "En hiver et à l’extérieur, pour piloter n’importe quel appareil à écran tactile, il faut enlever ses gants, au risque d’attraper des engelures par les temps de grand froid.\nPlus de risque de se geler les mains désormais avec ce modèle de gants en chevreau doublé de soie. Les perforations au niveau de l’index permettent un meilleur contact avec l’écran tactile.\nOn pourra être à la pointe de la technologie et de la mode. Mais être à la page a un prix : la paire de gants est plus chère que l’appareil à écran tactile : 370 euros.",
+      "question": "Quelle est la particularité de ces gants ?",
+      "questionTranslation": "What is the distinctive feature of these gloves?",
+      "options": [
+        "Ils évitent de rayer les appareils à écran tactile",
+        "Ils permettent un contact direct avec un écran tactile",
+        "Ils sont équipés de capteurs reliés à un écran tactile",
+        "Ils sont offerts lors de l’achat d’un écran tactile"
+      ],
+      "optionTranslations": [
+        "They prevent scratching touchscreen devices",
+        "They allow direct contact with a touchscreen",
+        "They are equipped with sensors connected to a touchscreen",
+        "They are offered as a gift when purchasing a touchscreen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Coup de cœur\nLE DIRIGEABLE : La carte varie mais la qualité et le raffinement des plats se maintiennent.\nLes sauces sont merveilleusement travaillées, les produits de qualité, et les nappes toujours impeccablement blanches.\nC’est très étonnant de trouver une table si délicieuse dans un quartier aussi éloigné du centre-ville ; malgré cela, la réservation pour le soir est à conseiller.\nY aller et y retourner, même en jeans et baskets.",
+      "question": "Ce guide présente une critique...",
+      "questionTranslation": "This guide presents a review that is...",
+      "options": [
+        "Défavorable pour le restaurant",
+        "Nuancée pour le restaurant",
+        "Enthousiaste pour le restaurant",
+        "Objective pour le restaurant"
+      ],
+      "optionTranslations": [
+        "Unfavorable to the restaurant",
+        "Nuanced regarding the restaurant",
+        "Enthusiastic about the restaurant",
+        "Objective regarding the restaurant"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Partez à la découverte d’un Paris méconnu, celui des passages secrets, des curiosités historiques, des panoramas étonnants, et même des beautés naturelles en pleine ville.\nRedressez le dos, levez la tête, admirez le ciel, les toits et l’horizon !\nPetits et grands, femmes et hommes, sportifs et paresseux, bébés en poussette, handicapés en fauteuil... venez nous rejoindre !\nVous êtes tous invités ce dimanche à une matinée en famille, entre amis, ou même seuls aux côtés d’inconnus qui ne demandent qu’à faire connaissance.\nRendez-vous place de la Bastille à 7 h 30 min.",
+      "question": "Quel événement est annoncé ?",
+      "questionTranslation": "What event is announced?",
+      "options": [
+        "Une compétition sportive",
+        "Une visite guidée originale",
+        "Une séance de gymnastique",
+        "Une fête familiale en plein air"
+      ],
+      "optionTranslations": [
+        "A sports competition",
+        "An original guided tour",
+        "A gymnastics session",
+        "An outdoor family party"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q19",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Dora Bruder, publié en 1997, est considéré comme l’un des meilleurs romans de Patrick Modiano.\nL’écrivain aime fouiller l’histoire de la capitale et fréquente de nombreuses bibliothèques.\nUn jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n« On recherche une jeune fille, Dora Bruder, 15 ans, 1m55, visage ovale, yeux gris marron, manteau sport gris. Adresse toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris. »\nModiano va alors s’attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18e arrondissement.",
+      "question": "Que fait le journaliste dans cet extrait ?",
+      "questionTranslation": "What is the journalist doing in this excerpt?",
+      "options": [
+        "Il cite un extrait d’une œuvre de Modiano.",
+        "Il explique l’idée de départ d’un livre de Modiano.",
+        "Il présente le métier de Modiano à ses débuts.",
+        "Il raconte la rencontre entre Modiano et sa femme."
+      ],
+      "optionTranslations": [
+        "He cites an excerpt from a work by Modiano.",
+        "He explains the starting idea of a book by Modiano.",
+        "He presents Modiano's job at his beginnings.",
+        "He tells the story of the meeting between Modiano and his wife."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale : provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région.\n« Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir », explique Mathieu.\nLa société Roquefort leur a fourni les fromages. Ils ont raconté leurs aventures dans un blog de voyage.",
+      "question": "Quel était l’objectif de Mathieu et Élodie ?",
+      "questionTranslation": "What was Mathieu and Élodie's objective?",
+      "options": [
+        "Découvrir des recettes locales",
+        "Entrer en contact avec les gens",
+        "Réaliser une opération publicitaire",
+        "Vendre des spécialités françaises"
+      ],
+      "optionTranslations": [
+        "To discover local recipes",
+        "To get in contact with people",
+        "To carry out an advertising campaign",
+        "To sell French specialties"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "VOUS CHERCHEZ UN CONTRAT À DURÉE INDÉTERMINÉE AVEC UN SALAIRE MOTIVANT ET FIXE ?\nDans le cadre du lancement d’une cellule de télévente, la société ADEM recrute",
+      "question": "12 télévendeurs confirmés. Si vous êtes un commercial, si vous êtes dynamique et motivé, contactez-nous :",
+      "questionTranslation": "recrutement@ademtel.fr La société ADEM recherche des télévendeurs... The company ADEM is looking for telemarketers...",
+      "options": [
+        "Qui débutent dans le métier de la télévente",
+        "Qui ont de l’expérience dans la télévente",
+        "Qui sont intéressés par un salaire modulable",
+        "Qui recherchent un contrat de courte durée"
+      ],
+      "optionTranslations": [
+        "Who are starting out in the telesales profession",
+        "Who have experience in telesales",
+        "Who are interested in a variable salary",
+        "Who are looking for a short-term contract"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Près de 500 écrans alignés sur deux étages et 1200 m² : la plus grande salle de jeux vidéo en réseau d’Europe a ouvert ses portes au public à Paris.\nBaignée dans une ambiance bleu métal et noire, cette salle de jeux a l’ambition de devenir à la fois un stade numérique « où les professionnels et amateurs de jeux vidéo pourront s’affronter à l’occasion de joutes virtuelles » et une école de jeux pour les débutants.\nUne quinzaine d’animateurs sont constamment présents dans la salle pour guider et initier les joueurs et animer des tournois.",
+      "question": "En quoi cette salle de jeux est-elle un événement ?",
+      "questionTranslation": "In what way is this video game arcade an event?",
+      "options": [
+        "Du fait de sa taille",
+        "Du fait de sa localisation",
+        "Du fait de sa décoration",
+        "Du fait de son personnel"
+      ],
+      "optionTranslations": [
+        "Due to its size",
+        "Due to its location",
+        "Due to its decoration",
+        "Due to its staff"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t07-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Il est désormais possible de modifier la couleur des yeux.\nUn technique laser, expérimentée en laboratoire, détruit à vie les pigments de l’iris pour l’éclaircir.\nLa séance se déroule dans le cabinet du spécialiste et en 20 secondes, les yeux du patient passent d’une couleur à l’autre.\nMais, comme le laser décolore l’iris, seuls les yeux marrons peuvent espérer passer à une couleur plus claire.",
+      "question": "Qu’apprend-on sur cette technique laser ?",
+      "questionTranslation": "What do we learn about this laser technique?",
+      "options": [
+        "Elle est en cours de test",
+        "Le changement est définitif",
+        "Tout le monde peut en bénéficier",
+        "Une hospitalisation est nécessaire"
+      ],
+      "optionTranslations": [
+        "It is currently being tested",
+        "The change is permanent",
+        "Everyone can benefit from it",
+        "Hospitalization is necessary"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La population d’insectes volants, essentiels aux écosystèmes, a diminué de plus de 75 % en près de trente ans en Allemagne sans que les scientifiques ne parviennent à en déterminer la cause avec certitude.\nLes chercheurs, qui ont mené leur étude dans des zones protégées en Allemagne depuis 1989, suspectent les pesticides agricoles d’être responsables de ce phénomène préoccupant.\nSelon leurs conclusions publiées dans la revue Plos One, ce fort déclin a été observé quels que soient les changements météorologiques, le type d’exploitation des sols ou les caractéristiques de l’habitat.",
+      "question": "À quoi serait due la baisse du nombre d’insectes ?",
+      "questionTranslation": "What is the decline in the number of insects due to?",
+      "options": [
+        "L’urbanisation galopante des compagnes",
+        "La faible étendue des réserves écologiques",
+        "Le dérèglement climatique de la planète",
+        "Les produits utilisés dans les cultures"
+      ],
+      "optionTranslations": [
+        "The galloping urbanization of the countryside",
+        "The small extent of ecological reserves",
+        "Global climate change",
+        "The products used in crops"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t07-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Au cœur de l’histoire\nRevisiter l’histoire de France à la lumière de la société contemporaine, c’est le concept du nouveau magazine proposé par la chaîne de télévision France 5.\nLes citoyens sont invités à interagir avec la présentatrice et ses invités en communiquant leurs propres témoignages et documents.\nL’émission se décline en deux temps, avec un documentaire suivi d’un débat en public entre témoins anonymes et acteurs de l’Histoire.\nCe débat est construit en amont grâce à des récits d’internautes sur le site de l’émission.\nTous ceux qui le souhaitent peuvent poster sur la Toile vidéo, photos et anecdotes personnelles afin de croiser la petite et la grande Histoire.",
+      "question": "De quelle façon peut-on contribuer à cette nouvelle émission ?",
+      "questionTranslation": "In what way can one contribute to this new show?",
+      "options": [
+        "En envoyant des courriels sur la plateforme de l’émission",
+        "En étant sélectionné pour être convié sur le plateau",
+        "En joignant le standard de la chaîne pendant le direct",
+        "En participant à distance au moyen d’une cybercaméra"
+      ],
+      "optionTranslations": [
+        "By sending emails on the show's platform",
+        "By being selected to be invited to the set",
+        "By calling the channel's switchboard during the live show",
+        "By participating remotely using a webcam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t07-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Il veut réhabiliter la charcuterie.\nSi le métier, bien sûr, mais aussi le produit.\n« On s’imagine un gros bonhomme avec un tablier taché de sang travaillant dans le froid », ironise Ludovic.\nC’est tout le contraire : « On travaille avec des matières nobles, dans des labos modernes.\nOn s’éclate en cuisinant, on ne s’ennuie jamais.\nQuand elle est naturelle, la charcuterie est un excellent aliment.\nLes nutritionnistes devraient faire preuve de discernement. »\nAutre obsession de ce puriste : la frontière des métiers.\n« Comment peut-on se prétendre à la fois boucher, charcutier et traiteur ? C’est un non-sens ! »",
+      "question": "Quel message cet homme veut-il transmettre ?",
+      "questionTranslation": "What message does this man want to convey?",
+      "options": [
+        "L’avenir de son travail est menacé par l’industrie agroalimentaire",
+        "La qualité des produits charcutiers est reconnue par les médecins",
+        "Le passage d’un métier de bouche à un autre se fait facilement",
+        "L’image attachée à sa profession est stéréotypée et peu valorisante"
+      ],
+      "optionTranslations": [
+        "The future of his work is threatened by the agri-food industry",
+        "The quality of charcuterie products is recognized by doctors",
+        "The transition from one food trade to another is done easily",
+        "The image attached to his profession is stereotyped and undervalued"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t07-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Renaissance : un mot porteur de sens à de nombreux égards.\nHistoriquement, elle symbolise le passage vers une ère nouvelle, créatrice, effervescente.\nUn retour aux sources et des artistes humanistes nourris par l’idée de temps nouveaux faits d’espoir et de confiance en l’homme.\nCes multiples lectures ont été source d’inspiration pour la nouvelle collection.\nC’est aussi l’énergie nouvelle, un regain de vitalité.\nAvec une ligne plus urbaine, hommes et femmes trouveront dans des coupes près du corps aux couleurs toniques des tenues à leurs mesures pour affronter l’hiver avec sourire et imagination.",
+      "question": "D’où est tiré ce texte ?",
+      "questionTranslation": "Where is this text taken from?",
+      "options": [
+        "D’un catalogue de styliste",
+        "D’un dictionnaire philosophique",
+        "D’un manuel d’histoire de l’art",
+        "D’une présentation de musée"
+      ],
+      "optionTranslations": [
+        "From a fashion designer's catalogue",
+        "From a philosophical dictionary",
+        "From an art history textbook",
+        "From a museum presentation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t07-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "L’huile de palme est l’huile la plus produite au monde.\nUn tiers de nos produits de consommation courante en contiennent.\nOr, on lui reproche beaucoup de choses.\nElle serait responsable du cholestérol.\nAutre problème, environnemental cette fois : la culture du palmier à huile étant très rentable, les surfaces de plantation ne cessent d’augmenter, souvent en lieu et place des forêts.\nIl existe pourtant d’autres huiles qui peuvent la remplacer mais c’est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.",
+      "question": "Pourquoi l’huile de palme est-elle produite massivement ?",
+      "questionTranslation": "Why is palm oil produced massively?",
+      "options": [
+        "C’est un produit recherché par les consommateurs",
+        "Elle valorise des méthodes agricoles traditionnelles",
+        "Ses qualités nutritionnelles sont reconnues",
+        "Son exploitation génère des revenus élevés"
+      ],
+      "optionTranslations": [
+        "It is a product sought after by consumers",
+        "It promotes traditional agricultural methods",
+        "Its nutritional qualities are recognized",
+        "Its exploitation generates high revenues"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t07-q29",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Deux mondes s’affrontent : ceux de l’ancienne agriculture et de la nouvelle.\nLe productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps.\nLes tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu’il n’existe pas d’autre solution.\nNotre enquête montre le contraire : l’alliance de la technologie et de l’écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous.\nC’est la voie de la sagesse autant que de la modernité.\nD’après Libération.fr.",
+      "question": "Que défend le journaliste ?",
+      "questionTranslation": "What does the journalist defend?",
+      "options": [
+        "L’accès universel à des aliments bon marché.",
+        "L’innovation des procédés de production.",
+        "Le développement du commerce équitable.",
+        "Le partage d’expériences traditionnelles."
+      ],
+      "optionTranslations": [
+        "Universal access to cheap food.",
+        "The innovation of production processes.",
+        "The development of fair trade.",
+        "The sharing of traditional experiences."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "L’amour à la retraite au théâtre du Splendide\nClaire Nadeau, très drôle, et Gérard Rinaldi, très inattendu dans le rôle d’un petit retraité maltraité par sa femme, jouent « Après l’amour ».\nCette comédie, créée il y a dix ans, est reprise au Splendide.\nL’auteur met en scène un couple de petites gens qui sont passées à côté de belles choses.\nLeur amour est à la retraite.\nLe paradoxe, c’est qu’on rit beaucoup des mésaventures de Jeanne et Henri dans cette comédie grinçante.",
+      "question": "Quel est le sujet de la pièce ?",
+      "questionTranslation": "What is the subject of the play?",
+      "options": [
+        "Une histoire d’amour splendide",
+        "Un amour entre deux retraités",
+        "Un homme mal aimé par sa femme",
+        "Un couple qui ne s’aime plus"
+      ],
+      "optionTranslations": [
+        "A splendid love story",
+        "A love between two retirees",
+        "A man unloved by his wife",
+        "A couple that no longer loves each other"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t07-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "La langue française n’a pas besoin de se défendre.\nElle a surtout besoin de se détendre.\nAimons-la et laissons-la flâner, adopter des mots d’argot ou étrangers.\nLaissons-la respirer et s’inspirer comme elle veut.\nAvec elle, essayons juste d’être… Cool !\nEn utilisant ce mot, j’imagine déjà l’indignation de ceux qui considèrent l’anglais comme un adversaire.\nPour nous, la langue anglaise est peut-être une rivale, mais sûrement pas une ennemie.\nElle nous a emprunté nos « rendez-vous », notre « savoir-faire », « déshabillé », « bureau de change », « maître d’hôtel ».\nIl n’y a aucune contradiction entre, d’une part, encourager la pratique de l’anglais et, d’autre part, adopter une stratégie volontariste en faveur de la francophonie.",
+      "question": "Selon ce journaliste, comment la langue française pourrait-elle évoluer ?",
+      "questionTranslation": "According to this journalist, how could the French language evolve?",
+      "options": [
+        "En diversifiant sa politique linguistique",
+        "En modernisant son enseignement",
+        "En s’enrichissant de tous types d’apports",
+        "En valorisant les particularités régionales"
+      ],
+      "optionTranslations": [
+        "By diversifying its linguistic policy",
+        "By modernizing its teaching",
+        "By enriching itself with all types of contributions",
+        "By valuing regional particularities"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Facebook et Twitter sont omniprésents au collège.\nNous pourrions détourner les yeux en prétendant qu’ils n’ont rien à voir avec les compétences et savoirs acquis à l’école.\nMais, ces messageries instantanées doivent être prises au sérieux par les enseignants, au sens où elles ne sont pas une mode mais un mode de communication qui conditionne les relations sociales.\nLes réseaux sociaux appartiennent déjà à la cité et seront partie prenante de notre vie demain.\nAinsi, des pétitions se signent sur internet, les renseignements sur autrui se prennent aussi sur la Toile.\nIl s’agit alors pour l’enseignant d’apprendre aux jeunes des comportements responsables dans l’usage des modes de communications telles que Facebook et",
+      "question": "autres Twitter. Que pense l’auteur des réseaux sociaux ?",
+      "questionTranslation": "What does the author think of social networks?",
+      "options": [
+        "Il est indispensable de savoir s’en servir correctement",
+        "Il faut éviter de les utiliser dans le cadre scolaire",
+        "Ils représentent un danger pour les libertés individuelles",
+        "Ils sont incontournables en tant qu’outils d’enseignement"
+      ],
+      "optionTranslations": [
+        "It is essential to know how to use them correctly",
+        "One must avoid using them in the school setting",
+        "They represent a danger for individual liberties",
+        "They are unavoidable as teaching tools"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t07-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Les anomalies ne doivent pas masquer le degré de cohérence qui fonde le code graphique.\nS’il y a plusieurs graphies pour un même son, leur distribution n’est pas aléatoire : le choix est souvent corrélé à des critères de position ou à des correspondances morphologiques.\nLes lettres muettes, à l’occasion, soulignent les flexions ou les dérivations.\nCertaines consonnes doubles sont clairement interprétables.\nDe plus, certaines graphies étymologiques ne sont pas dépourvues de toute signification.\nEt bien d’autres observations iraient dans le même sens.\nDès lors, pourquoi renoncer à enseigner ce noyau intelligible de notre écriture ?\nL’orthographe, dans ses fondements, peut faire l’objet d’un apprentissage raisonné.\nUne pédagogie fondée sur la réflexion est plus valorisante qu’une acquisition basée sur le « par cœur » et la répétition, en même temps qu’elle assure des connaissances plus solides.\nEn outre, elle permet de mieux cerner, par contraste, les zones d’ombre et les bizarreries : la perception des exceptions sera d’autant plus aisée qu’on aura pris conscience des régularités.",
+      "question": "Que pense l’auteur de l’orthographe française ?",
+      "questionTranslation": "What does the author think of French spelling?",
+      "options": [
+        "Elle devrait être réformée de fond en comble",
+        "Elle est parsemée de prescriptions irrationnelles",
+        "Elle répond à certaines règles compréhensibles",
+        "Elle se maîtrise par des exercices de mémorisation"
+      ],
+      "optionTranslations": [
+        "It should be reformed from top to bottom",
+        "It is scattered with irrational prescriptions",
+        "It follows certain understandable rules",
+        "It is mastered through memorization exercises"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Le Fait du Roi, un roman d’A. Thonon.\nC’est l’histoire d’un homme qui prend l’identité d’un autre, mort, en se glissant dans sa peau, dans sa vie, dans sa maison…\nRien ne sert de raconter l’intrigue de ce roman tant elle est simple et sans surprise.\nL’écriture de l’auteur reste cependant toujours aussi piquante et agréable à lire.\nLe héros principal, quant à lui, est dépeint avec une certaine profondeur.",
+      "question": "Sur quel point porte la critique négative faite à ce livre ?",
+      "questionTranslation": "On which point does the negative criticism made of this book focus?",
+      "options": [
+        "La description du personnage",
+        "La longueur du texte",
+        "La qualité de l’écriture",
+        "Le déroulement des événements"
+      ],
+      "optionTranslations": [
+        "The character description",
+        "The length of the text",
+        "The quality of the writing",
+        "The sequence of events"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t07-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Très controversée, la semaine de quatre jours à l’école est dénoncée dans un rapport parlementaire.\nLes députés proposent de revenir à la semaine de quatre journées et demie et de réduire la période des vacances estivales.\nLa mission parlementaire livre des conclusions sévères à l’encontre du rythme scolaire actuel, qui serait « aberrant » et « délirant » pour les écoliers.\nSelon un député, « on peut dire, a posteriori, que c’est une erreur, on a privilégié le rythme des parents et des enseignants au détriment de celui des enfants », dit-il.\nEn France, la scolarisation annuelle est de 144 jours, contre une moyenne de 180 pour les pays développés.\n« Il faut laisser le temps scolaire », estime une experte.",
+      "question": "Que reprochent les députés à la semaine de quatre jours ?",
+      "questionTranslation": "What do the deputies criticize about the four-day week?",
+      "options": [
+        "De laisser trop de temps à l’oisiveté",
+        "De s’écarter du modèle éducatif légal",
+        "De satisfaire avant tous les adultes",
+        "D’être à l’origine de l’échec scolaire"
+      ],
+      "optionTranslations": [
+        "To leave too much time for idleness",
+        "To deviate from the legal educational model",
+        "To satisfy adults first and foremost",
+        "To be the cause of academic failure"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Un vingt-sixième album de François Hardy, La pluie sans parapluie, est forcément un événement.\nOn sait que le public qui achète encore des disques passe volontairement à la caisse, pour montrer sa fidélité, ou simplement son envie de vibrer avec cette voix unique et si familière avec laquelle elle semble d’ailleurs plus en confiance que jamais.\nElle module, appuie, interprète, joue avec souplesse de son phrasé, alors que les aficionados se contenteraient juste de ce grain unique et révéré.\nC’est un album pour ceux qui ont le temps, qui ne consomment pas la musique en tant qu’application sonore de la vie actuelle.\nIl faut se retrancher pour en saisir la saveur et la goûter.\nUn disque comme autrefois, avec un son soigné et de l’émotion.\nMais surtout une élégance comme on n’en fait plus !",
+      "question": "Selon le journaliste, quel type de public pourrait s’intéresser au dernier album de F.Hardy ?",
+      "questionTranslation": "According to the journalist, what type of audience might be interested in F. Hardy's latest album?",
+      "options": [
+        "Les acheteurs opposés au téléchargement illégal",
+        "Les amateurs de subtilité et de raffinement musical",
+        "Les admirateurs inconditionnels de l’interprète",
+        "Les curieux en mal de musique expérimentale"
+      ],
+      "optionTranslations": [
+        "Buyers opposed to illegal downloading",
+        "Lovers of subtlety and musical refinement",
+        "Unconditional admirers of the performer",
+        "Curious people looking for experimental music"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "L’avenir est dans la formation de la jeunesse, dans l’innovation, dans la recherche.\nPour prendre pleinement ses responsabilités, l’université de Nantes propose un nouveau modèle universitaire en France, décloisonné, qui rassemble les acteurs de l’enseignement supérieur et de la recherche (grandes écoles, organismes de recherche, centre hospitalier universitaire…).\nCe nouveau modèle remet au centre des préoccupations la question de l’accès à un enseignement supérieur qualitatif pour le plus grand nombre.\nIl a l’ambition de créer les conditions de réussite et d’épanouissement pour tous ses étudiants et de permettre des innovations majeures.\nAu travers de ce projet de nouvelle université, le président et son équipe défendent une vision innovante et proposent un nouveau modèle qui conjugue exigence et main tendue, excellence et lien social.",
+      "question": "Quel est l’objectif de cette université ?",
+      "questionTranslation": "What is the objective of this university?",
+      "options": [
+        "Attirer davantage d’étudiants brillants.",
+        "Être à la pointe de la technologie.",
+        "Ouvrir ses cours à un public élargi.",
+        "Proposer des disciplines inédites."
+      ],
+      "optionTranslations": [
+        "Attract more brilliant students.",
+        "Be at the cutting edge of technology.",
+        "Open its courses to a wider public.",
+        "Propose unseen disciplines."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t07-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Mara Maudet, à son arrivée en France, constate que la politique d’insertion des foyers démunis et celle dédiée à la petite enfance sont déconnectées l’une de l’autre.\nPour cette Brésilienne, « un parent sans emploi doit être prioritaire pour obtenir une place en crèche. Tout le contraire des critères actuels. »\nElle crée alors l’IEPC (Institut d’éducation et des pratiques citoyennes) et constitue un réseau de crèches associatives dont le principe est qu’en échange d’une place pour son enfant sur une plage horaire de 13 heures, le parent célibataire - le plus souvent des mères - s’engage à trouver un emploi dans les mois suivants.\nElle bénéficie alors, dans les locaux de la crèche, d’un accompagnement professionnel personnalisé.",
+      "question": "Quel est l’objectif de l’IEPC ?",
+      "questionTranslation": "What is the objective of the IEPC?",
+      "options": [
+        "Embaucher des parents défavorisés",
+        "Faciliter l’intégration professionnelle",
+        "Proposer des tarifs préférentiels en crèche",
+        "Trouver un accueil provisoire pour les enfants"
+      ],
+      "optionTranslations": [
+        "To hire disadvantaged parents",
+        "To facilitate professional integration",
+        "To offer preferential rates in crèches",
+        "To find temporary care for children"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t07-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Treize jeunes cinéastes, achevant leur formation dans les plus prestigieuses écoles d’animation, ont planché sur quelques vers de Paul Éluard, livrant leur vision originale de son univers poétique.\nS’inscrivant dans la suite des programmes de courts-métrages dédiés à Prévert et Apollinaire, ce nouveau florilège de la série En sortant de l’école met en lumière l’œuvre d’un « apparenté surréaliste » dont la notoriété est souvent, hélas, réduite au seul - et incontournable - poème Liberté.\nSa délicatesse, en amour comme en fantaisie, s’avère un combustible merveilleux pour de jeunes cinéastes.",
+      "question": "Selon cette critique, quel est l’apport de ce dernier ensemble de courts-métrages ?",
+      "questionTranslation": "According to this critique, what is the contribution of this latest set of short films?",
+      "options": [
+        "Il constitue une création artistique novatrice",
+        "Il établit des ponts avec d’autres auteurs",
+        "Il fait connaître les travaux d’un écrivain",
+        "Il ouvre la voie à de prochaines réalisations"
+      ],
+      "optionTranslations": [
+        "It constitutes an innovative artistic creation",
+        "It builds bridges with other authors",
+        "It makes the works of a writer known",
+        "It paves the way for future productions Retry test All tests"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

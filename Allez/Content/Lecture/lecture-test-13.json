@@ -1,0 +1,827 @@
+{
+  "id": "tcf-lecture-13",
+  "title": "Test 13",
+  "kind": "test",
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": "t13-q01",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "RENCONTRES INTERCULTURELLES\nASSOCIATION DEUX RIVES\n27-28 novembre\nFaites connaissance avec des gens du monde entier et découvrez d’autres cultures !\nAu programme : musique, repas, expositions ...\n15 € - 10 € (moins de 25 ans)\nInscrivez-vous avant le 15 novembre.\nVenez nombreux !",
+      "question": "Que propose cette association ?",
+      "questionTranslation": "What does this association propose?",
+      "options": [
+        "D’apprendre une nouvelle langue.",
+        "De participer à un concours.",
+        "De prendre des cours de cuisine.",
+        "De rencontrer des étrangers."
+      ],
+      "optionTranslations": [
+        "To learn a new language.",
+        "To participate in a contest.",
+        "To take cooking classes.",
+        "To meet foreigners."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q02",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Mathilde,\nJe t’attends devant l’entrée du stade rue Victor Hugo.\nFais vite, le match va commencer !\nLaura",
+      "question": "Pourquoi est-ce que Laura attend Mathilde ?",
+      "questionTranslation": "Why is Laura waiting for Mathilde?",
+      "options": [
+        "Pour aller visiter un musée.",
+        "Pour participer à un concours.",
+        "Pour prendre un café ensemble.",
+        "Pour voir un événement sportif."
+      ],
+      "optionTranslations": [
+        "To visit a museum.",
+        "To participate in a contest.",
+        "To have a coffee together.",
+        "To see a sporting event."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q03",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Désolé de te le dire si tard !\nJe ne peux pas venir ce soir.\nPierre",
+      "question": "Pourquoi Pierre a-t-il écrit ce message ?",
+      "questionTranslation": "Why did Pierre write this message?",
+      "options": [
+        "Il annonce son absence.",
+        "Il donne un rendez-vous.",
+        "Il indique son arrivée.",
+        "Il signale son retard."
+      ],
+      "optionTranslations": [
+        "He is announcing his absence.",
+        "He is setting an appointment.",
+        "He is indicating his arrival.",
+        "He is signaling his delay."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t13-q04",
+      "skill": "reading",
+      "level": "A1",
+      "passage": "Camille,\nJe ne peux pas te retrouver au concert ce soir, désolé.\nMes enfants sont malades et je dois rester avec eux.\nViens déjeuner à la maison dimanche.\nJe pars bientôt en voyage.\nJ’aimerais te voir avant mon départ.\nBises,\nDriss",
+      "question": "Qu’est-ce que Driss propose à son amie ?",
+      "questionTranslation": "What does Driss propose to his friend?",
+      "options": [
+        "D’aller à un concert.",
+        "D’organiser un voyage.",
+        "De déjeuner chez lui.",
+        "De garder ses enfants."
+      ],
+      "optionTranslations": [
+        "To go to a concert.",
+        "To organize a trip.",
+        "To have lunch at his place.",
+        "To look after his children."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q05",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Bonjour Sophie,\nJe ne pourrais pas venir à notre soirée cinéma.\nMa fille est malade, je dois rester à la maison.\nSi tu veux, Kevin est disponible.\nJe peux lui donner ma place.\nMartine",
+      "question": "Pourquoi est-ce que Martine envoie un message à Sophie ?",
+      "questionTranslation": "Why is Martine sending a message to Sophie?",
+      "options": [
+        "Pour annuler un dîner.",
+        "Pour expliquer un problème.",
+        "Pour l’inviter chez elle.",
+        "Pour lui proposer de sortir."
+      ],
+      "optionTranslations": [
+        "To cancel a dinner.",
+        "To explain a problem.",
+        "To invite her to her home.",
+        "To propose going out to her."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t13-q06",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Madame et monsieur Mroussi.\nMonsieur l’Ambassadeur de France a le plaisir de vous inviter au dîner qu’il donnera en sa résidence, le jeudi 14 juillet à 20 h.\nÀ l’occasion de la Fête nationale.\nTenue de soirée exigée.\nRéponse : secrétariat-amb.france@gmail.com",
+      "question": "À quoi sont invités Mme et M.roussi ?",
+      "questionTranslation": "To what are Mr. and Mrs. Mroussi invited?",
+      "options": [
+        "À un repas officiel.",
+        "À un spectacle musical.",
+        "À une fête de fin d’année.",
+        "À une soirée dansante."
+      ],
+      "optionTranslations": [
+        "To an official meal.",
+        "To a musical show.",
+        "To a year-end party.",
+        "To a dance party."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t13-q07",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Adèle,\nN’oublie pas l’anniversaire de Raphaël !\nOn pourrait partir vers 19h et aller ensemble chez lui.\nOù est-ce qu’on se retrouve ?\nSi tu ne peux pas venir finalement, appelle-moi !\nBonne journée,\nCamille",
+      "question": "Pourquoi est-ce que Camille écrit ce message à Adèle ?",
+      "questionTranslation": "Why is Camille writing this message to Adèle?",
+      "options": [
+        "Pour acheter un cadeau avec elle",
+        "Pour annuler sa venue à une fête",
+        "Pour décider d’un rendez-vous",
+        "Pour inviter son amie à diner"
+      ],
+      "optionTranslations": [
+        "To buy a gift with her",
+        "To cancel her attendance at a party",
+        "To decide on a meeting",
+        "To invite her friend to dinner"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q08",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "« La passion de Gauguin », voici le titre d’un documentaire sur le peintre français.\nVous pouvez le regarder demain soir à la télévision.\nPour les vrais passionnés, l’exposition « Gauguin en Océanie » commencera lundi prochain au Musée d’Art moderne.",
+      "question": "De quoi parle cette annonce ?",
+      "questionTranslation": "What is this announcement about?",
+      "options": [
+        "De l’ouverture d’un musée parisien.",
+        "De voyager en Océanie.",
+        "Des derniers jours d’une exposition.",
+        "D’une émission de télévision."
+      ],
+      "optionTranslations": [
+        "About the opening of a Parisian museum.",
+        "About traveling to Oceania.",
+        "About the last days of an exhibition.",
+        "About a television show."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q09",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Madame,\nNous avons bien reçu votre demande de remboursement pour un billet de train (voyage professionnel).\nVous nous avez envoyé le ticket de carte bancaire, mais nous avons aussi besoin d’une attestation de votre employeur.\nMerci de nous l’adresser par courrier postal ou sous format électronique.\nCordialement,\nLe service financier.",
+      "question": "Quel document doit fournir la femme ?",
+      "questionTranslation": "What document must the woman provide?",
+      "options": [
+        "Un document professionnel",
+        "Un titre de transport",
+        "Une enveloppe timbrée",
+        "Une somme d’argent"
+      ],
+      "optionTranslations": [
+        "A professional document",
+        "A transport ticket",
+        "A stamped envelope",
+        "A sum of money"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t13-q10",
+      "skill": "reading",
+      "level": "A2",
+      "passage": "Rendez-vous samedi pour un repas de quartier devant notre immeuble.\nApportez vos chaises (il y aura des tables sur place).\nÀ boire et un plat salé ou sucré.\nMireille et Pierre (3ème étage à gauche) organisent l’événement et peuvent répondre à vos questions.",
+      "question": "Qu’est-ce qui est organisé ?",
+      "questionTranslation": "What is being organized?",
+      "options": [
+        "Un atelier de cuisine.",
+        "Un déménagement.",
+        "Une fête entre voisins.",
+        "Une visite d’appartement."
+      ],
+      "optionTranslations": [
+        "A cooking workshop.",
+        "A move (moving house).",
+        "A party among neighbors.",
+        "An apartment visit."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q11",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Chez Doris\nAu restaurant Chez Doris, si vous prenez un menu complet avec une entrée, un plat et un dessert entre midi et 14 h, le café est offert (seulement du lundi au vendredi).",
+      "question": "Qu’est-ce que ce restaurant propose ?",
+      "questionTranslation": "What does this restaurant offer?",
+      "options": [
+        "Des cours de cuisine.",
+        "Des plats à emporter.",
+        "Un repas bon marché.",
+        "Une boisson gratuite."
+      ],
+      "optionTranslations": [
+        "Cooking classes.",
+        "Takeaway dishes.",
+        "A cheap meal.",
+        "A free drink."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q12",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Fini les souvenirs de voyage trop flous.\nPour s'entraîner, direction Lyon pour un week-end.\nSur place, une jeune agence spécialisée vous propose un stage pour découvrir la ville autrement.\nL'objectif : sur une journée, travailler la photographie et découvrir en même temps avec un guide les monuments historiques de la ville.\nVous profitez toute la journée des conseils d'un professionnel qui vous montre les endroits secrets de Lyon.\nIl vous explique comment utiliser la lumière naturelle.",
+      "question": "Que propose cette agence ?",
+      "questionTranslation": "What does this agency propose?",
+      "options": [
+        "D’apprendre à s’orienter dans la ville",
+        "De se former au métier de guide",
+        "De visiter des expositions photo",
+        "De voir Lyon d’une façon différente"
+      ],
+      "optionTranslations": [
+        "To learn how to orient oneself in the city",
+        "To train for the profession of a guide",
+        "To visit photo exhibitions",
+        "To see Lyon in a different way"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q13",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "On savait déjà que le chocolat était bon pour la tension.\nLes scientifiques affirment maintenant qu’une consommation de chocolat pourrait être une stratégie efficace de protection contre les rayons du soleil.\nPour cela, il n’est pas nécessaire de recouvrir son corps de cacao : d’après les chercheurs, il suffirait de consommer trois carrés par jour pour bénéficier des bienfaits du chocolat.\nCela n’empêche pas de se protéger avec de la crème solaire et d’avoir une bonne",
+      "question": "alimentation. Que conseillent ces chercheurs pour se protéger du soleil ?",
+      "questionTranslation": "What do these researchers advise to protect oneself from the sun?",
+      "options": [
+        "D’utiliser des crèmes solaires à base de chocolat",
+        "De diminuer sa consommation de chocolat",
+        "De manger quotidiennement du chocolat",
+        "De suivre un traitement de pilules au chocolat"
+      ],
+      "optionTranslations": [
+        "To use chocolate-based sunscreens",
+        "To decrease one's chocolate consumption",
+        "To eat chocolate daily",
+        "To follow a chocolate pill treatment"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q14",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Le 21ème festival du film vient de se terminer à l’Alpe d’Huez, le seul endroit en France où l’on peut voir, gratuitement et avant tout le monde, les meilleures comédies de l’année et skier avec les vedettes du grand écran.\nPour la 21ème édition, Franck Dubosc a présenté son premier film en tant que réalisateur.\nEt le lendemain, comme toujours, tout le monde s’est retrouvé sur les pistes ou aux terrasses des cafés, dans une ambiance sportive et décontractée.",
+      "question": "Qu’est-ce que ce festival permet de faire ?",
+      "questionTranslation": "What does this festival allow you to do?",
+      "options": [
+        "Découvrir de jeunes acteurs.",
+        "Participer à des tournages.",
+        "Rencontrer des stars du cinéma.",
+        "Revoir de grands classiques."
+      ],
+      "optionTranslations": [
+        "Discover young actors.",
+        "Participate in film shoots.",
+        "Meet cinema stars.",
+        "Rewatch great classics."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q15",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Le Guichet du Savoir\nDe la bibliothèque municipale de Lyon est un service gratuit en ligne.\nIl permet de poster toute demande de type documentaire.\nLes bibliothécaires répondent dans un délai de 72 heures maximum.\nD’après www.guichetdusavoir.org",
+      "question": "Que font les bibliothécaires sur ce site internet ?",
+      "questionTranslation": "What do the librarians do on this website?",
+      "options": [
+        "Ils annoncent des événements culturels lyonnais.",
+        "Ils donnent des informations sur leur métier.",
+        "Ils proposent de nouveaux livres aux lecteurs.",
+        "Ils répondent aux questions des internautes."
+      ],
+      "optionTranslations": [
+        "They announce cultural events in Lyon.",
+        "They give information about their profession.",
+        "They propose new books to readers.",
+        "They answer questions from internet users."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q16",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Le guide-interprète travaille dans les musées, châteaux et parcs.\nIl prépare ses visites en recherchant des documents pour actualiser ses connaissances.\nIl s’adresse aux responsables du site pour organiser la sortie et obtenir les autorisations.\nPendant la visite, il explique l’histoire des lieux ou des œuvres et répond aux questions des participants.",
+      "question": "Que décrit-on dans ce texte ?",
+      "questionTranslation": "What is described in this text?",
+      "options": [
+        "Un métier.",
+        "Un voyage.",
+        "Une formation.",
+        "Une galerie."
+      ],
+      "optionTranslations": [
+        "A profession.",
+        "A trip.",
+        "A training course.",
+        "A gallery."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t13-q17",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Internet est entré dans les habitudes de consommation et aucun secteur ne semble pouvoir échapper à cette pratique sauf peut-être le milieu pharmaceutique.\nAujourd’hui, les trois quarts des Français déclarent ne pas être prêts à acheter un médicament sur Internet.\nCar le médicament n’est pas une simple marchandise, et la personne qui entre dans une pharmacie n’y cherche pas seulement un remède, mais un accompagnement et une assurance à la fois de sécurité et de santé.",
+      "question": "Qu’apprend-on sur l’achat de médicaments en ligne ?",
+      "questionTranslation": "What do we learn about buying medicines online?",
+      "options": [
+        "C’est une pratique courante.",
+        "Les pharmaciens s’y opposent.",
+        "Leur paiement est sécurisé.",
+        "On s’en méfie en France."
+      ],
+      "optionTranslations": [
+        "It is a common practice.",
+        "Pharmacists oppose it.",
+        "Their payment is secure.",
+        "People are wary of it in France."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q18",
+      "skill": "reading",
+      "level": "B1",
+      "passage": "Sur la bouteille de sa boisson de jus de fruits bio, un fabricant utilise une belle image d’ananas et de noix de coco.\nÀ lire de plus près, vous apprendrez que « des oranges gorgées de soleil et de bananes » viennent s’associer à l’ananas et à la noix de coco.\nUne jolie manière d’expliquer qu’ananas et noix de coco ne représentent que 30% des fruits de la boisson avec d’autres jus plus communs (et moins coûteux).",
+      "question": "Que dénonce cet article ?",
+      "questionTranslation": "What does this article denounce?",
+      "options": [
+        "L’ajout d’ingrédients malsains.",
+        "Le prix des produits exotiques.",
+        "Les annonces publicitaires.",
+        "Les étiquettes trompeuses."
+      ],
+      "optionTranslations": [
+        "The addition of unhealthy ingredients.",
+        "The price of exotic products.",
+        "Advertising announcements.",
+        "Deceptive labels."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q19",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Quelle est la principale ressource qui manque aux chercheurs. Le temps ?\n« Informatiser les données de l'herbier du Muséum d'histoire naturelle aurait pris cinq cents ans un chercheur »,\nexplique Marc Pignal, botaniste au Muséum. Le Muséum a donc trouvé une alternative : une plate-forme sur laquelle les internautes sont invités à retranscrire les informations répertoriées sur les étiquettes des plantes et que l'apprenti botaniste, après avoir ouvert un compte, retrouve sur une photo d'une page de l'herbier national.",
+      "question": "Qu'a décidé de faire en ligne le Muséum d'histoire naturelle ?",
+      "questionTranslation": "What has the Natural History Museum decided to do online?",
+      "options": [
+        "Créer un site collaboratif de données.",
+        "Mener une enquête sur les plantes.",
+        "Organiser des visites de l’herbier.",
+        "Proposer des cours de botanique."
+      ],
+      "optionTranslations": [
+        "Create a collaborative data site.",
+        "Conduct a survey on plants.",
+        "Organize visits to the herbarium.",
+        "Offer botany courses."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t13-q20",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Il y a quelque chose de rare dans « Normandie nue » : ce film est résolument léger, tout en ayant du fond.\nÀ travers une histoire qui sert de fil conducteur cocasse et insolite - celle d’un artiste américain qui veut photographier des paysans dévêtus -, « Normandie nue » aborde la crise des éleveurs avec beaucoup d’humanité, notamment grâce au maire du village qui voit dans la venue du photographe l’occasion de faire valoir sa cause aux yeux de la planète.\nParfois un peu maladroite, cette comédie amuse en caricaturant gentiment les médias, les artistes et les bobos parisiens en mal de verdure.",
+      "question": "Quelle est l’opinion du journaliste sur le film « Normandie nue » ?",
+      "questionTranslation": "What is the journalist's opinion on the film 'Normandie nue'?",
+      "options": [
+        "Il est facile de s’identifier aux personnages.",
+        "Les lieux de tournage sont authentiques.",
+        "On y dresse un portrait juste de la société.",
+        "Son humour fait passer un message sérieux."
+      ],
+      "optionTranslations": [
+        "It is easy to identify with the characters.",
+        "The filming locations are authentic.",
+        "A fair portrait of society is drawn there.",
+        "Its humor conveys a serious message."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q21",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale : provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région.\n« Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir », explique Mathieu.\nLa société Roquefort leur a fourni les fromages. Ils ont raconté leurs aventures dans un blog de voyage.",
+      "question": "Quel était l’objectif de Mathieu et Élodie ?",
+      "questionTranslation": "What was Mathieu and Élodie's objective?",
+      "options": [
+        "Découvrir des recettes locales",
+        "Entrer en contact avec les gens",
+        "Réaliser une opération publicitaire",
+        "Vendre des spécialités françaises"
+      ],
+      "optionTranslations": [
+        "To discover local recipes",
+        "To get in contact with people",
+        "To carry out an advertising campaign",
+        "To sell French specialties"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t13-q22",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Non, Maupassant n’est pas qu’un écrivain pour cours de français.\nComme tout bon auteur culte, ses thématiques sont percutantes, grinçantes, toujours d’actualité.\nEt tellement vraies dans le fond : hypocrisie de la bourgeoisie, monde paysan décrit sans artifice, rapports humains aliénés par le contexte social et culturel.\nDu pain bénit pour les auteurs de « Chez Maupassant », une collection de huit téléfilms tirés des contes et nouvelles du grand Guy.",
+      "question": "Que présente l’auteur de l’article ?",
+      "questionTranslation": "What is the author of the article presenting?",
+      "options": [
+        "Des adaptations télévisées de Maupassant",
+        "Des programmes d’études littéraires",
+        "Une exposition consacrée à Maupassant",
+        "Un ouvrage critique récemment paru"
+      ],
+      "optionTranslations": [
+        "TV adaptations of Maupassant",
+        "Literary study programs",
+        "An exhibition dedicated to Maupassant",
+        "A recently published critical work"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t13-q23",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Le PDG de la société SEB a avoué « ne plus espérer avoir une croissance importante » sur les marchés occidentaux, arrivés à saturation.\nLui qui a toujours défendu la valeur ajoutée et le savoir-faire des usines tricolores n’a pas pu faire face à l’arrivée des pays émergents dans le petit électroménager : 80% des grille-pains vendus en France coûtent désormais moins de 30 €.\nRésultat, les ventes de l’inventeur de la cocotte-minute ont reculé de 5.6% en France et de 2.6% dans les autres pays de l’Union européenne.",
+      "question": "Que regrette le PDG de la société SEB ?",
+      "questionTranslation": "What does the CEO of the SEB company regret?",
+      "options": [
+        "La faible qualité de la production française.",
+        "Le manque d’innovation dans son entreprise.",
+        "Les contraintes des contrôles financiers.",
+        "L’expansion de la concurrence internationale."
+      ],
+      "optionTranslations": [
+        "The low quality of French production.",
+        "The lack of innovation in his company.",
+        "The constraints of financial controls.",
+        "The expansion of international competition."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q24",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Lors de l’inscription à la faculté de médecine de Boston, les professeurs privilégient les candidats… ayant déjà connu des échecs.\nIls considèrent en effet que ces erreurs d’orientation permettent de grandir plus vite, de se rapprocher plus rapidement de sa vocation – bref, de mieux se connaître.\nPlus simplement, ils réduisent aussi le risque de recruter des élèves qui vont se rendre compte au bout de quelques mois qu’ils ne veulent plus devenir médecins : ils ont déjà changé de voie une fois, il est moins probable qu’ils en changent une seconde fois.",
+      "question": "Pourquoi les candidates qui se réorientent sont-ils privilégiés dans cette faculté ?",
+      "questionTranslation": "Why are candidates who reorient themselves favored in this faculty?",
+      "options": [
+        "Ils ont plus de facilités d’apprentissage.",
+        "Ils ont une idée claire de leur futur métier.",
+        "Ils sont déterminés à travailler beaucoup.",
+        "Ils sont plus sûrs de leur nouveau choix."
+      ],
+      "optionTranslations": [
+        "They have easier learning abilities.",
+        "They have a clear idea of their future job.",
+        "They are determined to work a lot.",
+        "They are more sure of their new choice."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q25",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Journée « Portes Ouvertes » à Polytech Tours.\nVenez rencontrer les étudiants, enseignants et associations de Polytech Tours.\nLe samedi 12 février, de 9 h à 16 h sans interruption.\nEspaces d’information présents sur les trois sites de l’école.\nPrésentation des études et des métiers d’ingénieur par les responsables des spécialités sur chaque site.\nVisites guidées des salles de travaux pratiques, des centres de documentation, des laboratoires de recherche et de langues.\nDémonstration des projets réalisés dans nos cursus.\nPrésentation des associations étudiantes.",
+      "question": "Quel est l’objectif de cette journée ?",
+      "questionTranslation": "What is the objective of this day?",
+      "options": [
+        "Découvrir le travail de recherche en laboratoire.",
+        "Faire découvrir les formations pour devenir ingénieur.",
+        "Inaugurer l’ouverture d’un campus universitaire.",
+        "Obtenir des conseils afin de créer une association."
+      ],
+      "optionTranslations": [
+        "To discover research work in a laboratory.",
+        "To help discover the training courses to become an engineer.",
+        "To inaugurate the opening of a university campus.",
+        "To obtain advice in order to create an association."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t13-q26",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La rétrospective Mali Twist montre comment, par sa diversité et son éclat, l'œuvre de Malick Sidibé s’inscrit dans le champ contemporain de la photographie.\nTour à tour reporter et portraitiste, Malick Sidibé a construit, depuis l’ouverture de son studio à Bamako en 1962, un ensemble photographique en noir et blanc exceptionnel.\nMali Twist révèle son regard attentif et son talent pour mettre en lumière le meilleur de chacun, sa singularité. Malick Sidibé a fait de la photographie un art de l’échange. S’il a eu pour règle d’or d’embellir ses modèles, il témoigne aussi de la joie de vivre de la jeunesse bamakoise, peu après l’indépendance du Mali.\nEntre visages anonymes et corps en mouvement, poseurs élégants et flâneurs, Mali Twist offre plus de 250 photographies.",
+      "question": "Sur quoi repose le travail photographique de Malick Sidibé ?",
+      "questionTranslation": "What is Malick Sidibé's photographic work based on?",
+      "options": [
+        "Un engagement politique.",
+        "Une contemplation abstraite.",
+        "Une mise en valeur de l’autre.",
+        "Une technique de retouche."
+      ],
+      "optionTranslations": [
+        "A political commitment.",
+        "An abstract contemplation.",
+        "A highlighting of the other.",
+        "A retouching technique."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q27",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Dixième anniversaire du musée de l’Europe\nIl y a maintenant près de dix ans, le musée de l’Europe n’était encore qu’un projet lancé par un petit groupe d’historiens et de promoteurs culturels issus de la société civile. Avec pour ambition de faire découvrir aux Européens les racines de leur civilisation commune.\nInstallé dans la ville de Bruxelles, siège des institutions européennes, celui-ci sera le « lieu de mémoire » dont l’Europe a besoin. C’est là que le parcours permanent et les expositions temporaires offriront à tous les Européens (et à leurs hôtes) une histoire raisonnée de l’union, entendue comme une civilisation diverse mais unique.",
+      "question": "Quelles sont les personnes à l’origine de ce projet ?",
+      "questionTranslation": "Who are the people behind this project?",
+      "options": [
+        "Des conservateurs de musée.",
+        "Des élus européens.",
+        "De simples citoyens.",
+        "Des militants associatifs."
+      ],
+      "optionTranslations": [
+        "Museum curators.",
+        "European elected officials.",
+        "Ordinary citizens.",
+        "Community activists."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q28",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "La désillusion de la jeunesse française d’aujourd’hui est un fait préoccupant. Elle est surtout due à la crise internationale, qui réduit les offres d’emploi, fait pression sur les salaires et raréfie les possibilités de promotion.\nMais on peut également l’attribuer à un conflit de génération larvé : il oppose la classe d’âge des « baby-boomers », devenus aujourd’hui « papy-boomers »\ntriomphants tout au long de leurs parcours, à celle de leurs enfants et",
+      "question": "maintenant de leurs petits-enfants. D’où vient la désillusion des jeunes en France ?",
+      "questionTranslation": "Where does the disillusionment of young people in France come from?",
+      "options": [
+        "De la concurrence des autres générations.",
+        "De la course à la compétitive.",
+        "De la situation économique tendue.",
+        "Des critiques émanant de leurs parents."
+      ],
+      "optionTranslations": [
+        "From competition from other generations.",
+        "From the race for competitiveness.",
+        "From the tense economic situation.",
+        "From criticisms coming from their parents."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q29",
+      "skill": "reading",
+      "level": "B2",
+      "passage": "Les implants médicaux (prothèses mammaires, de hanche, etc.) sont censés vous améliorer la vie. Mais des lacunes dans leur contrôle seraient à l’origine d’incidents en nombre croissant. C’est ce que révèle la dernière enquête du Consortium international des journalistes d’investigation.\nOn y apprend que, en France, le nombre d’incidents liés à ces implants aurait doublé en dix ans. Le problème, souligne l’enquête, c’est que les informations sur les patients restent globalement très incomplètes et leurs données sont souvent confidentielles. Il est donc difficile de dénombrer avec précision le modèle des implants posés, et de retrouver les patients en cas de problème.",
+      "question": "Quel problème révèle cet article à propos des implants médicaux ?",
+      "questionTranslation": "What problem does this article reveal regarding medical implants?",
+      "options": [
+        "Les données des malades sont transmises aux fabricants.",
+        "Les incidents dus aux erreurs de diagnostic augmentent.",
+        "Les patients se méfient des innovations technologiques.",
+        "Les recherches sont limitées par le manque d’informations."
+      ],
+      "optionTranslations": [
+        "Patient data is transmitted to manufacturers.",
+        "Incidents due to diagnostic errors are increasing.",
+        "Patients are wary of technological innovations.",
+        "Research is limited by the lack of information."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "t13-q30",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Quarante terrains de football.\nC’est la superficie que les forêts perdent chaque minute à travers le monde.\nLa destruction de la forêt tropicale provoque chaque année plus de rejets dans l’atmosphère que l’ensemble du secteur des transports.\nL’imaginaire collectif rendrait volontiers le commerce du bois principal responsable de la déforestation, alors qu’il n’en est rien.\nL’acteur majeur de ce phénomène est l’agriculture, responsable à 80% des déboisements dans les zones tropicales.\nLe marché illégal du bois a aussi sa part de responsabilité.\nIl est un facteur déclenchant et s’alimente des autres activités.\nQuelque 1.6 milliard d’habitants dépendent directement des forêts, et contribuent pourtant à leur raréfaction, voire à leur disparition.",
+      "question": "Selon cet article, sur quoi la déforestation a-t-elle un impact ?",
+      "questionTranslation": "According to this article, what does deforestation impact?",
+      "options": [
+        "Sur l’industrie des bois rares.",
+        "Sur la démographie dans ces zones.",
+        "Sur la pollution atmosphérique.",
+        "Sur la progression des cultures tropicales."
+      ],
+      "optionTranslations": [
+        "On the rare wood industry.",
+        "On the demography in these areas.",
+        "On atmospheric pollution.",
+        "On the progression of tropical crops."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q31",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Salé, sucré, acide, amer : quatre termes - tels les points cardinaux - qui définissent le territoire d’expression du goût.\nNous serions en droit de penser que c’est un peu court pour dépeindre toutes les nuances de la palette aromatique et les émotions qu’elle suscite.\nLes Japonais y ont d’ailleurs ajouté la notion d’umami, cette saveur qui littéralement signifie « goût délicieux », enrobante, qui tapisse le palais, très addictive.\nDans l’imaginaire collectif, le sucre évoque douceur, gourmandise, réconfort.\nL’on peut cependant imaginer une douceur à la lecture moins immédiate que celle apportée par le sucre, une douceur qui soit synonyme de complexité aromatique, qui joue sur les notes amères, piquantes ou acidulées.",
+      "question": "Quel problème soulève cet article ?",
+      "questionTranslation": "What problem does this article raise?",
+      "options": [
+        "L’addiction liée à certains aliments.",
+        "L’inévitable uniformisation du goût.",
+        "La difficulté à décrire les saveurs.",
+        "La multiplication des termes culinaires."
+      ],
+      "optionTranslations": [
+        "The addiction related to certain foods.",
+        "The inevitable standardization of taste.",
+        "The difficulty in describing flavors.",
+        "The multiplication of culinary terms."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q32",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Dans le monde de l’entreprise, les jeunes et les seniors éprouvent des sentiments analogues d’éviction et de dévalorisation.\nPourtant, des actions de mentorat, menées par des seniors pour guider les jeunes sur le marché du travail ou lors de la création de leur entreprise, existent depuis de nombreuses années.\nPlus étonnant, est apparu récemment le mentorat renversé, où les jeunes habitués aux outils numériques initient les seniors à leur usage.\nLes seniors y gagnent de nouvelles compétences, et les jeunes élargissent leur réseau.\nEn période de crise, cette coopération peut constituer un moyen de désamorcer les tensions sociales.\nFavoriser les échanges intergénérationnels, c’est contribuer à établir des relations où chacun prend conscience qu’il peut apporter quelque chose à",
+      "question": "l’autre. Quel est l’intérêt des mentorats décrits ?",
+      "questionTranslation": "What is the interest of the described mentorships?",
+      "options": [
+        "Créer de nouvelles sources d’emploi.",
+        "Éviter la solitude des personnes âgées.",
+        "Instaurer des rapports de réciprocité.",
+        "Répondre à l’allongement de la durée de vie."
+      ],
+      "optionTranslations": [
+        "Create new sources of employment.",
+        "Avoid the loneliness of the elderly.",
+        "Establish reciprocal relationships.",
+        "Respond to the lengthening of life expectancy."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q33",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Planter sur la réforme des rythmes scolaires, comme le fera la « conférence »\ninstallée aujourd’hui par le ministre de l’Éducation, c’est prendre en compte toute une série de paramètres qui n’ont rien à voir, ou si peu, avec l’école primaire.\nC’est s’intéresser aux évolutions de la famille et à la multiplication des horaires de travail dits « atypiques ».\nC’est examiner, du point de vue des collectivités locales, les conséquences financières et pratiques (transport scolaire, cantine, centres de loisirs) de tout changement éventuel dans l’organisation de la semaine.\nC’est encore recueillir l’avis des experts de la circulation routière et entendre les préoccupations des professionnels du tourisme.\nAutant dire que l’intérêt de l’enfant se trouve plus ou moins sacrifié sur l’autel",
+      "question": "du compromis. Quel constat dresse le journaliste à propos de la réforme des rythmes scolaires ?",
+      "questionTranslation": "What observation does the journalist make regarding the reform of school rhythms?",
+      "options": [
+        "Les familles sont opposées à toute modification.",
+        "Les impacts financiers demeurent insurmontables.",
+        "Les intérêts en jeu sont difficilement compatibles.",
+        "Les opinions des experts sont en total désaccord."
+      ],
+      "optionTranslations": [
+        "Families are opposed to any modification.",
+        "Financial impacts remain insurmountable.",
+        "The interests at stake are difficult to make compatible.",
+        "The opinions of experts are in total disagreement."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "t13-q34",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Une exposition de l’Institut d’Art Contemporain de Villeurbanne est consacrée à l’Américain Jimmie Durham et à la Brésilienne Marie Thereza Alves.\nDepuis vingt ans, ils parcourent, au fil de leurs déplacements, le territoire méditerranéen et sont réunis au sein de cette exposition à la forme inédite.\nLe parcours se veut éloigné de tout didactisme, laissant assez d’espace au spectateur pour construire son propre récit autour d’une mer connue pour être le berceau fertile des civilisations.\nDans un jeu de matières, de couleurs et d’objets, tous tangibles. Durham et Alves tentent de décrypter une certaine pensée historique et mythologique, notamment en déjouant les codes classiques utilisés dans les musées.",
+      "question": "Qu’est-ce qui fait la singularité de cette exposition ?",
+      "questionTranslation": "What makes this exhibition unique?",
+      "options": [
+        "La liberté accordée aux visiteurs.",
+        "La simplicité des moyens artistiques",
+        "Le classicisme de sa présentation.",
+        "Le discours politique des plasticiens."
+      ],
+      "optionTranslations": [
+        "The freedom granted to visitors.",
+        "The simplicity of artistic means.",
+        "The classicism of its presentation.",
+        "The political discourse of the visual artists."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t13-q35",
+      "skill": "reading",
+      "level": "C1",
+      "passage": "Je suis persuadée que tous les enfants possèdent en eux la volonté de mettre en route leur imaginaire qui les pousse naturellement vers la littérature.\nMais si elle n’est pas stimulée, cette force peut s’éteindre.\nC’est la mission de l’école que de sensibiliser les élèves aux grands textes classiques.\nMalheureusement, elle y a renoncé.\nTrop souvent, les enseignants ont tendance à penser qu’ils sont réservés à l’élite.\nAlors qu’au contraire, l’école devrait donner un accès à la haute culture aux élèves qui arrivent avec un bagage moins fourni que les autres.",
+      "question": "Selon l’auteur de ce texte, quelle ambition devraient avoir les enseignants ?",
+      "questionTranslation": "According to the author of this text, what ambition should teachers have?",
+      "options": [
+        "Aborder des œuvres réputées difficiles avec leurs élèves.",
+        "Encourager leurs élèves à écrire des textes littéraires.",
+        "Inviter régulièrement des écrivains célèbres dans leur classe.",
+        "Monter des pièces de théâtre d’auteurs classiques."
+      ],
+      "optionTranslations": [
+        "Tackle works deemed difficult with their students.",
+        "Encourage their students to write literary texts.",
+        "Regularly invite famous writers to their class.",
+        "Stage plays by classic authors."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t13-q36",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Sexistes, les jeux vidéo ? Peut-être que oui, peut-être que non.\nEn tout cas, à parcourir les allées de la Paris Games Week, l'œil avisé aura lui- même bien du mal à trouver un personnage principal féminin de jeu vidéo.\nIl y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure pour plaire à un certain nombre de joueurs masculins.\nPour le reste, circulez, il n'y a - presque - rien d'autre à voir, si l'on balaye d'un coup de manette de jeu, au mieux, les princesses à sauver, au pire, les call-girls de mafioso.\nPourtant, l'industrie du jeu vidéo a pris conscience ces dernières années du potentiel du marché des joueuses.",
+      "question": "Quel constat est dressé sur les jeux vidéo ?",
+      "questionTranslation": "What observation is made about video games?",
+      "options": [
+        "La quasi-absence d’héroïnes.",
+        "L’appel constant à la violence.",
+        "L’atténuation des clichés.",
+        "L’uniformité des scénarios."
+      ],
+      "optionTranslations": [
+        "The near-absence of heroines.",
+        "The constant appeal to violence.",
+        "The mitigation of clichés.",
+        "The uniformity of scenarios."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t13-q37",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Défenseurs et détracteurs de l’écriture inclusive, qui consiste à féminiser les mots en plaçant entre des points la terminaison du féminin, s’écharpent sur cet épineux sujet.\nPour Éliane Viennot, il est important de défendre l’écriture inclusive qui, en remaniant l’orthographe, vise à combattre les stéréotypes sexistes.\nSelon elle, la langue structure notre représentation du monde.\nApprendre aux plus jeunes que le masculin l’emporte sur le féminin ne peut guère contribuer à forger des consciences égalitaristes.\nElle rappelle de surcroît que la langue française a longtemps été plus égalitaire qu’elle ne l’est aujourd’hui : il y a eu une masculinisation délibérée du langage à partir du XVIIe siècle.\nCeux qui se piquaient alors de définir le bon usage en ont profité pour renforcer l’ordre masculin.",
+      "question": "Que pense Éliane Viennot de l’écriture inclusive ?",
+      "questionTranslation": "What does Éliane Viennot think of inclusive writing?",
+      "options": [
+        "Elle favorise l’évolution des mentalités.",
+        "Elle incarne une première historique.",
+        "Elle permet de moderniser le lexique.",
+        "Elle reflète les clivages de la société."
+      ],
+      "optionTranslations": [
+        "It favors the evolution of mentalities.",
+        "It embodies a historical first.",
+        "It allows modernizing the lexicon.",
+        "It reflects the divisions of society."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "t13-q38",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Non, tous les salariés ne sont pas faits pour le télétravailleur.\nLe rapport Obergo le prouve à travers soixante-quinze entretiens approfondis avec des télétravailleurs.\nLes résultats tordent le cou à une idée reçue : le télétravail serait l’organisation de demain car elle est bonne pour la productivité des entreprises et la qualité de vie des salariés.\nEn effet, tous les métiers et les personnalités ne sont pas adaptés au télétravail.\nLa réussite du télétravail exige des profils de salariés très spécifiques.\nParmi les conditions sine qua non : vouloir et aimer travailler seul, disposer d’une grande autonomie et posséder un logement pouvant accueillir un bureau isolé.\n« Autant de conditions difficiles à rassembler », constate Jean-Paul Boucher, commanditaire du rapport.",
+      "question": "Qu’est-ce qui ressort du rapport Obergo concernant le télétravail ?",
+      "questionTranslation": "What emerges from the Obergo report regarding telework?",
+      "options": [
+        "Il donne satisfaction aux employés interrogés.",
+        "Il est délicat à mettre en œuvre.",
+        "Il impose une restructuration des services.",
+        "Il nuit à la performance des cadres."
+      ],
+      "optionTranslations": [
+        "It gives satisfaction to the employees interviewed.",
+        "It is delicate to implement.",
+        "It imposes a restructuring of services.",
+        "It harms the performance of executives."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "t13-q39",
+      "skill": "reading",
+      "level": "C2",
+      "passage": "Mara Maudet, à son arrivée en France, constate que la politique d’insertion des foyers démunis et celle dédiée à la petite enfance sont déconnectées l’une de l’autre.\nPour cette Brésilienne, « un parent sans emploi doit être prioritaire pour obtenir une place en crèche. Tout le contraire des critères actuels. »\nElle crée alors l’IEPC (Institut d’éducation et des pratiques citoyennes) et constitue un réseau de crèches associatives dont le principe est qu’en échange d’une place pour son enfant sur une plage horaire de 13 heures, le parent célibataire - le plus souvent des mères - s’engage à trouver un emploi dans les mois suivants.\nElle bénéficie alors, dans les locaux de la crèche, d’un accompagnement professionnel personnalisé.",
+      "question": "Quel est l’objectif de l’IEPC ?",
+      "questionTranslation": "What is the objective of the IEPC?",
+      "options": [
+        "Embaucher des parents défavorisés",
+        "Faciliter l’intégration professionnelle",
+        "Proposer des tarifs préférentiels en crèche",
+        "Trouver un accueil provisoire pour les enfants"
+      ],
+      "optionTranslations": [
+        "To hire disadvantaged parents",
+        "To facilitate professional integration",
+        "To offer preferential rates in crèches",
+        "To find temporary care for children Retry test All tests"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
