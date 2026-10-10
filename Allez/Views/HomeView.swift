@@ -76,10 +76,17 @@ struct HomeView: View {
             if position > 0 {
                 PathTrail(from: pathOffset(for: index - 1), to: pathOffset(for: index), isLit: appState.isCompleted(units[position - 1]))
             }
-            UnitNode(unit: unit, status: appState.status(of: unit), isNext: appState.nextUnit?.id == unit.id, colors: Theme.levelColor(level)) {
-                open(unit)
+            ZStack {
+                UnitNode(unit: unit, status: appState.status(of: unit), isNext: appState.nextUnit?.id == unit.id, colors: Theme.levelColor(level)) {
+                    open(unit)
+                }
+                .offset(x: pathOffset(for: index))
+                if let egg = egg(besideLessonAt: index) {
+                    EggView(egg: egg)
+                        .offset(x: eggOffset(forLessonAt: index), y: 12)
+                }
             }
-            .offset(x: pathOffset(for: index))
+            .frame(maxWidth: .infinity)
             .id(unit.id)
         }
     }
@@ -95,6 +102,17 @@ struct HomeView: View {
         } else {
             activeUnit = unit
         }
+    }
+
+    /// A French easter egg beside every third lesson.
+    private func egg(besideLessonAt index: Int) -> FrenchEgg? {
+        index % 3 == 1 ? FrenchEgg(rawValue: index / 3) : nil
+    }
+
+    /// Puts the egg on the opposite side of the path from the lesson circle.
+    private func eggOffset(forLessonAt index: Int) -> CGFloat {
+        let lesson = pathOffset(for: index)
+        return min(max(lesson >= 0 ? lesson - 150 : lesson + 150, -135), 135)
     }
 
     /// Sways the circles left and right to make a winding path.
@@ -183,6 +201,9 @@ private struct LevelBanner: View {
         .background(RoundedRectangle(cornerRadius: 18).fill(isDone ? Theme.gold : colors.face))
         .background(RoundedRectangle(cornerRadius: 18).fill(isDone ? Theme.goldShadow : colors.shadow).offset(y: 4))
         .shadow(color: isDone ? Theme.gold.opacity(0.5) : .clear, radius: 12)
+        .onChange(of: isDone) { _, done in
+            if done { SoundFX.shared.play(.sparkle) }
+        }
     }
 }
 
@@ -328,6 +349,9 @@ private struct NodeButtonStyle: ButtonStyle {
             }
             .offset(y: pressed ? 7 : 0)
             .animation(.spring(response: 0.2, dampingFraction: 0.6), value: pressed)
+            .onChange(of: pressed) { _, isDown in
+                if isDown { SoundFX.shared.play(.pop) }
+            }
     }
 
     private var face: Color {

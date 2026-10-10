@@ -56,6 +56,7 @@ struct LessonCompleteView: View {
         .padding()
         .background(Theme.background)
         .onAppear {
+            SoundFX.shared.play(.fanfare)
             withAnimation(.spring(response: 0.6, dampingFraction: 0.55)) {
                 appeared = true
             }

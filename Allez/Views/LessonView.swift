@@ -97,6 +97,7 @@ struct LessonView: View {
     private func check() {
         guard selectedIndex != nil else { return }
         if isCorrect { correctCount += 1 }
+        SoundFX.shared.play(isCorrect ? .correct : .wrong)
         withAnimation(.spring(response: 0.35, dampingFraction: 0.8)) {
             isChecked = true
         }

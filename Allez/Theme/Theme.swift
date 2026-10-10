@@ -97,6 +97,9 @@ struct ChunkyButtonStyle: ButtonStyle {
             )
             .offset(y: pressed ? 4 : 0)
             .animation(.spring(response: 0.2, dampingFraction: 0.6), value: pressed)
+            .onChange(of: pressed) { _, isDown in
+                if isDown { SoundFX.shared.play(.pop) }
+            }
     }
 }
 

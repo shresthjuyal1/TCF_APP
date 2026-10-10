@@ -27,6 +27,7 @@ final class AppState {
     var settings: UserSettings {
         didSet {
             Self.save(settings, key: "settings")
+            SoundFX.isMuted = !settings.soundsOn
             Reminders.reschedule(for: self)
         }
     }
@@ -41,6 +42,7 @@ final class AppState {
         practiceSeconds = Self.load([String: TimeInterval].self, key: "practiceSeconds") ?? [:]
         testResults = Self.load([TestResult].self, key: "testResults") ?? []
         settings = Self.load(UserSettings.self, key: "settings") ?? UserSettings()
+        SoundFX.isMuted = !settings.soundsOn
     }
 
     // MARK: Grammar path

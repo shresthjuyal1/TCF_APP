@@ -213,6 +213,7 @@ struct StreakCelebration: View {
             .opacity(appeared ? 1 : 0)
         }
         .onAppear {
+            SoundFX.shared.play(.streak)
             withAnimation(.spring(response: 0.6, dampingFraction: 0.55)) { appeared = true }
         }
         .sensoryFeedback(.success, trigger: appeared)

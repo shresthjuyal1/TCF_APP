@@ -8,6 +8,22 @@ struct UserSettings: Codable, Equatable {
     var remindersOn = true
     var reminderHour = 19
     var reminderMinute = 0
+    var soundsOn = true
+
+    init() {}
+
+    /// Reads saved settings, using the default for anything added in a newer version of the app.
+    init(from decoder: Decoder) throws {
+        let saved = try decoder.container(keyedBy: CodingKeys.self)
+        let defaults = UserSettings()
+        name = try saved.decodeIfPresent(String.self, forKey: .name) ?? defaults.name
+        examDate = try saved.decodeIfPresent(Date.self, forKey: .examDate)
+        goalLevel = try saved.decodeIfPresent(Level.self, forKey: .goalLevel) ?? defaults.goalLevel
+        remindersOn = try saved.decodeIfPresent(Bool.self, forKey: .remindersOn) ?? defaults.remindersOn
+        reminderHour = try saved.decodeIfPresent(Int.self, forKey: .reminderHour) ?? defaults.reminderHour
+        reminderMinute = try saved.decodeIfPresent(Int.self, forKey: .reminderMinute) ?? defaults.reminderMinute
+        soundsOn = try saved.decodeIfPresent(Bool.self, forKey: .soundsOn) ?? defaults.soundsOn
+    }
 }
 
 /// The result of one full timed test, used to show your current estimated level.

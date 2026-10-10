@@ -39,6 +39,7 @@ struct TestResultsView: View {
         .onAppear {
             guard !appeared else { return }
             appeared = true
+            SoundFX.shared.play(.fanfare)
             appState.record(TestResult(testID: test.id, date: .now, correct: correctCount,
                                        total: questions.count, level: ContentLibrary.estimatedLevel(forScore: fraction)))
         }

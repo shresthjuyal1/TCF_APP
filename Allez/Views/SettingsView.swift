@@ -52,6 +52,24 @@ struct SettingsView: View {
                 }
 
                 Section {
+                    Toggle(isOn: $appState.settings.soundsOn) {
+                        Label {
+                            Text("Sound effects")
+                        } icon: {
+                            IconTile(systemName: appState.settings.soundsOn ? "speaker.wave.2.fill" : "speaker.slash.fill",
+                                     color: Theme.teal, size: 30)
+                        }
+                    }
+                    .onChange(of: appState.settings.soundsOn) { _, isOn in
+                        if isOn { SoundFX.shared.play(.correct) }
+                    }
+                } header: {
+                    Text("Sounds")
+                } footer: {
+                    Text("Sound effects follow your phone's silent switch. The French voice still plays when you tap a speaker button.")
+                }
+
+                Section {
                     Toggle(isOn: $appState.settings.remindersOn) {
                         Label {
                             Text("Daily reminder")

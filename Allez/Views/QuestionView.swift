@@ -44,6 +44,7 @@ struct QuestionView: View {
             VStack(spacing: 12) {
                 ForEach(question.options.indices, id: \.self) { index in
                     Button {
+                        if selectedIndex != index { SoundFX.shared.play(.pop) }
                         selectedIndex = index
                     } label: {
                         OptionLabel(

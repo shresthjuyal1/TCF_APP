@@ -2,13 +2,21 @@ import AVFoundation
 import SwiftUI
 
 /// Reads French text aloud with the iPhone's built-in French voice.
-final class Speaker {
+/// Only used from the main thread, so it's safe to share.
+final class Speaker: NSObject, AVSpeechSynthesizerDelegate, @unchecked Sendable {
     static let shared = Speaker()
 
     private let synthesizer = AVSpeechSynthesizer()
 
+    var isSpeaking: Bool { synthesizer.isSpeaking }
+
+    override init() {
+        super.init()
+        synthesizer.delegate = self
+    }
+
     func speak(_ text: String) {
-        // Play even when the phone's silent switch is on, like other language apps.
+        // The voice plays even with the silent switch on, like other language apps.
         try? AVAudioSession.sharedInstance().setCategory(.playback, mode: .spokenAudio, options: .duckOthers)
         try? AVAudioSession.sharedInstance().setActive(true)
         synthesizer.stopSpeaking(at: .immediate)
@@ -16,6 +24,11 @@ final class Speaker {
         utterance.voice = AVSpeechSynthesisVoice(language: "fr-FR")
         utterance.rate = AVSpeechUtteranceDefaultSpeechRate * 0.9
         synthesizer.speak(utterance)
+    }
+
+    /// Afterwards, go back to normal so sound effects respect the silent switch again.
+    func speechSynthesizer(_ synthesizer: AVSpeechSynthesizer, didFinish utterance: AVSpeechUtterance) {
+        SoundFX.useAmbientSession()
     }
 }
 
