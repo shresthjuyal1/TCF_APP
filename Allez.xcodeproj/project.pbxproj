@@ -86,7 +86,7 @@
 				};
 			};
 			buildConfigurationList = AA0000000000000000000011 /* Build configuration list for PBXProject "Allez" */;
-			developmentRegion = fr;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				fr,

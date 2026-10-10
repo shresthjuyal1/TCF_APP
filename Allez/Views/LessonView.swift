@@ -40,11 +40,11 @@ struct LessonView: View {
             .sensoryFeedback(trigger: isChecked) { _, checked in
                 checked ? (isCorrect ? .success : .error) : nil
             }
-            .alert("Quitter la leçon ?", isPresented: $showQuitAlert) {
-                Button("Continuer la leçon", role: .cancel) {}
-                Button("Quitter", role: .destructive) { dismiss() }
+            .alert("Quit the lesson?", isPresented: $showQuitAlert) {
+                Button("Keep going", role: .cancel) {}
+                Button("Quit", role: .destructive) { dismiss() }
             } message: {
-                Text("Ta progression dans cette leçon sera perdue.")
+                Text("Your progress in this lesson will be lost.")
             }
         }
     }
@@ -59,7 +59,7 @@ struct LessonView: View {
                     .foregroundStyle(.secondary)
                     .frame(width: 44, height: 44)
             }
-            .accessibilityLabel("Quitter")
+            .accessibilityLabel("Quit")
             LessonProgressBar(progress: progress)
         }
         .padding(.horizontal)
@@ -72,7 +72,7 @@ struct LessonView: View {
             FeedbackBar(question: question, isCorrect: isCorrect, praise: praise, onContinue: next)
                 .transition(.move(edge: .bottom))
         } else {
-            Button("Vérifier", action: check)
+            Button("Check", action: check)
                 .buttonStyle(ChunkyButtonStyle())
                 .disabled(selectedIndex == nil)
                 .padding()
@@ -80,7 +80,7 @@ struct LessonView: View {
     }
 
     private var praise: String {
-        let words = ["Bravo !", "Excellent !", "Parfait !", "Super !", "Génial !"]
+        let words = ["Nice!", "Excellent!", "Perfect!", "Great job!", "Awesome!"]
         return words[currentIndex % words.count]
     }
 
@@ -130,7 +130,7 @@ struct LessonProgressBar: View {
     }
 }
 
-/// The colored bar that slides up from the bottom after "Vérifier".
+/// The colored bar that slides up from the bottom after "Check".
 private struct FeedbackBar: View {
     let question: Question
     let isCorrect: Bool
@@ -142,14 +142,14 @@ private struct FeedbackBar: View {
             HStack(spacing: 10) {
                 Image(systemName: isCorrect ? "checkmark.circle.fill" : "xmark.circle.fill")
                     .font(.title)
-                Text(isCorrect ? praise : "Pas tout à fait…")
+                Text(isCorrect ? praise : "Not quite…")
                     .font(.title2.weight(.heavy))
             }
             .foregroundStyle(color)
 
             if !isCorrect {
                 VStack(alignment: .leading, spacing: 2) {
-                    Text("Bonne réponse :")
+                    Text("Correct answer:")
                         .font(.subheadline.weight(.bold))
                     Text(question.correctAnswer)
                         .font(.body.weight(.semibold))
@@ -169,7 +169,7 @@ private struct FeedbackBar: View {
                         Text(answer)
                     }
                     if question.answerDisputed == true {
-                        Label("Cette réponse est contestée par d'autres candidats.", systemImage: "exclamationmark.triangle.fill")
+                        Label("Other test-takers dispute this answer.", systemImage: "exclamationmark.triangle.fill")
                             .font(.footnote.weight(.semibold))
                             .foregroundStyle(Theme.gold)
                     }
@@ -182,7 +182,7 @@ private struct FeedbackBar: View {
             .scrollBounceBehavior(.basedOnSize)
             .frame(maxHeight: 160)
 
-            Button("Continuer", action: onContinue)
+            Button("Continue", action: onContinue)
                 .buttonStyle(ChunkyButtonStyle(
                     face: color,
                     shadow: isCorrect ? Theme.correctShadow : Theme.wrongShadow

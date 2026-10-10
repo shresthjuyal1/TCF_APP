@@ -30,7 +30,7 @@ struct TestResultsView: View {
                 }
                 .padding()
             }
-            Button("Terminer", action: onDone)
+            Button("Done", action: onDone)
                 .buttonStyle(ChunkyButtonStyle())
                 .padding()
         }
@@ -43,14 +43,14 @@ struct TestResultsView: View {
             Image(systemName: ranOutOfTime ? "timer" : "flag.checkered")
                 .font(.system(size: 56))
                 .foregroundStyle(Theme.gold)
-            Text(ranOutOfTime ? "Temps écoulé !" : "Test terminé !")
+            Text(ranOutOfTime ? "Time's up!" : "Test complete!")
                 .font(.largeTitle.weight(.heavy))
                 .foregroundStyle(Theme.accent)
-            Text("\(correctCount) / \(questions.count) bonnes réponses · \(Int((fraction * 100).rounded())) %")
+            Text("\(correctCount) / \(questions.count) correct · \(Int((fraction * 100).rounded()))%")
                 .font(.headline)
 
             VStack(spacing: 4) {
-                Text("Niveau estimé")
+                Text("Estimated level")
                     .font(.caption.weight(.heavy))
                     .textCase(.uppercase)
                     .foregroundStyle(.secondary)
@@ -60,7 +60,7 @@ struct TestResultsView: View {
                     .foregroundStyle(Theme.accent)
                 Text(level.name)
                     .font(.subheadline.weight(.semibold))
-                Text("Estimation approximative, pas un score officiel du TCF.")
+                Text("A rough estimate, not an official TCF score.")
                     .font(.caption)
                     .foregroundStyle(.secondary)
                     .multilineTextAlignment(.center)
@@ -75,7 +75,7 @@ struct TestResultsView: View {
 
     private var levelBreakdown: some View {
         VStack(alignment: .leading, spacing: 10) {
-            Text("Par niveau")
+            Text("By level")
                 .font(.title3.weight(.heavy))
             ForEach(levelsInTest) { level in
                 let indices = questions.indices.filter { questions[$0].level == level }
@@ -97,7 +97,7 @@ struct TestResultsView: View {
 
     private var review: some View {
         VStack(alignment: .leading, spacing: 10) {
-            Text("Revoir les réponses")
+            Text("Review answers")
                 .font(.title3.weight(.heavy))
             ForEach(questions.indices, id: \.self) { index in
                 AnswerReviewRow(number: index + 1, question: questions[index], answer: answers[index])
@@ -147,14 +147,14 @@ private struct AnswerReviewRow: View {
                 Text(question.question)
                     .font(.subheadline.weight(.bold))
                 if let answer {
-                    Text("Ta réponse : \(question.options[answer])")
+                    Text("Your answer: \(question.options[answer])")
                         .foregroundStyle(isCorrect ? Theme.correct : Theme.wrong)
                 } else {
-                    Text("Pas de réponse")
+                    Text("No answer")
                         .foregroundStyle(Theme.wrong)
                 }
                 if !isCorrect {
-                    Text("Bonne réponse : \(question.correctAnswer)")
+                    Text("Correct answer: \(question.correctAnswer)")
                         .foregroundStyle(Theme.correct)
                 }
                 if let translation = question.questionTranslation {
@@ -175,7 +175,7 @@ private struct AnswerReviewRow: View {
                         .foregroundStyle(.secondary)
                 }
                 if question.answerDisputed == true {
-                    Label("Réponse contestée par d'autres candidats.", systemImage: "exclamationmark.triangle.fill")
+                    Label("Other test-takers dispute this answer.", systemImage: "exclamationmark.triangle.fill")
                         .font(.footnote.weight(.semibold))
                         .foregroundStyle(Theme.gold)
                 }

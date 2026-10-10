@@ -8,11 +8,11 @@ enum Skill: String, Codable, CaseIterable, Identifiable {
 
     var title: String {
         switch self {
-        case .reading: "Compréhension écrite"
-        case .listening: "Compréhension orale"
-        case .grammar: "Structures de la langue"
-        case .writing: "Expression écrite"
-        case .speaking: "Expression orale"
+        case .reading: "Reading"
+        case .listening: "Listening"
+        case .grammar: "Grammar"
+        case .writing: "Writing"
+        case .speaking: "Speaking"
         }
     }
 
@@ -33,15 +33,15 @@ enum Level: String, Codable, CaseIterable, Identifiable, Comparable {
 
     var id: String { rawValue }
 
-    /// Official French names of the CEFR levels.
+    /// Common English names of the CEFR levels.
     var name: String {
         switch self {
-        case .a1: "Découverte"
-        case .a2: "Survie"
-        case .b1: "Seuil"
-        case .b2: "Avancé"
-        case .c1: "Autonome"
-        case .c2: "Maîtrise"
+        case .a1: "Beginner"
+        case .a2: "Elementary"
+        case .b1: "Intermediate"
+        case .b2: "Upper intermediate"
+        case .c1: "Advanced"
+        case .c2: "Proficient"
         }
     }
 

@@ -14,9 +14,9 @@ struct LessonCompleteView: View {
 
     private var message: String {
         switch accuracy {
-        case 90...: "Impressionnant !"
-        case 70..<90: "Très bien !"
-        default: "Continue comme ça !"
+        case 90...: "Impressive!"
+        case 70..<90: "Very good!"
+        default: "Keep it up!"
         }
     }
 
@@ -32,7 +32,7 @@ struct LessonCompleteView: View {
                 .symbolEffect(.bounce, value: appeared)
 
             VStack(spacing: 8) {
-                Text("Leçon terminée !")
+                Text("Lesson complete!")
                     .font(.largeTitle.weight(.heavy))
                     .foregroundStyle(Theme.accent)
                 Text(message)
@@ -42,15 +42,15 @@ struct LessonCompleteView: View {
             .opacity(appeared ? 1 : 0)
 
             HStack(spacing: 16) {
-                StatCard(title: "Réponses justes", value: "\(correct)/\(total)", icon: "checkmark.circle.fill", color: Theme.correct)
-                StatCard(title: "Précision", value: "\(accuracy) %", icon: "target", color: Theme.accent)
+                StatCard(title: "Correct", value: "\(correct)/\(total)", icon: "checkmark.circle.fill", color: Theme.correct)
+                StatCard(title: "Accuracy", value: "\(accuracy)%", icon: "target", color: Theme.accent)
             }
             .opacity(appeared ? 1 : 0)
             .offset(y: appeared ? 0 : 30)
 
             Spacer()
 
-            Button("Continuer", action: onContinue)
+            Button("Continue", action: onContinue)
                 .buttonStyle(ChunkyButtonStyle())
         }
         .padding()

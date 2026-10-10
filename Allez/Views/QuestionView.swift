@@ -21,10 +21,10 @@ struct QuestionView: View {
                     Button {
                         withAnimation(.easeInOut(duration: 0.2)) { isTranslated.toggle() }
                     } label: {
-                        Label(isTranslated ? "Masquer" : "Traduction", systemImage: "character.bubble")
+                        Label(isTranslated ? "Hide" : "Translate", systemImage: "character.bubble")
                             .font(.footnote.weight(.bold))
                     }
-                    .accessibilityLabel(isTranslated ? "Masquer la traduction" : "Voir la traduction")
+                    .accessibilityLabel(isTranslated ? "Hide translation" : "Show translation")
                 }
             }
 

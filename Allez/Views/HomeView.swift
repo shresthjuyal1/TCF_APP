@@ -40,13 +40,13 @@ struct HomeView: View {
                 appState.complete(unit)
             }
         }
-        .alert("Bientôt disponible", isPresented: Binding(
+        .alert("Coming soon", isPresented: Binding(
             get: { comingSoonUnit != nil },
             set: { if !$0 { comingSoonUnit = nil } }
         )) {
             Button("OK") {}
         } message: {
-            Text("Les questions de « \(comingSoonUnit?.title ?? "") » arrivent bientôt.")
+            Text("Questions for \"\(comingSoonUnit?.title ?? "")\" are coming soon.")
         }
         .sensoryFeedback(.warning, trigger: lockedTapCount)
     }
@@ -101,7 +101,7 @@ private struct LevelBanner: View {
     var body: some View {
         HStack {
             VStack(alignment: .leading, spacing: 2) {
-                Text("Niveau \(level.rawValue)")
+                Text("Level \(level.rawValue)")
                     .font(.title3.weight(.heavy))
                 Text(level.name)
                     .font(.subheadline.weight(.semibold))
@@ -151,7 +151,7 @@ private struct UnitNode: View {
 
 private struct StartBubble: View {
     var body: some View {
-        Text("Commencer")
+        Text("Start")
             .font(.caption.weight(.heavy))
             .textCase(.uppercase)
             .foregroundStyle(Theme.accent)

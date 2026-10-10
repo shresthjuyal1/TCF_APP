@@ -41,16 +41,16 @@ struct TestView: View {
                 .id(index)
                 .transition(.asymmetric(insertion: .move(edge: .trailing), removal: .move(edge: .leading)).combined(with: .opacity))
 
-                Button(isLastQuestion ? "Terminer" : (answers[index] == nil ? "Passer" : "Suivant"), action: next)
+                Button(isLastQuestion ? "Finish" : (answers[index] == nil ? "Skip" : "Next"), action: next)
                     .buttonStyle(ChunkyButtonStyle())
                     .padding()
             }
             .task(runTimer)
-            .alert("Quitter le test ?", isPresented: $showQuitAlert) {
-                Button("Continuer le test", role: .cancel) {}
-                Button("Quitter", role: .destructive) { dismiss() }
+            .alert("Quit the test?", isPresented: $showQuitAlert) {
+                Button("Keep going", role: .cancel) {}
+                Button("Quit", role: .destructive) { dismiss() }
             } message: {
-                Text("Tes réponses ne seront pas enregistrées.")
+                Text("Your answers won't be saved.")
             }
         }
     }
@@ -66,7 +66,7 @@ struct TestView: View {
                         .foregroundStyle(.secondary)
                         .frame(width: 44, height: 44)
                 }
-                .accessibilityLabel("Quitter")
+                .accessibilityLabel("Quit")
 
                 Text("Question \(index + 1) / \(test.questions.count)")
                     .font(.headline)

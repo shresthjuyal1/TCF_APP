@@ -5,13 +5,13 @@ struct RootView: View {
     var body: some View {
         TabView {
             HomeView()
-                .tabItem { Label("Parcours", systemImage: "map.fill") }
+                .tabItem { Label("Path", systemImage: "map.fill") }
             SkillPracticeView(skill: .reading)
-                .tabItem { Label("Lecture", systemImage: "book.fill") }
+                .tabItem { Label("Reading", systemImage: "book.fill") }
             SkillPracticeView(skill: .grammar)
-                .tabItem { Label("Grammaire", systemImage: "textformat.abc") }
+                .tabItem { Label("Grammar", systemImage: "textformat.abc") }
             SpeakingView()
-                .tabItem { Label("Oral", systemImage: "mic.fill") }
+                .tabItem { Label("Speaking", systemImage: "mic.fill") }
         }
     }
 }

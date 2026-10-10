@@ -44,11 +44,11 @@ struct SkillPracticeView: View {
 
     private var practiceSection: some View {
         VStack(alignment: .leading, spacing: 14) {
-            SectionTitle(title: "Entraînement", subtitle: "\(Self.questionsPerPractice) questions au hasard, avec correction immédiate.")
+            SectionTitle(title: "Practice", subtitle: "\(Self.questionsPerPractice) random questions with instant feedback.")
 
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(spacing: 8) {
-                    LevelChip(label: "Tous", isSelected: levelFilter == nil) { levelFilter = nil }
+                    LevelChip(label: "All", isSelected: levelFilter == nil) { levelFilter = nil }
                     ForEach(availableLevels) { level in
                         LevelChip(label: level.rawValue, isSelected: levelFilter == level) { levelFilter = level }
                     }
@@ -56,13 +56,13 @@ struct SkillPracticeView: View {
                 .padding(.vertical, 4)
             }
 
-            Button("Commencer") {
+            Button("Start") {
                 practice = PracticeSession(questions: Array(pool.shuffled().prefix(Self.questionsPerPractice)))
             }
             .buttonStyle(ChunkyButtonStyle())
             .disabled(pool.isEmpty)
 
-            Text(pool.count == 1 ? "1 question disponible" : "\(pool.count) questions disponibles")
+            Text(pool.count == 1 ? "1 question available" : "\(pool.count) questions available")
                 .font(.footnote)
                 .foregroundStyle(.secondary)
         }
@@ -70,10 +70,10 @@ struct SkillPracticeView: View {
 
     private var testsSection: some View {
         VStack(alignment: .leading, spacing: 14) {
-            SectionTitle(title: "Tests complets", subtitle: "Comme le jour de l'examen : chronométré, résultats à la fin.")
+            SectionTitle(title: "Full tests", subtitle: "Like exam day: timed, results at the end.")
 
             if tests.isEmpty {
-                Text("Aucun test pour l'instant.")
+                Text("No tests yet.")
                     .foregroundStyle(.secondary)
             }
             ForEach(tests) { test in
