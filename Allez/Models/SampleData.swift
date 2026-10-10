@@ -1,0 +1,108 @@
+import Foundation
+
+/// Made-up practice content so the app can be tested. Will be replaced by JSON files in build step 2.
+enum SampleData {
+    static let units: [LessonUnit] = [
+        LessonUnit(id: "a2-1", title: "Premiers pas", level: .a2, icon: "star.fill", questions: firstLesson),
+        LessonUnit(id: "a2-2", title: "Au quotidien", level: .a2, icon: "cart.fill", questions: []),
+        LessonUnit(id: "a2-3", title: "En ville", level: .a2, icon: "building.2.fill", questions: []),
+        LessonUnit(id: "b1-1", title: "Au travail", level: .b1, icon: "briefcase.fill", questions: []),
+        LessonUnit(id: "b1-2", title: "Les médias", level: .b1, icon: "newspaper.fill", questions: []),
+        LessonUnit(id: "b1-3", title: "Donner son avis", level: .b1, icon: "bubble.left.and.bubble.right.fill", questions: []),
+        LessonUnit(id: "b2-1", title: "Société", level: .b2, icon: "person.3.fill", questions: []),
+        LessonUnit(id: "b2-2", title: "Débats", level: .b2, icon: "scalemass.fill", questions: []),
+        LessonUnit(id: "b2-3", title: "Environnement", level: .b2, icon: "leaf.fill", questions: []),
+    ]
+
+    static let firstLesson: [Question] = [
+        Question(
+            id: "sample-001", skill: .grammar, level: .a2,
+            question: "Hier, nous ___ au cinéma.",
+            options: ["allons", "sommes allés", "irons", "allions"],
+            correctIndex: 1,
+            explanation: "\"Hier\" (yesterday) signals a finished action in the past, so we use the passé composé. \"Aller\" takes \"être\": nous sommes allés."
+        ),
+        Question(
+            id: "sample-002", skill: .grammar, level: .a2,
+            question: "Je ne bois ___ café le soir.",
+            options: ["pas de", "pas du", "pas le", "pas des"],
+            correctIndex: 0,
+            explanation: "After a negation, \"du / de la / des\" becomes \"de\" (or \"d'\")."
+        ),
+        Question(
+            id: "sample-003", skill: .reading, level: .a2,
+            passage: "Salut Léa ! Je ne peux pas venir au restaurant ce soir, je suis malade. On se voit samedi au marché ? Bises, Marc",
+            passageTranslation: "Hi Léa! I can't come to the restaurant tonight, I'm sick. See you Saturday at the market? Love, Marc",
+            question: "Pourquoi Marc ne vient-il pas au restaurant ?",
+            options: ["Il travaille tard.", "Il est malade.", "Il va au marché.", "Il n'aime pas ce restaurant."],
+            correctIndex: 1,
+            explanation: "\"Je suis malade\" means \"I am sick\". The market is for Saturday, not tonight.",
+            vocabulary: [VocabItem(french: "malade", english: "sick")]
+        ),
+        Question(
+            id: "sample-004", skill: .grammar, level: .a2,
+            question: "Pour acheter du pain, je vais à la ___.",
+            options: ["boucherie", "boulangerie", "librairie", "pharmacie"],
+            correctIndex: 1,
+            explanation: "Bread is sold at the \"boulangerie\" (bakery). A \"librairie\" is a bookshop, not a library!"
+        ),
+        Question(
+            id: "sample-005", skill: .grammar, level: .b1,
+            question: "Il faut que tu ___ tes devoirs avant ce soir.",
+            options: ["fais", "fasses", "feras", "faisais"],
+            correctIndex: 1,
+            explanation: "\"Il faut que\" is always followed by the subjunctive. The subjunctive of \"faire\" is \"que tu fasses\"."
+        ),
+        Question(
+            id: "sample-006", skill: .reading, level: .b1,
+            passage: "Médiathèque municipale — À partir du 1er novembre, la médiathèque sera ouverte le dimanche de 10 h à 13 h. En revanche, elle sera fermée le lundi toute la journée. L'inscription reste gratuite pour les moins de 18 ans.",
+            passageTranslation: "Municipal media library — From 1 November, the library will be open on Sundays from 10 am to 1 pm. On the other hand, it will be closed all day on Mondays. Registration remains free for under-18s.",
+            question: "Quel changement est annoncé ?",
+            options: [
+                "La médiathèque ferme le dimanche.",
+                "La médiathèque ouvre le dimanche matin.",
+                "L'inscription devient payante.",
+                "La médiathèque ouvre le lundi.",
+            ],
+            correctIndex: 1,
+            explanation: "\"Sera ouverte le dimanche de 10 h à 13 h\" = open on Sunday mornings. \"En revanche\" (on the other hand) introduces the Monday closure.",
+            vocabulary: [VocabItem(french: "en revanche", english: "on the other hand")]
+        ),
+        Question(
+            id: "sample-007", skill: .grammar, level: .b1,
+            question: "Si j'avais plus de temps, j'___ le piano.",
+            options: ["apprendrai", "apprendrais", "apprenais", "ai appris"],
+            correctIndex: 1,
+            explanation: "\"Si\" + imparfait (j'avais) is followed by the conditionnel présent: j'apprendrais."
+        ),
+        Question(
+            id: "sample-008", skill: .grammar, level: .b1,
+            question: "C'est la ville ___ je suis né.",
+            options: ["que", "qui", "où", "dont"],
+            correctIndex: 2,
+            explanation: "\"Où\" is used for a place: la ville où je suis né = the town where I was born."
+        ),
+        Question(
+            id: "sample-009", skill: .reading, level: .b1,
+            passage: "Bonjour à tous,\nEn raison des travaux dans le bâtiment B, la réunion de jeudi aura lieu en salle 12 du bâtiment A. Merci d'apporter vos ordinateurs portables, car le projecteur ne sera pas disponible.\nCordialement,\nSophie",
+            passageTranslation: "Hello everyone,\nBecause of the building work in building B, Thursday's meeting will take place in room 12 of building A. Please bring your laptops, as the projector will not be available.\nKind regards,\nSophie",
+            question: "Que doivent faire les employés ?",
+            options: [
+                "Annuler la réunion.",
+                "Aller dans le bâtiment B.",
+                "Apporter leur ordinateur.",
+                "Réparer le projecteur.",
+            ],
+            correctIndex: 2,
+            explanation: "\"Merci d'apporter vos ordinateurs portables\" = please bring your laptops. The meeting moves to building A, it is not cancelled.",
+            vocabulary: [VocabItem(french: "en raison de", english: "because of"), VocabItem(french: "avoir lieu", english: "to take place")]
+        ),
+        Question(
+            id: "sample-010", skill: .grammar, level: .b1,
+            question: "Je me souviens ___ notre premier voyage en Italie.",
+            options: ["de", "à", "en", "par"],
+            correctIndex: 0,
+            explanation: "The verb is \"se souvenir de\" (to remember something)."
+        ),
+    ]
+}
