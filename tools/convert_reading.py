@@ -48,7 +48,40 @@ def tidy(text):
     """Final clean-up on joined text: printing glitches like "cadeau.u.u.u." and stray spaces before full stops."""
     text = re.sub(r"(\w)(?:\s?\.\s?\1){3,}\s?\.?", r"\1.", text)
     text = re.sub(r"(\w)\.\.(?=\s|$|\")", r"\1.", text)
-    return text
+    return unglue(text)
+
+
+# Words that were already stuck together on the source website (no space in the PDF at all).
+# Found with the macOS French spell checker and checked by hand; names, brands and web addresses are left alone.
+GLUED = {
+    "Bretagnedans": "Bretagne dans", "auteurstireront": "auteurs tireront", "avecautant": "avec autant",
+    "beautésont": "beauté sont", "bonmoment": "bon moment", "cetexamen": "cet examen",
+    "cheffrançais": "chef français", "culturedu": "culture du", "deconfusions": "de confusions",
+    "deconférences": "de conférences", "delivres": "de livres", "denoirceur": "de noirceur",
+    "derecherche": "de recherche", "deréussir": "de réussir", "dessons": "des sons",
+    "dispositiondes": "disposition des", "dumonde": "du monde", "désirde": "désir de",
+    "enmilieu": "en milieu", "enprison": "en prison", "enraison": "en raison",
+    "estécoulée": "est écoulée", "etnécessite": "et nécessite", "ettendres": "et tendres",
+    "expliqueraitle": "expliquerait le", "exposésera": "exposé sera", "exposésur": "exposé sur",
+    "faitillusoire": "fait illusoire", "ilstoucheront": "ils toucheront", "ilsécrit": "ils écrit",
+    "indisciplinéde": "indiscipliné de", "internetagit": "internet agit", "interprètepas": "interprète pas",
+    "laporte": "la porte", "lapublicité": "la publicité", "lasensibilité": "la sensibilité",
+    "latoile": "la toile", "lemonstrueux": "le monstrueux", "lesprisons": "les prisons",
+    "livresuniversitaire": "livres universitaire", "lumineuxéphémères": "lumineux éphémères",
+    "maisla": "mais la", "momentsde": "moments de", "notrerelation": "notre relation", "oùmon": "où mon",
+    "paset": "pas et", "peusavoureuse": "peu savoureuse", "peutêtre": "peut être",
+    "pluscordiales": "plus cordiales", "publiédans": "publié dans", "publiéle": "publié le",
+    "pèrede": "père de", "questionpar": "question par", "quedemande": "que demande",
+    "remisdans": "remis dans", "sadisponibilité": "sa disponibilité", "scienceshumaines": "sciences humaines",
+    "sontemps": "son temps", "spécialiséedans": "spécialisée dans", "sujetde": "sujet de",
+    "unejeune": "une jeune", "universitéde": "université de", "universitépartenaire": "université partenaire",
+    "vosdéplacements": "vos déplacements",
+}
+GLUED_RE = re.compile(r"(?<![\w@.])(" + "|".join(map(re.escape, GLUED)) + r")(?![\w@])")
+
+
+def unglue(text):
+    return GLUED_RE.sub(lambda m: GLUED[m.group(1)], text)
 
 
 def tidy_fields(question):

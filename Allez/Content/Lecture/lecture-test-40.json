@@ -261,7 +261,7 @@
       "skill": "reading",
       "level": "B1",
       "passage": "NOUVEAU MESSAGE\nDE: Ressources humaines\nA: Tout le personnel\nMessage :\nChers collègues,\nVeuillez rendre au plus tard vendredi midi votre feuille deu demande de congés.\nNous vous rappelons qu'il est essentiel pour le bon fonctionnement de notre société pendant la période estivale et pour satisfaire toutes vos demandes que ces feuilles soient dûment complétées et remises le plus tôt possible à votre responsable.\nNous vous remercions de votre collaboration et nous vous souhaitons une bonne semaine.\nLa direction des ressources humaines.",
-      "question": "Dans ce message électronique, quedemande-t-on aux employés ?",
+      "question": "Dans ce message électronique, que demande-t-on aux employés ?",
       "questionTranslation": "In this email message, what is asked of the employees?",
       "options": [
         "De participer à la vie de l’entreprise.",
@@ -681,7 +681,7 @@
       "skill": "reading",
       "level": "C1",
       "passage": "Une étude récente alerte sur les risques que la révolution digitale fait peser sur les emplois: quatre postes sur dix risqueraient d'être robotisés d'ici vingt ans.\nTrois millions d'emplois pourraient être détruits. Qu'en est-il en réalité ?\nÀ n'en pas douter, la révolution numérique a déjà conduit à la suppression de nombreux emplois.\nMais elle en a créé de nouveaux aussi.\nLe paysage de l'emploi sera certainement impacté par une nouvelle génération de machines.\nCependant, la vérité est que personne ne peut anticiper l'avenir technologique à l'horizon de dix ou vingt ans et encore moins mesurer ses conséquences sur l'emploi.",
-      "question": "Quelle est la position de l'auteur au sujetde cette étude ?",
+      "question": "Quelle est la position de l'auteur au sujet de cette étude ?",
       "questionTranslation": "What is the author's position regarding this study?",
       "options": [
         "Il critique la méthodologie utilisée.",

@@ -295,7 +295,7 @@
       "skill": "reading",
       "level": "B1",
       "passage": "NOUVEAU MESSAGE\nDE: Ressources humaines\nA: Tout le personnel\nMessage :\nChers collègues,\nVeuillez rendre au plus tard vendredi midi votre feuille deu demande de congés.\nNous vous rappelons qu'il est essentiel pour le bon fonctionnement de notre société pendant la période estivale et pour satisfaire toutes vos demandes que ces feuilles soient dûment complétées et remises le plus tôt possible à votre responsable.\nNous vous remercions de votre collaboration et nous vous souhaitons une bonne semaine.\nLa direction des ressources humaines.",
-      "question": "Dans ce message électronique, quedemande-t-on aux employés ?",
+      "question": "Dans ce message électronique, que demande-t-on aux employés ?",
       "questionTranslation": "In this email message, what is asked of the employees?",
       "options": [
         "De participer à la vie de l’entreprise.",

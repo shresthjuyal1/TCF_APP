@@ -29,7 +29,7 @@
       "id": "t06-q02",
       "skill": "reading",
       "level": "A1",
-      "passage": "Du 10 avril au 15 septembre, les ascenseurs de votre station de métro sont en réparation. Pour faciliter vosdéplacements, les installations changent. Pendant les travaux, prenez l'escalier à droite des guichets",
+      "passage": "Du 10 avril au 15 septembre, les ascenseurs de votre station de métro sont en réparation. Pour faciliter vos déplacements, les installations changent. Pendant les travaux, prenez l'escalier à droite des guichets",
       "question": "Qu'est-ce qui est fermé du 10 avril au 15septembre?",
       "questionTranslation": "What is closed from April 10 to September 15?",
       "options": [
@@ -93,7 +93,7 @@
       "skill": "reading",
       "level": "A2",
       "passage": "Examen de biologie Juin à 15h30 en salle4545",
-      "question": "Quelle information manque au sujet de cetexamen?",
+      "question": "Quelle information manque au sujet de cet examen?",
       "questionTranslation": "What information is missing regarding this exam?",
       "options": [
         "La date",
@@ -134,7 +134,7 @@
       "id": "t06-q07",
       "skill": "reading",
       "level": "A2",
-      "passage": "Anne gérante de Somya, nouvelle boutique spécialiséedans la décoration, vous attend pour vous proposer de nombreux produits et livres spécialisées.",
+      "passage": "Anne gérante de Somya, nouvelle boutique spécialisée dans la décoration, vous attend pour vous proposer de nombreux produits et livres spécialisées.",
       "question": "De quoi parle l'annonce?",
       "questionTranslation": "What is the announcement about?",
       "options": [
@@ -176,7 +176,7 @@
       "id": "t06-q09",
       "skill": "reading",
       "level": "A2",
-      "passage": "Cher confrère,\nCi-joint notre catalogue de boissons pour cette année.\nEn espérant que vous pourrez satisfaire votre clientèle, nous vous remercions pour vos futurs achats.\nAvec nos salutations les pluscordiales.\nEntreprise Labayle et Chandon.",
+      "passage": "Cher confrère,\nCi-joint notre catalogue de boissons pour cette année.\nEn espérant que vous pourrez satisfaire votre clientèle, nous vous remercions pour vos futurs achats.\nAvec nos salutations les plus cordiales.\nEntreprise Labayle et Chandon.",
       "question": "Quel est l'objet de ce courrier ?",
       "questionTranslation": "What is the purpose of this letter?",
       "options": [
@@ -218,8 +218,8 @@
       "id": "t06-q11",
       "skill": "reading",
       "level": "B1",
-      "passage": "Nous célébrons nos 40 ans ce soir : Nous essaierons de ne pas mettre la musique trop fort, si non n'hésitez paset venez nous voir !\nLes invités partiront vers 2h au matin.\nMerci.\nAnne et Patrick",
-      "question": "Pour quelle raison Anne et Patrick ont-ilsécrit ce message ?",
+      "passage": "Nous célébrons nos 40 ans ce soir : Nous essaierons de ne pas mettre la musique trop fort, si non n'hésitez pas et venez nous voir !\nLes invités partiront vers 2h au matin.\nMerci.\nAnne et Patrick",
+      "question": "Pour quelle raison Anne et Patrick ont-ils écrit ce message ?",
       "questionTranslation": "For what reason did Anne and Patrick write this message?",
       "options": [
         "Pour inviter des amis à leur anniversaire",
@@ -281,7 +281,7 @@
       "id": "t06-q14",
       "skill": "reading",
       "level": "B1",
-      "passage": "Fils et petit-fils de vendeurs de fruits et légumes, Anthony Palou raconte les moments drôles ettendres de son enfance à Quimper, en Bretagnedans les années 1970.\nRetour sur les riches heures du petit commerce et sur sa destruction par les supermarchés poursuivi par les banquiers, le pèrede l'auteur devra fermer.\nLe deuxième roman de l'auteur de Camille confirme un réel talent.",
+      "passage": "Fils et petit-fils de vendeurs de fruits et légumes, Anthony Palou raconte les moments drôles et tendres de son enfance à Quimper, en Bretagne dans les années 1970.\nRetour sur les riches heures du petit commerce et sur sa destruction par les supermarchés poursuivi par les banquiers, le père de l'auteur devra fermer.\nLe deuxième roman de l'auteur de Camille confirme un réel talent.",
       "question": "Quel est l'objectif de cet article ?",
       "questionTranslation": "What is the objective of this article?",
       "options": [
@@ -302,7 +302,7 @@
       "id": "t06-q15",
       "skill": "reading",
       "level": "B1",
-      "passage": "On fait des affaires ?\nC'est le titre de l'émission que notre radio vous propose d'écouter pour découvrir la vie d'une entreprise française.\nApprenez à parler la langue des affaires et à comprendre les comportements et la culturedu travail en France.",
+      "passage": "On fait des affaires ?\nC'est le titre de l'émission que notre radio vous propose d'écouter pour découvrir la vie d'une entreprise française.\nApprenez à parler la langue des affaires et à comprendre les comportements et la culture du travail en France.",
       "question": "Que propose cette émission ?",
       "questionTranslation": "What does this show propose?",
       "options": [
@@ -386,7 +386,7 @@
       "id": "t06-q19",
       "skill": "reading",
       "level": "B1",
-      "passage": "Les repas servis dans les avions de ligne ont toujours été tristement réputés pour leur fadeur.\nMais il semblerait que les chefs n'y soient pour rien.\nD'après une étude, les nuisance sonores importantes peuvent en effet réduire lasensibilité des palais, rendant la nourriture peusavoureuse.\nLe vrombissement des réacteurs expliqueraitle peu d'enthousiasme des passagers pour les plateaux servis à bord.\nLes chercheurs ont aussi découvert que dessons agréables pouvaient faire mieux apprécier les mets.",
+      "passage": "Les repas servis dans les avions de ligne ont toujours été tristement réputés pour leur fadeur.\nMais il semblerait que les chefs n'y soient pour rien.\nD'après une étude, les nuisance sonores importantes peuvent en effet réduire la sensibilité des palais, rendant la nourriture peu savoureuse.\nLe vrombissement des réacteurs expliquerait le peu d'enthousiasme des passagers pour les plateaux servis à bord.\nLes chercheurs ont aussi découvert que des sons agréables pouvaient faire mieux apprécier les mets.",
       "question": "Quelle est la conclusion de cette étude ?",
       "questionTranslation": "What is the conclusion of this study?",
       "options": [
@@ -512,7 +512,7 @@
       "id": "t06-q25",
       "skill": "reading",
       "level": "B2",
-      "passage": "Le temps des cerises\nPièce de théâtre de Niels Arestrup\nUn vieil homme, dérangé dans sa vieille maison par unejeune femme : dispute, goût de la vie retrouvé, momentsde tendresse. La comédienne Cécile de France joue avecautant de talent qu'au cinéma. Le comédien Eddy Mitchell, dans le rôle du vieux peintre, manque denoirceur. Dommage que le metteur en scène n'interprètepas lui-même le personnage principal. On passe un bonmoment mais pas un grand moment.",
+      "passage": "Le temps des cerises\nPièce de théâtre de Niels Arestrup\nUn vieil homme, dérangé dans sa vieille maison par une jeune femme : dispute, goût de la vie retrouvé, moments de tendresse. La comédienne Cécile de France joue avec autant de talent qu'au cinéma. Le comédien Eddy Mitchell, dans le rôle du vieux peintre, manque de noirceur. Dommage que le metteur en scène n'interprète pas lui-même le personnage principal. On passe un bon moment mais pas un grand moment.",
       "question": "Sur quel aspect de la pièce porte la critique ?",
       "questionTranslation": "On which aspect of the play does the critique focus?",
       "options": [
@@ -533,8 +533,8 @@
       "id": "t06-q26",
       "skill": "reading",
       "level": "B2",
-      "passage": "Les auteurs européens ont persuadé la maison d'édition Livresque d'aller plus loin que la simple numérisation des livresuniversitaire : au lieu de ne scanner des livres qu'à des fins derecherche, les écrivains ont demandé à ce qu'ils soient remisdans le circuit commercial. Grâce à cet accord, ces millions delivres épuisés vont reprendre vie. Les bénéfices générés par lapublicité et les droits de licence iront en partie à Livresque. maisla grande majorité de l'argent gagné par cette mise à dispositiondes ouvrages sera directement remise aux auteurs",
-      "question": "puisqu'ilstoucheront leurs droits. D'après le texte, quel avantage les auteurstireront-ils de la numération des livres ?",
+      "passage": "Les auteurs européens ont persuadé la maison d'édition Livresque d'aller plus loin que la simple numérisation des livres universitaire : au lieu de ne scanner des livres qu'à des fins de recherche, les écrivains ont demandé à ce qu'ils soient remis dans le circuit commercial. Grâce à cet accord, ces millions de livres épuisés vont reprendre vie. Les bénéfices générés par la publicité et les droits de licence iront en partie à Livresque. mais la grande majorité de l'argent gagné par cette mise à disposition des ouvrages sera directement remise aux auteurs",
+      "question": "puisqu'ils toucheront leurs droits. D'après le texte, quel avantage les auteurs tireront-ils de la numération des livres ?",
       "questionTranslation": "According to the text, what benefit will the authors derive from the digitization of the books?",
       "options": [
         "Elle augmentera le nombre de lecteurs",
@@ -554,8 +554,8 @@
       "id": "t06-q27",
       "skill": "reading",
       "level": "B2",
-      "passage": "Depuis plusieurs années, Thierry Marx, un grand cheffrançais, intervient pour donner des cours de cuisine enprison. Faire découvrir à ce public, contraint de vivre enmilieu fermé, qu'une profession, quelle qu'elle soit, peutêtre épanouissante, est une tâche qui le passionne etnécessite très naturellement une grande énergie. Le désirde rallumer cette lueur d'espoir, de montrer « qu'après »,il peut y avoir une réinsertion réussie et que chacun laporte en lui, c'est un moteur pour relever ce défi.",
-      "question": "Pourquoi Thierry Marx intervient-il dans lesprisons?",
+      "passage": "Depuis plusieurs années, Thierry Marx, un grand chef français, intervient pour donner des cours de cuisine en prison. Faire découvrir à ce public, contraint de vivre en milieu fermé, qu'une profession, quelle qu'elle soit, peut être épanouissante, est une tâche qui le passionne et nécessite très naturellement une grande énergie. Le désir de rallumer cette lueur d'espoir, de montrer « qu'après »,il peut y avoir une réinsertion réussie et que chacun la porte en lui, c'est un moteur pour relever ce défi.",
+      "question": "Pourquoi Thierry Marx intervient-il dans les prisons?",
       "questionTranslation": "Why does Thierry Marx intervene in prisons?",
       "options": [
         "Pour améliorer les méthodes de travail de la cantine",
@@ -575,8 +575,8 @@
       "id": "t06-q28",
       "skill": "reading",
       "level": "B2",
-      "passage": "En rendant accessible à tout moment une multituded'informations, internet modifie profondément notrerelation à la connaissance. ll serait pourtant tout à faitillusoire d'imaginer que ce qui est accessible sur la toilen'a pas besoin d'être appris pour la simple raison de sadisponibilité permanente, car posséder tous les livres dumonde, comme pouvoir accéder à tous les sites du monde,ne se substitue pas à la connaissance. Avoir accès par latoile aux mêmes informations ne compense absolument pasI'absence d'apprentissage.",
-      "question": "D'après l'article, de quelle manière internetagit-il sur nous ?",
+      "passage": "En rendant accessible à tout moment une multituded'informations, internet modifie profondément notre relation à la connaissance. ll serait pourtant tout à fait illusoire d'imaginer que ce qui est accessible sur la toilen'a pas besoin d'être appris pour la simple raison de sa disponibilité permanente, car posséder tous les livres du monde, comme pouvoir accéder à tous les sites du monde,ne se substitue pas à la connaissance. Avoir accès par la toile aux mêmes informations ne compense absolument pasI'absence d'apprentissage.",
+      "question": "D'après l'article, de quelle manière internet agit-il sur nous ?",
       "questionTranslation": "According to the article, in what way does the internet act upon us?",
       "options": [
         "Il change notre regard sur les livres",
@@ -596,7 +596,7 @@
       "id": "t06-q29",
       "skill": "reading",
       "level": "B2",
-      "passage": "Aux débuts d'internet, je me souviens d'avoir lu, éberluée, dans un magazine féminin « Mon mari était absent, il passait tout sontemps sur le chat » et j'en étais à tenter de visualiser ce triste état de fait lorsque je compris ma méprise :\navoir confondu le chat, le félidé, avec le chat, la discussion sur internet. Depuis ce jour,aucun progrès sur cette équivoque terrible de la langue, alors que l'usage informatique du mot souris démultiplie les sources deconfusions. Le bon sens voudrait que la phonétique l'emporte et que l'on écrive « tchat ». Au lieu de cette solution évidente, le Petit Larousse laissé entrer en 2003 dans le dictionnaire lemonstrueux mot-valise « clavardage ».",
+      "passage": "Aux débuts d'internet, je me souviens d'avoir lu, éberluée, dans un magazine féminin « Mon mari était absent, il passait tout son temps sur le chat » et j'en étais à tenter de visualiser ce triste état de fait lorsque je compris ma méprise :\navoir confondu le chat, le félidé, avec le chat, la discussion sur internet. Depuis ce jour,aucun progrès sur cette équivoque terrible de la langue, alors que l'usage informatique du mot souris démultiplie les sources de confusions. Le bon sens voudrait que la phonétique l'emporte et que l'on écrive « tchat ». Au lieu de cette solution évidente, le Petit Larousse laissé entrer en 2003 dans le dictionnaire le monstrueux mot-valise « clavardage ».",
       "question": "Qu'est-ce qui dérange l'auteur de ce texte ?",
       "questionTranslation": "What bothers the author of this text?",
       "options": [
@@ -660,7 +660,7 @@
       "id": "t06-q32",
       "skill": "reading",
       "level": "C1",
-      "passage": "La première difficulté, qu'il avait en réalité sous-estimée, fut deréussir à atteindre l'extrémité du trottoir, c'est-à-dire de franchir la masse mouvante et compacte des hommes et des femmes qui marchaient devant lui, frange large de deux ou trois mètres mais dont la texture était dense, mobile, paisiblement hostile. ll eut beau dans un premier temps prononcer à haute voix de nombreuses paroles d'excuse, expliquant avec des gestes modestes qu'il voulait passer, se montrer on ne peut plus poli et plus encore, personne ne s'arrêta, ni ne se poussa afin de lui permettre de se faufiler entre les corps. Les hommes et les femmes qui marchaient ne le regardaient pas et beaucoup avaient sur les oreilles des écouteurs.",
+      "passage": "La première difficulté, qu'il avait en réalité sous-estimée, fut de réussir à atteindre l'extrémité du trottoir, c'est-à-dire de franchir la masse mouvante et compacte des hommes et des femmes qui marchaient devant lui, frange large de deux ou trois mètres mais dont la texture était dense, mobile, paisiblement hostile. ll eut beau dans un premier temps prononcer à haute voix de nombreuses paroles d'excuse, expliquant avec des gestes modestes qu'il voulait passer, se montrer on ne peut plus poli et plus encore, personne ne s'arrêta, ni ne se poussa afin de lui permettre de se faufiler entre les corps. Les hommes et les femmes qui marchaient ne le regardaient pas et beaucoup avaient sur les oreilles des écouteurs.",
       "question": "Dans quelle situation se trouve le personnage principal?",
       "questionTranslation": "What situation is the main character in?",
       "options": [
