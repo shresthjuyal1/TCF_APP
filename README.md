@@ -107,5 +107,3 @@ tcf-app-spec-v2.md          Original product spec and roadmap
 - [ ] "Why this answer is correct" explanations for the reading questions
 
 ---
-
-*A personal learning project. Built with the help of [Claude Code](https://claude.com/claude-code).*
